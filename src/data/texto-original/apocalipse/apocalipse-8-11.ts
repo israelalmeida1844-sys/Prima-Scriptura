@@ -29,7 +29,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -54,12 +54,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «τὸ ὄνομα τοῦ ἀστέρος» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ ὄνομα τοῦ ἀστέρος» — sujeito da oração",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -79,7 +79,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo · nominativo · singular · neutro (MorphGNT: N- ----NSN-)",
       "meanings": "nome",
-      "explanation": "Glosa neste contexto: nome.",
+      "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -104,12 +104,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: da.",
+      "explanation": "Determinante do sintagma «τοῦ ἀστέρος» — integrado ao constituinte com função de sujeito «τὸ ὄνομα τοῦ ἀστέρος». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ ἀστέρος» — integrado ao constituinte com função de sujeito «τὸ ὄνομα τοῦ ἀστέρος»",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -129,7 +129,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "estrelas",
-      "explanation": "Glosa neste contexto: estrela.",
+      "explanation": "Genitivo de especificação. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -154,7 +154,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "3PPI-S--",
       "morphology": "Verbo · presente · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3PPI-S--)",
       "meanings": "dizer",
-      "explanation": "Glosa neste contexto: é chamado.",
+      "explanation": "Verbo passivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -179,12 +179,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido · nominativo · singular · masculino (MorphGNT: RA ----NSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «ὁ Ἄψινθος.» — predicativo da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ Ἄψινθος.» — predicativo da oração",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -229,7 +229,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -254,7 +254,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "3AMI-S--",
       "morphology": "Verbo · aoristo · voz média · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AMI-S--)",
       "meanings": "Vir a ser, acontecer, cumprir-se na história",
-      "explanation": "Glosa neste contexto: tornou-se.",
+      "explanation": "Verbo de transformação. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -279,12 +279,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «τὸ τρίτον τῶν ὑδάτων» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ τρίτον τῶν ὑδάτων» — sujeito da oração",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -304,7 +304,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
       "meanings": "terceiro",
-      "explanation": "Glosa neste contexto: terço.",
+      "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -329,12 +329,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: das.",
+      "explanation": "Determinante do sintagma «τῶν ὑδάτων» — integrado ao constituinte com função de sujeito «τὸ τρίτον τῶν ὑδάτων». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν ὑδάτων» — integrado ao constituinte com função de sujeito «τὸ τρίτον τῶν ὑδάτων»",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -354,7 +354,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "águas",
-      "explanation": "Glosa neste contexto: águas.",
+      "explanation": "Genitivo partitivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -379,7 +379,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "para",
-      "explanation": "Glosa neste contexto: em.",
+      "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -429,7 +429,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -454,7 +454,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo / numeral · nominativo · plural · masculino (MorphGNT: A- ----NPM-)",
       "meanings": "muitas",
-      "explanation": "Glosa neste contexto: muitos.",
+      "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -479,12 +479,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido · genitivo · plural · masculino (MorphGNT: RA ----GPM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: dos.",
+      "explanation": "Determinante do sintagma «τῶν ἀνθρώπων» — integrado ao constituinte com função de sujeito «πολλοὶ τῶν ἀνθρώπων». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν ἀνθρώπων» — integrado ao constituinte com função de sujeito «πολλοὶ τῶν ἀνθρώπων»",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -504,7 +504,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo · genitivo · plural · masculino (MorphGNT: N- ----GPM-)",
       "meanings": "homem",
-      "explanation": "Glosa neste contexto: homens.",
+      "explanation": "Genitivo partitivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -529,7 +529,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "3AAI-P--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3AAI-P--)",
       "meanings": "morrer",
-      "explanation": "Glosa neste contexto: morreram.",
+      "explanation": "Verbo principal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -554,7 +554,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "de",
-      "explanation": "Glosa neste contexto: por causa de.",
+      "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -579,12 +579,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: as (genitivo).",
+      "explanation": "Determinante do sintagma «τῶν ὑδάτων,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῶν ὑδάτων,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν ὑδάτων,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῶν ὑδάτων,»",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -604,7 +604,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "águas",
-      "explanation": "Glosa neste contexto: águas.",
+      "explanation": "Causa. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -629,7 +629,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "que",
-      "explanation": "Glosa neste contexto: porque.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -654,7 +654,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "3API-P--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · plural (MorphGNT: V- 3API-P--)",
       "meanings": "tornar amargo",
-      "explanation": "Glosa neste contexto: tornaram-se amargas.",
+      "explanation": "Verbo causal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],

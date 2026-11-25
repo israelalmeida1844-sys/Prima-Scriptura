@@ -30,12 +30,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «Καὶ εἶδον, καὶ ἤκουσα φωνὴν ἀγγέλων πολλῶν κύκλῳ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «Καὶ εἶδον, καὶ ἤκουσα φωνὴν ἀγγέλων πολλῶν κύκλῳ …»",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -54,12 +54,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "MorphGNT 6.12: V- 1AAI-S--",
       "meanings": "Experimentar percepção visual, observar algo ou reconhecer por meio da visão, em contextos comuns ou narrativos.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -79,12 +79,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ ἤκουσα φωνὴν ἀγγέλων πολλῶν κύκλῳ τοῦ θρόνου …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ ἤκουσα φωνὴν ἀγγέλων πολλῶν κύκλῳ τοῦ θρόνου …»",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -103,12 +103,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "MorphGNT 6.12: V- 1AAI-S--",
       "meanings": "ouvir; escutar",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -127,12 +127,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: N- ----ASF-",
       "meanings": "voz; som",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «φωνὴν ἀγγέλων πολλῶν» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «φωνὴν ἀγγέλων πολλῶν» — objeto direto da oração",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -151,12 +151,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "----GPM-",
       "morphology": "MorphGNT 6.12: N- ----GPM-",
       "meanings": "Ser espiritual e celestial criado por Deus para servir como mensageiro e ministro de seus desígnios.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «ἀγγέλων πολλῶν» — integrado ao constituinte com função de objeto direto «φωνὴν ἀγγέλων πολλῶν». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «ἀγγέλων πολλῶν» — integrado ao constituinte com função de objeto direto «φωνὴν ἀγγέλων πολλῶν»",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -175,12 +175,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "----GPM-",
       "morphology": "MorphGNT 6.12: A- ----GPM-",
       "meanings": "muito; numeroso",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Adjetivo no constituinte «ἀγγέλων πολλῶν» — integrado ao constituinte com função de objeto direto «φωνὴν ἀγγέλων πολλῶν». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Adjetivo no constituinte «ἀγγέλων πολλῶν» — integrado ao constituinte com função de objeto direto «φωνὴν ἀγγέλων πολλῶν»",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -199,12 +199,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
       "meanings": "Ao redor ou em círculo; uso adverbial em 4:6, com Strong G2945 verificado externamente.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Preposição que introduz «κύκλῳ τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν …» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «κύκλῳ τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν …» — adjunto adverbial da oração",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -223,12 +223,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "----GSM-",
       "morphology": "MorphGNT 6.12: RA ----GSM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τοῦ θρόνου» — integrado ao constituinte com função de adjunto adverbial «κύκλῳ τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τοῦ θρόνου» — integrado ao constituinte com função de adjunto adverbial «κύκλῳ τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν …»",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -247,12 +247,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "----GSM-",
       "morphology": "MorphGNT 6.12: N- ----GSM-",
       "meanings": "trono",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «τοῦ θρόνου» — integrado ao constituinte com função de adjunto adverbial «κύκλῳ τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «τοῦ θρόνου» — integrado ao constituinte com função de adjunto adverbial «κύκλῳ τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν …»",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -271,12 +271,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ τῶν ζῴων» — integrado ao constituinte com função de adjunto adverbial «κύκλῳ τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ τῶν ζῴων» — integrado ao constituinte com função de adjunto adverbial «κύκλῳ τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν …»",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -295,12 +295,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "----GPN-",
       "morphology": "MorphGNT 6.12: RA ----GPN-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τῶν ζῴων» — integrado ao constituinte com função de adjunto adverbial «… τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν πρεσβυτέρων,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τῶν ζῴων» — integrado ao constituinte com função de adjunto adverbial «… τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν πρεσβυτέρων,»",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -319,12 +319,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "----GPN-",
       "morphology": "MorphGNT 6.12: N- ----GPN-",
       "meanings": "Ser vivente; designa as quatro criaturas próximas ao trono em 4:6–9.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «τῶν ζῴων» — integrado ao constituinte com função de adjunto adverbial «… τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν πρεσβυτέρων,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «τῶν ζῴων» — integrado ao constituinte com função de adjunto adverbial «… τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν πρεσβυτέρων,»",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -343,12 +343,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ τῶν πρεσβυτέρων,» — integrado ao constituinte com função de adjunto adverbial «… τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν πρεσβυτέρων,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ τῶν πρεσβυτέρων,» — integrado ao constituinte com função de adjunto adverbial «… τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν πρεσβυτέρων,»",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -367,12 +367,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "----GPM-",
       "morphology": "MorphGNT 6.12: RA ----GPM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τῶν πρεσβυτέρων,» — integrado ao constituinte com função de adjunto adverbial «… τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν πρεσβυτέρων,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τῶν πρεσβυτέρων,» — integrado ao constituinte com função de adjunto adverbial «… τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν πρεσβυτέρων,»",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -391,12 +391,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "----GPM-",
       "morphology": "MorphGNT 6.12: A- ----GPM-",
       "meanings": "Pessoa mais velha ou ancião; em 4:4,10 designa membros do grupo celestial de vinte e quatro anciãos.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Adjetivo no constituinte «τῶν πρεσβυτέρων,» — integrado ao constituinte com função de adjunto adverbial «… τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν πρεσβυτέρων,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Adjetivo no constituinte «τῶν πρεσβυτέρων,» — integrado ao constituinte com função de adjunto adverbial «… τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν πρεσβυτέρων,»",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -416,12 +416,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ ἦν ὁ ἀριθμὸς αὐτῶν μυριάδες μυριάδων καὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ ἦν ὁ ἀριθμὸς αὐτῶν μυριάδες μυριάδων καὶ …»",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -440,12 +440,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "3IAI-S--",
       "morphology": "MorphGNT 6.12: V- 3IAI-S--",
       "meanings": "ser; estar; existir",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Verbo de ligação da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Verbo de ligação da oração",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -464,12 +464,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: RA ----NSM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «ὁ ἀριθμὸς αὐτῶν» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «ὁ ἀριθμὸς αὐτῶν» — sujeito da oração",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -484,16 +484,16 @@ export const apocalipse5v11 = {
       "strong": "G706",
       "lemma": "ἀριθμός",
       "lemmaTransliteration": "arithmos",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: N- ----NSM-",
       "meanings": "Expressão quantitativa de um conjunto ou grupo.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «ἀριθμὸς αὐτῶν» — integrado ao constituinte com função de sujeito «ὁ ἀριθμὸς αὐτῶν». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «ἀριθμὸς αὐτῶν» — integrado ao constituinte com função de sujeito «ὁ ἀριθμὸς αὐτῶν»",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -512,12 +512,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "----GPM-",
       "morphology": "MorphGNT 6.12: RP ----GPM-",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Pronome no constituinte «ἀριθμὸς αὐτῶν» — integrado ao constituinte com função de sujeito «ὁ ἀριθμὸς αὐτῶν». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Elemento pronominal, função segundo o caso",
+        "role": "Pronome no constituinte «ἀριθμὸς αὐτῶν» — integrado ao constituinte com função de sujeito «ὁ ἀριθμὸς αὐτῶν»",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -532,16 +532,16 @@ export const apocalipse5v11 = {
       "strong": "G3461",
       "lemma": "μυριάς",
       "lemmaTransliteration": "myrias",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPF-",
       "morphology": "MorphGNT 6.12: N- ----NPF-",
       "meanings": "Unidade de dez mil; no plural, também pode indicar quantidade extremamente elevada.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «μυριάδες μυριάδων» — integrado ao constituinte com função de predicativo «μυριάδες μυριάδων καὶ χιλιάδες χιλιάδων,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «μυριάδες μυριάδων» — integrado ao constituinte com função de predicativo «μυριάδες μυριάδων καὶ χιλιάδες χιλιάδων,»",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -556,16 +556,16 @@ export const apocalipse5v11 = {
       "strong": "G3461",
       "lemma": "μυριάς",
       "lemmaTransliteration": "myrias",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPF-",
       "morphology": "MorphGNT 6.12: N- ----GPF-",
       "meanings": "Unidade de dez mil; no plural, também pode indicar quantidade extremamente elevada.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «μυριάδες μυριάδων» — integrado ao constituinte com função de predicativo «μυριάδες μυριάδων καὶ χιλιάδες χιλιάδων,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «μυριάδες μυριάδων» — integrado ao constituinte com função de predicativo «μυριάδες μυριάδων καὶ χιλιάδες χιλιάδων,»",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -584,12 +584,12 @@ export const apocalipse5v11 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ χιλιάδες χιλιάδων,» — integrado ao constituinte com função de predicativo «μυριάδες μυριάδων καὶ χιλιάδες χιλιάδων,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ χιλιάδες χιλιάδων,» — integrado ao constituinte com função de predicativo «μυριάδες μυριάδων καὶ χιλιάδες χιλιάδων,»",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -604,16 +604,16 @@ export const apocalipse5v11 = {
       "strong": "G5505",
       "lemma": "χιλιάς",
       "lemmaTransliteration": "chilias",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPF-",
       "morphology": "MorphGNT 6.12: N- ----NPF-",
       "meanings": "Conjunto de mil unidades; em combinações repetidas exprime grandes quantidades.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «χιλιάδες χιλιάδων,» — integrado ao constituinte com função de predicativo «μυριάδες μυριάδων καὶ χιλιάδες χιλιάδων,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «χιλιάδες χιλιάδων,» — integrado ao constituinte com função de predicativo «μυριάδες μυριάδων καὶ χιλιάδες χιλιάδων,»",
         "clauseId": "AP.5.11",
         "governedBy": null
       },
@@ -628,16 +628,16 @@ export const apocalipse5v11 = {
       "strong": "G5505",
       "lemma": "χιλιάς",
       "lemmaTransliteration": "chilias",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPF-",
       "morphology": "MorphGNT 6.12: N- ----GPF-",
       "meanings": "Conjunto de mil unidades; em combinações repetidas exprime grandes quantidades.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «χιλιάδες χιλιάδων,» — integrado ao constituinte com função de predicativo «μυριάδες μυριάδων καὶ χιλιάδες χιλιάδων,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «χιλιάδες χιλιάδων,» — integrado ao constituinte com função de predicativo «μυριάδες μυριάδων καὶ χιλιάδες χιλιάδων,»",
         "clauseId": "AP.5.11",
         "governedBy": null
       },

@@ -6,7 +6,7 @@ export const apocalipse4v8 = {
   "verse": 8,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Os quatro seres viventes, cada um com seis asas, estavam cheios de olhos ao redor e por dentro; não tinham descanso nem de dia nem de noite, dizendo: Santo, santo, santo é o Senhor Deus, o Todo-Poderoso, aquele que era, que é e que vem.",
+  "translation": "Os quatro seres viventes, cada um com seis asas, estavam cheios de olhos ao redor e por dentro; não tinham descanso nem de dia nem de noite, dizendo: \"Santo, santo, santo é o Senhor Deus, o Todo-Poderoso, aquele que era, que é e que vem.\"",
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): καθʼ ἓν WH NA28 RP ] ἕκαστον Treg; αὐτῶν WH Treg NA28 ] – RP; ἔχων WH Treg NA28 ] ἔχον RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «τὰ»; «ἓν αὐτῶν ἔχων» → «ἑαυτὸ εἶχον»; «γέμουσιν» → «γέμοντα»; «λέγοντες» → «λέγοντα».",
   "exegeticalNotes": [

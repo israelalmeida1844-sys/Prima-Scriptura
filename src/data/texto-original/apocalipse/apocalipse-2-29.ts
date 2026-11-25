@@ -32,7 +32,7 @@ export const apocalipse2v29 = {
         "Ap 2:29"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ ἔχων οὖς» — sujeito da oração",
         "clauseId": "AP.2.29.C1",
         "governedBy": "ap2-29-2"
       },
@@ -80,7 +80,7 @@ export const apocalipse2v29 = {
         "Ap 2:29"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Objeto direto da oração",
         "clauseId": "AP.2.29.C1",
         "governedBy": "ap2-29-2"
       },
@@ -104,7 +104,7 @@ export const apocalipse2v29 = {
         "Ap 2:29"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.29.C1",
         "governedBy": null
       },
@@ -152,7 +152,7 @@ export const apocalipse2v29 = {
         "Ap 2:29"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ πνεῦμα» — sujeito da oração",
         "clauseId": "AP.2.29.C1",
         "governedBy": "ap2-29-7"
       },
@@ -176,7 +176,7 @@ export const apocalipse2v29 = {
         "Ap 2:29"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τὸ πνεῦμα» — sujeito da oração",
         "clauseId": "AP.2.29.C1",
         "governedBy": "ap2-29-8"
       },
@@ -200,7 +200,7 @@ export const apocalipse2v29 = {
         "Ap 2:29"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.29.C1",
         "governedBy": "ap2-29-4"
       },
@@ -224,7 +224,7 @@ export const apocalipse2v29 = {
         "Ap 2:29"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ταῖς ἐκκλησίαις.» — objeto indireto da oração",
         "clauseId": "AP.2.29.C1",
         "governedBy": "ap2-29-10"
       },
@@ -248,7 +248,7 @@ export const apocalipse2v29 = {
         "Ap 2:29"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ταῖς ἐκκλησίαις.» — objeto indireto da oração",
         "clauseId": "AP.2.29.C1",
         "governedBy": "ap2-29-8"
       },

@@ -27,7 +27,7 @@ export const apocalipse2v20 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "mas",
-      "explanation": "Conjunção. Glosa neste contexto: «mas». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
@@ -51,12 +51,12 @@ export const apocalipse2v20 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «tenho». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.20.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse2v20 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "contra",
-      "explanation": "Preposição. Glosa neste contexto: «contra». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Preposição que introduz «κατὰ σοῦ» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «κατὰ σοῦ» — adjunto adverbial da oração",
         "clauseId": "AP.2.20.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse2v20 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo singular. Glosa neste contexto: «teu/de ti». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Pronome no constituinte «κατὰ σοῦ» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Pronome no constituinte «κατὰ σοῦ» — adjunto adverbial da oração",
         "clauseId": "AP.2.20.C1",
         "governedBy": null
       },
@@ -123,7 +123,7 @@ export const apocalipse2v20 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "que",
-      "explanation": "Conjunção. Glosa neste contexto: «que». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
@@ -147,7 +147,7 @@ export const apocalipse2v20 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "abandonar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Glosa neste contexto: «toleras». Núcleo verbal presente ativo indicativo, segunda pessoa singular; governa τὴν γυναῖκα Ἰεζάβελ. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Núcleo verbal presente ativo indicativo, segunda pessoa singular; governa τὴν γυναῖκα Ἰεζάβελ. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
@@ -171,12 +171,12 @@ export const apocalipse2v20 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τὴν γυναῖκα» — integrado ao constituinte com função de objeto direto «τὴν γυναῖκα Ἰεζάβελ, ἡ λέγουσα ἑαυτὴν προφῆτιν,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν γυναῖκα» — integrado ao constituinte com função de objeto direto «τὴν γυναῖκα Ἰεζάβελ, ἡ λέγουσα ἑαυτὴν προφῆτιν,»",
         "clauseId": "AP.2.20.C1",
         "governedBy": null
       },
@@ -195,12 +195,12 @@ export const apocalipse2v20 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "mulher",
-      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «mulher». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «τὴν γυναῖκα» — integrado ao constituinte com função de objeto direto «τὴν γυναῖκα Ἰεζάβελ, ἡ λέγουσα ἑαυτὴν προφῆτιν,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τὴν γυναῖκα» — integrado ao constituinte com função de objeto direto «τὴν γυναῖκα Ἰεζάβελ, ἡ λέγουσα ἑαυτὴν προφῆτιν,»",
         "clauseId": "AP.2.20.C1",
         "governedBy": null
       },
@@ -219,12 +219,12 @@ export const apocalipse2v20 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "Jezabel",
-      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «Jezabel». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «τὴν γυναῖκα Ἰεζάβελ,» — integrado ao constituinte com função de objeto direto «τὴν γυναῖκα Ἰεζάβελ, ἡ λέγουσα ἑαυτὴν προφῆτιν,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τὴν γυναῖκα Ἰεζάβελ,» — integrado ao constituinte com função de objeto direto «τὴν γυναῖκα Ἰεζάβελ, ἡ λέγουσα ἑαυτὴν προφῆτιν,»",
         "clauseId": "AP.2.20.C1",
         "governedBy": null
       },
@@ -244,12 +244,12 @@ export const apocalipse2v20 = {
       "morphologyCode": "----NSF-",
       "morphology": "Artigo definido nominativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular feminino. Glosa neste contexto: «a que». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «ἡ λέγουσα ἑαυτὴν προφῆτιν,» — integrado ao constituinte com função de objeto direto «τὴν γυναῖκα Ἰεζάβελ, ἡ λέγουσα ἑαυτὴν προφῆτιν,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ἡ λέγουσα ἑαυτὴν προφῆτιν,» — integrado ao constituinte com função de objeto direto «τὴν γυναῖκα Ἰεζάβελ, ἡ λέγουσα ἑαυτὴν προφῆτιν,»",
         "clauseId": "AP.2.20.C1",
         "governedBy": null
       },
@@ -268,7 +268,7 @@ export const apocalipse2v20 = {
       "morphologyCode": "-PAPNSF-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular feminino",
       "meanings": "dizer",
-      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular feminino. Glosa neste contexto: «que diz». Particípio em construção sintática. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Particípio em construção sintática. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
@@ -292,12 +292,12 @@ export const apocalipse2v20 = {
       "morphologyCode": "----ASF-",
       "morphology": "Pronome pessoal acusativo singular feminino",
       "meanings": "si mesmo",
-      "explanation": "Pronome pessoal acusativo singular feminino. Glosa neste contexto: «a si mesma». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Objeto direto da oração",
         "clauseId": "AP.2.20.C1",
         "governedBy": null
       },
@@ -316,12 +316,12 @@ export const apocalipse2v20 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "profetisa",
-      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «profetisa». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Segundo objeto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Segundo objeto da oração",
         "clauseId": "AP.2.20.C1",
         "governedBy": null
       },
@@ -341,7 +341,7 @@ export const apocalipse2v20 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
@@ -365,12 +365,12 @@ export const apocalipse2v20 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "ensinar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Glosa neste contexto: «ensina». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Verbo no constituinte «διδάσκει καὶ πλανᾷ» — predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Verbo no constituinte «διδάσκει καὶ πλανᾷ» — predicado verbal da oração",
         "clauseId": "AP.2.20.C1",
         "governedBy": null
       },
@@ -389,7 +389,7 @@ export const apocalipse2v20 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
@@ -413,12 +413,12 @@ export const apocalipse2v20 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "enganar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Glosa neste contexto: «desvia». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Verbo no constituinte «καὶ πλανᾷ» — integrado ao constituinte com função de predicado verbal «διδάσκει καὶ πλανᾷ». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Verbo no constituinte «καὶ πλανᾷ» — integrado ao constituinte com função de predicado verbal «διδάσκει καὶ πλανᾷ»",
         "clauseId": "AP.2.20.C1",
         "governedBy": null
       },
@@ -437,12 +437,12 @@ export const apocalipse2v20 = {
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido acusativo plural masculino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural masculino. Glosa neste contexto: «os». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τοὺς ἐμοὺς δούλους» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοὺς ἐμοὺς δούλους» — sujeito da oração",
         "clauseId": "AP.2.20.C1",
         "governedBy": null
       },
@@ -461,12 +461,12 @@ export const apocalipse2v20 = {
       "morphologyCode": "----APM-",
       "morphology": "Adjetivo acusativo plural masculino",
       "meanings": "meu",
-      "explanation": "Adjetivo acusativo plural masculino. Glosa neste contexto: «meus». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjetivo no constituinte «ἐμοὺς δούλους» — integrado ao constituinte com função de sujeito «τοὺς ἐμοὺς δούλους». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjetivo no constituinte «ἐμοὺς δούλους» — integrado ao constituinte com função de sujeito «τοὺς ἐμοὺς δούλους»",
         "clauseId": "AP.2.20.C1",
         "governedBy": null
       },
@@ -485,12 +485,12 @@ export const apocalipse2v20 = {
       "morphologyCode": "----APM-",
       "morphology": "Substantivo acusativo plural masculino",
       "meanings": "servo",
-      "explanation": "Substantivo acusativo plural masculino. Glosa neste contexto: «servos». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «ἐμοὺς δούλους» — integrado ao constituinte com função de sujeito «τοὺς ἐμοὺς δούλους». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἐμοὺς δούλους» — integrado ao constituinte com função de sujeito «τοὺς ἐμοὺς δούλους»",
         "clauseId": "AP.2.20.C1",
         "governedBy": null
       },
@@ -509,7 +509,7 @@ export const apocalipse2v20 = {
       "morphologyCode": "-AAN----",
       "morphology": "Verbo no aoristo, voz ativa, infinitivo",
       "meanings": "praticar imoralidade sexual",
-      "explanation": "Verbo no aoristo, voz ativa, infinitivo. Glosa neste contexto: «praticar imoralidade». Infinitivo integrante da construção. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Infinitivo integrante da construção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
@@ -533,7 +533,7 @@ export const apocalipse2v20 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
@@ -557,7 +557,7 @@ export const apocalipse2v20 = {
       "morphologyCode": "-AAN----",
       "morphology": "Verbo no aoristo, voz ativa, infinitivo",
       "meanings": "comer",
-      "explanation": "Verbo no aoristo, voz ativa, infinitivo. Glosa neste contexto: «comer». Infinitivo integrante da construção. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Infinitivo integrante da construção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
@@ -581,12 +581,12 @@ export const apocalipse2v20 = {
       "morphologyCode": "----APN-",
       "morphology": "Adjetivo acusativo plural neutro",
       "meanings": "alimento sacrificado a ídolos",
-      "explanation": "Adjetivo acusativo plural neutro. Glosa neste contexto: «comida sacrificada a ídolos». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:20"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Objeto direto da oração",
         "clauseId": "AP.2.20.C1",
         "governedBy": null
       },

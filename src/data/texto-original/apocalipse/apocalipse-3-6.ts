@@ -31,7 +31,7 @@ export const apocalipse3v6 = {
         "Ap 3:6"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ ἔχων οὖς» — sujeito da oração",
         "clauseId": "AP.3.6.C1",
         "governedBy": null
       },
@@ -55,7 +55,7 @@ export const apocalipse3v6 = {
         "Ap 3:6"
       ],
       "syntax": {
-        "role": "Particípio",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.3.6.C1",
         "governedBy": null
       },
@@ -79,7 +79,7 @@ export const apocalipse3v6 = {
         "Ap 3:6"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Objeto direto da oração",
         "clauseId": "AP.3.6.C1",
         "governedBy": null
       },
@@ -151,7 +151,7 @@ export const apocalipse3v6 = {
         "Ap 3:6"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ πνεῦμα» — sujeito da oração",
         "clauseId": "AP.3.6.C1",
         "governedBy": null
       },
@@ -175,7 +175,7 @@ export const apocalipse3v6 = {
         "Ap 3:6"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τὸ πνεῦμα» — sujeito da oração",
         "clauseId": "AP.3.6.C1",
         "governedBy": null
       },
@@ -186,7 +186,7 @@ export const apocalipse3v6 = {
       "shortMorph": "V- 3PAI-S--",
       "greek": "λέγει",
       "transliteration": "legei",
-      "gloss": "dizer",
+      "gloss": "diz",
       "strong": "G3004",
       "lemma": "λέγω",
       "lemmaTransliteration": "legō",
@@ -223,7 +223,7 @@ export const apocalipse3v6 = {
         "Ap 3:6"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ταῖς ἐκκλησίαις.» — objeto indireto da oração",
         "clauseId": "AP.3.6.C1",
         "governedBy": null
       },
@@ -234,7 +234,7 @@ export const apocalipse3v6 = {
       "shortMorph": "N- ----DPF-",
       "greek": "ἐκκλησίαις",
       "transliteration": "ekklēsiais",
-      "gloss": "igreja",
+      "gloss": "igrejas",
       "strong": "G1577",
       "lemma": "ἐκκλησία",
       "lemmaTransliteration": "ekklēsia",
@@ -247,7 +247,7 @@ export const apocalipse3v6 = {
         "Ap 3:6"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ταῖς ἐκκλησίαις.» — objeto indireto da oração",
         "clauseId": "AP.3.6.C1",
         "governedBy": null
       },

@@ -81,7 +81,7 @@ export const apocalipse7v9 = {
         "Ap 7:9"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.9",
         "governedBy": null
       },
@@ -227,7 +227,7 @@ export const apocalipse7v9 = {
         "Ap 7:9"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.9",
         "governedBy": null
       },
@@ -299,7 +299,7 @@ export const apocalipse7v9 = {
         "Ap 7:9"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.9",
         "governedBy": null
       },
@@ -541,7 +541,7 @@ export const apocalipse7v9 = {
         "Ap 7:9"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.9",
         "governedBy": null
       },
@@ -589,7 +589,7 @@ export const apocalipse7v9 = {
         "Ap 7:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ θρόνου» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τοῦ θρόνου καὶ ἐνώπιον τοῦ ἀρνίου,»",
         "clauseId": "AP.7.9",
         "governedBy": null
       },
@@ -685,7 +685,7 @@ export const apocalipse7v9 = {
         "Ap 7:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ ἀρνίου,» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τοῦ θρόνου καὶ ἐνώπιον τοῦ ἀρνίου,»",
         "clauseId": "AP.7.9",
         "governedBy": null
       },
@@ -734,7 +734,7 @@ export const apocalipse7v9 = {
         "Ap 7:9"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.9",
         "governedBy": null
       },
@@ -879,7 +879,7 @@ export const apocalipse7v9 = {
         "Ap 7:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ταῖς χερσὶν αὐτῶν·» — integrado ao constituinte com função de predicativo «ἐν ταῖς χερσὶν αὐτῶν·»",
         "clauseId": "AP.7.9",
         "governedBy": null
       },

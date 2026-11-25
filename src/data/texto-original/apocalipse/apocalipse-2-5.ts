@@ -27,12 +27,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "2PAD-S--",
       "morphology": "Verbo no presente, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "lembrar-se",
-      "explanation": "Verbo no presente, voz ativa, imperativo, 2ª pessoa singular. Glosa neste contexto: «lembra-te». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
@@ -51,7 +51,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "portanto",
-      "explanation": "Conjunção. Glosa neste contexto: «portanto». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -75,12 +75,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "de onde",
-      "explanation": "Advérbio. Glosa neste contexto: «de onde». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjunto adverbial da oração",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "2XAI-S--",
       "morphology": "Verbo no perfeito, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "cair",
-      "explanation": "Verbo no perfeito, voz ativa, indicativo, 2ª pessoa singular. Glosa neste contexto: «caíste». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
@@ -124,7 +124,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -148,12 +148,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "arrepender-se",
-      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Glosa neste contexto: «arrepende-te». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
@@ -172,7 +172,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -196,12 +196,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural neutro. Glosa neste contexto: «as». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τὰ πρῶτα ἔργα» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰ πρῶτα ἔργα» — objeto direto da oração",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
@@ -220,12 +220,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "----APN-",
       "morphology": "Adjetivo acusativo plural neutro",
       "meanings": "primeiro",
-      "explanation": "Adjetivo acusativo plural neutro. Glosa neste contexto: «primeiras». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjetivo no constituinte «πρῶτα ἔργα» — integrado ao constituinte com função de objeto direto «τὰ πρῶτα ἔργα». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjetivo no constituinte «πρῶτα ἔργα» — integrado ao constituinte com função de objeto direto «τὰ πρῶτα ἔργα»",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
@@ -244,12 +244,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
       "meanings": "obra",
-      "explanation": "Substantivo acusativo plural neutro. Glosa neste contexto: «obras». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «πρῶτα ἔργα» — integrado ao constituinte com função de objeto direto «τὰ πρῶτα ἔργα». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «πρῶτα ἔργα» — integrado ao constituinte com função de objeto direto «τὰ πρῶτα ἔργα»",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
@@ -268,12 +268,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "fazer",
-      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Glosa neste contexto: «pratica». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
@@ -293,7 +293,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "se",
-      "explanation": "Conjunção. Glosa neste contexto: «se». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -317,7 +317,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "porém",
-      "explanation": "Conjunção. Glosa neste contexto: «porém». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -341,12 +341,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Glosa neste contexto: «não». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjunto adverbial da oração",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
@@ -366,12 +366,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "1PMI-S--",
       "morphology": "Verbo no presente, voz média, indicativo, 1ª pessoa singular",
       "meanings": "vir",
-      "explanation": "Verbo no presente, voz média, indicativo, 1ª pessoa singular. Glosa neste contexto: «venho». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
@@ -390,12 +390,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "----DS--",
       "morphology": "Pronome pessoal dativo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal dativo singular. Glosa neste contexto: «a ti». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjunto adverbial da oração",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
@@ -415,7 +415,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -439,12 +439,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "1FAI-S--",
       "morphology": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "mover",
-      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «removerei». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
@@ -463,12 +463,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τὴν λυχνίαν σου» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν λυχνίαν σου» — objeto direto da oração",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
@@ -487,12 +487,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "candelabro",
-      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «candelabro». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «λυχνίαν σου» — integrado ao constituinte com função de objeto direto «τὴν λυχνίαν σου». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «λυχνίαν σου» — integrado ao constituinte com função de objeto direto «τὴν λυχνίαν σου»",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
@@ -511,12 +511,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo singular. Glosa neste contexto: «teu/de ti». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Pronome no constituinte «λυχνίαν σου» — integrado ao constituinte com função de objeto direto «τὴν λυχνίαν σου». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Pronome no constituinte «λυχνίαν σου» — integrado ao constituinte com função de objeto direto «τὴν λυχνίαν σου»",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
@@ -535,12 +535,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "de",
-      "explanation": "Preposição. Glosa neste contexto: «de». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Preposição que introduz «ἐκ τοῦ τόπου αὐτῆς,» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐκ τοῦ τόπου αὐτῆς,» — adjunto adverbial da oração",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
@@ -559,12 +559,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular masculino. Glosa neste contexto: «do». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τοῦ τόπου αὐτῆς,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ τόπου αὐτῆς,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ τόπου αὐτῆς,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ τόπου αὐτῆς,»",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
@@ -583,12 +583,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "lugar",
-      "explanation": "Substantivo genitivo singular masculino. Glosa neste contexto: «lugar». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «τόπου αὐτῆς,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ τόπου αὐτῆς,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τόπου αὐτῆς,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ τόπου αὐτῆς,»",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
@@ -607,12 +607,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "----GSF-",
       "morphology": "Pronome pessoal genitivo singular feminino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal genitivo singular feminino. Glosa neste contexto: «dele». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Pronome no constituinte «τόπου αὐτῆς,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ τόπου αὐτῆς,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Pronome no constituinte «τόπου αὐτῆς,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ τόπου αὐτῆς,»",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
@@ -632,7 +632,7 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "se",
-      "explanation": "Conjunção. Glosa neste contexto: «se». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
@@ -656,12 +656,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Glosa neste contexto: «não». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjunto adverbial da oração",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },
@@ -680,12 +680,12 @@ export const apocalipse2v5 = {
       "morphologyCode": "2AAS-S--",
       "morphology": "Verbo no aoristo, voz ativa, subjuntivo, 2ª pessoa singular",
       "meanings": "arrepender-se",
-      "explanation": "Verbo no aoristo, voz ativa, subjuntivo, 2ª pessoa singular. Glosa neste contexto: «te arrependas». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.5.C1",
         "governedBy": null
       },

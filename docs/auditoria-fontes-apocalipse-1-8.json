@@ -880,9 +880,10 @@
     {
       "reference": "Ap 5:10",
       "tokens": 14,
-      "corpusDiscrepancies": 1,
+      "corpusDiscrepancies": 0,
       "glossPunctuation": 0,
       "genericFiches": 14,
+      "documentedMorphGntException": "3FAI-P-- no corpus; 3PAI-P-- na forma βασιλεύουσιν.",
       "apparatusEntries": 2,
       "trDifferences": 3
     },
@@ -2233,10 +2234,11 @@
     },
     {
       "strong": "G1228",
-      "tokens": 35,
-      "verses": 33,
-      "matches": false,
+      "tokens": 37,
+      "verses": 35,
+      "matches": true,
       "lemmas": [
+        "Διάβολος",
         "διάβολος"
       ]
     },
@@ -2926,11 +2928,12 @@
     },
     {
       "strong": "G2206",
-      "tokens": 1,
-      "verses": 1,
-      "matches": false,
+      "tokens": 12,
+      "verses": 11,
+      "matches": true,
       "lemmas": [
-        "ζηλεύω"
+        "ζηλεύω",
+        "ζηλόω"
       ]
     },
     {
@@ -6049,11 +6052,12 @@
     },
     {
       "strong": "G5552",
-      "tokens": 17,
-      "verses": 15,
-      "matches": false,
+      "tokens": 18,
+      "verses": 16,
+      "matches": true,
       "lemmas": [
-        "χρυσοῦς"
+        "χρυσοῦς",
+        "χρύσεος"
       ]
     },
     {
@@ -6156,47 +6160,7 @@
       ]
     }
   ],
-  "unresolved": [
-    {
-      "id": "ap5-10-11",
-      "field": "morphologyCode",
-      "actual": "3PAI-P--",
-      "expected": "3FAI-P--"
-    },
-    {
-      "strong": "G1228",
-      "field": "concordance",
-      "oldTokens": 37,
-      "actualTokens": 35,
-      "oldVerses": 35,
-      "actualVerses": 33,
-      "lemmas": [
-        "διάβολος"
-      ]
-    },
-    {
-      "strong": "G2206",
-      "field": "concordance",
-      "oldTokens": 12,
-      "actualTokens": 1,
-      "oldVerses": 11,
-      "actualVerses": 1,
-      "lemmas": [
-        "ζηλεύω"
-      ]
-    },
-    {
-      "strong": "G5552",
-      "field": "concordance",
-      "oldTokens": 18,
-      "actualTokens": 17,
-      "oldVerses": 16,
-      "actualVerses": 15,
-      "lemmas": [
-        "χρυσοῦς"
-      ]
-    }
-  ],
+  "unresolved": [],
   "limitations": [
     "Diferenças entre edições, não colação direta de manuscritos. Impacto semântico, glosas, sintaxe e exegese requerem análise contextual.",
     "Comparação TR lexical não substitui verificação ortográfica; as leituras do aparato são conservadas literalmente."

@@ -57,7 +57,7 @@ export const apocalipse7v17 = {
         "Ap 7:17"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ ἀρνίον» — integrado ao constituinte com função de sujeito «τὸ ἀρνίον τὸ ἀνὰ μέσον τοῦ θρόνου»",
         "clauseId": "AP.7.17",
         "governedBy": null
       },
@@ -105,7 +105,7 @@ export const apocalipse7v17 = {
         "Ap 7:17"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ ἀνὰ μέσον τοῦ θρόνου» — integrado ao constituinte com função de sujeito «τὸ ἀρνίον τὸ ἀνὰ μέσον τοῦ θρόνου»",
         "clauseId": "AP.7.17",
         "governedBy": null
       },
@@ -177,7 +177,7 @@ export const apocalipse7v17 = {
         "Ap 7:17"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ θρόνου» — integrado ao constituinte com função de sujeito «τὸ ἀρνίον τὸ ἀνὰ μέσον τοῦ θρόνου»",
         "clauseId": "AP.7.17",
         "governedBy": null
       },
@@ -225,7 +225,7 @@ export const apocalipse7v17 = {
         "Ap 7:17"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.17",
         "governedBy": null
       },
@@ -298,7 +298,7 @@ export const apocalipse7v17 = {
         "Ap 7:17"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.17",
         "governedBy": null
       },
@@ -467,7 +467,7 @@ export const apocalipse7v17 = {
         "Ap 7:17"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.17",
         "governedBy": null
       },
@@ -491,7 +491,7 @@ export const apocalipse7v17 = {
         "Ap 7:17"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ θεὸς» — sujeito da oração",
         "clauseId": "AP.7.17",
         "governedBy": null
       },
@@ -611,7 +611,7 @@ export const apocalipse7v17 = {
         "Ap 7:17"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν ὀφθαλμῶν αὐτῶν.» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῶν ὀφθαλμῶν αὐτῶν.»",
         "clauseId": "AP.7.17",
         "governedBy": null
       },

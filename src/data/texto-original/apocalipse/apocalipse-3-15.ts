@@ -79,7 +79,7 @@ export const apocalipse3v15 = {
         "Ap 3:15"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰ ἔργα,» — integrado ao constituinte com função de objeto direto «σου τὰ ἔργα,»",
         "clauseId": "AP.3.15.C1",
         "governedBy": null
       },
@@ -103,7 +103,7 @@ export const apocalipse3v15 = {
         "Ap 3:15"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τὰ ἔργα,» — integrado ao constituinte com função de objeto direto «σου τὰ ἔργα,»",
         "clauseId": "AP.3.15.C1",
         "governedBy": null
       },
@@ -176,7 +176,7 @@ export const apocalipse3v15 = {
         "Ap 3:15"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «οὔτε ψυχρὸς» — integrado ao constituinte com função de predicativo «οὔτε ψυχρὸς οὔτε ζεστός.»",
         "clauseId": "AP.3.15.C1",
         "governedBy": null
       },
@@ -248,7 +248,7 @@ export const apocalipse3v15 = {
         "Ap 3:15"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «οὔτε ζεστός.» — integrado ao constituinte com função de predicativo «οὔτε ψυχρὸς οὔτε ζεστός.»",
         "clauseId": "AP.3.15.C1",
         "governedBy": null
       },
@@ -297,7 +297,7 @@ export const apocalipse3v15 = {
         "Ap 3:15"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «ψυχρὸς ἢ ζεστός.» — predicativo da oração",
         "clauseId": "AP.3.15.C1",
         "governedBy": null
       },
@@ -369,7 +369,7 @@ export const apocalipse3v15 = {
         "Ap 3:15"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «ἢ ζεστός.» — integrado ao constituinte com função de predicativo «ψυχρὸς ἢ ζεστός.»",
         "clauseId": "AP.3.15.C1",
         "governedBy": null
       },

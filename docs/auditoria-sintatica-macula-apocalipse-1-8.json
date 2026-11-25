@@ -1,0 +1,106 @@
+{
+  "source": "MACULA Greek SBLGNT, Clear Bible, CC BY 4.0",
+  "sourceURL": "https://github.com/Clear-Bible/macula-greek/tree/8423afe47b9e8f24b7772e808af45c7159a6fe7e",
+  "sourceBlob": "c9b3ea5c08ff2eabd137ef008310c11239b48d25",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": 20,
+      "tokens": 469,
+      "aligned": 469,
+      "rolesUpdated": 0,
+      "classUpdated": 0,
+      "explanationsUpdated": 0,
+      "glossesUpdated": 0,
+      "translationsUpdated": 0,
+      "unmatched": 0
+    },
+    {
+      "chapter": 2,
+      "verses": 29,
+      "tokens": 621,
+      "aligned": 621,
+      "rolesUpdated": 501,
+      "classUpdated": 0,
+      "explanationsUpdated": 582,
+      "glossesUpdated": 3,
+      "translationsUpdated": 0,
+      "unmatched": 0
+    },
+    {
+      "chapter": 3,
+      "verses": 22,
+      "tokens": 525,
+      "aligned": 525,
+      "rolesUpdated": 223,
+      "classUpdated": 0,
+      "explanationsUpdated": 0,
+      "glossesUpdated": 27,
+      "translationsUpdated": 0,
+      "unmatched": 0
+    },
+    {
+      "chapter": 4,
+      "verses": 11,
+      "tokens": 293,
+      "aligned": 293,
+      "rolesUpdated": 0,
+      "classUpdated": 0,
+      "explanationsUpdated": 0,
+      "glossesUpdated": 2,
+      "translationsUpdated": 2,
+      "unmatched": 0
+    },
+    {
+      "chapter": 5,
+      "verses": 14,
+      "tokens": 339,
+      "aligned": 339,
+      "rolesUpdated": 309,
+      "classUpdated": 40,
+      "explanationsUpdated": 321,
+      "glossesUpdated": 0,
+      "translationsUpdated": 7,
+      "unmatched": 0
+    },
+    {
+      "chapter": 6,
+      "verses": 17,
+      "tokens": 417,
+      "aligned": 417,
+      "rolesUpdated": 297,
+      "classUpdated": 0,
+      "explanationsUpdated": 417,
+      "glossesUpdated": 0,
+      "translationsUpdated": 0,
+      "unmatched": 0
+    },
+    {
+      "chapter": 7,
+      "verses": 17,
+      "tokens": 398,
+      "aligned": 398,
+      "rolesUpdated": 116,
+      "classUpdated": 0,
+      "explanationsUpdated": 0,
+      "glossesUpdated": 0,
+      "translationsUpdated": 4,
+      "unmatched": 0
+    },
+    {
+      "chapter": 8,
+      "verses": 13,
+      "tokens": 319,
+      "aligned": 319,
+      "rolesUpdated": 75,
+      "classUpdated": 0,
+      "explanationsUpdated": 317,
+      "glossesUpdated": 0,
+      "translationsUpdated": 1,
+      "unmatched": 0
+    }
+  ],
+  "unmatchedVerses": [],
+  "unresolvedSyntax": [],
+  "limitations": "Alinhamento lexical por verso; funções do treebank não equivalem à revisão humana de todas as nuances semânticas, exegéticas ou gramaticais. Glosas corrigidas somente onde regras conservadoras se aplicam."
+}

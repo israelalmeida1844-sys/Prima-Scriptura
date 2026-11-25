@@ -6,7 +6,7 @@ export const apocalipse5v1 = {
   "verse": 1,
   "source": "SBL Greek New Testament via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Vi na mão direita daquele que estava sentado no trono um livro escrito por dentro e por trás, completamente selado com sete selos.",
+  "translation": "E vi na mão direita daquele que estava sentado no trono um rolo escrito por dentro e por trás, completamente selado com sete selos.",
   "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ὄπισθεν WH Treg NA28 ] ἔξωθεν RP. O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "syntacticNotes": [
@@ -31,12 +31,12 @@ export const apocalipse5v1 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «Καὶ εἶδον ἐπὶ τὴν δεξιὰν τοῦ καθημένου ἐπὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:1"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «Καὶ εἶδον ἐπὶ τὴν δεξιὰν τοῦ καθημένου ἐπὶ …»",
         "clauseId": "AP.5.1",
         "governedBy": null
       },
@@ -55,12 +55,12 @@ export const apocalipse5v1 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "MorphGNT 6.12: V- 1AAI-S--",
       "meanings": "Experimentar percepção visual, observar algo ou reconhecer por meio da visão, em contextos comuns ou narrativos.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:1"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.5.1",
         "governedBy": null
       },
@@ -79,12 +79,12 @@ export const apocalipse5v1 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
       "meanings": "sobre; por causa de",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Preposição que introduz «ἐπὶ τὴν δεξιὰν τοῦ καθημένου ἐπὶ τοῦ θρόνου» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:1"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐπὶ τὴν δεξιὰν τοῦ καθημένου ἐπὶ τοῦ θρόνου» — adjunto adverbial da oração",
         "clauseId": "AP.5.1",
         "governedBy": null
       },
@@ -103,12 +103,12 @@ export const apocalipse5v1 = {
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: RA ----ASF-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τὴν δεξιὰν τοῦ καθημένου ἐπὶ τοῦ θρόνου» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τὴν δεξιὰν τοῦ καθημένου ἐπὶ τοῦ θρόνου». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:1"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τὴν δεξιὰν τοῦ καθημένου ἐπὶ τοῦ θρόνου» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τὴν δεξιὰν τοῦ καθημένου ἐπὶ τοῦ θρόνου»",
         "clauseId": "AP.5.1",
         "governedBy": null
       },
@@ -127,12 +127,12 @@ export const apocalipse5v1 = {
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: A- ----ASF-",
       "meanings": "direita; direito",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Adjetivo no constituinte «δεξιὰν τοῦ καθημένου ἐπὶ τοῦ θρόνου» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τὴν δεξιὰν τοῦ καθημένου ἐπὶ τοῦ θρόνου». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:1"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Adjetivo no constituinte «δεξιὰν τοῦ καθημένου ἐπὶ τοῦ θρόνου» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τὴν δεξιὰν τοῦ καθημένου ἐπὶ τοῦ θρόνου»",
         "clauseId": "AP.5.1",
         "governedBy": null
       },
@@ -151,12 +151,12 @@ export const apocalipse5v1 = {
       "morphologyCode": "----GSM-",
       "morphology": "MorphGNT 6.12: RA ----GSM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τοῦ καθημένου ἐπὶ τοῦ θρόνου» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τὴν δεξιὰν τοῦ καθημένου ἐπὶ τοῦ θρόνου». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:1"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τοῦ καθημένου ἐπὶ τοῦ θρόνου» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τὴν δεξιὰν τοῦ καθημένου ἐπὶ τοῦ θρόνου»",
         "clauseId": "AP.5.1",
         "governedBy": null
       },
@@ -175,12 +175,12 @@ export const apocalipse5v1 = {
       "morphologyCode": "-PMPGSM-",
       "morphology": "MorphGNT 6.12: V- -PMPGSM-",
       "meanings": "Estar sentado; participial em 4:2–4 e 4:9–10, designando ocupantes de tronos.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:1"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.5.1",
         "governedBy": null
       },
@@ -199,12 +199,12 @@ export const apocalipse5v1 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
       "meanings": "sobre; por causa de",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Preposição que introduz «ἐπὶ τοῦ θρόνου» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:1"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐπὶ τοῦ θρόνου» — adjunto adverbial da oração",
         "clauseId": "AP.5.1",
         "governedBy": null
       },
@@ -223,12 +223,12 @@ export const apocalipse5v1 = {
       "morphologyCode": "----GSM-",
       "morphology": "MorphGNT 6.12: RA ----GSM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τοῦ θρόνου» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τοῦ θρόνου». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:1"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τοῦ θρόνου» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τοῦ θρόνου»",
         "clauseId": "AP.5.1",
         "governedBy": null
       },
@@ -247,12 +247,12 @@ export const apocalipse5v1 = {
       "morphologyCode": "----GSM-",
       "morphology": "MorphGNT 6.12: N- ----GSM-",
       "meanings": "trono",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «τοῦ θρόνου» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τοῦ θρόνου». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:1"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «τοῦ θρόνου» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τοῦ θρόνου»",
         "clauseId": "AP.5.1",
         "governedBy": null
       },
@@ -271,12 +271,12 @@ export const apocalipse5v1 = {
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: N- ----ASN-",
       "meanings": "livro; rolo",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «βιβλίον γεγραμμένον ἔσωθεν καὶ ὄπισθεν,» — integrado ao constituinte com função de objeto direto «βιβλίον γεγραμμένον ἔσωθεν καὶ ὄπισθεν, κατεσφραγισμένον σφραγῖσιν ἑπτά.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:1"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «βιβλίον γεγραμμένον ἔσωθεν καὶ ὄπισθεν,» — integrado ao constituinte com função de objeto direto «βιβλίον γεγραμμένον ἔσωθεν καὶ ὄπισθεν, κατεσφραγισμένον σφραγῖσιν ἑπτά.»",
         "clauseId": "AP.5.1",
         "governedBy": null
       },
@@ -295,7 +295,7 @@ export const apocalipse5v1 = {
       "morphologyCode": "-XPPASN-",
       "morphology": "MorphGNT 6.12: V- -XPPASN-",
       "meanings": "escrever; registrar",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Forma verbal participial; concordância e relação com o núcleo a verificar. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:1"
       ],
@@ -319,7 +319,7 @@ export const apocalipse5v1 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: D- --------",
       "meanings": "Por dentro, na parte interior; em 4:8, descreve a extensão dos olhos dos viventes.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Advérbio ou partícula modificadora. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:1"
       ],
@@ -343,12 +343,12 @@ export const apocalipse5v1 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ ὄπισθεν,» — integrado ao constituinte com função de adjunto adverbial «ἔσωθεν καὶ ὄπισθεν,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:1"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ ὄπισθεν,» — integrado ao constituinte com função de adjunto adverbial «ἔσωθεν καὶ ὄπισθεν,»",
         "clauseId": "AP.5.1",
         "governedBy": null
       },
@@ -367,7 +367,7 @@ export const apocalipse5v1 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: D- --------",
       "meanings": "Atrás ou pela parte posterior; contrapõe-se a ἔμπροσθεν em 4:6.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Advérbio ou partícula modificadora. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:1"
       ],
@@ -388,11 +388,11 @@ export const apocalipse5v1 = {
       "strong": "G2696",
       "lemma": "κατασφραγίζω",
       "lemmaTransliteration": "katasphragizō",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Verbo",
       "morphologyCode": "-XPPASN-",
       "morphology": "MorphGNT 6.12: V- -XPPASN-",
       "meanings": "Aplicar selos para fechar ou assegurar um objeto; o prefixo κατα- intensifica a ação de selar.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Forma verbal participial; concordância e relação com o núcleo a verificar. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:1"
       ],
@@ -412,16 +412,16 @@ export const apocalipse5v1 = {
       "strong": "G4973",
       "lemma": "σφραγίς",
       "lemmaTransliteration": "sphragis",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----DPF-",
       "morphology": "MorphGNT 6.12: N- ----DPF-",
       "meanings": "Objeto ou marca com função de autenticar, fechar ou assegurar; o contexto decide a nuance.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «σφραγῖσιν ἑπτά.» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:1"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «σφραγῖσιν ἑπτά.» — adjunto adverbial da oração",
         "clauseId": "AP.5.1",
         "governedBy": null
       },
@@ -440,12 +440,12 @@ export const apocalipse5v1 = {
       "morphologyCode": "----DPF-",
       "morphology": "MorphGNT 6.12: A- ----DPF-",
       "meanings": "sete",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Numeral no constituinte «σφραγῖσιν ἑπτά.» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:1"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Numeral no constituinte «σφραγῖσιν ἑπτά.» — adjunto adverbial da oração",
         "clauseId": "AP.5.1",
         "governedBy": null
       },

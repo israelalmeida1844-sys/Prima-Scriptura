@@ -27,7 +27,7 @@ export const apocalipse2v27 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
@@ -51,12 +51,12 @@ export const apocalipse2v27 = {
       "morphologyCode": "3FAI-S--",
       "morphology": "Verbo no futuro, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "apascentar",
-      "explanation": "Verbo no futuro, voz ativa, indicativo, 3ª pessoa singular. Glosa neste contexto: «pastoreará». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.27.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse2v27 = {
       "morphologyCode": "----APM-",
       "morphology": "Pronome pessoal acusativo plural masculino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal acusativo plural masculino. Glosa neste contexto: «as». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Objeto direto da oração",
         "clauseId": "AP.2.27.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse2v27 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "em",
-      "explanation": "Preposição. Glosa neste contexto: «em». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Preposição que introduz «ἐν ῥάβδῳ σιδηρᾷ» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐν ῥάβδῳ σιδηρᾷ» — adjunto adverbial da oração",
         "clauseId": "AP.2.27.C1",
         "governedBy": null
       },
@@ -123,12 +123,12 @@ export const apocalipse2v27 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "vara",
-      "explanation": "Substantivo dativo singular feminino. Glosa neste contexto: «cetro». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «ῥάβδῳ σιδηρᾷ» — integrado ao constituinte com função de adjunto adverbial «ἐν ῥάβδῳ σιδηρᾷ». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ῥάβδῳ σιδηρᾷ» — integrado ao constituinte com função de adjunto adverbial «ἐν ῥάβδῳ σιδηρᾷ»",
         "clauseId": "AP.2.27.C1",
         "governedBy": null
       },
@@ -147,12 +147,12 @@ export const apocalipse2v27 = {
       "morphologyCode": "----DSF-",
       "morphology": "Adjetivo dativo singular feminino",
       "meanings": "de ferro",
-      "explanation": "Adjetivo dativo singular feminino. Glosa neste contexto: «de ferro». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjetivo no constituinte «ῥάβδῳ σιδηρᾷ» — integrado ao constituinte com função de adjunto adverbial «ἐν ῥάβδῳ σιδηρᾷ». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjetivo no constituinte «ῥάβδῳ σιδηρᾷ» — integrado ao constituinte com função de adjunto adverbial «ἐν ῥάβδῳ σιδηρᾷ»",
         "clauseId": "AP.2.27.C1",
         "governedBy": null
       },
@@ -171,7 +171,7 @@ export const apocalipse2v27 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "como",
-      "explanation": "Conjunção. Glosa neste contexto: «como». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
@@ -195,12 +195,12 @@ export const apocalipse2v27 = {
       "morphologyCode": "----NPN-",
       "morphology": "Artigo definido nominativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo plural neutro. Glosa neste contexto: «os». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τὰ σκεύη τὰ κεραμικὰ» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰ σκεύη τὰ κεραμικὰ» — sujeito da oração",
         "clauseId": "AP.2.27.C1",
         "governedBy": null
       },
@@ -219,12 +219,12 @@ export const apocalipse2v27 = {
       "morphologyCode": "----NPN-",
       "morphology": "Substantivo nominativo plural neutro",
       "meanings": "vaso",
-      "explanation": "Substantivo nominativo plural neutro. Glosa neste contexto: «vasos». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «σκεύη τὰ κεραμικὰ» — integrado ao constituinte com função de sujeito «τὰ σκεύη τὰ κεραμικὰ». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «σκεύη τὰ κεραμικὰ» — integrado ao constituinte com função de sujeito «τὰ σκεύη τὰ κεραμικὰ»",
         "clauseId": "AP.2.27.C1",
         "governedBy": null
       },
@@ -243,12 +243,12 @@ export const apocalipse2v27 = {
       "morphologyCode": "----NPN-",
       "morphology": "Artigo definido nominativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo plural neutro. Glosa neste contexto: «os». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τὰ κεραμικὰ» — integrado ao constituinte com função de sujeito «τὰ σκεύη τὰ κεραμικὰ». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰ κεραμικὰ» — integrado ao constituinte com função de sujeito «τὰ σκεύη τὰ κεραμικὰ»",
         "clauseId": "AP.2.27.C1",
         "governedBy": null
       },
@@ -267,12 +267,12 @@ export const apocalipse2v27 = {
       "morphologyCode": "----NPN-",
       "morphology": "Adjetivo nominativo plural neutro",
       "meanings": "de cerâmica",
-      "explanation": "Adjetivo nominativo plural neutro. Glosa neste contexto: «de cerâmica». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjetivo no constituinte «τὰ κεραμικὰ» — integrado ao constituinte com função de sujeito «τὰ σκεύη τὰ κεραμικὰ». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjetivo no constituinte «τὰ κεραμικὰ» — integrado ao constituinte com função de sujeito «τὰ σκεύη τὰ κεραμικὰ»",
         "clauseId": "AP.2.27.C1",
         "governedBy": null
       },
@@ -291,7 +291,7 @@ export const apocalipse2v27 = {
       "morphologyCode": "3PPI-S--",
       "morphology": "Verbo no presente, voz passiva, indicativo, 3ª pessoa singular",
       "meanings": "despedaçar",
-      "explanation": "Verbo no presente, voz passiva, indicativo, 3ª pessoa singular. Glosa neste contexto: «são despedaçados». Presente médio/passivo indicativo, terceira pessoa singular; mantém-se a forma da edição crítica. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Presente médio/passivo indicativo, terceira pessoa singular; mantém-se a forma da edição crítica. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:27"
       ],

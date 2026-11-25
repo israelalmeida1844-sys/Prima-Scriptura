@@ -151,7 +151,7 @@ export const apocalipse3v18 = {
         "Ap 3:18"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «χρυσίον πεπυρωμένον ἐκ πυρὸς» — objeto direto da oração",
         "clauseId": "AP.3.18.C1",
         "governedBy": null
       },
@@ -175,7 +175,7 @@ export const apocalipse3v18 = {
         "Ap 3:18"
       ],
       "syntax": {
-        "role": "Particípio",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.3.18.C1",
         "governedBy": null
       },
@@ -223,7 +223,7 @@ export const apocalipse3v18 = {
         "Ap 3:18"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἐκ πυρὸς» — adjunto adverbial da oração",
         "clauseId": "AP.3.18.C1",
         "governedBy": null
       },
@@ -320,7 +320,7 @@ export const apocalipse3v18 = {
         "Ap 3:18"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἱμάτια λευκὰ ἵνα περιβάλῃ καὶ μὴ φανερωθῇ ἡ …» — integrado ao constituinte com função de objeto direto «… ἵνα πλουτήσῃς, καὶ ἱμάτια λευκὰ ἵνα περιβάλῃ καὶ …»",
         "clauseId": "AP.3.18.C1",
         "governedBy": null
       },
@@ -344,7 +344,7 @@ export const apocalipse3v18 = {
         "Ap 3:18"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «ἱμάτια λευκὰ ἵνα περιβάλῃ καὶ μὴ φανερωθῇ ἡ …» — integrado ao constituinte com função de objeto direto «… πλουτήσῃς, καὶ ἱμάτια λευκὰ ἵνα περιβάλῃ καὶ μὴ …»",
         "clauseId": "AP.3.18.C1",
         "governedBy": null
       },
@@ -488,7 +488,7 @@ export const apocalipse3v18 = {
         "Ap 3:18"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ἡ αἰσχύνη τῆς γυμνότητός σου,» — sujeito da oração",
         "clauseId": "AP.3.18.C1",
         "governedBy": null
       },
@@ -512,7 +512,7 @@ export const apocalipse3v18 = {
         "Ap 3:18"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «αἰσχύνη τῆς γυμνότητός σου,» — integrado ao constituinte com função de sujeito «ἡ αἰσχύνη τῆς γυμνότητός σου,»",
         "clauseId": "AP.3.18.C1",
         "governedBy": null
       },
@@ -536,7 +536,7 @@ export const apocalipse3v18 = {
         "Ap 3:18"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς γυμνότητός σου,» — integrado ao constituinte com função de sujeito «ἡ αἰσχύνη τῆς γυμνότητός σου,»",
         "clauseId": "AP.3.18.C1",
         "governedBy": null
       },
@@ -560,7 +560,7 @@ export const apocalipse3v18 = {
         "Ap 3:18"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «γυμνότητός σου,» — integrado ao constituinte com função de sujeito «ἡ αἰσχύνη τῆς γυμνότητός σου,»",
         "clauseId": "AP.3.18.C1",
         "governedBy": null
       },
@@ -633,7 +633,7 @@ export const apocalipse3v18 = {
         "Ap 3:18"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Objeto direto da oração",
         "clauseId": "AP.3.18.C1",
         "governedBy": null
       },
@@ -681,7 +681,7 @@ export const apocalipse3v18 = {
         "Ap 3:18"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοὺς ὀφθαλμούς σου» — objeto direto da oração",
         "clauseId": "AP.3.18.C1",
         "governedBy": null
       },
@@ -705,7 +705,7 @@ export const apocalipse3v18 = {
         "Ap 3:18"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ὀφθαλμούς σου» — integrado ao constituinte com função de objeto direto «τοὺς ὀφθαλμούς σου»",
         "clauseId": "AP.3.18.C1",
         "governedBy": null
       },

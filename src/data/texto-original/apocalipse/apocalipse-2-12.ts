@@ -27,7 +27,7 @@ export const apocalipse2v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
       ],
@@ -51,12 +51,12 @@ export const apocalipse2v12 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo singular masculino. Glosa neste contexto: «ao». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τῷ ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας» — objeto indireto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῷ ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας» — objeto indireto da oração",
         "clauseId": "AP.2.12.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse2v12 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "mensageiro",
-      "explanation": "Substantivo dativo singular masculino. Glosa neste contexto: «anjo». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας»",
         "clauseId": "AP.2.12.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse2v12 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular feminino. Glosa neste contexto: «da». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τῆς ἐν Περγάμῳ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς ἐν Περγάμῳ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας»",
         "clauseId": "AP.2.12.C1",
         "governedBy": null
       },
@@ -123,12 +123,12 @@ export const apocalipse2v12 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "em",
-      "explanation": "Preposição. Glosa neste contexto: «em». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Preposição que introduz «ἐν Περγάμῳ» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐν Περγάμῳ» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας»",
         "clauseId": "AP.2.12.C1",
         "governedBy": null
       },
@@ -147,12 +147,12 @@ export const apocalipse2v12 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "Pérgamo",
-      "explanation": "Substantivo dativo singular feminino. Glosa neste contexto: «Pérgamo». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «ἐν Περγάμῳ» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἐν Περγάμῳ» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας»",
         "clauseId": "AP.2.12.C1",
         "governedBy": null
       },
@@ -171,12 +171,12 @@ export const apocalipse2v12 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "assembleia",
-      "explanation": "Substantivo genitivo singular feminino. Glosa neste contexto: «igreja». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «ἐν Περγάμῳ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἐν Περγάμῳ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας»",
         "clauseId": "AP.2.12.C1",
         "governedBy": null
       },
@@ -195,12 +195,12 @@ export const apocalipse2v12 = {
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "escrever",
-      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Glosa neste contexto: «escreve». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.12.C1",
         "governedBy": null
       },
@@ -220,12 +220,12 @@ export const apocalipse2v12 = {
       "morphologyCode": "----APN-",
       "morphology": "Pronome demonstrativo acusativo plural neutro",
       "meanings": "isto",
-      "explanation": "Pronome demonstrativo acusativo plural neutro. Glosa neste contexto: «assim». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Objeto direto da oração",
         "clauseId": "AP.2.12.C1",
         "governedBy": null
       },
@@ -244,12 +244,12 @@ export const apocalipse2v12 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "dizer",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Glosa neste contexto: «diz». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.12.C1",
         "governedBy": null
       },
@@ -268,12 +268,12 @@ export const apocalipse2v12 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Glosa neste contexto: «o». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «ὁ ἔχων τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ ἔχων τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·» — sujeito da oração",
         "clauseId": "AP.2.12.C1",
         "governedBy": null
       },
@@ -292,7 +292,7 @@ export const apocalipse2v12 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Glosa neste contexto: «tem». Particípio em construção sintática. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Particípio em construção sintática. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
       ],
@@ -316,12 +316,12 @@ export const apocalipse2v12 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·» — objeto direto da oração",
         "clauseId": "AP.2.12.C1",
         "governedBy": null
       },
@@ -340,12 +340,12 @@ export const apocalipse2v12 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "espada longa",
-      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «espada longa». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «ῥομφαίαν τὴν δίστομον» — integrado ao constituinte com função de objeto direto «τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ῥομφαίαν τὴν δίστομον» — integrado ao constituinte com função de objeto direto «τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·»",
         "clauseId": "AP.2.12.C1",
         "governedBy": null
       },
@@ -364,12 +364,12 @@ export const apocalipse2v12 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τὴν δίστομον» — integrado ao constituinte com função de objeto direto «τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν δίστομον» — integrado ao constituinte com função de objeto direto «τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·»",
         "clauseId": "AP.2.12.C1",
         "governedBy": null
       },
@@ -388,12 +388,12 @@ export const apocalipse2v12 = {
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
       "meanings": "de dois gumes",
-      "explanation": "Adjetivo acusativo singular feminino. Glosa neste contexto: «de dois gumes». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjetivo no constituinte «τὴν δίστομον» — integrado ao constituinte com função de objeto direto «τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjetivo no constituinte «τὴν δίστομον» — integrado ao constituinte com função de objeto direto «τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·»",
         "clauseId": "AP.2.12.C1",
         "governedBy": null
       },
@@ -412,12 +412,12 @@ export const apocalipse2v12 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τὴν ὀξεῖαν·» — integrado ao constituinte com função de objeto direto «τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν ὀξεῖαν·» — integrado ao constituinte com função de objeto direto «τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·»",
         "clauseId": "AP.2.12.C1",
         "governedBy": null
       },
@@ -436,12 +436,12 @@ export const apocalipse2v12 = {
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
       "meanings": "afiado",
-      "explanation": "Adjetivo acusativo singular feminino. Glosa neste contexto: «afiada». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjetivo no constituinte «τὴν ὀξεῖαν·» — integrado ao constituinte com função de objeto direto «τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjetivo no constituinte «τὴν ὀξεῖαν·» — integrado ao constituinte com função de objeto direto «τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·»",
         "clauseId": "AP.2.12.C1",
         "governedBy": null
       },

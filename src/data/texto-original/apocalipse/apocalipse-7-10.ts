@@ -57,7 +57,7 @@ export const apocalipse7v10 = {
         "Ap 7:10"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.10",
         "governedBy": null
       },
@@ -129,7 +129,7 @@ export const apocalipse7v10 = {
         "Ap 7:10"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.10",
         "governedBy": null
       },
@@ -154,7 +154,7 @@ export const apocalipse7v10 = {
         "Ap 7:10"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «Ἡ σωτηρία» — sujeito da oração",
         "clauseId": "AP.7.10",
         "governedBy": null
       },
@@ -202,7 +202,7 @@ export const apocalipse7v10 = {
         "Ap 7:10"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῷ θεῷ ἡμῶν» — integrado ao constituinte com função de objeto indireto «τῷ θεῷ ἡμῶν τῷ καθημένῳ ἐπὶ τῷ θρόνῳ …»",
         "clauseId": "AP.7.10",
         "governedBy": null
       },
@@ -274,7 +274,7 @@ export const apocalipse7v10 = {
         "Ap 7:10"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῷ καθημένῳ ἐπὶ τῷ θρόνῳ» — integrado ao constituinte com função de objeto indireto «τῷ θεῷ ἡμῶν τῷ καθημένῳ ἐπὶ τῷ θρόνῳ …»",
         "clauseId": "AP.7.10",
         "governedBy": null
       },
@@ -298,7 +298,7 @@ export const apocalipse7v10 = {
         "Ap 7:10"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.10",
         "governedBy": null
       },
@@ -346,7 +346,7 @@ export const apocalipse7v10 = {
         "Ap 7:10"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῷ θρόνῳ» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τῷ θρόνῳ»",
         "clauseId": "AP.7.10",
         "governedBy": null
       },
@@ -418,7 +418,7 @@ export const apocalipse7v10 = {
         "Ap 7:10"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῷ ἀρνίῳ.» — integrado ao constituinte com função de objeto indireto «… τῷ καθημένῳ ἐπὶ τῷ θρόνῳ καὶ τῷ ἀρνίῳ.»",
         "clauseId": "AP.7.10",
         "governedBy": null
       },

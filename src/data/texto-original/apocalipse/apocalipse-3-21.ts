@@ -31,7 +31,7 @@ export const apocalipse3v21 = {
         "Ap 3:21"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ νικῶν»",
         "clauseId": "AP.3.21.C1",
         "governedBy": null
       },
@@ -55,7 +55,7 @@ export const apocalipse3v21 = {
         "Ap 3:21"
       ],
       "syntax": {
-        "role": "Particípio",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.3.21.C1",
         "governedBy": null
       },
@@ -223,7 +223,7 @@ export const apocalipse3v21 = {
         "Ap 3:21"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῷ θρόνῳ μου,» — integrado ao constituinte com função de adjunto adverbial «ἐν τῷ θρόνῳ μου,»",
         "clauseId": "AP.3.21.C1",
         "governedBy": null
       },
@@ -440,7 +440,7 @@ export const apocalipse3v21 = {
         "Ap 3:21"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ πατρός μου» — integrado ao constituinte com função de adjunto adverbial «μετὰ τοῦ πατρός μου»",
         "clauseId": "AP.3.21.C1",
         "governedBy": null
       },
@@ -464,7 +464,7 @@ export const apocalipse3v21 = {
         "Ap 3:21"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «πατρός μου» — integrado ao constituinte com função de adjunto adverbial «μετὰ τοῦ πατρός μου»",
         "clauseId": "AP.3.21.C1",
         "governedBy": null
       },
@@ -536,7 +536,7 @@ export const apocalipse3v21 = {
         "Ap 3:21"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῷ θρόνῳ αὐτοῦ.» — integrado ao constituinte com função de adjunto adverbial «ἐν τῷ θρόνῳ αὐτοῦ.»",
         "clauseId": "AP.3.21.C1",
         "governedBy": null
       },

@@ -79,7 +79,7 @@ export const apocalipse3v8 = {
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰ ἔργα» — integrado ao constituinte com função de objeto direto «σου τὰ ἔργα»",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -103,7 +103,7 @@ export const apocalipse3v8 = {
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τὰ ἔργα» — integrado ao constituinte com função de objeto direto «σου τὰ ἔργα»",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -224,7 +224,7 @@ export const apocalipse3v8 = {
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «θύραν ἠνεῳγμένην,» — integrado ao constituinte com função de objeto direto «θύραν ἠνεῳγμένην, ἣν οὐδεὶς δύναται κλεῖσαι αὐτήν»",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -248,7 +248,7 @@ export const apocalipse3v8 = {
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Particípio",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -297,7 +297,7 @@ export const apocalipse3v8 = {
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Sujeito da oração",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -418,7 +418,7 @@ export const apocalipse3v8 = {
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «μικρὰν δύναμιν,» — objeto direto da oração",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -429,7 +429,7 @@ export const apocalipse3v8 = {
       "shortMorph": "V- 2PAI-S--",
       "greek": "ἔχεις",
       "transliteration": "echeis",
-      "gloss": "tinha",
+      "gloss": "tens",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",
@@ -466,7 +466,7 @@ export const apocalipse3v8 = {
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «μικρὰν δύναμιν,» — objeto direto da oração",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -563,7 +563,7 @@ export const apocalipse3v8 = {
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸν λόγον,» — integrado ao constituinte com função de objeto direto «μου τὸν λόγον,»",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -587,7 +587,7 @@ export const apocalipse3v8 = {
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τὸν λόγον,» — integrado ao constituinte com função de objeto direto «μου τὸν λόγον,»",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -684,7 +684,7 @@ export const apocalipse3v8 = {
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ ὄνομά μου.» — objeto direto da oração",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },
@@ -708,7 +708,7 @@ export const apocalipse3v8 = {
         "Ap 3:8"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ὄνομά μου.» — integrado ao constituinte com função de objeto direto «τὸ ὄνομά μου.»",
         "clauseId": "AP.3.8.C1",
         "governedBy": null
       },

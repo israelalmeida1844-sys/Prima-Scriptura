@@ -55,7 +55,7 @@ export const apocalipse3v7 = {
         "Ap 3:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῷ ἀγγέλῳ τῆς ἐν Φιλαδελφείᾳ ἐκκλησίας» — objeto indireto da oração",
         "clauseId": "AP.3.7.C1",
         "governedBy": null
       },
@@ -79,7 +79,7 @@ export const apocalipse3v7 = {
         "Ap 3:7"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἀγγέλῳ τῆς ἐν Φιλαδελφείᾳ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Φιλαδελφείᾳ ἐκκλησίας»",
         "clauseId": "AP.3.7.C1",
         "governedBy": null
       },
@@ -103,7 +103,7 @@ export const apocalipse3v7 = {
         "Ap 3:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς ἐν Φιλαδελφείᾳ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Φιλαδελφείᾳ ἐκκλησίας»",
         "clauseId": "AP.3.7.C1",
         "governedBy": null
       },
@@ -151,7 +151,7 @@ export const apocalipse3v7 = {
         "Ap 3:7"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἐν Φιλαδελφείᾳ» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Φιλαδελφείᾳ ἐκκλησίας»",
         "clauseId": "AP.3.7.C1",
         "governedBy": null
       },
@@ -175,7 +175,7 @@ export const apocalipse3v7 = {
         "Ap 3:7"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἐν Φιλαδελφείᾳ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Φιλαδελφείᾳ ἐκκλησίας»",
         "clauseId": "AP.3.7.C1",
         "governedBy": null
       },
@@ -186,7 +186,7 @@ export const apocalipse3v7 = {
       "shortMorph": "V- 2AAD-S--",
       "greek": "γράψον",
       "transliteration": "grapson",
-      "gloss": "escrever",
+      "gloss": "escreve",
       "strong": "G1125",
       "lemma": "γράφω",
       "lemmaTransliteration": "graphō",
@@ -235,7 +235,7 @@ export const apocalipse3v7 = {
       "shortMorph": "V- 3PAI-S--",
       "greek": "λέγει",
       "transliteration": "legei",
-      "gloss": "dizer",
+      "gloss": "diz",
       "strong": "G3004",
       "lemma": "λέγω",
       "lemmaTransliteration": "legō",
@@ -272,7 +272,7 @@ export const apocalipse3v7 = {
         "Ap 3:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ ἅγιος,» — integrado ao constituinte com função de sujeito «ὁ ἅγιος, ὁ ἀληθινός, ὁ ἔχων τὴν κλεῖν …»",
         "clauseId": "AP.3.7.C1",
         "governedBy": null
       },
@@ -296,7 +296,7 @@ export const apocalipse3v7 = {
         "Ap 3:7"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «ὁ ἅγιος,» — integrado ao constituinte com função de sujeito «ὁ ἅγιος, ὁ ἀληθινός, ὁ ἔχων τὴν κλεῖν …»",
         "clauseId": "AP.3.7.C1",
         "governedBy": null
       },
@@ -321,7 +321,7 @@ export const apocalipse3v7 = {
         "Ap 3:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ ἀληθινός,» — integrado ao constituinte com função de sujeito «ὁ ἅγιος, ὁ ἀληθινός, ὁ ἔχων τὴν κλεῖν …»",
         "clauseId": "AP.3.7.C1",
         "governedBy": null
       },
@@ -345,7 +345,7 @@ export const apocalipse3v7 = {
         "Ap 3:7"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «ὁ ἀληθινός,» — integrado ao constituinte com função de sujeito «ὁ ἅγιος, ὁ ἀληθινός, ὁ ἔχων τὴν κλεῖν …»",
         "clauseId": "AP.3.7.C1",
         "governedBy": null
       },
@@ -370,7 +370,7 @@ export const apocalipse3v7 = {
         "Ap 3:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ ἔχων τὴν κλεῖν Δαυίδ,» — integrado ao constituinte com função de sujeito «… ἅγιος, ὁ ἀληθινός, ὁ ἔχων τὴν κλεῖν Δαυίδ, …»",
         "clauseId": "AP.3.7.C1",
         "governedBy": null
       },
@@ -394,7 +394,7 @@ export const apocalipse3v7 = {
         "Ap 3:7"
       ],
       "syntax": {
-        "role": "Particípio",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.3.7.C1",
         "governedBy": null
       },
@@ -418,7 +418,7 @@ export const apocalipse3v7 = {
         "Ap 3:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν κλεῖν Δαυίδ,» — objeto direto da oração",
         "clauseId": "AP.3.7.C1",
         "governedBy": null
       },
@@ -442,7 +442,7 @@ export const apocalipse3v7 = {
         "Ap 3:7"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «κλεῖν Δαυίδ,» — integrado ao constituinte com função de objeto direto «τὴν κλεῖν Δαυίδ,»",
         "clauseId": "AP.3.7.C1",
         "governedBy": null
       },
@@ -466,7 +466,7 @@ export const apocalipse3v7 = {
         "Ap 3:7"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «κλεῖν Δαυίδ,» — integrado ao constituinte com função de objeto direto «τὴν κλεῖν Δαυίδ,»",
         "clauseId": "AP.3.7.C1",
         "governedBy": null
       },
@@ -491,7 +491,7 @@ export const apocalipse3v7 = {
         "Ap 3:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ ἀνοίγων καὶ οὐδεὶς κλείσει, καὶ κλείων καὶ …» — integrado ao constituinte com função de sujeito «… τὴν κλεῖν Δαυίδ, ὁ ἀνοίγων καὶ οὐδεὶς κλείσει, …»",
         "clauseId": "AP.3.7.C1",
         "governedBy": null
       },
@@ -515,7 +515,7 @@ export const apocalipse3v7 = {
         "Ap 3:7"
       ],
       "syntax": {
-        "role": "Particípio",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.3.7.C1",
         "governedBy": null
       },
@@ -563,7 +563,7 @@ export const apocalipse3v7 = {
         "Ap 3:7"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Sujeito da oração",
         "clauseId": "AP.3.7.C1",
         "governedBy": null
       },
@@ -636,7 +636,7 @@ export const apocalipse3v7 = {
         "Ap 3:7"
       ],
       "syntax": {
-        "role": "Particípio",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.3.7.C1",
         "governedBy": null
       },
@@ -684,7 +684,7 @@ export const apocalipse3v7 = {
         "Ap 3:7"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Sujeito da oração",
         "clauseId": "AP.3.7.C1",
         "governedBy": null
       },

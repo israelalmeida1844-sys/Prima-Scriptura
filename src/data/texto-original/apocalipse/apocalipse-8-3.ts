@@ -29,7 +29,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -54,7 +54,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo / numeral · nominativo · singular · masculino (MorphGNT: A- ----NSM-)",
       "meanings": "outro",
-      "explanation": "Glosa neste contexto: outro.",
+      "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -79,7 +79,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "Anjo, mensageiro celestial de Deus",
-      "explanation": "Glosa neste contexto: anjo.",
+      "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -104,7 +104,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "vir",
-      "explanation": "Glosa neste contexto: veio.",
+      "explanation": "Verbo principal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -129,7 +129,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -154,7 +154,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
       "meanings": "estar de pé",
-      "explanation": "Glosa neste contexto: pôs-se.",
+      "explanation": "Verbo coordenado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -179,7 +179,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "sobre",
-      "explanation": "Glosa neste contexto: junto a.",
+      "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -204,12 +204,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido · genitivo · singular · neutro (MorphGNT: RA ----GSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o (genitivo).",
+      "explanation": "Determinante do sintagma «τοῦ θυσιαστηρίου» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τοῦ θυσιαστηρίου». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ θυσιαστηρίου» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τοῦ θυσιαστηρίου»",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -229,7 +229,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo · genitivo · singular · neutro (MorphGNT: N- ----GSN-)",
       "meanings": "altar",
-      "explanation": "Glosa neste contexto: altar.",
+      "explanation": "Função não individualizada; consultar análise do versículo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -254,7 +254,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo · presente · voz ativa · particípio · nominativo · singular · masculino (MorphGNT: V- -PAPNSM-)",
       "meanings": "tinha",
-      "explanation": "Glosa neste contexto: tendo.",
+      "explanation": "Particípio circunstancial. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -279,7 +279,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo · acusativo · singular · masculino (MorphGNT: N- ----ASM-)",
       "meanings": "incensário; recipiente de incenso",
-      "explanation": "Glosa neste contexto: incensário.",
+      "explanation": "Objeto do particípio. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -304,7 +304,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----ASM-",
       "morphology": "Adjetivo / numeral · acusativo · singular · masculino (MorphGNT: A- ----ASM-)",
       "meanings": "de ouro",
-      "explanation": "Glosa neste contexto: de ouro.",
+      "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -329,7 +329,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -354,7 +354,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
       "meanings": "Dar, conceder por graça ou outorgar autoridade",
-      "explanation": "Glosa neste contexto: foram dados.",
+      "explanation": "Verbo passivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -379,7 +379,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----DSM-",
       "morphology": "Pronome pessoal · dativo · singular · masculino (MorphGNT: RP ----DSM-)",
       "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Glosa neste contexto: a ele.",
+      "explanation": "Dativo de destinatário. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -404,7 +404,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----NPN-",
       "morphology": "Substantivo · nominativo · plural · neutro (MorphGNT: N- ----NPN-)",
       "meanings": "Incenso, oferta aromática",
-      "explanation": "Glosa neste contexto: incensos.",
+      "explanation": "Sujeito neutro plural. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -429,7 +429,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----NPN-",
       "morphology": "Adjetivo / numeral · nominativo · plural · neutro (MorphGNT: A- ----NPN-)",
       "meanings": "muitas",
-      "explanation": "Glosa neste contexto: muitos.",
+      "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -454,7 +454,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "para que",
-      "explanation": "Glosa neste contexto: para que.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -479,7 +479,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "3FAI-S--",
       "morphology": "Verbo · futuro · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3FAI-S--)",
       "meanings": "Dar, conceder por graça ou outorgar autoridade",
-      "explanation": "Glosa neste contexto: dará (oferecer).",
+      "explanation": "Verbo da oração final. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -504,12 +504,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----DPF-",
       "morphology": "Artigo definido · dativo · plural · feminino (MorphGNT: RA ----DPF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: às.",
+      "explanation": "Determinante do sintagma «ταῖς προσευχαῖς τῶν ἁγίων πάντων» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ταῖς προσευχαῖς τῶν ἁγίων πάντων» — adjunto adverbial da oração",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -529,7 +529,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo · dativo · plural · feminino (MorphGNT: N- ----DPF-)",
       "meanings": "Oração",
-      "explanation": "Glosa neste contexto: orações.",
+      "explanation": "Dativo associado à oferta. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -554,12 +554,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido · genitivo · plural · masculino (MorphGNT: RA ----GPM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: dos.",
+      "explanation": "Determinante do sintagma «τῶν ἁγίων» — integrado ao constituinte com função de adjunto adverbial «ταῖς προσευχαῖς τῶν ἁγίων πάντων». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν ἁγίων» — integrado ao constituinte com função de adjunto adverbial «ταῖς προσευχαῖς τῶν ἁγίων πάντων»",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -579,7 +579,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----GPM-",
       "morphology": "Adjetivo / numeral · genitivo · plural · masculino (MorphGNT: A- ----GPM-)",
       "meanings": "santo",
-      "explanation": "Glosa neste contexto: santos.",
+      "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -604,7 +604,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----GPM-",
       "morphology": "Adjetivo / numeral · genitivo · plural · masculino (MorphGNT: A- ----GPM-)",
       "meanings": "todo",
-      "explanation": "Glosa neste contexto: todos.",
+      "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -629,7 +629,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "sobre",
-      "explanation": "Glosa neste contexto: sobre.",
+      "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -654,12 +654,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido · acusativo · singular · neutro (MorphGNT: RA ----ASN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «τὸ θυσιαστήριον τὸ χρυσοῦν» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τὸ θυσιαστήριον τὸ χρυσοῦν τὸ ἐνώπιον τοῦ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ θυσιαστήριον τὸ χρυσοῦν» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τὸ θυσιαστήριον τὸ χρυσοῦν τὸ ἐνώπιον τοῦ …»",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -679,7 +679,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo · acusativo · singular · neutro (MorphGNT: N- ----ASN-)",
       "meanings": "altar",
-      "explanation": "Glosa neste contexto: altar.",
+      "explanation": "Alvo da oferta. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -704,12 +704,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido · acusativo · singular · neutro (MorphGNT: RA ----ASN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «τὸ χρυσοῦν» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τὸ θυσιαστήριον τὸ χρυσοῦν τὸ ἐνώπιον τοῦ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ χρυσοῦν» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τὸ θυσιαστήριον τὸ χρυσοῦν τὸ ἐνώπιον τοῦ …»",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -729,7 +729,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----ASN-",
       "morphology": "Adjetivo / numeral · acusativo · singular · neutro (MorphGNT: A- ----ASN-)",
       "meanings": "de ouro",
-      "explanation": "Glosa neste contexto: de ouro.",
+      "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -754,12 +754,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido · acusativo · singular · neutro (MorphGNT: RA ----ASN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «τὸ ἐνώπιον τοῦ θρόνου.» — integrado ao constituinte com função de adjunto adverbial «… τὸ θυσιαστήριον τὸ χρυσοῦν τὸ ἐνώπιον τοῦ θρόνου.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ ἐνώπιον τοῦ θρόνου.» — integrado ao constituinte com função de adjunto adverbial «… τὸ θυσιαστήριον τὸ χρυσοῦν τὸ ἐνώπιον τοῦ θρόνου.»",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -779,7 +779,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "diante de",
-      "explanation": "Glosa neste contexto: diante de.",
+      "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -804,12 +804,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «τοῦ θρόνου.» — integrado ao constituinte com função de adjunto adverbial «… τὸ θυσιαστήριον τὸ χρυσοῦν τὸ ἐνώπιον τοῦ θρόνου.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ θρόνου.» — integrado ao constituinte com função de adjunto adverbial «… τὸ θυσιαστήριον τὸ χρυσοῦν τὸ ἐνώπιον τοῦ θρόνου.»",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -829,7 +829,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "trono",
-      "explanation": "Glosa neste contexto: trono.",
+      "explanation": "Função não individualizada; consultar análise do versículo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],

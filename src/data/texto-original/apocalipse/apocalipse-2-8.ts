@@ -27,7 +27,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -51,12 +51,12 @@ export const apocalipse2v8 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo singular masculino. Glosa neste contexto: «ao». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τῷ ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας» — objeto indireto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῷ ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας» — objeto indireto da oração",
         "clauseId": "AP.2.8.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse2v8 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "mensageiro",
-      "explanation": "Substantivo dativo singular masculino. Glosa neste contexto: «anjo». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας»",
         "clauseId": "AP.2.8.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse2v8 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular feminino. Glosa neste contexto: «da». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τῆς ἐν Σμύρνῃ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς ἐν Σμύρνῃ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας»",
         "clauseId": "AP.2.8.C1",
         "governedBy": null
       },
@@ -123,12 +123,12 @@ export const apocalipse2v8 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "em",
-      "explanation": "Preposição. Glosa neste contexto: «em». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Preposição que introduz «ἐν Σμύρνῃ» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐν Σμύρνῃ» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας»",
         "clauseId": "AP.2.8.C1",
         "governedBy": null
       },
@@ -147,12 +147,12 @@ export const apocalipse2v8 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
       "meanings": "Esmirna",
-      "explanation": "Substantivo dativo singular feminino. Glosa neste contexto: «Esmirna». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «ἐν Σμύρνῃ» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἐν Σμύρνῃ» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας»",
         "clauseId": "AP.2.8.C1",
         "governedBy": null
       },
@@ -171,12 +171,12 @@ export const apocalipse2v8 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "assembleia",
-      "explanation": "Substantivo genitivo singular feminino. Glosa neste contexto: «igreja». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «ἐν Σμύρνῃ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἐν Σμύρνῃ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας»",
         "clauseId": "AP.2.8.C1",
         "governedBy": null
       },
@@ -195,12 +195,12 @@ export const apocalipse2v8 = {
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
       "meanings": "escrever",
-      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular. Glosa neste contexto: «escreve». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.8.C1",
         "governedBy": null
       },
@@ -220,12 +220,12 @@ export const apocalipse2v8 = {
       "morphologyCode": "----APN-",
       "morphology": "Pronome demonstrativo acusativo plural neutro",
       "meanings": "isto",
-      "explanation": "Pronome demonstrativo acusativo plural neutro. Glosa neste contexto: «assim». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Objeto direto da oração",
         "clauseId": "AP.2.8.C1",
         "governedBy": null
       },
@@ -244,12 +244,12 @@ export const apocalipse2v8 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "dizer",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Glosa neste contexto: «diz». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.8.C1",
         "governedBy": null
       },
@@ -268,12 +268,12 @@ export const apocalipse2v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Glosa neste contexto: «o». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «ὁ πρῶτος» — integrado ao constituinte com função de sujeito «ὁ πρῶτος καὶ ὁ ἔσχατος, ὃς ἐγένετο νεκρὸς …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ πρῶτος» — integrado ao constituinte com função de sujeito «ὁ πρῶτος καὶ ὁ ἔσχατος, ὃς ἐγένετο νεκρὸς …»",
         "clauseId": "AP.2.8.C1",
         "governedBy": null
       },
@@ -292,12 +292,12 @@ export const apocalipse2v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "primeiro",
-      "explanation": "Adjetivo nominativo singular masculino. Glosa neste contexto: «primeiro». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjetivo no constituinte «ὁ πρῶτος» — integrado ao constituinte com função de sujeito «ὁ πρῶτος καὶ ὁ ἔσχατος, ὃς ἐγένετο νεκρὸς …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjetivo no constituinte «ὁ πρῶτος» — integrado ao constituinte com função de sujeito «ὁ πρῶτος καὶ ὁ ἔσχατος, ὃς ἐγένετο νεκρὸς …»",
         "clauseId": "AP.2.8.C1",
         "governedBy": null
       },
@@ -316,7 +316,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -340,12 +340,12 @@ export const apocalipse2v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Glosa neste contexto: «o». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «ὁ ἔσχατος,» — integrado ao constituinte com função de sujeito «ὁ πρῶτος καὶ ὁ ἔσχατος, ὃς ἐγένετο νεκρὸς …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ ἔσχατος,» — integrado ao constituinte com função de sujeito «ὁ πρῶτος καὶ ὁ ἔσχατος, ὃς ἐγένετο νεκρὸς …»",
         "clauseId": "AP.2.8.C1",
         "governedBy": null
       },
@@ -364,12 +364,12 @@ export const apocalipse2v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "último",
-      "explanation": "Adjetivo nominativo singular masculino. Glosa neste contexto: «último». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjetivo no constituinte «ὁ ἔσχατος,» — integrado ao constituinte com função de sujeito «… πρῶτος καὶ ὁ ἔσχατος, ὃς ἐγένετο νεκρὸς καὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjetivo no constituinte «ὁ ἔσχατος,» — integrado ao constituinte com função de sujeito «… πρῶτος καὶ ὁ ἔσχατος, ὃς ἐγένετο νεκρὸς καὶ …»",
         "clauseId": "AP.2.8.C1",
         "governedBy": null
       },
@@ -389,12 +389,12 @@ export const apocalipse2v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Pronome relativo nominativo singular masculino",
       "meanings": "que",
-      "explanation": "Pronome relativo nominativo singular masculino. Glosa neste contexto: «que». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Sujeito da oração",
         "clauseId": "AP.2.8.C1",
         "governedBy": null
       },
@@ -413,12 +413,12 @@ export const apocalipse2v8 = {
       "morphologyCode": "3AMI-S--",
       "morphology": "Verbo no aoristo, voz média, indicativo, 3ª pessoa singular",
       "meanings": "tornar-se",
-      "explanation": "Verbo no aoristo, voz média, indicativo, 3ª pessoa singular. Glosa neste contexto: «esteve». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Verbo de ligação da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Verbo de ligação da oração",
         "clauseId": "AP.2.8.C1",
         "governedBy": null
       },
@@ -437,12 +437,12 @@ export const apocalipse2v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "morto",
-      "explanation": "Adjetivo nominativo singular masculino. Glosa neste contexto: «morto». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicativo da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Predicativo da oração",
         "clauseId": "AP.2.8.C1",
         "governedBy": null
       },
@@ -461,7 +461,7 @@ export const apocalipse2v8 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
@@ -485,12 +485,12 @@ export const apocalipse2v8 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "viver",
-      "explanation": "Verbo no aoristo, voz ativa, indicativo, 3ª pessoa singular. Glosa neste contexto: «reviveu». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.8.C1",
         "governedBy": null
       },

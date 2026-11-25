@@ -29,7 +29,7 @@ export const apocalipse8v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
@@ -54,7 +54,7 @@ export const apocalipse8v9 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "morrer",
-      "explanation": "Glosa neste contexto: morreu.",
+      "explanation": "Verbo principal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
@@ -79,12 +79,12 @@ export const apocalipse8v9 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «τὸ τρίτον τῶν κτισμάτων τῶν ἐν τῇ θαλάσσῃ, …» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ τρίτον τῶν κτισμάτων τῶν ἐν τῇ θαλάσσῃ, …» — sujeito da oração",
         "clauseId": "AP.8.9",
         "governedBy": null
       },
@@ -104,7 +104,7 @@ export const apocalipse8v9 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
       "meanings": "terceiro",
-      "explanation": "Glosa neste contexto: terço.",
+      "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
@@ -129,12 +129,12 @@ export const apocalipse8v9 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: das.",
+      "explanation": "Determinante do sintagma «τῶν κτισμάτων» — integrado ao constituinte com função de sujeito «τὸ τρίτον τῶν κτισμάτων τῶν ἐν τῇ θαλάσσῃ, …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν κτισμάτων» — integrado ao constituinte com função de sujeito «τὸ τρίτον τῶν κτισμάτων τῶν ἐν τῇ θαλάσσῃ, …»",
         "clauseId": "AP.8.9",
         "governedBy": null
       },
@@ -154,7 +154,7 @@ export const apocalipse8v9 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "Criatura, ser criado",
-      "explanation": "Glosa neste contexto: criaturas.",
+      "explanation": "Genitivo partitivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
@@ -179,12 +179,12 @@ export const apocalipse8v9 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: os (artigo genitivo).",
+      "explanation": "Determinante do sintagma «τῶν ἐν τῇ θαλάσσῃ,» — integrado ao constituinte com função de sujeito «… τρίτον τῶν κτισμάτων τῶν ἐν τῇ θαλάσσῃ, τὰ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν ἐν τῇ θαλάσσῃ,» — integrado ao constituinte com função de sujeito «… τρίτον τῶν κτισμάτων τῶν ἐν τῇ θαλάσσῃ, τὰ …»",
         "clauseId": "AP.8.9",
         "governedBy": null
       },
@@ -204,7 +204,7 @@ export const apocalipse8v9 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "Em, dentro de, em meio a (uso adverbial ou temporal)",
-      "explanation": "Glosa neste contexto: em.",
+      "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
@@ -229,12 +229,12 @@ export const apocalipse8v9 = {
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido · dativo · singular · feminino (MorphGNT: RA ----DSF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «τῇ θαλάσσῃ,» — integrado ao constituinte com função de sujeito «… κτισμάτων τῶν ἐν τῇ θαλάσσῃ, τὰ ἔχοντα ψυχάς,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῇ θαλάσσῃ,» — integrado ao constituinte com função de sujeito «… κτισμάτων τῶν ἐν τῇ θαλάσσῃ, τὰ ἔχοντα ψυχάς,»",
         "clauseId": "AP.8.9",
         "governedBy": null
       },
@@ -254,7 +254,7 @@ export const apocalipse8v9 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo · dativo · singular · feminino (MorphGNT: N- ----DSF-)",
       "meanings": "mar",
-      "explanation": "Glosa neste contexto: mar.",
+      "explanation": "Função não individualizada; consultar análise do versículo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
@@ -279,12 +279,12 @@ export const apocalipse8v9 = {
       "morphologyCode": "----NPN-",
       "morphology": "Artigo definido · nominativo · plural · neutro (MorphGNT: RA ----NPN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: os (artigo retomador).",
+      "explanation": "Determinante do sintagma «τὰ ἔχοντα ψυχάς,» — integrado ao constituinte com função de sujeito «… κτισμάτων τῶν ἐν τῇ θαλάσσῃ, τὰ ἔχοντα ψυχάς,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰ ἔχοντα ψυχάς,» — integrado ao constituinte com função de sujeito «… κτισμάτων τῶν ἐν τῇ θαλάσσῃ, τὰ ἔχοντα ψυχάς,»",
         "clauseId": "AP.8.9",
         "governedBy": null
       },
@@ -304,7 +304,7 @@ export const apocalipse8v9 = {
       "morphologyCode": "-PAPNPN-",
       "morphology": "Verbo · presente · voz ativa · particípio · nominativo · plural · neutro (MorphGNT: V- -PAPNPN-)",
       "meanings": "tinha",
-      "explanation": "Glosa neste contexto: que têm.",
+      "explanation": "Particípio substantivado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
@@ -329,7 +329,7 @@ export const apocalipse8v9 = {
       "morphologyCode": "----APF-",
       "morphology": "Substantivo · acusativo · plural · feminino (MorphGNT: N- ----APF-)",
       "meanings": "vida; alma",
-      "explanation": "Glosa neste contexto: vida.",
+      "explanation": "Objeto do particípio. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
@@ -354,7 +354,7 @@ export const apocalipse8v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
@@ -379,12 +379,12 @@ export const apocalipse8v9 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «τὸ τρίτον τῶν πλοίων» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ τρίτον τῶν πλοίων» — sujeito da oração",
         "clauseId": "AP.8.9",
         "governedBy": null
       },
@@ -404,7 +404,7 @@ export const apocalipse8v9 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
       "meanings": "terceiro",
-      "explanation": "Glosa neste contexto: terço.",
+      "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
@@ -429,12 +429,12 @@ export const apocalipse8v9 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: dos.",
+      "explanation": "Determinante do sintagma «τῶν πλοίων» — integrado ao constituinte com função de sujeito «τὸ τρίτον τῶν πλοίων». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν πλοίων» — integrado ao constituinte com função de sujeito «τὸ τρίτον τῶν πλοίων»",
         "clauseId": "AP.8.9",
         "governedBy": null
       },
@@ -454,7 +454,7 @@ export const apocalipse8v9 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "navio; embarcação",
-      "explanation": "Glosa neste contexto: navios.",
+      "explanation": "Genitivo partitivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
@@ -479,7 +479,7 @@ export const apocalipse8v9 = {
       "morphologyCode": "3API-P--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · plural (MorphGNT: V- 3API-P--)",
       "meanings": "destruir; arruinar",
-      "explanation": "Glosa neste contexto: foram destruídos.",
+      "explanation": "Verbo passivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],

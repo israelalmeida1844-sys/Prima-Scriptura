@@ -395,7 +395,7 @@ export const apocalipse7v8 = {
         "Ap 7:8"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.8",
         "governedBy": null
       },

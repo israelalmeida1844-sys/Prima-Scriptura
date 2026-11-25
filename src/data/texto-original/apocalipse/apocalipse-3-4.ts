@@ -42,7 +42,7 @@ export const apocalipse3v4 = {
       "shortMorph": "V- 2PAI-S--",
       "greek": "ἔχεις",
       "transliteration": "echeis",
-      "gloss": "tinha",
+      "gloss": "tens",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",
@@ -79,7 +79,7 @@ export const apocalipse3v4 = {
         "Ap 3:4"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «ὀλίγα ὀνόματα» — objeto direto da oração",
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },
@@ -103,7 +103,7 @@ export const apocalipse3v4 = {
         "Ap 3:4"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ὀλίγα ὀνόματα» — objeto direto da oração",
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },
@@ -151,7 +151,7 @@ export const apocalipse3v4 = {
         "Ap 3:4"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἐν Σάρδεσιν» — adjunto adverbial da oração",
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },
@@ -247,7 +247,7 @@ export const apocalipse3v4 = {
         "Ap 3:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰ ἱμάτια αὐτῶν,» — objeto direto da oração",
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },
@@ -271,7 +271,7 @@ export const apocalipse3v4 = {
         "Ap 3:4"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἱμάτια αὐτῶν,» — integrado ao constituinte com função de objeto direto «τὰ ἱμάτια αὐτῶν,»",
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },
@@ -440,7 +440,7 @@ export const apocalipse3v4 = {
         "Ap 3:4"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «ἐν λευκοῖς,» — adjunto adverbial da oração",
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },
@@ -489,7 +489,7 @@ export const apocalipse3v4 = {
         "Ap 3:4"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Predicativo da oração",
         "clauseId": "AP.3.4.C1",
         "governedBy": null
       },

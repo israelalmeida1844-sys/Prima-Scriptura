@@ -29,12 +29,12 @@ export const apocalipse6v6 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ ἤκουσα ὡς φωνὴν ἐν μέσῳ τῶν τεσσάρων …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Conjunção que articula os constituintes de «καὶ ἤκουσα ὡς φωνὴν ἐν μέσῳ τῶν τεσσάρων …»",
         "clauseId": "AP.6.6",
         "governedBy": null
       },
@@ -53,12 +53,12 @@ export const apocalipse6v6 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "MorphGNT 6.12: V- 1AAI-S--",
       "meanings": "ouvir; escutar",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.6.6",
         "governedBy": null
       },
@@ -77,12 +77,12 @@ export const apocalipse6v6 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "como",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conjunção que articula os constituintes de «ὡς φωνὴν ἐν μέσῳ τῶν τεσσάρων ζῴων λέγουσαν· …» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Conjunção que articula os constituintes de «ὡς φωνὴν ἐν μέσῳ τῶν τεσσάρων ζῴων λέγουσαν· …» — objeto direto da oração",
         "clauseId": "AP.6.6",
         "governedBy": null
       },
@@ -101,7 +101,7 @@ export const apocalipse6v6 = {
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: N- ----ASF-",
       "meanings": "voz; som",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
@@ -125,7 +125,7 @@ export const apocalipse6v6 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
       "meanings": "Estabelece circunstância de tempo, modo, esfera de localização ou associação íntima.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conector preposicional. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
@@ -149,12 +149,12 @@ export const apocalipse6v6 = {
       "morphologyCode": "----DSN-",
       "morphology": "MorphGNT 6.12: A- ----DSN-",
       "meanings": "meio; centro",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Adjetivo no constituinte «μέσῳ τῶν τεσσάρων ζῴων» — integrado ao constituinte com função de adjunto adverbial «ἐν μέσῳ τῶν τεσσάρων ζῴων». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Adjetivo no constituinte «μέσῳ τῶν τεσσάρων ζῴων» — integrado ao constituinte com função de adjunto adverbial «ἐν μέσῳ τῶν τεσσάρων ζῴων»",
         "clauseId": "AP.6.6",
         "governedBy": null
       },
@@ -173,12 +173,12 @@ export const apocalipse6v6 = {
       "morphologyCode": "----GPN-",
       "morphology": "MorphGNT 6.12: RA ----GPN-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Determinante do sintagma «τῶν τεσσάρων ζῴων» — integrado ao constituinte com função de adjunto adverbial «ἐν μέσῳ τῶν τεσσάρων ζῴων». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν τεσσάρων ζῴων» — integrado ao constituinte com função de adjunto adverbial «ἐν μέσῳ τῶν τεσσάρων ζῴων»",
         "clauseId": "AP.6.6",
         "governedBy": null
       },
@@ -197,12 +197,12 @@ export const apocalipse6v6 = {
       "morphologyCode": "----GPN-",
       "morphology": "MorphGNT 6.12: A- ----GPN-",
       "meanings": "Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Adjetivo no constituinte «τεσσάρων ζῴων» — integrado ao constituinte com função de adjunto adverbial «ἐν μέσῳ τῶν τεσσάρων ζῴων». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Adjetivo no constituinte «τεσσάρων ζῴων» — integrado ao constituinte com função de adjunto adverbial «ἐν μέσῳ τῶν τεσσάρων ζῴων»",
         "clauseId": "AP.6.6",
         "governedBy": null
       },
@@ -221,7 +221,7 @@ export const apocalipse6v6 = {
       "morphologyCode": "----GPN-",
       "morphology": "MorphGNT 6.12: N- ----GPN-",
       "meanings": "Ser vivente; designa as quatro criaturas próximas ao trono em 4:6–9.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
@@ -245,12 +245,12 @@ export const apocalipse6v6 = {
       "morphologyCode": "-PAPASF-",
       "morphology": "MorphGNT 6.12: V- -PAPASF-",
       "meanings": "dizer; declarar",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.6.6",
         "governedBy": null
       },
@@ -270,7 +270,7 @@ export const apocalipse6v6 = {
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: N- ----NSF-",
       "meanings": "Medida antiga de capacidade para cereais, aproximadamente próxima de um litro, variável conforme sistema local e época.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
@@ -294,7 +294,7 @@ export const apocalipse6v6 = {
       "morphologyCode": "----GSM-",
       "morphology": "MorphGNT 6.12: N- ----GSM-",
       "meanings": "Trigo ou cereal empregado para farinha e alimentação; em 6:6 aparece no genitivo de conteúdo da medida.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
@@ -318,7 +318,7 @@ export const apocalipse6v6 = {
       "morphologyCode": "----GSN-",
       "morphology": "MorphGNT 6.12: N- ----GSN-",
       "meanings": "Denário, moeda romana de prata; em 6:6 funciona como unidade de preço do cereal.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
@@ -343,12 +343,12 @@ export const apocalipse6v6 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ τρεῖς χοίνικες κριθῶν δηναρίου·» — integrado ao constituinte com função de objeto direto «Χοῖνιξ σίτου δηναρίου, καὶ τρεῖς χοίνικες κριθῶν δηναρίου· …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Conjunção que articula os constituintes de «καὶ τρεῖς χοίνικες κριθῶν δηναρίου·» — integrado ao constituinte com função de objeto direto «Χοῖνιξ σίτου δηναρίου, καὶ τρεῖς χοίνικες κριθῶν δηναρίου· …»",
         "clauseId": "AP.6.6",
         "governedBy": null
       },
@@ -367,12 +367,12 @@ export const apocalipse6v6 = {
       "morphologyCode": "----NPF-",
       "morphology": "MorphGNT 6.12: A- ----NPF-",
       "meanings": "Numeral cardinal de valor três, flexionado conforme o gênero e o caso do substantivo a que se refere.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Adjetivo no constituinte «τρεῖς χοίνικες κριθῶν» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Adjetivo no constituinte «τρεῖς χοίνικες κριθῶν» — sujeito da oração",
         "clauseId": "AP.6.6",
         "governedBy": null
       },
@@ -391,7 +391,7 @@ export const apocalipse6v6 = {
       "morphologyCode": "----NPF-",
       "morphology": "MorphGNT 6.12: N- ----NPF-",
       "meanings": "Medida antiga de capacidade para cereais, aproximadamente próxima de um litro, variável conforme sistema local e época.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
@@ -415,7 +415,7 @@ export const apocalipse6v6 = {
       "morphologyCode": "----GPF-",
       "morphology": "MorphGNT 6.12: N- ----GPF-",
       "meanings": "Cevada, cereal usado como alimento humano e animal, normalmente com preço inferior ao trigo em condições semelhantes.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
@@ -439,7 +439,7 @@ export const apocalipse6v6 = {
       "morphologyCode": "----GSN-",
       "morphology": "MorphGNT 6.12: N- ----GSN-",
       "meanings": "Denário, moeda romana de prata; em 6:6 funciona como unidade de preço do cereal.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
@@ -464,12 +464,12 @@ export const apocalipse6v6 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ τὸ ἔλαιον καὶ τὸν οἶνον μὴ ἀδικήσῃς.» — integrado ao constituinte com função de objeto direto «… χοίνικες κριθῶν δηναρίου· καὶ τὸ ἔλαιον καὶ τὸν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Conjunção que articula os constituintes de «καὶ τὸ ἔλαιον καὶ τὸν οἶνον μὴ ἀδικήσῃς.» — integrado ao constituinte com função de objeto direto «… χοίνικες κριθῶν δηναρίου· καὶ τὸ ἔλαιον καὶ τὸν …»",
         "clauseId": "AP.6.6",
         "governedBy": null
       },
@@ -488,12 +488,12 @@ export const apocalipse6v6 = {
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: RA ----ASN-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Determinante do sintagma «τὸ ἔλαιον» — integrado ao constituinte com função de objeto direto «τὸ ἔλαιον καὶ τὸν οἶνον». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ ἔλαιον» — integrado ao constituinte com função de objeto direto «τὸ ἔλαιον καὶ τὸν οἶνον»",
         "clauseId": "AP.6.6",
         "governedBy": null
       },
@@ -512,7 +512,7 @@ export const apocalipse6v6 = {
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: N- ----ASN-",
       "meanings": "Azeite ou óleo de oliva; o contexto de 6:6 o distingue dos cereais cotados por medida.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
@@ -536,12 +536,12 @@ export const apocalipse6v6 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ τὸν οἶνον» — integrado ao constituinte com função de objeto direto «τὸ ἔλαιον καὶ τὸν οἶνον». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Conjunção que articula os constituintes de «καὶ τὸν οἶνον» — integrado ao constituinte com função de objeto direto «τὸ ἔλαιον καὶ τὸν οἶνον»",
         "clauseId": "AP.6.6",
         "governedBy": null
       },
@@ -560,12 +560,12 @@ export const apocalipse6v6 = {
       "morphologyCode": "----ASM-",
       "morphology": "MorphGNT 6.12: RA ----ASM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Determinante do sintagma «τὸν οἶνον» — integrado ao constituinte com função de objeto direto «τὸ ἔλαιον καὶ τὸν οἶνον». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸν οἶνον» — integrado ao constituinte com função de objeto direto «τὸ ἔλαιον καὶ τὸν οἶνον»",
         "clauseId": "AP.6.6",
         "governedBy": null
       },
@@ -584,7 +584,7 @@ export const apocalipse6v6 = {
       "morphologyCode": "----ASM-",
       "morphology": "MorphGNT 6.12: N- ----ASM-",
       "meanings": "Vinho, produto da uva e da viticultura, mencionado junto ao azeite em 6:6.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
@@ -608,12 +608,12 @@ export const apocalipse6v6 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: D- --------",
       "meanings": "não; partícula negativa",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Adjunto adverbial da oração",
         "clauseId": "AP.6.6",
         "governedBy": null
       },
@@ -632,12 +632,12 @@ export const apocalipse6v6 = {
       "morphologyCode": "2AAS-S--",
       "morphology": "MorphGNT 6.12: V- 2AAS-S--",
       "meanings": "ἀδικέω é agir injustamente ou causar dano. Em 2:11, a forma ἀδικηθῇ é aoristo passivo subjuntivo após οὐ μή, negação enfática prospectiva.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:6"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.6.6",
         "governedBy": null
       },

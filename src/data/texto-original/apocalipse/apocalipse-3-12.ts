@@ -31,7 +31,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ νικῶν»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -55,7 +55,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Particípio",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -127,7 +127,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Segundo objeto da oração",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -175,7 +175,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῷ ναῷ τοῦ θεοῦ μου,» — integrado ao constituinte com função de adjunto adverbial «ἐν τῷ ναῷ τοῦ θεοῦ μου,»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -199,7 +199,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ναῷ τοῦ θεοῦ μου,» — integrado ao constituinte com função de adjunto adverbial «ἐν τῷ ναῷ τοῦ θεοῦ μου,»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -223,7 +223,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ θεοῦ μου,» — integrado ao constituinte com função de adjunto adverbial «ἐν τῷ ναῷ τοῦ θεοῦ μου,»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -234,7 +234,7 @@ export const apocalipse3v12 = {
       "shortMorph": "N- ----GSM-",
       "greek": "θεοῦ",
       "transliteration": "theou",
-      "gloss": "o deus supremo",
+      "gloss": "Deus",
       "strong": "G2316",
       "lemma": "θεός",
       "lemmaTransliteration": "theos",
@@ -247,7 +247,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «θεοῦ μου,» — integrado ao constituinte com função de adjunto adverbial «ἐν τῷ ναῷ τοῦ θεοῦ μου,»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -537,7 +537,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ ὄνομα τοῦ θεοῦ μου» — integrado ao constituinte com função de objeto direto «τὸ ὄνομα τοῦ θεοῦ μου καὶ τὸ ὄνομα …»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -561,7 +561,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ὄνομα τοῦ θεοῦ μου» — integrado ao constituinte com função de objeto direto «τὸ ὄνομα τοῦ θεοῦ μου καὶ τὸ ὄνομα …»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -585,7 +585,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ θεοῦ μου» — integrado ao constituinte com função de objeto direto «τὸ ὄνομα τοῦ θεοῦ μου καὶ τὸ ὄνομα …»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -596,7 +596,7 @@ export const apocalipse3v12 = {
       "shortMorph": "N- ----GSM-",
       "greek": "θεοῦ",
       "transliteration": "theou",
-      "gloss": "o deus supremo",
+      "gloss": "Deus",
       "strong": "G2316",
       "lemma": "θεός",
       "lemmaTransliteration": "theos",
@@ -609,7 +609,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «θεοῦ μου» — integrado ao constituinte com função de objeto direto «τὸ ὄνομα τοῦ θεοῦ μου καὶ τὸ ὄνομα …»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -681,7 +681,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ ὄνομα τῆς πόλεως τοῦ θεοῦ μου, τῆς …» — integrado ao constituinte com função de objeto direto «… θεοῦ μου καὶ τὸ ὄνομα τῆς πόλεως τοῦ …»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -705,7 +705,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ὄνομα τῆς πόλεως τοῦ θεοῦ μου, τῆς καινῆς …» — integrado ao constituinte com função de objeto direto «… μου καὶ τὸ ὄνομα τῆς πόλεως τοῦ θεοῦ …»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -729,7 +729,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς πόλεως τοῦ θεοῦ μου,» — integrado ao constituinte com função de objeto direto «… καὶ τὸ ὄνομα τῆς πόλεως τοῦ θεοῦ μου, …»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -753,7 +753,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «πόλεως τοῦ θεοῦ μου,» — integrado ao constituinte com função de objeto direto «… τὸ ὄνομα τῆς πόλεως τοῦ θεοῦ μου, τῆς …»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -777,7 +777,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ θεοῦ μου,» — integrado ao constituinte com função de objeto direto «… ὄνομα τῆς πόλεως τοῦ θεοῦ μου, τῆς καινῆς …»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -788,7 +788,7 @@ export const apocalipse3v12 = {
       "shortMorph": "N- ----GSM-",
       "greek": "θεοῦ",
       "transliteration": "theou",
-      "gloss": "o deus supremo",
+      "gloss": "Deus",
       "strong": "G2316",
       "lemma": "θεός",
       "lemmaTransliteration": "theos",
@@ -801,7 +801,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «θεοῦ μου,» — integrado ao constituinte com função de objeto direto «… τῆς πόλεως τοῦ θεοῦ μου, τῆς καινῆς Ἰερουσαλήμ, …»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -850,7 +850,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς καινῆς Ἰερουσαλήμ,» — integrado ao constituinte com função de objeto direto «… τοῦ θεοῦ μου, τῆς καινῆς Ἰερουσαλήμ, ἡ καταβαίνουσα …»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -874,7 +874,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «καινῆς Ἰερουσαλήμ,» — integrado ao constituinte com função de objeto direto «… θεοῦ μου, τῆς καινῆς Ἰερουσαλήμ, ἡ καταβαίνουσα ἐκ …»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -898,7 +898,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «καινῆς Ἰερουσαλήμ,» — integrado ao constituinte com função de objeto direto «… μου, τῆς καινῆς Ἰερουσαλήμ, ἡ καταβαίνουσα ἐκ τοῦ …»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -923,7 +923,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ἡ καταβαίνουσα ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ θεοῦ …» — integrado ao constituinte com função de objeto direto «… τῆς καινῆς Ἰερουσαλήμ, ἡ καταβαίνουσα ἐκ τοῦ οὐρανοῦ …»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -947,7 +947,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Particípio",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -995,7 +995,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ οὐρανοῦ» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ οὐρανοῦ»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -1019,7 +1019,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τοῦ οὐρανοῦ» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ οὐρανοῦ»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -1067,7 +1067,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ θεοῦ μου,» — integrado ao constituinte com função de adjunto adverbial «ἀπὸ τοῦ θεοῦ μου,»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -1078,7 +1078,7 @@ export const apocalipse3v12 = {
       "shortMorph": "N- ----GSM-",
       "greek": "θεοῦ",
       "transliteration": "theou",
-      "gloss": "o deus supremo",
+      "gloss": "Deus",
       "strong": "G2316",
       "lemma": "θεός",
       "lemmaTransliteration": "theos",
@@ -1091,7 +1091,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «θεοῦ μου,» — integrado ao constituinte com função de adjunto adverbial «ἀπὸ τοῦ θεοῦ μου,»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -1164,7 +1164,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ ὄνομά μου τὸ καινόν.» — integrado ao constituinte com função de objeto direto «… θεοῦ μου, καὶ τὸ ὄνομά μου τὸ καινόν.»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -1188,7 +1188,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ὄνομά μου» — integrado ao constituinte com função de objeto direto «… θεοῦ μου, καὶ τὸ ὄνομά μου τὸ καινόν.»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -1236,7 +1236,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ καινόν.» — integrado ao constituinte com função de objeto direto «… θεοῦ μου, καὶ τὸ ὄνομά μου τὸ καινόν.»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },
@@ -1260,7 +1260,7 @@ export const apocalipse3v12 = {
         "Ap 3:12"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «τὸ καινόν.» — integrado ao constituinte com função de objeto direto «… θεοῦ μου, καὶ τὸ ὄνομά μου τὸ καινόν.»",
         "clauseId": "AP.3.12.C1",
         "governedBy": null
       },

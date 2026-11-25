@@ -29,7 +29,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -54,12 +54,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido · nominativo · singular · masculino (MorphGNT: RA ----NSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «ὁ τρίτος ἄγγελος» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ τρίτος ἄγγελος» — sujeito da oração",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -79,7 +79,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo / numeral · nominativo · singular · masculino (MorphGNT: A- ----NSM-)",
       "meanings": "terceiro",
-      "explanation": "Glosa neste contexto: terceiro.",
+      "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -104,7 +104,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "Anjo, mensageiro celestial de Deus",
-      "explanation": "Glosa neste contexto: anjo.",
+      "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -129,7 +129,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "tocar trombeta",
-      "explanation": "Glosa neste contexto: tocou a trombeta.",
+      "explanation": "Verbo principal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -154,7 +154,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -179,7 +179,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "caí",
-      "explanation": "Glosa neste contexto: caiu.",
+      "explanation": "Verbo coordenado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -204,7 +204,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "de",
-      "explanation": "Glosa neste contexto: de.",
+      "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -229,12 +229,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o (genitivo).",
+      "explanation": "Determinante do sintagma «τοῦ οὐρανοῦ» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ οὐρανοῦ». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ οὐρανοῦ» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ οὐρανοῦ»",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -254,7 +254,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "céu",
-      "explanation": "Glosa neste contexto: céu.",
+      "explanation": "Função não individualizada; consultar análise do versículo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -279,7 +279,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "estrelas",
-      "explanation": "Glosa neste contexto: estrela.",
+      "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -304,7 +304,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo / numeral · nominativo · singular · masculino (MorphGNT: A- ----NSM-)",
       "meanings": "grande",
-      "explanation": "Glosa neste contexto: grande.",
+      "explanation": "Adjetivo atributivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -329,7 +329,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "-PPPNSM-",
       "morphology": "Verbo · presente · voz passiva · particípio · nominativo · singular · masculino (MorphGNT: V- -PPPNSM-)",
       "meanings": "arder; queimar",
-      "explanation": "Glosa neste contexto: ardendo.",
+      "explanation": "Particípio circunstancial. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -354,7 +354,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "como",
-      "explanation": "Glosa neste contexto: como.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -379,7 +379,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
       "meanings": "lâmpada; tocha",
-      "explanation": "Glosa neste contexto: tocha.",
+      "explanation": "Termo da comparação. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -404,7 +404,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -429,7 +429,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "caí",
-      "explanation": "Glosa neste contexto: caiu.",
+      "explanation": "Verbo coordenado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -454,7 +454,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "sobre",
-      "explanation": "Glosa neste contexto: sobre.",
+      "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -479,12 +479,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido · acusativo · singular · neutro (MorphGNT: RA ----ASN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «τὸ τρίτον τῶν ποταμῶν» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τὸ τρίτον τῶν ποταμῶν καὶ ἐπὶ τὰς …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ τρίτον τῶν ποταμῶν» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τὸ τρίτον τῶν ποταμῶν καὶ ἐπὶ τὰς …»",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -504,7 +504,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "----ASN-",
       "morphology": "Adjetivo / numeral · acusativo · singular · neutro (MorphGNT: A- ----ASN-)",
       "meanings": "terceiro",
-      "explanation": "Glosa neste contexto: terço.",
+      "explanation": "Alvo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -529,12 +529,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido · genitivo · plural · masculino (MorphGNT: RA ----GPM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: dos.",
+      "explanation": "Determinante do sintagma «τῶν ποταμῶν» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τὸ τρίτον τῶν ποταμῶν καὶ ἐπὶ τὰς …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν ποταμῶν» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τὸ τρίτον τῶν ποταμῶν καὶ ἐπὶ τὰς …»",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -554,7 +554,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo · genitivo · plural · masculino (MorphGNT: N- ----GPM-)",
       "meanings": "rio",
-      "explanation": "Glosa neste contexto: rios.",
+      "explanation": "Genitivo partitivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -579,7 +579,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -604,7 +604,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "sobre",
-      "explanation": "Glosa neste contexto: sobre.",
+      "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -629,12 +629,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "----APF-",
       "morphology": "Artigo definido · acusativo · plural · feminino (MorphGNT: RA ----APF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: as.",
+      "explanation": "Determinante do sintagma «τὰς πηγὰς τῶν ὑδάτων.» — integrado ao constituinte com função de adjunto adverbial «… τῶν ποταμῶν καὶ ἐπὶ τὰς πηγὰς τῶν ὑδάτων.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰς πηγὰς τῶν ὑδάτων.» — integrado ao constituinte com função de adjunto adverbial «… τῶν ποταμῶν καὶ ἐπὶ τὰς πηγὰς τῶν ὑδάτων.»",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -654,7 +654,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "----APF-",
       "morphology": "Substantivo · acusativo · plural · feminino (MorphGNT: N- ----APF-)",
       "meanings": "fonte; nascente",
-      "explanation": "Glosa neste contexto: fontes.",
+      "explanation": "Alvo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -679,12 +679,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: das.",
+      "explanation": "Determinante do sintagma «τῶν ὑδάτων.» — integrado ao constituinte com função de adjunto adverbial «… τῶν ποταμῶν καὶ ἐπὶ τὰς πηγὰς τῶν ὑδάτων.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν ὑδάτων.» — integrado ao constituinte com função de adjunto adverbial «… τῶν ποταμῶν καὶ ἐπὶ τὰς πηγὰς τῶν ὑδάτων.»",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -704,7 +704,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "águas",
-      "explanation": "Glosa neste contexto: águas.",
+      "explanation": "Função não individualizada; consultar análise do versículo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],

@@ -5,7 +5,7 @@ export const apocalipse7v14 = {
   "verse": 14,
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
-  "translation": "Eu lhe disse: Meu senhor, tu sabes. Ele me disse: Estes são os que vêm da grande tribulação; lavaram seus mantos e os tornaram brancos no sangue do Cordeiro.",
+  "translation": "Eu lhe disse: \"Meu senhor, tu sabes. Ele me disse: Estes são os que vêm da grande tribulação; lavaram seus mantos e os tornaram brancos no sangue do Cordeiro.\"",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): εἴρηκα WH Treg NA28 ] εἶπον RP; αὐτὰς WH Treg NA28 ] – RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «μου»; «εἶπέν» → «εἶπέ».",
   "syntacticNotes": [
@@ -57,7 +57,7 @@ export const apocalipse7v14 = {
         "Ap 7:14"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.14",
         "governedBy": null
       },
@@ -179,7 +179,7 @@ export const apocalipse7v14 = {
         "Ap 7:14"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.14",
         "governedBy": null
       },
@@ -228,7 +228,7 @@ export const apocalipse7v14 = {
         "Ap 7:14"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.14",
         "governedBy": null
       },
@@ -301,7 +301,7 @@ export const apocalipse7v14 = {
         "Ap 7:14"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo de ligação da oração",
         "clauseId": "AP.7.14",
         "governedBy": null
       },
@@ -325,7 +325,7 @@ export const apocalipse7v14 = {
         "Ap 7:14"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «οἱ ἐρχόμενοι ἐκ τῆς θλίψεως τῆς μεγάλης,» — predicativo da oração",
         "clauseId": "AP.7.14",
         "governedBy": null
       },
@@ -349,7 +349,7 @@ export const apocalipse7v14 = {
         "Ap 7:14"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.14",
         "governedBy": null
       },
@@ -397,7 +397,7 @@ export const apocalipse7v14 = {
         "Ap 7:14"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς θλίψεως τῆς μεγάλης,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῆς θλίψεως τῆς μεγάλης,»",
         "clauseId": "AP.7.14",
         "governedBy": null
       },
@@ -445,7 +445,7 @@ export const apocalipse7v14 = {
         "Ap 7:14"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς μεγάλης,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῆς θλίψεως τῆς μεγάλης,»",
         "clauseId": "AP.7.14",
         "governedBy": null
       },
@@ -518,7 +518,7 @@ export const apocalipse7v14 = {
         "Ap 7:14"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.14",
         "governedBy": null
       },
@@ -542,7 +542,7 @@ export const apocalipse7v14 = {
         "Ap 7:14"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰς στολὰς αὐτῶν» — objeto direto da oração",
         "clauseId": "AP.7.14",
         "governedBy": null
       },
@@ -638,7 +638,7 @@ export const apocalipse7v14 = {
         "Ap 7:14"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.14",
         "governedBy": null
       },
@@ -710,7 +710,7 @@ export const apocalipse7v14 = {
         "Ap 7:14"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῷ αἵματι τοῦ ἀρνίου.» — integrado ao constituinte com função de adjunto adverbial «ἐν τῷ αἵματι τοῦ ἀρνίου.»",
         "clauseId": "AP.7.14",
         "governedBy": null
       },
@@ -758,7 +758,7 @@ export const apocalipse7v14 = {
         "Ap 7:14"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ ἀρνίου.» — integrado ao constituinte com função de adjunto adverbial «ἐν τῷ αἵματι τοῦ ἀρνίου.»",
         "clauseId": "AP.7.14",
         "governedBy": null
       },

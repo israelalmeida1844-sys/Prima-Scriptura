@@ -5,7 +5,7 @@ export const apocalipse8v13 = {
   "verse": 13,
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados",
-  "translation": "Vi e ouvi uma águia voando no meio do céu, dizendo em alta voz: Ai, ai, ai dos habitantes da terra, por causa dos restantes sons da trombeta dos três anjos que ainda vão tocá-la!",
+  "translation": "E vi e ouvi uma águia voando no meio do céu, dizendo em alta voz: Ai, ai, ai dos habitantes da terra, por causa dos restantes sons da trombeta dos três anjos que ainda vão tocá-la!",
   "translationNote": "Tradução editorial contextual.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): τοὺς κατοικοῦντας WH Treg NA28 ] τοῖς κατοικοῦσιν RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἀετοῦ πετομένου» → «ἀγγέλου πετωμένου»; «τοὺς κατοικοῦντας» → «τοῖς κατοικοῦσιν».",
   "syntacticNotes": [
@@ -29,7 +29,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -54,7 +54,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 1ª pessoa · singular (MorphGNT: V- 1AAI-S--)",
       "meanings": "Ver ou perceber visualmente; Contemplar realidades em uma visão revelatória",
-      "explanation": "Glosa neste contexto: vi.",
+      "explanation": "Verbo principal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -79,7 +79,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -104,7 +104,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 1ª pessoa · singular (MorphGNT: V- 1AAI-S--)",
       "meanings": "ouvir",
-      "explanation": "Glosa neste contexto: ouvi.",
+      "explanation": "Verbo coordenado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -129,7 +129,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "----GSM-",
       "morphology": "Adjetivo / numeral · genitivo · singular · masculino (MorphGNT: A- ----GSM-)",
       "meanings": "um; cada um",
-      "explanation": "Glosa neste contexto: uma.",
+      "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -154,7 +154,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "águia",
-      "explanation": "Glosa neste contexto: águia.",
+      "explanation": "Complemento de ἤκουσα. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -179,7 +179,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "-PMPGSM-",
       "morphology": "Verbo · presente · voz média · particípio · genitivo · singular · masculino (MorphGNT: V- -PMPGSM-)",
       "meanings": "voar",
-      "explanation": "Glosa neste contexto: voando.",
+      "explanation": "Particípio circunstancial. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -204,7 +204,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "Em, dentro de, em meio a (uso adverbial ou temporal)",
-      "explanation": "Glosa neste contexto: em.",
+      "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -229,7 +229,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "----DSN-",
       "morphology": "Substantivo · dativo · singular · neutro (MorphGNT: N- ----DSN-)",
       "meanings": "meio do céu",
-      "explanation": "Glosa neste contexto: meio do céu.",
+      "explanation": "Localização. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -254,7 +254,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "-PAPGSM-",
       "morphology": "Verbo · presente · voz ativa · particípio · genitivo · singular · masculino (MorphGNT: V- -PAPGSM-)",
       "meanings": "dizer",
-      "explanation": "Glosa neste contexto: dizendo.",
+      "explanation": "Particípio circunstancial. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -279,7 +279,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo · dativo · singular · feminino (MorphGNT: N- ----DSF-)",
       "meanings": "voz",
-      "explanation": "Glosa neste contexto: com voz.",
+      "explanation": "Dativo de modo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -304,7 +304,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "----DSF-",
       "morphology": "Adjetivo / numeral · dativo · singular · feminino (MorphGNT: A- ----DSF-)",
       "meanings": "grande",
-      "explanation": "Glosa neste contexto: alta.",
+      "explanation": "Adjetivo atributivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -329,7 +329,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "--------",
       "morphology": "Partícula (MorphGNT: X- --------)",
       "meanings": "ai!; expressão de lamento",
-      "explanation": "Glosa neste contexto: ai.",
+      "explanation": "Interjeição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -354,7 +354,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "--------",
       "morphology": "Partícula (MorphGNT: X- --------)",
       "meanings": "ai!; expressão de lamento",
-      "explanation": "Glosa neste contexto: ai.",
+      "explanation": "Interjeição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -379,7 +379,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "--------",
       "morphology": "Partícula (MorphGNT: X- --------)",
       "meanings": "ai!; expressão de lamento",
-      "explanation": "Glosa neste contexto: ai.",
+      "explanation": "Interjeição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -404,12 +404,12 @@ export const apocalipse8v13 = {
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido · acusativo · plural · masculino (MorphGNT: RA ----APM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: os.",
+      "explanation": "Determinante do sintagma «τοὺς κατοικοῦντας ἐπὶ τῆς γῆς» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοὺς κατοικοῦντας ἐπὶ τῆς γῆς» — adjunto adverbial da oração",
         "clauseId": "AP.8.13",
         "governedBy": null
       },
@@ -429,7 +429,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "-PAPAPM-",
       "morphology": "Verbo · presente · voz ativa · particípio · acusativo · plural · masculino (MorphGNT: V- -PAPAPM-)",
       "meanings": "habitar",
-      "explanation": "Glosa neste contexto: que habitam.",
+      "explanation": "Particípio substantivado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -454,7 +454,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "sobre",
-      "explanation": "Glosa neste contexto: sobre.",
+      "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -479,12 +479,12 @@ export const apocalipse8v13 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido · genitivo · singular · feminino (MorphGNT: RA ----GSF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: a.",
+      "explanation": "Determinante do sintagma «τῆς γῆς» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τῆς γῆς». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς γῆς» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τῆς γῆς»",
         "clauseId": "AP.8.13",
         "governedBy": null
       },
@@ -504,7 +504,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "terra",
-      "explanation": "Glosa neste contexto: terra.",
+      "explanation": "Localização. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -529,7 +529,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "de",
-      "explanation": "Glosa neste contexto: por causa de.",
+      "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -554,12 +554,12 @@ export const apocalipse8v13 = {
       "morphologyCode": "----GPF-",
       "morphology": "Artigo definido · genitivo · plural · feminino (MorphGNT: RA ----GPF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: os (genitivo).",
+      "explanation": "Determinante do sintagma «τῶν λοιπῶν φωνῶν τῆς σάλπιγγος τῶν τριῶν ἀγγέλων …» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῶν λοιπῶν φωνῶν τῆς σάλπιγγος τῶν τριῶν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν λοιπῶν φωνῶν τῆς σάλπιγγος τῶν τριῶν ἀγγέλων …» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῶν λοιπῶν φωνῶν τῆς σάλπιγγος τῶν τριῶν …»",
         "clauseId": "AP.8.13",
         "governedBy": null
       },
@@ -579,7 +579,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "----GPF-",
       "morphology": "Adjetivo / numeral · genitivo · plural · feminino (MorphGNT: A- ----GPF-)",
       "meanings": "restante",
-      "explanation": "Glosa neste contexto: restantes.",
+      "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -604,7 +604,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "----GPF-",
       "morphology": "Substantivo · genitivo · plural · feminino (MorphGNT: N- ----GPF-)",
       "meanings": "voz",
-      "explanation": "Glosa neste contexto: sons.",
+      "explanation": "Causa dos ais. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -629,12 +629,12 @@ export const apocalipse8v13 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido · genitivo · singular · feminino (MorphGNT: RA ----GSF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: da.",
+      "explanation": "Determinante do sintagma «τῆς σάλπιγγος τῶν τριῶν ἀγγέλων τῶν μελλόντων σαλπίζειν.» — integrado ao constituinte com função de adjunto adverbial «… τῶν λοιπῶν φωνῶν τῆς σάλπιγγος τῶν τριῶν ἀγγέλων …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς σάλπιγγος τῶν τριῶν ἀγγέλων τῶν μελλόντων σαλπίζειν.» — integrado ao constituinte com função de adjunto adverbial «… τῶν λοιπῶν φωνῶν τῆς σάλπιγγος τῶν τριῶν ἀγγέλων …»",
         "clauseId": "AP.8.13",
         "governedBy": null
       },
@@ -654,7 +654,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "trombeta",
-      "explanation": "Glosa neste contexto: trombeta.",
+      "explanation": "Genitivo de especificação. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -679,12 +679,12 @@ export const apocalipse8v13 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido · genitivo · plural · masculino (MorphGNT: RA ----GPM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: dos.",
+      "explanation": "Determinante do sintagma «τῶν τριῶν ἀγγέλων» — integrado ao constituinte com função de adjunto adverbial «… φωνῶν τῆς σάλπιγγος τῶν τριῶν ἀγγέλων τῶν μελλόντων …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν τριῶν ἀγγέλων» — integrado ao constituinte com função de adjunto adverbial «… φωνῶν τῆς σάλπιγγος τῶν τριῶν ἀγγέλων τῶν μελλόντων …»",
         "clauseId": "AP.8.13",
         "governedBy": null
       },
@@ -704,7 +704,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "----GPM-",
       "morphology": "Adjetivo / numeral · genitivo · plural · masculino (MorphGNT: A- ----GPM-)",
       "meanings": "três",
-      "explanation": "Glosa neste contexto: três.",
+      "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -729,7 +729,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo · genitivo · plural · masculino (MorphGNT: N- ----GPM-)",
       "meanings": "Anjo, mensageiro celestial de Deus",
-      "explanation": "Glosa neste contexto: anjos.",
+      "explanation": "Genitivo de especificação. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -754,12 +754,12 @@ export const apocalipse8v13 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido · genitivo · plural · masculino (MorphGNT: RA ----GPM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: os.",
+      "explanation": "Determinante do sintagma «τῶν μελλόντων σαλπίζειν.» — integrado ao constituinte com função de adjunto adverbial «… τῆς σάλπιγγος τῶν τριῶν ἀγγέλων τῶν μελλόντων σαλπίζειν.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν μελλόντων σαλπίζειν.» — integrado ao constituinte com função de adjunto adverbial «… τῆς σάλπιγγος τῶν τριῶν ἀγγέλων τῶν μελλόντων σαλπίζειν.»",
         "clauseId": "AP.8.13",
         "governedBy": null
       },
@@ -779,7 +779,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "-PAPGPM-",
       "morphology": "Verbo · presente · voz ativa · particípio · genitivo · plural · masculino (MorphGNT: V- -PAPGPM-)",
       "meanings": "hão de",
-      "explanation": "Glosa neste contexto: que estão para.",
+      "explanation": "Particípio atributivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],
@@ -804,7 +804,7 @@ export const apocalipse8v13 = {
       "morphologyCode": "-PAN----",
       "morphology": "Verbo · presente · voz ativa · infinitivo (MorphGNT: V- -PAN----)",
       "meanings": "tocar trombeta",
-      "explanation": "Glosa neste contexto: tocar a trombeta.",
+      "explanation": "Infinitivo complementar. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
       ],

@@ -29,7 +29,7 @@ export const apocalipse8v1 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
@@ -54,7 +54,7 @@ export const apocalipse8v1 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "sempre que",
-      "explanation": "Glosa neste contexto: quando.",
+      "explanation": "Conjunção temporal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
@@ -79,7 +79,7 @@ export const apocalipse8v1 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "abrir",
-      "explanation": "Glosa neste contexto: abriu.",
+      "explanation": "Verbo da oração temporal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
@@ -104,12 +104,12 @@ export const apocalipse8v1 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido · acusativo · singular · feminino (MorphGNT: RA ----ASF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «τὴν σφραγῖδα τὴν ἑβδόμην,» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν σφραγῖδα τὴν ἑβδόμην,» — objeto direto da oração",
         "clauseId": "AP.8.1",
         "governedBy": null
       },
@@ -129,7 +129,7 @@ export const apocalipse8v1 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
       "meanings": "Selo, marca de fechamento",
-      "explanation": "Glosa neste contexto: selo.",
+      "explanation": "Objeto direto. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
@@ -154,12 +154,12 @@ export const apocalipse8v1 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido · acusativo · singular · feminino (MorphGNT: RA ----ASF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o (artigo reiterado).",
+      "explanation": "Determinante do sintagma «τὴν ἑβδόμην,» — integrado ao constituinte com função de objeto direto «τὴν σφραγῖδα τὴν ἑβδόμην,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν ἑβδόμην,» — integrado ao constituinte com função de objeto direto «τὴν σφραγῖδα τὴν ἑβδόμην,»",
         "clauseId": "AP.8.1",
         "governedBy": null
       },
@@ -179,7 +179,7 @@ export const apocalipse8v1 = {
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo / numeral · acusativo · singular · feminino (MorphGNT: A- ----ASF-)",
       "meanings": "sétimo",
-      "explanation": "Glosa neste contexto: sétimo.",
+      "explanation": "Adjetivo atributivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
@@ -204,7 +204,7 @@ export const apocalipse8v1 = {
       "morphologyCode": "3AMI-S--",
       "morphology": "Verbo · aoristo · voz média · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AMI-S--)",
       "meanings": "Vir a ser, acontecer, cumprir-se na história",
-      "explanation": "Glosa neste contexto: houve.",
+      "explanation": "Verbo principal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
@@ -229,7 +229,7 @@ export const apocalipse8v1 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
       "meanings": "silêncio",
-      "explanation": "Glosa neste contexto: silêncio.",
+      "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
@@ -254,7 +254,7 @@ export const apocalipse8v1 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "Em, dentro de, em meio a (uso adverbial ou temporal)",
-      "explanation": "Glosa neste contexto: em.",
+      "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
@@ -279,12 +279,12 @@ export const apocalipse8v1 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido · dativo · singular · masculino (MorphGNT: RA ----DSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «τῷ οὐρανῷ» — integrado ao constituinte com função de adjunto adverbial «ἐν τῷ οὐρανῷ». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῷ οὐρανῷ» — integrado ao constituinte com função de adjunto adverbial «ἐν τῷ οὐρανῷ»",
         "clauseId": "AP.8.1",
         "governedBy": null
       },
@@ -304,7 +304,7 @@ export const apocalipse8v1 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo · dativo · singular · masculino (MorphGNT: N- ----DSM-)",
       "meanings": "céu",
-      "explanation": "Glosa neste contexto: céu.",
+      "explanation": "Função não individualizada; consultar análise do versículo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
@@ -329,7 +329,7 @@ export const apocalipse8v1 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio (MorphGNT: D- --------)",
       "meanings": "como",
-      "explanation": "Glosa neste contexto: cerca de.",
+      "explanation": "Advérbio. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
@@ -354,7 +354,7 @@ export const apocalipse8v1 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo · acusativo · singular · neutro (MorphGNT: N- ----ASN-)",
       "meanings": "meia hora",
-      "explanation": "Glosa neste contexto: meia hora.",
+      "explanation": "Acusativo de duração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],

@@ -29,7 +29,7 @@ export const apocalipse8v4 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
@@ -54,7 +54,7 @@ export const apocalipse8v4 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "subir",
-      "explanation": "Glosa neste contexto: subiu.",
+      "explanation": "Verbo principal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
@@ -79,12 +79,12 @@ export const apocalipse8v4 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido · nominativo · singular · masculino (MorphGNT: RA ----NSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: a.",
+      "explanation": "Determinante do sintagma «ὁ καπνὸς τῶν θυμιαμάτων» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ καπνὸς τῶν θυμιαμάτων» — sujeito da oração",
         "clauseId": "AP.8.4",
         "governedBy": null
       },
@@ -104,7 +104,7 @@ export const apocalipse8v4 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "fumaça",
-      "explanation": "Glosa neste contexto: fumaça.",
+      "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
@@ -129,12 +129,12 @@ export const apocalipse8v4 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: dos.",
+      "explanation": "Determinante do sintagma «τῶν θυμιαμάτων» — integrado ao constituinte com função de sujeito «ὁ καπνὸς τῶν θυμιαμάτων». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν θυμιαμάτων» — integrado ao constituinte com função de sujeito «ὁ καπνὸς τῶν θυμιαμάτων»",
         "clauseId": "AP.8.4",
         "governedBy": null
       },
@@ -154,7 +154,7 @@ export const apocalipse8v4 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "Incenso, oferta aromática",
-      "explanation": "Glosa neste contexto: incensos.",
+      "explanation": "Genitivo de origem. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
@@ -179,12 +179,12 @@ export const apocalipse8v4 = {
       "morphologyCode": "----DPF-",
       "morphology": "Artigo definido · dativo · plural · feminino (MorphGNT: RA ----DPF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: com as.",
+      "explanation": "Determinante do sintagma «ταῖς προσευχαῖς τῶν ἁγίων» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ταῖς προσευχαῖς τῶν ἁγίων» — adjunto adverbial da oração",
         "clauseId": "AP.8.4",
         "governedBy": null
       },
@@ -204,7 +204,7 @@ export const apocalipse8v4 = {
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo · dativo · plural · feminino (MorphGNT: N- ----DPF-)",
       "meanings": "Oração",
-      "explanation": "Glosa neste contexto: orações.",
+      "explanation": "Dativo de associação. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
@@ -229,12 +229,12 @@ export const apocalipse8v4 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido · genitivo · plural · masculino (MorphGNT: RA ----GPM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: dos.",
+      "explanation": "Determinante do sintagma «τῶν ἁγίων» — integrado ao constituinte com função de adjunto adverbial «ταῖς προσευχαῖς τῶν ἁγίων». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν ἁγίων» — integrado ao constituinte com função de adjunto adverbial «ταῖς προσευχαῖς τῶν ἁγίων»",
         "clauseId": "AP.8.4",
         "governedBy": null
       },
@@ -254,7 +254,7 @@ export const apocalipse8v4 = {
       "morphologyCode": "----GPM-",
       "morphology": "Adjetivo / numeral · genitivo · plural · masculino (MorphGNT: A- ----GPM-)",
       "meanings": "santo",
-      "explanation": "Glosa neste contexto: santos.",
+      "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
@@ -279,7 +279,7 @@ export const apocalipse8v4 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "de",
-      "explanation": "Glosa neste contexto: de.",
+      "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
@@ -304,7 +304,7 @@ export const apocalipse8v4 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "mão",
-      "explanation": "Glosa neste contexto: mão.",
+      "explanation": "Origem. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
@@ -329,12 +329,12 @@ export const apocalipse8v4 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: do.",
+      "explanation": "Determinante do sintagma «τοῦ ἀγγέλου» — integrado ao constituinte com função de adjunto adverbial «ἐκ χειρὸς τοῦ ἀγγέλου». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ ἀγγέλου» — integrado ao constituinte com função de adjunto adverbial «ἐκ χειρὸς τοῦ ἀγγέλου»",
         "clauseId": "AP.8.4",
         "governedBy": null
       },
@@ -354,7 +354,7 @@ export const apocalipse8v4 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "Anjo, mensageiro celestial de Deus",
-      "explanation": "Glosa neste contexto: anjo.",
+      "explanation": "Função não individualizada; consultar análise do versículo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
@@ -379,7 +379,7 @@ export const apocalipse8v4 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "diante de",
-      "explanation": "Glosa neste contexto: diante de.",
+      "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
@@ -404,12 +404,12 @@ export const apocalipse8v4 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o (genitivo).",
+      "explanation": "Determinante do sintagma «τοῦ θεοῦ.» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τοῦ θεοῦ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ θεοῦ.» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τοῦ θεοῦ.»",
         "clauseId": "AP.8.4",
         "governedBy": null
       },
@@ -429,7 +429,7 @@ export const apocalipse8v4 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "O Deus Supremo, o Criador e Pai de nosso Senhor",
-      "explanation": "Glosa neste contexto: Deus.",
+      "explanation": "Complemento de ἐνώπιον. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],

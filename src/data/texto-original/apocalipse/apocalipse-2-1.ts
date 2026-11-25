@@ -32,7 +32,7 @@ export const apocalipse2v1 = {
         "Ap 2:1"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «Τῷ ἀγγέλῳ τῆς ἐν Ἐφέσῳ ἐκκλησίας» — objeto indireto da oração",
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-2"
       },
@@ -56,7 +56,7 @@ export const apocalipse2v1 = {
         "Ap 2:1"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἀγγέλῳ τῆς ἐν Ἐφέσῳ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «Τῷ ἀγγέλῳ τῆς ἐν Ἐφέσῳ ἐκκλησίας»",
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-7"
       },
@@ -80,7 +80,7 @@ export const apocalipse2v1 = {
         "Ap 2:1"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς ἐν Ἐφέσῳ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «Τῷ ἀγγέλῳ τῆς ἐν Ἐφέσῳ ἐκκλησίας»",
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-6"
       },
@@ -104,7 +104,7 @@ export const apocalipse2v1 = {
         "Ap 2:1"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐν Ἐφέσῳ» — integrado ao constituinte com função de objeto indireto «Τῷ ἀγγέλῳ τῆς ἐν Ἐφέσῳ ἐκκλησίας»",
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-5"
       },
@@ -128,7 +128,7 @@ export const apocalipse2v1 = {
         "Ap 2:1"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἐν Ἐφέσῳ» — integrado ao constituinte com função de objeto indireto «Τῷ ἀγγέλῳ τῆς ἐν Ἐφέσῳ ἐκκλησίας»",
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-4"
       },
@@ -152,7 +152,7 @@ export const apocalipse2v1 = {
         "Ap 2:1"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἐν Ἐφέσῳ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «Τῷ ἀγγέλῳ τῆς ἐν Ἐφέσῳ ἐκκλησίας»",
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-2"
       },
@@ -176,7 +176,7 @@ export const apocalipse2v1 = {
         "Ap 2:1"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.1.C1",
         "governedBy": null
       },
@@ -225,7 +225,7 @@ export const apocalipse2v1 = {
         "Ap 2:1"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.1.C1",
         "governedBy": null
       },
@@ -249,7 +249,7 @@ export const apocalipse2v1 = {
         "Ap 2:1"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ κρατῶν τοὺς ἑπτὰ ἀστέρας ἐν τῇ δεξιᾷ …» — integrado ao constituinte com função de sujeito «ὁ κρατῶν τοὺς ἑπτὰ ἀστέρας ἐν τῇ δεξιᾷ …»",
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-11"
       },
@@ -297,7 +297,7 @@ export const apocalipse2v1 = {
         "Ap 2:1"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοὺς ἑπτὰ ἀστέρας» — objeto direto da oração",
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-14"
       },
@@ -345,7 +345,7 @@ export const apocalipse2v1 = {
         "Ap 2:1"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἑπτὰ ἀστέρας» — integrado ao constituinte com função de objeto direto «τοὺς ἑπτὰ ἀστέρας»",
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-11"
       },
@@ -369,7 +369,7 @@ export const apocalipse2v1 = {
         "Ap 2:1"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐν τῇ δεξιᾷ αὐτοῦ,» — adjunto adverbial da oração",
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-17"
       },
@@ -393,7 +393,7 @@ export const apocalipse2v1 = {
         "Ap 2:1"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῇ δεξιᾷ αὐτοῦ,» — integrado ao constituinte com função de adjunto adverbial «ἐν τῇ δεξιᾷ αὐτοῦ,»",
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-17"
       },
@@ -441,7 +441,7 @@ export const apocalipse2v1 = {
         "Ap 2:1"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Pronome no constituinte «δεξιᾷ αὐτοῦ,» — integrado ao constituinte com função de adjunto adverbial «ἐν τῇ δεξιᾷ αὐτοῦ,»",
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-17"
       },
@@ -466,7 +466,7 @@ export const apocalipse2v1 = {
         "Ap 2:1"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ περιπατῶν ἐν μέσῳ τῶν ἑπτὰ λυχνιῶν τῶν …» — integrado ao constituinte com função de sujeito «… τῇ δεξιᾷ αὐτοῦ, ὁ περιπατῶν ἐν μέσῳ τῶν …»",
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-20"
       },
@@ -514,7 +514,7 @@ export const apocalipse2v1 = {
         "Ap 2:1"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐν μέσῳ τῶν ἑπτὰ λυχνιῶν τῶν χρυσῶν·» — adjunto adverbial da oração",
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-22"
       },
@@ -538,7 +538,7 @@ export const apocalipse2v1 = {
         "Ap 2:1"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjetivo no constituinte «μέσῳ τῶν ἑπτὰ λυχνιῶν τῶν χρυσῶν·» — integrado ao constituinte com função de adjunto adverbial «ἐν μέσῳ τῶν ἑπτὰ λυχνιῶν τῶν χρυσῶν·»",
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-21"
       },
@@ -562,7 +562,7 @@ export const apocalipse2v1 = {
         "Ap 2:1"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν ἑπτὰ λυχνιῶν τῶν χρυσῶν·» — integrado ao constituinte com função de adjunto adverbial «ἐν μέσῳ τῶν ἑπτὰ λυχνιῶν τῶν χρυσῶν·»",
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-25"
       },
@@ -610,7 +610,7 @@ export const apocalipse2v1 = {
         "Ap 2:1"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «λυχνιῶν τῶν χρυσῶν·» — integrado ao constituinte com função de adjunto adverbial «ἐν μέσῳ τῶν ἑπτὰ λυχνιῶν τῶν χρυσῶν·»",
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-22"
       },
@@ -634,7 +634,7 @@ export const apocalipse2v1 = {
         "Ap 2:1"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν χρυσῶν·» — integrado ao constituinte com função de adjunto adverbial «ἐν μέσῳ τῶν ἑπτὰ λυχνιῶν τῶν χρυσῶν·»",
         "clauseId": "AP.2.1.C1",
         "governedBy": "ap2-1-25"
       },

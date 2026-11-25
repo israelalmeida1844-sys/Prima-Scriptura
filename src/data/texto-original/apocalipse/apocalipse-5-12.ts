@@ -31,12 +31,12 @@ export const apocalipse5v12 = {
       "morphologyCode": "-PAPNPM-",
       "morphology": "MorphGNT 6.12: V- -PAPNPM-",
       "meanings": "dizer; declarar",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -55,12 +55,12 @@ export const apocalipse5v12 = {
       "morphologyCode": "----DSF-",
       "morphology": "MorphGNT 6.12: N- ----DSF-",
       "meanings": "voz; som",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «φωνῇ μεγάλῃ·» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «φωνῇ μεγάλῃ·» — adjunto adverbial da oração",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -79,12 +79,12 @@ export const apocalipse5v12 = {
       "morphologyCode": "----DSF-",
       "morphology": "MorphGNT 6.12: A- ----DSF-",
       "meanings": "grande",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Adjetivo no constituinte «φωνῇ μεγάλῃ·» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Adjetivo no constituinte «φωνῇ μεγάλῃ·» — adjunto adverbial da oração",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -104,12 +104,12 @@ export const apocalipse5v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "MorphGNT 6.12: A- ----NSN-",
       "meanings": "Digno, adequado ou merecedor; em 3:4 funciona como predicativo da promessa de andar com Cristo.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicativo da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Predicativo da oração",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -128,12 +128,12 @@ export const apocalipse5v12 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "MorphGNT 6.12: V- 3PAI-S--",
       "meanings": "ser; estar; existir",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Verbo de ligação da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Verbo de ligação da oração",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -152,12 +152,12 @@ export const apocalipse5v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "MorphGNT 6.12: RA ----NSN-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τὸ ἀρνίον» — integrado ao constituinte com função de sujeito «τὸ ἀρνίον τὸ ἐσφαγμένον». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τὸ ἀρνίον» — integrado ao constituinte com função de sujeito «τὸ ἀρνίον τὸ ἐσφαγμένον»",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -172,16 +172,16 @@ export const apocalipse5v12 = {
       "strong": "G721",
       "lemma": "ἀρνίον",
       "lemmaTransliteration": "arnion",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSN-",
       "morphology": "MorphGNT 6.12: N- ----NSN-",
       "meanings": "Denominação de um cordeiro, com emprego simbólico predominante no Apocalipse.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «τὸ ἀρνίον» — integrado ao constituinte com função de sujeito «τὸ ἀρνίον τὸ ἐσφαγμένον». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «τὸ ἀρνίον» — integrado ao constituinte com função de sujeito «τὸ ἀρνίον τὸ ἐσφαγμένον»",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -200,12 +200,12 @@ export const apocalipse5v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "MorphGNT 6.12: RA ----NSN-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τὸ ἐσφαγμένον» — integrado ao constituinte com função de sujeito «τὸ ἀρνίον τὸ ἐσφαγμένον». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τὸ ἐσφαγμένον» — integrado ao constituinte com função de sujeito «τὸ ἀρνίον τὸ ἐσφαγμένον»",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -220,11 +220,11 @@ export const apocalipse5v12 = {
       "strong": "G4969",
       "lemma": "σφάζω",
       "lemmaTransliteration": "sphazō",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Verbo",
       "morphologyCode": "-XPPNSN-",
       "morphology": "MorphGNT 6.12: V- -XPPNSN-",
       "meanings": "Abater ou matar mediante corte; pode ocorrer em contexto sacrificial ou violento.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Forma verbal participial; concordância e relação com o núcleo a verificar. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
@@ -248,12 +248,12 @@ export const apocalipse5v12 = {
       "morphologyCode": "-AAN----",
       "morphology": "MorphGNT 6.12: V- -AAN----",
       "meanings": "λαμβάνων é particípio presente ativo substantivado, sujeito da exceção «aquele que recebe» a pedrinha/nome.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -272,12 +272,12 @@ export const apocalipse5v12 = {
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: RA ----ASF-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τὴν δύναμιν καὶ πλοῦτον καὶ σοφίαν καὶ ἰσχὺν …» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τὴν δύναμιν καὶ πλοῦτον καὶ σοφίαν καὶ ἰσχὺν …» — objeto direto da oração",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -296,12 +296,12 @@ export const apocalipse5v12 = {
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: N- ----ASF-",
       "meanings": "força; poder",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «δύναμιν καὶ πλοῦτον καὶ σοφίαν καὶ ἰσχὺν καὶ …» — integrado ao constituinte com função de objeto direto «τὴν δύναμιν καὶ πλοῦτον καὶ σοφίαν καὶ ἰσχὺν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «δύναμιν καὶ πλοῦτον καὶ σοφίαν καὶ ἰσχὺν καὶ …» — integrado ao constituinte com função de objeto direto «τὴν δύναμιν καὶ πλοῦτον καὶ σοφίαν καὶ ἰσχὺν …»",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -320,12 +320,12 @@ export const apocalipse5v12 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ πλοῦτον» — integrado ao constituinte com função de objeto direto «τὴν δύναμιν καὶ πλοῦτον καὶ σοφίαν καὶ ἰσχὺν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ πλοῦτον» — integrado ao constituinte com função de objeto direto «τὴν δύναμιν καὶ πλοῦτον καὶ σοφίαν καὶ ἰσχὺν …»",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -340,16 +340,16 @@ export const apocalipse5v12 = {
       "strong": "G4149",
       "lemma": "πλοῦτος",
       "lemmaTransliteration": "ploutos",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASM-",
       "morphology": "MorphGNT 6.12: N- ----ASM-",
       "meanings": "Conjunto de bens ou recursos; pode designar abundância em sentido figurado.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «καὶ πλοῦτον» — integrado ao constituinte com função de objeto direto «τὴν δύναμιν καὶ πλοῦτον καὶ σοφίαν καὶ ἰσχὺν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «καὶ πλοῦτον» — integrado ao constituinte com função de objeto direto «τὴν δύναμιν καὶ πλοῦτον καὶ σοφίαν καὶ ἰσχὺν …»",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -368,12 +368,12 @@ export const apocalipse5v12 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ σοφίαν» — integrado ao constituinte com função de objeto direto «… δύναμιν καὶ πλοῦτον καὶ σοφίαν καὶ ἰσχὺν καὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ σοφίαν» — integrado ao constituinte com função de objeto direto «… δύναμιν καὶ πλοῦτον καὶ σοφίαν καὶ ἰσχὺν καὶ …»",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -388,16 +388,16 @@ export const apocalipse5v12 = {
       "strong": "G4678",
       "lemma": "σοφία",
       "lemmaTransliteration": "sophia",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: N- ----ASF-",
       "meanings": "Capacidade de compreender e agir com discernimento; a natureza dessa qualidade é definida pelo contexto.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «καὶ σοφίαν» — integrado ao constituinte com função de objeto direto «… καὶ πλοῦτον καὶ σοφίαν καὶ ἰσχὺν καὶ τιμὴν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «καὶ σοφίαν» — integrado ao constituinte com função de objeto direto «… καὶ πλοῦτον καὶ σοφίαν καὶ ἰσχὺν καὶ τιμὴν …»",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -416,12 +416,12 @@ export const apocalipse5v12 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ ἰσχὺν» — integrado ao constituinte com função de objeto direto «… πλοῦτον καὶ σοφίαν καὶ ἰσχὺν καὶ τιμὴν καὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ ἰσχὺν» — integrado ao constituinte com função de objeto direto «… πλοῦτον καὶ σοφίαν καὶ ἰσχὺν καὶ τιμὴν καὶ …»",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -436,16 +436,16 @@ export const apocalipse5v12 = {
       "strong": "G2479",
       "lemma": "ἰσχύς",
       "lemmaTransliteration": "ischys",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: N- ----ASF-",
       "meanings": "Capacidade ou potência para agir; pode indicar vigor físico ou poder figurado.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «καὶ ἰσχὺν» — integrado ao constituinte com função de objeto direto «… καὶ σοφίαν καὶ ἰσχὺν καὶ τιμὴν καὶ δόξαν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «καὶ ἰσχὺν» — integrado ao constituinte com função de objeto direto «… καὶ σοφίαν καὶ ἰσχὺν καὶ τιμὴν καὶ δόξαν …»",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -464,12 +464,12 @@ export const apocalipse5v12 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ τιμὴν» — integrado ao constituinte com função de objeto direto «… σοφίαν καὶ ἰσχὺν καὶ τιμὴν καὶ δόξαν καὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ τιμὴν» — integrado ao constituinte com função de objeto direto «… σοφίαν καὶ ἰσχὺν καὶ τιμὴν καὶ δόξαν καὶ …»",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -488,12 +488,12 @@ export const apocalipse5v12 = {
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: N- ----ASF-",
       "meanings": "Honra; qualidade oferecida ao ocupante do trono em 4:9 e 4:11.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «καὶ τιμὴν» — integrado ao constituinte com função de objeto direto «… καὶ ἰσχὺν καὶ τιμὴν καὶ δόξαν καὶ εὐλογίαν.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «καὶ τιμὴν» — integrado ao constituinte com função de objeto direto «… καὶ ἰσχὺν καὶ τιμὴν καὶ δόξαν καὶ εὐλογίαν.»",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -512,12 +512,12 @@ export const apocalipse5v12 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ δόξαν» — integrado ao constituinte com função de objeto direto «… καὶ ἰσχὺν καὶ τιμὴν καὶ δόξαν καὶ εὐλογίαν.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ δόξαν» — integrado ao constituinte com função de objeto direto «… καὶ ἰσχὺν καὶ τιμὴν καὶ δόξαν καὶ εὐλογίαν.»",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -536,12 +536,12 @@ export const apocalipse5v12 = {
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: N- ----ASF-",
       "meanings": "glória",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «καὶ δόξαν» — integrado ao constituinte com função de objeto direto «… καὶ ἰσχὺν καὶ τιμὴν καὶ δόξαν καὶ εὐλογίαν.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «καὶ δόξαν» — integrado ao constituinte com função de objeto direto «… καὶ ἰσχὺν καὶ τιμὴν καὶ δόξαν καὶ εὐλογίαν.»",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -560,12 +560,12 @@ export const apocalipse5v12 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ εὐλογίαν.» — integrado ao constituinte com função de objeto direto «… καὶ ἰσχὺν καὶ τιμὴν καὶ δόξαν καὶ εὐλογίαν.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ εὐλογίαν.» — integrado ao constituinte com função de objeto direto «… καὶ ἰσχὺν καὶ τιμὴν καὶ δόξαν καὶ εὐλογίαν.»",
         "clauseId": "AP.5.12",
         "governedBy": null
       },
@@ -580,16 +580,16 @@ export const apocalipse5v12 = {
       "strong": "G2129",
       "lemma": "εὐλογία",
       "lemmaTransliteration": "eulogia",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: N- ----ASF-",
       "meanings": "Expressão de bem-dizer, elogio ou bênção; em doxologias, louvor dirigido ao destinatário.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «καὶ εὐλογίαν.» — integrado ao constituinte com função de objeto direto «… καὶ ἰσχὺν καὶ τιμὴν καὶ δόξαν καὶ εὐλογίαν.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «καὶ εὐλογίαν.» — integrado ao constituinte com função de objeto direto «… καὶ ἰσχὺν καὶ τιμὴν καὶ δόξαν καὶ εὐλογίαν.»",
         "clauseId": "AP.5.12",
         "governedBy": null
       },

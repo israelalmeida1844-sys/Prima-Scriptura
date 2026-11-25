@@ -103,7 +103,7 @@ export const apocalipse3v20 = {
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν θύραν» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τὴν θύραν»",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -127,7 +127,7 @@ export const apocalipse3v20 = {
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τὴν θύραν» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τὴν θύραν»",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -272,7 +272,7 @@ export const apocalipse3v20 = {
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς φωνῆς μου» — objeto direto da oração",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -296,7 +296,7 @@ export const apocalipse3v20 = {
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «φωνῆς μου» — integrado ao constituinte com função de objeto direto «τῆς φωνῆς μου»",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -392,7 +392,7 @@ export const apocalipse3v20 = {
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν θύραν,» — objeto direto da oração",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },
@@ -416,7 +416,7 @@ export const apocalipse3v20 = {
         "Ap 3:20"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τὴν θύραν,» — objeto direto da oração",
         "clauseId": "AP.3.20.C1",
         "governedBy": null
       },

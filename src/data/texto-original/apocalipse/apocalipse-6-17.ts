@@ -29,12 +29,12 @@ export const apocalipse6v17 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "ὅτι pode introduzir conteúdo ou causa; em Ap 2:2 marca uma proposição subordinada ao conhecimento expresso por Οἶδα.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conjunção que articula os constituintes de «ὅτι ἦλθεν ἡ ἡμέρα ἡ μεγάλη τῆς ὀργῆς …» — integrado ao constituinte com função de objeto direto «… ὀργῆς τοῦ ἀρνίου, ὅτι ἦλθεν ἡ ἡμέρα ἡ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:17"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Conjunção que articula os constituintes de «ὅτι ἦλθεν ἡ ἡμέρα ἡ μεγάλη τῆς ὀργῆς …» — integrado ao constituinte com função de objeto direto «… ὀργῆς τοῦ ἀρνίου, ὅτι ἦλθεν ἡ ἡμέρα ἡ …»",
         "clauseId": "AP.6.17",
         "governedBy": null
       },
@@ -53,12 +53,12 @@ export const apocalipse6v17 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "MorphGNT 6.12: V- 3AAI-S--",
       "meanings": "vir; chegar",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:17"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.6.17",
         "governedBy": null
       },
@@ -77,12 +77,12 @@ export const apocalipse6v17 = {
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: RA ----NSF-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Determinante do sintagma «ἡ ἡμέρα ἡ μεγάλη τῆς ὀργῆς αὐτῶν,» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:17"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ἡ ἡμέρα ἡ μεγάλη τῆς ὀργῆς αὐτῶν,» — sujeito da oração",
         "clauseId": "AP.6.17",
         "governedBy": null
       },
@@ -101,7 +101,7 @@ export const apocalipse6v17 = {
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: N- ----NSF-",
       "meanings": "dia",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:17"
       ],
@@ -125,12 +125,12 @@ export const apocalipse6v17 = {
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: RA ----NSF-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Determinante do sintagma «ἡ μεγάλη» — integrado ao constituinte com função de sujeito «ἡ ἡμέρα ἡ μεγάλη τῆς ὀργῆς αὐτῶν,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:17"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ἡ μεγάλη» — integrado ao constituinte com função de sujeito «ἡ ἡμέρα ἡ μεγάλη τῆς ὀργῆς αὐτῶν,»",
         "clauseId": "AP.6.17",
         "governedBy": null
       },
@@ -149,12 +149,12 @@ export const apocalipse6v17 = {
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: A- ----NSF-",
       "meanings": "grande",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Adjetivo no constituinte «ἡ μεγάλη» — integrado ao constituinte com função de sujeito «ἡ ἡμέρα ἡ μεγάλη τῆς ὀργῆς αὐτῶν,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:17"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Adjetivo no constituinte «ἡ μεγάλη» — integrado ao constituinte com função de sujeito «ἡ ἡμέρα ἡ μεγάλη τῆς ὀργῆς αὐτῶν,»",
         "clauseId": "AP.6.17",
         "governedBy": null
       },
@@ -173,12 +173,12 @@ export const apocalipse6v17 = {
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: RA ----GSF-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Determinante do sintagma «τῆς ὀργῆς αὐτῶν,» — integrado ao constituinte com função de sujeito «ἡ ἡμέρα ἡ μεγάλη τῆς ὀργῆς αὐτῶν,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:17"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς ὀργῆς αὐτῶν,» — integrado ao constituinte com função de sujeito «ἡ ἡμέρα ἡ μεγάλη τῆς ὀργῆς αὐτῶν,»",
         "clauseId": "AP.6.17",
         "governedBy": null
       },
@@ -197,7 +197,7 @@ export const apocalipse6v17 = {
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: N- ----GSF-",
       "meanings": "Ira ou indignação, especialmente manifestação de juízo; em 6:16–17 qualifica o julgamento divino.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:17"
       ],
@@ -221,12 +221,12 @@ export const apocalipse6v17 = {
       "morphologyCode": "----GPM-",
       "morphology": "MorphGNT 6.12: RP ----GPM-",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Pronome no constituinte «ὀργῆς αὐτῶν,» — integrado ao constituinte com função de sujeito «ἡ ἡμέρα ἡ μεγάλη τῆς ὀργῆς αὐτῶν,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:17"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Pronome no constituinte «ὀργῆς αὐτῶν,» — integrado ao constituinte com função de sujeito «ἡ ἡμέρα ἡ μεγάλη τῆς ὀργῆς αὐτῶν,»",
         "clauseId": "AP.6.17",
         "governedBy": null
       },
@@ -246,12 +246,12 @@ export const apocalipse6v17 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ τίς δύναται σταθῆναι;» — integrado ao constituinte com função de objeto direto «… μεγάλη τῆς ὀργῆς αὐτῶν, καὶ τίς δύναται σταθῆναι;». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:17"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Conjunção que articula os constituintes de «καὶ τίς δύναται σταθῆναι;» — integrado ao constituinte com função de objeto direto «… μεγάλη τῆς ὀργῆς αὐτῶν, καὶ τίς δύναται σταθῆναι;»",
         "clauseId": "AP.6.17",
         "governedBy": null
       },
@@ -270,12 +270,12 @@ export const apocalipse6v17 = {
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: RI ----NSM-",
       "meanings": "τί introduz uma interrogativa indireta «o que» o Espírito comunica; não é substantivo lexical autônomo.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:17"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Sujeito da oração",
         "clauseId": "AP.6.17",
         "governedBy": null
       },
@@ -294,12 +294,12 @@ export const apocalipse6v17 = {
       "morphologyCode": "3PMI-S--",
       "morphology": "MorphGNT 6.12: V- 3PMI-S--",
       "meanings": "δύνῃ é forma presente médio/passiva de δύναμαι, verbo de sentido modal; βαστάσαι é seu infinitivo complementar.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:17"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.6.17",
         "governedBy": null
       },
@@ -318,12 +318,12 @@ export const apocalipse6v17 = {
       "morphologyCode": "-APN----",
       "morphology": "MorphGNT 6.12: V- -APN----",
       "meanings": "Estar colocado ou permanecer de pé; o perfeito ἕστηκα em 3:20 apresenta estado presente à porta.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:17"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.6.17",
         "governedBy": null
       },

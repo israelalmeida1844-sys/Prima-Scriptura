@@ -81,7 +81,7 @@ export const apocalipse7v11 = {
         "Ap 7:11"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «οἱ ἄγγελοι» — integrado ao constituinte com função de sujeito «πάντες οἱ ἄγγελοι»",
         "clauseId": "AP.7.11",
         "governedBy": null
       },
@@ -129,7 +129,7 @@ export const apocalipse7v11 = {
         "Ap 7:11"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.11",
         "governedBy": null
       },
@@ -177,7 +177,7 @@ export const apocalipse7v11 = {
         "Ap 7:11"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ θρόνου» — integrado ao constituinte com função de adjunto adverbial «κύκλῳ τοῦ θρόνου καὶ τῶν πρεσβυτέρων καὶ τῶν …»",
         "clauseId": "AP.7.11",
         "governedBy": null
       },
@@ -249,7 +249,7 @@ export const apocalipse7v11 = {
         "Ap 7:11"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν πρεσβυτέρων» — integrado ao constituinte com função de adjunto adverbial «… τοῦ θρόνου καὶ τῶν πρεσβυτέρων καὶ τῶν τεσσάρων …»",
         "clauseId": "AP.7.11",
         "governedBy": null
       },
@@ -321,7 +321,7 @@ export const apocalipse7v11 = {
         "Ap 7:11"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν τεσσάρων ζῴων,» — integrado ao constituinte com função de adjunto adverbial «… θρόνου καὶ τῶν πρεσβυτέρων καὶ τῶν τεσσάρων ζῴων,»",
         "clauseId": "AP.7.11",
         "governedBy": null
       },
@@ -418,7 +418,7 @@ export const apocalipse7v11 = {
         "Ap 7:11"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.11",
         "governedBy": null
       },
@@ -466,7 +466,7 @@ export const apocalipse7v11 = {
         "Ap 7:11"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ θρόνου» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τοῦ θρόνου»",
         "clauseId": "AP.7.11",
         "governedBy": null
       },
@@ -538,7 +538,7 @@ export const apocalipse7v11 = {
         "Ap 7:11"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰ πρόσωπα αὐτῶν» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τὰ πρόσωπα αὐτῶν»",
         "clauseId": "AP.7.11",
         "governedBy": null
       },
@@ -634,7 +634,7 @@ export const apocalipse7v11 = {
         "Ap 7:11"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.11",
         "governedBy": null
       },
@@ -658,7 +658,7 @@ export const apocalipse7v11 = {
         "Ap 7:11"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῷ θεῷ,» — objeto direto da oração",
         "clauseId": "AP.7.11",
         "governedBy": null
       },

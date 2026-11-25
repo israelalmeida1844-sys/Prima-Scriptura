@@ -80,7 +80,7 @@ export const apocalipse3v16 = {
         "Ap 3:16"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Predicativo da oração",
         "clauseId": "AP.3.16.C1",
         "governedBy": null
       },
@@ -176,7 +176,7 @@ export const apocalipse3v16 = {
         "Ap 3:16"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «οὔτε ζεστὸς» — integrado ao constituinte com função de predicativo «οὔτε ζεστὸς οὔτε ψυχρός,»",
         "clauseId": "AP.3.16.C1",
         "governedBy": null
       },
@@ -224,7 +224,7 @@ export const apocalipse3v16 = {
         "Ap 3:16"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «οὔτε ψυχρός,» — integrado ao constituinte com função de predicativo «οὔτε ζεστὸς οὔτε ψυχρός,»",
         "clauseId": "AP.3.16.C1",
         "governedBy": null
       },
@@ -345,7 +345,7 @@ export const apocalipse3v16 = {
         "Ap 3:16"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ στόματός μου.» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ στόματός μου.»",
         "clauseId": "AP.3.16.C1",
         "governedBy": null
       },
@@ -369,7 +369,7 @@ export const apocalipse3v16 = {
         "Ap 3:16"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «στόματός μου.» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ στόματός μου.»",
         "clauseId": "AP.3.16.C1",
         "governedBy": null
       },

@@ -27,7 +27,7 @@ export const apocalipse2v25 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "contudo",
-      "explanation": "Conjunção. Glosa neste contexto: «contudo». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
@@ -51,12 +51,12 @@ export const apocalipse2v25 = {
       "morphologyCode": "----ASN-",
       "morphology": "Pronome relativo acusativo singular neutro",
       "meanings": "que",
-      "explanation": "Pronome relativo acusativo singular neutro. Glosa neste contexto: «o que». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Objeto direto da oração",
         "clauseId": "AP.2.25.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse2v25 = {
       "morphologyCode": "2PAI-P--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa plural",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa plural. Glosa neste contexto: «tendes». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.25.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse2v25 = {
       "morphologyCode": "2AAD-P--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa plural",
       "meanings": "segurar firmemente",
-      "explanation": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa plural. Glosa neste contexto: «conservai». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.25.C1",
         "governedBy": null
       },
@@ -123,12 +123,12 @@ export const apocalipse2v25 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "até",
-      "explanation": "Preposição. Glosa neste contexto: «até». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Preposição que introduz «ἄχρι οὗ ἂν ἥξω.» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἄχρι οὗ ἂν ἥξω.» — adjunto adverbial da oração",
         "clauseId": "AP.2.25.C1",
         "governedBy": null
       },
@@ -147,12 +147,12 @@ export const apocalipse2v25 = {
       "morphologyCode": "----GSM-",
       "morphology": "Pronome relativo genitivo singular masculino",
       "meanings": "que",
-      "explanation": "Pronome relativo genitivo singular masculino. Glosa neste contexto: «que». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjunto adverbial da oração",
         "clauseId": "AP.2.25.C1",
         "governedBy": null
       },
@@ -171,12 +171,12 @@ export const apocalipse2v25 = {
       "morphologyCode": "--------",
       "morphology": "Partícula",
       "meanings": "partícula modal",
-      "explanation": "Partícula. Glosa neste contexto: «partícula modal». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Partícula no constituinte «οὗ ἂν ἥξω.» — integrado ao constituinte com função de adjunto adverbial «ἄχρι οὗ ἂν ἥξω.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Partícula no constituinte «οὗ ἂν ἥξω.» — integrado ao constituinte com função de adjunto adverbial «ἄχρι οὗ ἂν ἥξω.»",
         "clauseId": "AP.2.25.C1",
         "governedBy": null
       },
@@ -195,12 +195,12 @@ export const apocalipse2v25 = {
       "morphologyCode": "1AAS-S--",
       "morphology": "Verbo no aoristo, voz ativa, subjuntivo, 1ª pessoa singular",
       "meanings": "chegar",
-      "explanation": "Verbo no aoristo, voz ativa, subjuntivo, 1ª pessoa singular. Glosa neste contexto: «venha». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:25"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.25.C1",
         "governedBy": null
       },

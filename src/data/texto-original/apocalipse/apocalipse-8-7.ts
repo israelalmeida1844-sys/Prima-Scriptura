@@ -29,7 +29,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -54,12 +54,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido · nominativo · singular · masculino (MorphGNT: RA ----NSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «ὁ πρῶτος» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ πρῶτος» — sujeito da oração",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -79,7 +79,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo / numeral · nominativo · singular · masculino (MorphGNT: A- ----NSM-)",
       "meanings": "primeiro",
-      "explanation": "Glosa neste contexto: primeiro.",
+      "explanation": "Sujeito substantivado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -104,7 +104,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "tocar trombeta",
-      "explanation": "Glosa neste contexto: tocou a trombeta.",
+      "explanation": "Verbo principal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -129,7 +129,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -154,12 +154,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "3AMI-S--",
       "morphology": "Verbo · aoristo · voz média · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AMI-S--)",
       "meanings": "Vir a ser, acontecer, cumprir-se na história",
-      "explanation": "Glosa neste contexto: houve.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -179,7 +179,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
       "meanings": "granizo",
-      "explanation": "Glosa neste contexto: granizo.",
+      "explanation": "Sujeito coordenado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -204,7 +204,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -229,7 +229,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo · nominativo · singular · neutro (MorphGNT: N- ----NSN-)",
       "meanings": "fogo",
-      "explanation": "Glosa neste contexto: fogo.",
+      "explanation": "Sujeito coordenado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -254,7 +254,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "-XPPNPN-",
       "morphology": "Verbo · perfeito · voz passiva · particípio · nominativo · plural · neutro (MorphGNT: V- -XPPNPN-)",
       "meanings": "misturar",
-      "explanation": "Glosa neste contexto: misturados.",
+      "explanation": "Particípio predicativo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -279,7 +279,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "Em, dentro de, em meio a (uso adverbial ou temporal)",
-      "explanation": "Glosa neste contexto: com.",
+      "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -304,7 +304,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "----DSN-",
       "morphology": "Substantivo · dativo · singular · neutro (MorphGNT: N- ----DSN-)",
       "meanings": "sangue",
-      "explanation": "Glosa neste contexto: sangue.",
+      "explanation": "Dativo de associação. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -329,7 +329,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -354,7 +354,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
       "meanings": "lançar",
-      "explanation": "Glosa neste contexto: foi lançado.",
+      "explanation": "Verbo passivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -379,7 +379,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "para",
-      "explanation": "Glosa neste contexto: para.",
+      "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -404,12 +404,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido · acusativo · singular · feminino (MorphGNT: RA ----ASF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: a.",
+      "explanation": "Determinante do sintagma «τὴν γῆν·» — integrado ao constituinte com função de adjunto adverbial «εἰς τὴν γῆν·». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν γῆν·» — integrado ao constituinte com função de adjunto adverbial «εἰς τὴν γῆν·»",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -429,7 +429,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
       "meanings": "terra",
-      "explanation": "Glosa neste contexto: terra.",
+      "explanation": "Função não individualizada; consultar análise do versículo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -454,7 +454,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -479,12 +479,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «τὸ τρίτον τῆς γῆς» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ τρίτον τῆς γῆς» — sujeito da oração",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -504,7 +504,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
       "meanings": "terceiro",
-      "explanation": "Glosa neste contexto: terço.",
+      "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -529,12 +529,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido · genitivo · singular · feminino (MorphGNT: RA ----GSF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: da.",
+      "explanation": "Determinante do sintagma «τῆς γῆς» — integrado ao constituinte com função de sujeito «τὸ τρίτον τῆς γῆς». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς γῆς» — integrado ao constituinte com função de sujeito «τὸ τρίτον τῆς γῆς»",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -554,7 +554,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "terra",
-      "explanation": "Glosa neste contexto: terra.",
+      "explanation": "Genitivo partitivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -579,7 +579,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
       "meanings": "queimar completamente",
-      "explanation": "Glosa neste contexto: foi queimado.",
+      "explanation": "Verbo passivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -604,7 +604,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -629,12 +629,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «τὸ τρίτον τῶν δένδρων» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ τρίτον τῶν δένδρων» — sujeito da oração",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -654,7 +654,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
       "meanings": "terceiro",
-      "explanation": "Glosa neste contexto: terço.",
+      "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -679,12 +679,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: das.",
+      "explanation": "Determinante do sintagma «τῶν δένδρων» — integrado ao constituinte com função de sujeito «τὸ τρίτον τῶν δένδρων». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν δένδρων» — integrado ao constituinte com função de sujeito «τὸ τρίτον τῶν δένδρων»",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -704,7 +704,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "árvore",
-      "explanation": "Glosa neste contexto: árvores.",
+      "explanation": "Genitivo partitivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -729,7 +729,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
       "meanings": "queimar completamente",
-      "explanation": "Glosa neste contexto: foi queimado.",
+      "explanation": "Verbo passivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -754,7 +754,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -779,7 +779,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo / numeral · nominativo · singular · masculino (MorphGNT: A- ----NSM-)",
       "meanings": "todo",
-      "explanation": "Glosa neste contexto: toda.",
+      "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -804,7 +804,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "erva; vegetação",
-      "explanation": "Glosa neste contexto: erva.",
+      "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -829,7 +829,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo / numeral · nominativo · singular · masculino (MorphGNT: A- ----NSM-)",
       "meanings": "verde-pálido",
-      "explanation": "Glosa neste contexto: verde.",
+      "explanation": "Adjetivo atributivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -854,7 +854,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
       "meanings": "queimar completamente",
-      "explanation": "Glosa neste contexto: foi queimada.",
+      "explanation": "Verbo passivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],

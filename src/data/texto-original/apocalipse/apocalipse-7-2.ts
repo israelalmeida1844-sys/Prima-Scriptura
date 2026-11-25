@@ -5,7 +5,7 @@ export const apocalipse7v2 = {
   "verse": 2,
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
-  "translation": "Vi outro anjo subindo do nascente do sol, tendo o selo do Deus vivo. Ele clamou em alta voz aos quatro anjos aos quais fora concedido causar dano à terra e ao mar,",
+  "translation": "E vi outro anjo subindo do nascente do sol, tendo o selo do Deus vivo. Ele clamou em alta voz aos quatro anjos aos quais fora concedido causar dano à terra e ao mar,",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἔκραξεν» → «ἔκραξε».",
   "syntacticNotes": [
@@ -57,7 +57,7 @@ export const apocalipse7v2 = {
         "Ap 7:2"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.2",
         "governedBy": null
       },
@@ -129,7 +129,7 @@ export const apocalipse7v2 = {
         "Ap 7:2"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.2",
         "governedBy": null
       },
@@ -226,7 +226,7 @@ export const apocalipse7v2 = {
         "Ap 7:2"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.2",
         "governedBy": null
       },
@@ -298,7 +298,7 @@ export const apocalipse7v2 = {
         "Ap 7:2"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.2",
         "governedBy": null
       },
@@ -347,7 +347,7 @@ export const apocalipse7v2 = {
         "Ap 7:2"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.2",
         "governedBy": null
       },
@@ -419,7 +419,7 @@ export const apocalipse7v2 = {
         "Ap 7:2"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῖς τέσσαρσιν ἀγγέλοις οἷς ἐδόθη αὐτοῖς ἀδικῆσαι τὴν …» — objeto indireto da oração",
         "clauseId": "AP.7.2",
         "governedBy": null
       },
@@ -515,7 +515,7 @@ export const apocalipse7v2 = {
         "Ap 7:2"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.2",
         "governedBy": null
       },
@@ -563,7 +563,7 @@ export const apocalipse7v2 = {
         "Ap 7:2"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.2",
         "governedBy": null
       },
@@ -587,7 +587,7 @@ export const apocalipse7v2 = {
         "Ap 7:2"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν γῆν» — integrado ao constituinte com função de objeto direto «τὴν γῆν καὶ τὴν θάλασσαν,»",
         "clauseId": "AP.7.2",
         "governedBy": null
       },
@@ -659,7 +659,7 @@ export const apocalipse7v2 = {
         "Ap 7:2"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν θάλασσαν,» — integrado ao constituinte com função de objeto direto «τὴν γῆν καὶ τὴν θάλασσαν,»",
         "clauseId": "AP.7.2",
         "governedBy": null
       },

@@ -55,7 +55,7 @@ export const apocalipse3v2 = {
         "Ap 3:2"
       ],
       "syntax": {
-        "role": "Particípio",
+        "role": "Verbo no constituinte «γίνου γρηγορῶν,» — predicado verbal da oração",
         "clauseId": "AP.3.2.C1",
         "governedBy": null
       },
@@ -128,7 +128,7 @@ export const apocalipse3v2 = {
         "Ap 3:2"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰ λοιπὰ» — integrado ao constituinte com função de objeto direto «τὰ λοιπὰ ἃ ἔμελλον ἀποθανεῖν,»",
         "clauseId": "AP.3.2.C1",
         "governedBy": null
       },
@@ -152,7 +152,7 @@ export const apocalipse3v2 = {
         "Ap 3:2"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «τὰ λοιπὰ» — integrado ao constituinte com função de objeto direto «τὰ λοιπὰ ἃ ἔμελλον ἀποθανεῖν,»",
         "clauseId": "AP.3.2.C1",
         "governedBy": null
       },
@@ -345,7 +345,7 @@ export const apocalipse3v2 = {
         "Ap 3:2"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰ ἔργα» — integrado ao constituinte com função de sujeito «σου τὰ ἔργα»",
         "clauseId": "AP.3.2.C1",
         "governedBy": null
       },
@@ -369,7 +369,7 @@ export const apocalipse3v2 = {
         "Ap 3:2"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τὰ ἔργα» — integrado ao constituinte com função de sujeito «σου τὰ ἔργα»",
         "clauseId": "AP.3.2.C1",
         "governedBy": null
       },
@@ -393,7 +393,7 @@ export const apocalipse3v2 = {
         "Ap 3:2"
       ],
       "syntax": {
-        "role": "Particípio",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.3.2.C1",
         "governedBy": null
       },
@@ -441,7 +441,7 @@ export const apocalipse3v2 = {
         "Ap 3:2"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ θεοῦ μου·» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τοῦ θεοῦ μου·»",
         "clauseId": "AP.3.2.C1",
         "governedBy": null
       },
@@ -452,7 +452,7 @@ export const apocalipse3v2 = {
       "shortMorph": "N- ----GSM-",
       "greek": "θεοῦ",
       "transliteration": "theou",
-      "gloss": "o deus supremo",
+      "gloss": "Deus",
       "strong": "G2316",
       "lemma": "θεός",
       "lemmaTransliteration": "theos",
@@ -465,7 +465,7 @@ export const apocalipse3v2 = {
         "Ap 3:2"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «θεοῦ μου·» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τοῦ θεοῦ μου·»",
         "clauseId": "AP.3.2.C1",
         "governedBy": null
       },

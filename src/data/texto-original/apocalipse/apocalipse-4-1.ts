@@ -6,7 +6,7 @@ export const apocalipse4v1 = {
   "verse": 1,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Depois destas coisas, vi uma porta aberta no céu; e a primeira voz que eu ouvira, falando comigo como trombeta, disse: Sobe aqui, e te mostrarei o que deve acontecer depois destas coisas.",
+  "translation": "Depois destas coisas, vi uma porta aberta no céu; e a primeira voz que eu ouvira, falando comigo como trombeta, disse: \"Sobe aqui, e te mostrarei o que deve acontecer depois destas coisas.\"",
   "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «λέγων» → «λέγουσα».",
   "exegeticalNotes": [

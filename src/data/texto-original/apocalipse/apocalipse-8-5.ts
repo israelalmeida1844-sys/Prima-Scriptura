@@ -29,7 +29,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -54,7 +54,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "3XAI-S--",
       "morphology": "Verbo · perfeito · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3XAI-S--)",
       "meanings": "receber",
-      "explanation": "Glosa neste contexto: tomou.",
+      "explanation": "Verbo principal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -79,12 +79,12 @@ export const apocalipse8v5 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido · nominativo · singular · masculino (MorphGNT: RA ----NSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «ὁ ἄγγελος» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ ἄγγελος» — sujeito da oração",
         "clauseId": "AP.8.5",
         "governedBy": null
       },
@@ -104,7 +104,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "Anjo, mensageiro celestial de Deus",
-      "explanation": "Glosa neste contexto: anjo.",
+      "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -129,12 +129,12 @@ export const apocalipse8v5 = {
       "morphologyCode": "----ASM-",
       "morphology": "Artigo definido · acusativo · singular · masculino (MorphGNT: RA ----ASM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «τὸν λιβανωτόν,» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸν λιβανωτόν,» — objeto direto da oração",
         "clauseId": "AP.8.5",
         "governedBy": null
       },
@@ -154,7 +154,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo · acusativo · singular · masculino (MorphGNT: N- ----ASM-)",
       "meanings": "incensário; recipiente de incenso",
-      "explanation": "Glosa neste contexto: incensário.",
+      "explanation": "Objeto direto. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -179,7 +179,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -204,7 +204,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "encher",
-      "explanation": "Glosa neste contexto: encheu.",
+      "explanation": "Verbo coordenado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -229,7 +229,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "----ASM-",
       "morphology": "Pronome pessoal · acusativo · singular · masculino (MorphGNT: RP ----ASM-)",
       "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Objeto direto. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -254,7 +254,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "de",
-      "explanation": "Glosa neste contexto: de.",
+      "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -279,12 +279,12 @@ export const apocalipse8v5 = {
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido · genitivo · singular · neutro (MorphGNT: RA ----GSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o (genitivo).",
+      "explanation": "Determinante do sintagma «τοῦ πυρὸς τοῦ θυσιαστηρίου,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ πυρὸς τοῦ θυσιαστηρίου,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ πυρὸς τοῦ θυσιαστηρίου,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ πυρὸς τοῦ θυσιαστηρίου,»",
         "clauseId": "AP.8.5",
         "governedBy": null
       },
@@ -304,7 +304,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo · genitivo · singular · neutro (MorphGNT: N- ----GSN-)",
       "meanings": "fogo",
-      "explanation": "Glosa neste contexto: fogo.",
+      "explanation": "Origem do conteúdo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -329,12 +329,12 @@ export const apocalipse8v5 = {
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido · genitivo · singular · neutro (MorphGNT: RA ----GSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: do.",
+      "explanation": "Determinante do sintagma «τοῦ θυσιαστηρίου,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ πυρὸς τοῦ θυσιαστηρίου,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ θυσιαστηρίου,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ πυρὸς τοῦ θυσιαστηρίου,»",
         "clauseId": "AP.8.5",
         "governedBy": null
       },
@@ -354,7 +354,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo · genitivo · singular · neutro (MorphGNT: N- ----GSN-)",
       "meanings": "altar",
-      "explanation": "Glosa neste contexto: altar.",
+      "explanation": "Função não individualizada; consultar análise do versículo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -379,7 +379,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -404,7 +404,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "lançar",
-      "explanation": "Glosa neste contexto: lançou.",
+      "explanation": "Verbo coordenado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -429,7 +429,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "para",
-      "explanation": "Glosa neste contexto: para.",
+      "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -454,12 +454,12 @@ export const apocalipse8v5 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido · acusativo · singular · feminino (MorphGNT: RA ----ASF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: a.",
+      "explanation": "Determinante do sintagma «τὴν γῆν·» — integrado ao constituinte com função de adjunto adverbial «εἰς τὴν γῆν·». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν γῆν·» — integrado ao constituinte com função de adjunto adverbial «εἰς τὴν γῆν·»",
         "clauseId": "AP.8.5",
         "governedBy": null
       },
@@ -479,7 +479,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
       "meanings": "terra",
-      "explanation": "Glosa neste contexto: terra.",
+      "explanation": "Alvo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -504,7 +504,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -529,7 +529,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "3AMI-P--",
       "morphology": "Verbo · aoristo · voz média · indicativo · 3ª pessoa · plural (MorphGNT: V- 3AMI-P--)",
       "meanings": "Vir a ser, acontecer, cumprir-se na história",
-      "explanation": "Glosa neste contexto: houve.",
+      "explanation": "Verbo existencial. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -554,7 +554,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo · nominativo · plural · feminino (MorphGNT: N- ----NPF-)",
       "meanings": "trovão",
-      "explanation": "Glosa neste contexto: trovões.",
+      "explanation": "Sujeito coordenado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -579,7 +579,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -604,7 +604,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo · nominativo · plural · feminino (MorphGNT: N- ----NPF-)",
       "meanings": "voz",
-      "explanation": "Glosa neste contexto: vozes.",
+      "explanation": "Sujeito coordenado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -629,7 +629,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -654,7 +654,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo · nominativo · plural · feminino (MorphGNT: N- ----NPF-)",
       "meanings": "relâmpago",
-      "explanation": "Glosa neste contexto: relâmpagos.",
+      "explanation": "Sujeito coordenado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -679,7 +679,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],
@@ -704,7 +704,7 @@ export const apocalipse8v5 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "terremoto",
-      "explanation": "Glosa neste contexto: terremoto.",
+      "explanation": "Sujeito coordenado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
       ],

@@ -79,7 +79,7 @@ export const apocalipse3v10 = {
         "Ap 3:10"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸν λόγον τῆς ὑπομονῆς μου,» — objeto direto da oração",
         "clauseId": "AP.3.10.C1",
         "governedBy": null
       },
@@ -103,7 +103,7 @@ export const apocalipse3v10 = {
         "Ap 3:10"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «λόγον τῆς ὑπομονῆς μου,» — integrado ao constituinte com função de objeto direto «τὸν λόγον τῆς ὑπομονῆς μου,»",
         "clauseId": "AP.3.10.C1",
         "governedBy": null
       },
@@ -127,7 +127,7 @@ export const apocalipse3v10 = {
         "Ap 3:10"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς ὑπομονῆς μου,» — integrado ao constituinte com função de objeto direto «τὸν λόγον τῆς ὑπομονῆς μου,»",
         "clauseId": "AP.3.10.C1",
         "governedBy": null
       },
@@ -151,7 +151,7 @@ export const apocalipse3v10 = {
         "Ap 3:10"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ὑπομονῆς μου,» — integrado ao constituinte com função de objeto direto «τὸν λόγον τῆς ὑπομονῆς μου,»",
         "clauseId": "AP.3.10.C1",
         "governedBy": null
       },
@@ -296,7 +296,7 @@ export const apocalipse3v10 = {
         "Ap 3:10"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς ὥρας τοῦ πειρασμοῦ» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῆς ὥρας τοῦ πειρασμοῦ τῆς μελλούσης ἔρχεσθαι …»",
         "clauseId": "AP.3.10.C1",
         "governedBy": null
       },
@@ -320,7 +320,7 @@ export const apocalipse3v10 = {
         "Ap 3:10"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ὥρας τοῦ πειρασμοῦ» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῆς ὥρας τοῦ πειρασμοῦ τῆς μελλούσης ἔρχεσθαι …»",
         "clauseId": "AP.3.10.C1",
         "governedBy": null
       },
@@ -344,7 +344,7 @@ export const apocalipse3v10 = {
         "Ap 3:10"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ πειρασμοῦ» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῆς ὥρας τοῦ πειρασμοῦ τῆς μελλούσης ἔρχεσθαι …»",
         "clauseId": "AP.3.10.C1",
         "governedBy": null
       },
@@ -368,7 +368,7 @@ export const apocalipse3v10 = {
         "Ap 3:10"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τοῦ πειρασμοῦ» — integrado ao constituinte com função de adjunto adverbial «… τῆς ὥρας τοῦ πειρασμοῦ τῆς μελλούσης ἔρχεσθαι ἐπὶ …»",
         "clauseId": "AP.3.10.C1",
         "governedBy": null
       },
@@ -392,7 +392,7 @@ export const apocalipse3v10 = {
         "Ap 3:10"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς μελλούσης ἔρχεσθαι ἐπὶ τῆς οἰκουμένης ὅλης, πειράσαι …» — integrado ao constituinte com função de adjunto adverbial «… ὥρας τοῦ πειρασμοῦ τῆς μελλούσης ἔρχεσθαι ἐπὶ τῆς …»",
         "clauseId": "AP.3.10.C1",
         "governedBy": null
       },
@@ -416,7 +416,7 @@ export const apocalipse3v10 = {
         "Ap 3:10"
       ],
       "syntax": {
-        "role": "Particípio",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.3.10.C1",
         "governedBy": null
       },
@@ -488,7 +488,7 @@ export const apocalipse3v10 = {
         "Ap 3:10"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς οἰκουμένης» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τῆς οἰκουμένης ὅλης,»",
         "clauseId": "AP.3.10.C1",
         "governedBy": null
       },
@@ -512,7 +512,7 @@ export const apocalipse3v10 = {
         "Ap 3:10"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τῆς οἰκουμένης» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τῆς οἰκουμένης ὅλης,»",
         "clauseId": "AP.3.10.C1",
         "governedBy": null
       },
@@ -536,7 +536,7 @@ export const apocalipse3v10 = {
         "Ap 3:10"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «τῆς οἰκουμένης ὅλης,» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τῆς οἰκουμένης ὅλης,»",
         "clauseId": "AP.3.10.C1",
         "governedBy": null
       },
@@ -585,7 +585,7 @@ export const apocalipse3v10 = {
         "Ap 3:10"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοὺς κατοικοῦντας ἐπὶ τῆς γῆς.» — objeto direto da oração",
         "clauseId": "AP.3.10.C1",
         "governedBy": null
       },
@@ -609,7 +609,7 @@ export const apocalipse3v10 = {
         "Ap 3:10"
       ],
       "syntax": {
-        "role": "Particípio",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.3.10.C1",
         "governedBy": null
       },
@@ -657,7 +657,7 @@ export const apocalipse3v10 = {
         "Ap 3:10"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς γῆς.» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τῆς γῆς.»",
         "clauseId": "AP.3.10.C1",
         "governedBy": null
       },
@@ -681,7 +681,7 @@ export const apocalipse3v10 = {
         "Ap 3:10"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τῆς γῆς.» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τῆς γῆς.»",
         "clauseId": "AP.3.10.C1",
         "governedBy": null
       },

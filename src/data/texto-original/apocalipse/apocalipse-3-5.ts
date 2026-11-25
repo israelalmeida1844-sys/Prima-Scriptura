@@ -31,7 +31,7 @@ export const apocalipse3v5 = {
         "Ap 3:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ νικῶν» — sujeito da oração",
         "clauseId": "AP.3.5.C1",
         "governedBy": null
       },
@@ -55,7 +55,7 @@ export const apocalipse3v5 = {
         "Ap 3:5"
       ],
       "syntax": {
-        "role": "Particípio",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.3.5.C1",
         "governedBy": null
       },
@@ -151,7 +151,7 @@ export const apocalipse3v5 = {
         "Ap 3:5"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἱματίοις λευκοῖς,» — integrado ao constituinte com função de adjunto adverbial «ἐν ἱματίοις λευκοῖς,»",
         "clauseId": "AP.3.5.C1",
         "governedBy": null
       },
@@ -175,7 +175,7 @@ export const apocalipse3v5 = {
         "Ap 3:5"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «ἱματίοις λευκοῖς,» — integrado ao constituinte com função de adjunto adverbial «ἐν ἱματίοις λευκοῖς,»",
         "clauseId": "AP.3.5.C1",
         "governedBy": null
       },
@@ -296,7 +296,7 @@ export const apocalipse3v5 = {
         "Ap 3:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ ὄνομα αὐτοῦ» — objeto direto da oração",
         "clauseId": "AP.3.5.C1",
         "governedBy": null
       },
@@ -320,7 +320,7 @@ export const apocalipse3v5 = {
         "Ap 3:5"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ὄνομα αὐτοῦ» — integrado ao constituinte com função de objeto direto «τὸ ὄνομα αὐτοῦ»",
         "clauseId": "AP.3.5.C1",
         "governedBy": null
       },
@@ -392,7 +392,7 @@ export const apocalipse3v5 = {
         "Ap 3:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς βίβλου τῆς ζωῆς,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῆς βίβλου τῆς ζωῆς,»",
         "clauseId": "AP.3.5.C1",
         "governedBy": null
       },
@@ -416,7 +416,7 @@ export const apocalipse3v5 = {
         "Ap 3:5"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «βίβλου τῆς ζωῆς,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῆς βίβλου τῆς ζωῆς,»",
         "clauseId": "AP.3.5.C1",
         "governedBy": null
       },
@@ -440,7 +440,7 @@ export const apocalipse3v5 = {
         "Ap 3:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς ζωῆς,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῆς βίβλου τῆς ζωῆς,»",
         "clauseId": "AP.3.5.C1",
         "governedBy": null
       },
@@ -464,7 +464,7 @@ export const apocalipse3v5 = {
         "Ap 3:5"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τῆς ζωῆς,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῆς βίβλου τῆς ζωῆς,»",
         "clauseId": "AP.3.5.C1",
         "governedBy": null
       },
@@ -537,7 +537,7 @@ export const apocalipse3v5 = {
         "Ap 3:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ ὄνομα αὐτοῦ» — objeto direto da oração",
         "clauseId": "AP.3.5.C1",
         "governedBy": null
       },
@@ -561,7 +561,7 @@ export const apocalipse3v5 = {
         "Ap 3:5"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ὄνομα αὐτοῦ» — integrado ao constituinte com função de objeto direto «τὸ ὄνομα αὐτοῦ»",
         "clauseId": "AP.3.5.C1",
         "governedBy": null
       },
@@ -633,7 +633,7 @@ export const apocalipse3v5 = {
         "Ap 3:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ πατρός μου» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τοῦ πατρός μου καὶ ἐνώπιον τῶν ἀγγέλων …»",
         "clauseId": "AP.3.5.C1",
         "governedBy": null
       },
@@ -657,7 +657,7 @@ export const apocalipse3v5 = {
         "Ap 3:5"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «πατρός μου» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τοῦ πατρός μου καὶ ἐνώπιον τῶν ἀγγέλων …»",
         "clauseId": "AP.3.5.C1",
         "governedBy": null
       },
@@ -753,7 +753,7 @@ export const apocalipse3v5 = {
         "Ap 3:5"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν ἀγγέλων αὐτοῦ.» — integrado ao constituinte com função de adjunto adverbial «… τοῦ πατρός μου καὶ ἐνώπιον τῶν ἀγγέλων αὐτοῦ.»",
         "clauseId": "AP.3.5.C1",
         "governedBy": null
       },
@@ -764,7 +764,7 @@ export const apocalipse3v5 = {
       "shortMorph": "N- ----GPM-",
       "greek": "ἀγγέλων",
       "transliteration": "angelōn",
-      "gloss": "anjo",
+      "gloss": "anjos",
       "strong": "G32",
       "lemma": "ἄγγελος",
       "lemmaTransliteration": "angelos",
@@ -777,7 +777,7 @@ export const apocalipse3v5 = {
         "Ap 3:5"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἀγγέλων αὐτοῦ.» — integrado ao constituinte com função de adjunto adverbial «… τοῦ πατρός μου καὶ ἐνώπιον τῶν ἀγγέλων αὐτοῦ.»",
         "clauseId": "AP.3.5.C1",
         "governedBy": null
       },

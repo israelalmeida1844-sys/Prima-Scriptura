@@ -5,7 +5,7 @@ export const apocalipse7v3 = {
   "verse": 3,
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
-  "translation": "dizendo: Não causeis dano à terra, nem ao mar, nem às árvores, até selarmos os servos do nosso Deus em suas testas.",
+  "translation": "dizendo: \"Não causeis dano à terra, nem ao mar, nem às árvores, até selarmos os servos do nosso Deus em suas testas.\"",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἄχρι WH Treg NA28 ] + οὗ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἄχρι» → «ἄχρις οὗ».",
   "syntacticNotes": [
@@ -33,7 +33,7 @@ export const apocalipse7v3 = {
         "Ap 7:3"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.3",
         "governedBy": null
       },
@@ -82,7 +82,7 @@ export const apocalipse7v3 = {
         "Ap 7:3"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.3",
         "governedBy": null
       },
@@ -106,7 +106,7 @@ export const apocalipse7v3 = {
         "Ap 7:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν γῆν» — integrado ao constituinte com função de objeto direto «τὴν γῆν μήτε τὴν θάλασσαν μήτε τὰ δένδρα,»",
         "clauseId": "AP.7.3",
         "governedBy": null
       },
@@ -178,7 +178,7 @@ export const apocalipse7v3 = {
         "Ap 7:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν θάλασσαν» — integrado ao constituinte com função de objeto direto «τὴν γῆν μήτε τὴν θάλασσαν μήτε τὰ δένδρα,»",
         "clauseId": "AP.7.3",
         "governedBy": null
       },
@@ -250,7 +250,7 @@ export const apocalipse7v3 = {
         "Ap 7:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰ δένδρα,» — integrado ao constituinte com função de objeto direto «τὴν γῆν μήτε τὴν θάλασσαν μήτε τὰ δένδρα,»",
         "clauseId": "AP.7.3",
         "governedBy": null
       },
@@ -323,7 +323,7 @@ export const apocalipse7v3 = {
         "Ap 7:3"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.3",
         "governedBy": null
       },
@@ -347,7 +347,7 @@ export const apocalipse7v3 = {
         "Ap 7:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοὺς δούλους τοῦ θεοῦ ἡμῶν» — objeto direto da oração",
         "clauseId": "AP.7.3",
         "governedBy": null
       },
@@ -395,7 +395,7 @@ export const apocalipse7v3 = {
         "Ap 7:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ θεοῦ ἡμῶν» — integrado ao constituinte com função de objeto direto «τοὺς δούλους τοῦ θεοῦ ἡμῶν»",
         "clauseId": "AP.7.3",
         "governedBy": null
       },
@@ -491,7 +491,7 @@ export const apocalipse7v3 = {
         "Ap 7:3"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν μετώπων αὐτῶν.» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τῶν μετώπων αὐτῶν.»",
         "clauseId": "AP.7.3",
         "governedBy": null
       },

@@ -29,12 +29,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ οἱ βασιλεῖς τῆς γῆς καὶ οἱ μεγιστᾶνες …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Conjunção que articula os constituintes de «καὶ οἱ βασιλεῖς τῆς γῆς καὶ οἱ μεγιστᾶνες …»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -53,12 +53,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: RA ----NPM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Determinante do sintagma «οἱ βασιλεῖς τῆς γῆς» — integrado ao constituinte com função de sujeito «οἱ βασιλεῖς τῆς γῆς καὶ οἱ μεγιστᾶνες καὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «οἱ βασιλεῖς τῆς γῆς» — integrado ao constituinte com função de sujeito «οἱ βασιλεῖς τῆς γῆς καὶ οἱ μεγιστᾶνες καὶ …»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -77,7 +77,7 @@ export const apocalipse6v15 = {
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: N- ----NPM-",
       "meanings": "rei",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
@@ -101,12 +101,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: RA ----GSF-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Determinante do sintagma «τῆς γῆς» — integrado ao constituinte com função de sujeito «οἱ βασιλεῖς τῆς γῆς καὶ οἱ μεγιστᾶνες καὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς γῆς» — integrado ao constituinte com função de sujeito «οἱ βασιλεῖς τῆς γῆς καὶ οἱ μεγιστᾶνες καὶ …»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -125,7 +125,7 @@ export const apocalipse6v15 = {
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: N- ----GSF-",
       "meanings": "terra; solo",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
@@ -149,12 +149,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ οἱ μεγιστᾶνες» — integrado ao constituinte com função de sujeito «… βασιλεῖς τῆς γῆς καὶ οἱ μεγιστᾶνες καὶ οἱ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Conjunção que articula os constituintes de «καὶ οἱ μεγιστᾶνες» — integrado ao constituinte com função de sujeito «… βασιλεῖς τῆς γῆς καὶ οἱ μεγιστᾶνες καὶ οἱ …»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -173,12 +173,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: RA ----NPM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Determinante do sintagma «οἱ μεγιστᾶνες» — integrado ao constituinte com função de sujeito «… τῆς γῆς καὶ οἱ μεγιστᾶνες καὶ οἱ χιλίαρχοι …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «οἱ μεγιστᾶνες» — integrado ao constituinte com função de sujeito «… τῆς γῆς καὶ οἱ μεγιστᾶνες καὶ οἱ χιλίαρχοι …»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -197,7 +197,7 @@ export const apocalipse6v15 = {
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: N- ----NPM-",
       "meanings": "Pessoa de alta posição social ou política, dignitário ou poderoso influente.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
@@ -221,12 +221,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ οἱ χιλίαρχοι» — integrado ao constituinte com função de sujeito «… καὶ οἱ μεγιστᾶνες καὶ οἱ χιλίαρχοι καὶ οἱ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Conjunção que articula os constituintes de «καὶ οἱ χιλίαρχοι» — integrado ao constituinte com função de sujeito «… καὶ οἱ μεγιστᾶνες καὶ οἱ χιλίαρχοι καὶ οἱ …»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -245,12 +245,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: RA ----NPM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Determinante do sintagma «οἱ χιλίαρχοι» — integrado ao constituinte com função de sujeito «… οἱ μεγιστᾶνες καὶ οἱ χιλίαρχοι καὶ οἱ πλούσιοι …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «οἱ χιλίαρχοι» — integrado ao constituinte com função de sujeito «… οἱ μεγιστᾶνες καὶ οἱ χιλίαρχοι καὶ οἱ πλούσιοι …»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -269,7 +269,7 @@ export const apocalipse6v15 = {
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: N- ----NPM-",
       "meanings": "Título de comandante militar; originalmente associado ao comando de mil, podendo variar conforme organização histórica.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
@@ -293,12 +293,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ οἱ πλούσιοι» — integrado ao constituinte com função de sujeito «… καὶ οἱ χιλίαρχοι καὶ οἱ πλούσιοι καὶ οἱ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Conjunção que articula os constituintes de «καὶ οἱ πλούσιοι» — integrado ao constituinte com função de sujeito «… καὶ οἱ χιλίαρχοι καὶ οἱ πλούσιοι καὶ οἱ …»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -317,12 +317,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: RA ----NPM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Determinante do sintagma «οἱ πλούσιοι» — integrado ao constituinte com função de sujeito «… οἱ χιλίαρχοι καὶ οἱ πλούσιοι καὶ οἱ ἰσχυροὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «οἱ πλούσιοι» — integrado ao constituinte com função de sujeito «… οἱ χιλίαρχοι καὶ οἱ πλούσιοι καὶ οἱ ἰσχυροὶ …»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -341,12 +341,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: A- ----NPM-",
       "meanings": "πλούσιος εἶ predica riqueza da comunidade apesar de πτωχεία; riqueza é caracterizada pelo contraste teológico do versículo.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Adjetivo no constituinte «οἱ πλούσιοι» — integrado ao constituinte com função de sujeito «… χιλίαρχοι καὶ οἱ πλούσιοι καὶ οἱ ἰσχυροὶ καὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Adjetivo no constituinte «οἱ πλούσιοι» — integrado ao constituinte com função de sujeito «… χιλίαρχοι καὶ οἱ πλούσιοι καὶ οἱ ἰσχυροὶ καὶ …»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -365,12 +365,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ οἱ ἰσχυροὶ» — integrado ao constituinte com função de sujeito «… καὶ οἱ πλούσιοι καὶ οἱ ἰσχυροὶ καὶ πᾶς …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Conjunção que articula os constituintes de «καὶ οἱ ἰσχυροὶ» — integrado ao constituinte com função de sujeito «… καὶ οἱ πλούσιοι καὶ οἱ ἰσχυροὶ καὶ πᾶς …»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -389,12 +389,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: RA ----NPM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Determinante do sintagma «οἱ ἰσχυροὶ» — integrado ao constituinte com função de sujeito «… οἱ πλούσιοι καὶ οἱ ἰσχυροὶ καὶ πᾶς δοῦλος …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «οἱ ἰσχυροὶ» — integrado ao constituinte com função de sujeito «… οἱ πλούσιοι καὶ οἱ ἰσχυροὶ καὶ πᾶς δοῦλος …»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -413,12 +413,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: A- ----NPM-",
       "meanings": "Que possui força ou capacidade expressiva, física ou figurada.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Adjetivo no constituinte «οἱ ἰσχυροὶ» — integrado ao constituinte com função de sujeito «… πλούσιοι καὶ οἱ ἰσχυροὶ καὶ πᾶς δοῦλος καὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Adjetivo no constituinte «οἱ ἰσχυροὶ» — integrado ao constituinte com função de sujeito «… πλούσιοι καὶ οἱ ἰσχυροὶ καὶ πᾶς δοῦλος καὶ …»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -437,12 +437,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ πᾶς δοῦλος καὶ ἐλεύθερος» — integrado ao constituinte com função de sujeito «… καὶ οἱ ἰσχυροὶ καὶ πᾶς δοῦλος καὶ ἐλεύθερος». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Conjunção que articula os constituintes de «καὶ πᾶς δοῦλος καὶ ἐλεύθερος» — integrado ao constituinte com função de sujeito «… καὶ οἱ ἰσχυροὶ καὶ πᾶς δοῦλος καὶ ἐλεύθερος»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -461,12 +461,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: A- ----NSM-",
       "meanings": "todo; cada",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Adjetivo no constituinte «πᾶς δοῦλος καὶ ἐλεύθερος» — integrado ao constituinte com função de sujeito «… καὶ οἱ ἰσχυροὶ καὶ πᾶς δοῦλος καὶ ἐλεύθερος». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Adjetivo no constituinte «πᾶς δοῦλος καὶ ἐλεύθερος» — integrado ao constituinte com função de sujeito «… καὶ οἱ ἰσχυροὶ καὶ πᾶς δοῦλος καὶ ἐλεύθερος»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -485,7 +485,7 @@ export const apocalipse6v15 = {
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: N- ----NSM-",
       "meanings": "Aquele que pertence inteiramente ao Senhor por redenção e obediência fiel, correspondente ao hebraico 'ebed Yahweh.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
@@ -509,12 +509,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ ἐλεύθερος» — integrado ao constituinte com função de sujeito «… καὶ οἱ ἰσχυροὶ καὶ πᾶς δοῦλος καὶ ἐλεύθερος». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Conjunção que articula os constituintes de «καὶ ἐλεύθερος» — integrado ao constituinte com função de sujeito «… καὶ οἱ ἰσχυροὶ καὶ πᾶς δοῦλος καὶ ἐλεύθερος»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -533,12 +533,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: A- ----NSM-",
       "meanings": "Livre, não sujeito à condição jurídica de escravidão; forma oposição social a δοῦλος.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Adjetivo no constituinte «καὶ ἐλεύθερος» — integrado ao constituinte com função de sujeito «… καὶ οἱ ἰσχυροὶ καὶ πᾶς δοῦλος καὶ ἐλεύθερος». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Adjetivo no constituinte «καὶ ἐλεύθερος» — integrado ao constituinte com função de sujeito «… καὶ οἱ ἰσχυροὶ καὶ πᾶς δοῦλος καὶ ἐλεύθερος»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -557,12 +557,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "3AAI-P--",
       "morphology": "MorphGNT 6.12: V- 3AAI-P--",
       "meanings": "κεκρυμμένου é particípio perfeito médio/passivo genitivo singular, atributivo de μάννα, alimento «escondido».",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -581,12 +581,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "----APM-",
       "morphology": "MorphGNT 6.12: RP ----APM-",
       "meanings": "ἑαυτούς é reflexivo acusativo plural correferente ao sujeito de λέγοντας: eles se apresentam a si mesmos como apóstolos.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Objeto direto da oração",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -605,7 +605,7 @@ export const apocalipse6v15 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
       "meanings": "para; em direção a; por",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conector preposicional. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
@@ -629,12 +629,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "----APN-",
       "morphology": "MorphGNT 6.12: RA ----APN-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Determinante do sintagma «τὰ σπήλαια» — integrado ao constituinte com função de adjunto adverbial «εἰς τὰ σπήλαια καὶ εἰς τὰς πέτρας τῶν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰ σπήλαια» — integrado ao constituinte com função de adjunto adverbial «εἰς τὰ σπήλαια καὶ εἰς τὰς πέτρας τῶν …»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -653,7 +653,7 @@ export const apocalipse6v15 = {
       "morphologyCode": "----APN-",
       "morphology": "MorphGNT 6.12: N- ----APN-",
       "meanings": "Caverna, gruta ou cavidade natural usada como abrigo.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
@@ -677,12 +677,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ εἰς τὰς πέτρας τῶν ὀρέων·» — integrado ao constituinte com função de adjunto adverbial «εἰς τὰ σπήλαια καὶ εἰς τὰς πέτρας τῶν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Conjunção que articula os constituintes de «καὶ εἰς τὰς πέτρας τῶν ὀρέων·» — integrado ao constituinte com função de adjunto adverbial «εἰς τὰ σπήλαια καὶ εἰς τὰς πέτρας τῶν …»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -701,7 +701,7 @@ export const apocalipse6v15 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
       "meanings": "para; em direção a; por",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conector preposicional. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
@@ -725,12 +725,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "----APF-",
       "morphology": "MorphGNT 6.12: RA ----APF-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Determinante do sintagma «τὰς πέτρας τῶν ὀρέων·» — integrado ao constituinte com função de adjunto adverbial «… τὰ σπήλαια καὶ εἰς τὰς πέτρας τῶν ὀρέων·». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰς πέτρας τῶν ὀρέων·» — integrado ao constituinte com função de adjunto adverbial «… τὰ σπήλαια καὶ εἰς τὰς πέτρας τῶν ὀρέων·»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -749,7 +749,7 @@ export const apocalipse6v15 = {
       "morphologyCode": "----APF-",
       "morphology": "MorphGNT 6.12: N- ----APF-",
       "meanings": "Rocha, massa de pedra ou formação rochosa; em 6:16 recebe uma invocação metafórica.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
@@ -773,12 +773,12 @@ export const apocalipse6v15 = {
       "morphologyCode": "----GPN-",
       "morphology": "MorphGNT 6.12: RA ----GPN-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Determinante do sintagma «τῶν ὀρέων·» — integrado ao constituinte com função de adjunto adverbial «… τὰ σπήλαια καὶ εἰς τὰς πέτρας τῶν ὀρέων·». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν ὀρέων·» — integrado ao constituinte com função de adjunto adverbial «… τὰ σπήλαια καὶ εἰς τὰς πέτρας τῶν ὀρέων·»",
         "clauseId": "AP.6.15",
         "governedBy": null
       },
@@ -797,7 +797,7 @@ export const apocalipse6v15 = {
       "morphologyCode": "----GPN-",
       "morphology": "MorphGNT 6.12: N- ----GPN-",
       "meanings": "Monte ou montanha, elevação de terreno, frequentemente elemento da paisagem apocalíptica.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
       ],

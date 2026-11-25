@@ -27,12 +27,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Partícula",
       "meanings": "eis",
-      "explanation": "Partícula. Glosa neste contexto: «eis». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Partícula no constituinte «ἰδοὺ βάλλω αὐτὴν εἰς κλίνην, καὶ τοὺς μοιχεύοντας …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Partícula no constituinte «ἰδοὺ βάλλω αὐτὴν εἰς κλίνην, καὶ τοὺς μοιχεύοντας …»",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -51,12 +51,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "lançar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «lanço». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "----ASF-",
       "morphology": "Pronome pessoal acusativo singular feminino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal acusativo singular feminino. Glosa neste contexto: «a ela». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Objeto direto da oração",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "para",
-      "explanation": "Preposição. Glosa neste contexto: «para». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Preposição que introduz «εἰς κλίνην,» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «εἰς κλίνην,» — adjunto adverbial da oração",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -123,12 +123,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "leito",
-      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «leito». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «εἰς κλίνην,» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «εἰς κλίνην,» — adjunto adverbial da oração",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -148,7 +148,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -172,12 +172,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido acusativo plural masculino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural masculino. Glosa neste contexto: «os». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τοὺς μοιχεύοντας μετ’ αὐτῆς» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοὺς μοιχεύοντας μετ’ αὐτῆς» — objeto direto da oração",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -196,7 +196,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "-PAPAPM-",
       "morphology": "Verbo no presente, voz ativa, particípio acusativo plural masculino",
       "meanings": "adulterar",
-      "explanation": "Verbo no presente, voz ativa, particípio acusativo plural masculino. Glosa neste contexto: «os que adulteram». Particípio em construção sintática. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Particípio em construção sintática. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -220,12 +220,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "com",
-      "explanation": "Preposição. Glosa neste contexto: «com». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Preposição que introduz «μετ’ αὐτῆς» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «μετ’ αὐτῆς» — adjunto adverbial da oração",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -244,12 +244,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "----GSF-",
       "morphology": "Pronome pessoal genitivo singular feminino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal genitivo singular feminino. Glosa neste contexto: «dele/dela». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Pronome no constituinte «μετ’ αὐτῆς» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Pronome no constituinte «μετ’ αὐτῆς» — adjunto adverbial da oração",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -268,12 +268,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "para",
-      "explanation": "Preposição. Glosa neste contexto: «para». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Preposição que introduz «εἰς θλῖψιν μεγάλην,» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «εἰς θλῖψιν μεγάλην,» — adjunto adverbial da oração",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -292,12 +292,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "tribulação",
-      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «tribulação». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «θλῖψιν μεγάλην,» — integrado ao constituinte com função de adjunto adverbial «εἰς θλῖψιν μεγάλην,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «θλῖψιν μεγάλην,» — integrado ao constituinte com função de adjunto adverbial «εἰς θλῖψιν μεγάλην,»",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -316,12 +316,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
       "meanings": "grande",
-      "explanation": "Adjetivo acusativo singular feminino. Glosa neste contexto: «grande». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjetivo no constituinte «θλῖψιν μεγάλην,» — integrado ao constituinte com função de adjunto adverbial «εἰς θλῖψιν μεγάλην,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjetivo no constituinte «θλῖψιν μεγάλην,» — integrado ao constituinte com função de adjunto adverbial «εἰς θλῖψιν μεγάλην,»",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -341,7 +341,7 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "se",
-      "explanation": "Conjunção. Glosa neste contexto: «se». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
@@ -365,12 +365,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Glosa neste contexto: «não». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjunto adverbial da oração",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -389,12 +389,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "3AAS-P--",
       "morphology": "Verbo no aoristo, voz ativa, subjuntivo, 3ª pessoa plural",
       "meanings": "arrepender-se",
-      "explanation": "Verbo no aoristo, voz ativa, subjuntivo, 3ª pessoa plural. Glosa neste contexto: «se arrependam». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -413,12 +413,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "de",
-      "explanation": "Preposição. Glosa neste contexto: «de». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Preposição que introduz «ἐκ τῶν ἔργων αὐτῆς·» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐκ τῶν ἔργων αὐτῆς·» — adjunto adverbial da oração",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -437,12 +437,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido genitivo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo plural neutro. Glosa neste contexto: «dos/das». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τῶν ἔργων αὐτῆς·» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῶν ἔργων αὐτῆς·». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν ἔργων αὐτῆς·» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῶν ἔργων αὐτῆς·»",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -461,12 +461,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo genitivo plural neutro",
       "meanings": "obra",
-      "explanation": "Substantivo genitivo plural neutro. Glosa neste contexto: «obra». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «ἔργων αὐτῆς·» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῶν ἔργων αὐτῆς·». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἔργων αὐτῆς·» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῶν ἔργων αὐτῆς·»",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },
@@ -485,12 +485,12 @@ export const apocalipse2v22 = {
       "morphologyCode": "----GSF-",
       "morphology": "Pronome pessoal genitivo singular feminino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal genitivo singular feminino. Glosa neste contexto: «dele/dela». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Pronome no constituinte «ἔργων αὐτῆς·» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῶν ἔργων αὐτῆς·». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Pronome no constituinte «ἔργων αὐτῆς·» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῶν ἔργων αὐτῆς·»",
         "clauseId": "AP.2.22.C1",
         "governedBy": null
       },

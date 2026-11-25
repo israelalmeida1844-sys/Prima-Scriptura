@@ -27,7 +27,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "mas",
-      "explanation": "Conjunção. Glosa neste contexto: «mas». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -51,12 +51,12 @@ export const apocalipse2v4 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «tenho». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.4.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse2v4 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "contra",
-      "explanation": "Preposição. Glosa neste contexto: «contra». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Preposição que introduz «κατὰ σοῦ» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «κατὰ σοῦ» — adjunto adverbial da oração",
         "clauseId": "AP.2.4.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse2v4 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo singular. Glosa neste contexto: «teu/de ti». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Pronome no constituinte «κατὰ σοῦ» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Pronome no constituinte «κατὰ σοῦ» — adjunto adverbial da oração",
         "clauseId": "AP.2.4.C1",
         "governedBy": null
       },
@@ -123,7 +123,7 @@ export const apocalipse2v4 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "que",
-      "explanation": "Conjunção. Glosa neste contexto: «que». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
@@ -147,12 +147,12 @@ export const apocalipse2v4 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τὴν ἀγάπην σου τὴν πρώτην» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν ἀγάπην σου τὴν πρώτην» — objeto direto da oração",
         "clauseId": "AP.2.4.C1",
         "governedBy": null
       },
@@ -171,12 +171,12 @@ export const apocalipse2v4 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "amor",
-      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «amor». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «ἀγάπην σου» — integrado ao constituinte com função de objeto direto «τὴν ἀγάπην σου τὴν πρώτην». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἀγάπην σου» — integrado ao constituinte com função de objeto direto «τὴν ἀγάπην σου τὴν πρώτην»",
         "clauseId": "AP.2.4.C1",
         "governedBy": null
       },
@@ -195,12 +195,12 @@ export const apocalipse2v4 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo singular. Glosa neste contexto: «teu/de ti». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Pronome no constituinte «ἀγάπην σου» — integrado ao constituinte com função de objeto direto «τὴν ἀγάπην σου τὴν πρώτην». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Pronome no constituinte «ἀγάπην σου» — integrado ao constituinte com função de objeto direto «τὴν ἀγάπην σου τὴν πρώτην»",
         "clauseId": "AP.2.4.C1",
         "governedBy": null
       },
@@ -219,12 +219,12 @@ export const apocalipse2v4 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τὴν πρώτην» — integrado ao constituinte com função de objeto direto «τὴν ἀγάπην σου τὴν πρώτην». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν πρώτην» — integrado ao constituinte com função de objeto direto «τὴν ἀγάπην σου τὴν πρώτην»",
         "clauseId": "AP.2.4.C1",
         "governedBy": null
       },
@@ -243,12 +243,12 @@ export const apocalipse2v4 = {
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
       "meanings": "primeiro",
-      "explanation": "Adjetivo acusativo singular feminino. Glosa neste contexto: «primeiro». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjetivo no constituinte «τὴν πρώτην» — integrado ao constituinte com função de objeto direto «τὴν ἀγάπην σου τὴν πρώτην». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjetivo no constituinte «τὴν πρώτην» — integrado ao constituinte com função de objeto direto «τὴν ἀγάπην σου τὴν πρώτην»",
         "clauseId": "AP.2.4.C1",
         "governedBy": null
       },
@@ -267,12 +267,12 @@ export const apocalipse2v4 = {
       "morphologyCode": "2AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "abandonar",
-      "explanation": "Verbo no aoristo, voz ativa, indicativo, 2ª pessoa singular. Glosa neste contexto: «abandonaste». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:4"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.4.C1",
         "governedBy": null
       },

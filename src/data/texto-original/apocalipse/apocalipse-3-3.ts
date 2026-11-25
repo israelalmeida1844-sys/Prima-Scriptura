@@ -418,7 +418,7 @@ export const apocalipse3v3 = {
         "Ap 3:3"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ὡς κλέπτης,» — adjunto adverbial da oração",
         "clauseId": "AP.3.3.C1",
         "governedBy": null
       },
@@ -563,7 +563,7 @@ export const apocalipse3v3 = {
         "Ap 3:3"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ποίαν ὥραν» — adjunto adverbial da oração",
         "clauseId": "AP.3.3.C1",
         "governedBy": null
       },

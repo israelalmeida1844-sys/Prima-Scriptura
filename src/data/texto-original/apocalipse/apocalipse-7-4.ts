@@ -57,7 +57,7 @@ export const apocalipse7v4 = {
         "Ap 7:4"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.4",
         "governedBy": null
       },
@@ -81,7 +81,7 @@ export const apocalipse7v4 = {
         "Ap 7:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸν ἀριθμὸν τῶν ἐσφραγισμένων,» — integrado ao constituinte com função de objeto direto «τὸν ἀριθμὸν τῶν ἐσφραγισμένων, ἑκατὸν τεσσεράκοντα τέσσαρες χιλιάδες, …»",
         "clauseId": "AP.7.4",
         "governedBy": null
       },
@@ -129,7 +129,7 @@ export const apocalipse7v4 = {
         "Ap 7:4"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν ἐσφραγισμένων,» — integrado ao constituinte com função de objeto direto «τὸν ἀριθμὸν τῶν ἐσφραγισμένων, ἑκατὸν τεσσεράκοντα τέσσαρες χιλιάδες, …»",
         "clauseId": "AP.7.4",
         "governedBy": null
       },
@@ -153,7 +153,7 @@ export const apocalipse7v4 = {
         "Ap 7:4"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.4",
         "governedBy": null
       },
@@ -275,7 +275,7 @@ export const apocalipse7v4 = {
         "Ap 7:4"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.4",
         "governedBy": null
       },

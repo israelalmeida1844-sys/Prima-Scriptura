@@ -27,7 +27,7 @@ export const apocalipse2v6 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "mas",
-      "explanation": "Conjunção. Glosa neste contexto: «mas». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
@@ -51,12 +51,12 @@ export const apocalipse2v6 = {
       "morphologyCode": "----ASN-",
       "morphology": "Pronome demonstrativo acusativo singular neutro",
       "meanings": "este",
-      "explanation": "Pronome demonstrativo acusativo singular neutro. Glosa neste contexto: «isto». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Objeto direto da oração",
         "clauseId": "AP.2.6.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse2v6 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Glosa neste contexto: «tens». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.6.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse2v6 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "que",
-      "explanation": "Advérbio. Glosa neste contexto: «que». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Advérbio no constituinte «ὅτι μισεῖς τὰ ἔργα τῶν Νικολαϊτῶν, ἃ κἀγὼ …» — segundo objeto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Advérbio no constituinte «ὅτι μισεῖς τὰ ἔργα τῶν Νικολαϊτῶν, ἃ κἀγὼ …» — segundo objeto da oração",
         "clauseId": "AP.2.6.C1",
         "governedBy": null
       },
@@ -123,12 +123,12 @@ export const apocalipse2v6 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "odiar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Glosa neste contexto: «odeias». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.6.C1",
         "governedBy": null
       },
@@ -147,12 +147,12 @@ export const apocalipse2v6 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural neutro. Glosa neste contexto: «as». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τὰ ἔργα τῶν Νικολαϊτῶν,» — integrado ao constituinte com função de objeto direto «τὰ ἔργα τῶν Νικολαϊτῶν, ἃ κἀγὼ μισῶ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰ ἔργα τῶν Νικολαϊτῶν,» — integrado ao constituinte com função de objeto direto «τὰ ἔργα τῶν Νικολαϊτῶν, ἃ κἀγὼ μισῶ.»",
         "clauseId": "AP.2.6.C1",
         "governedBy": null
       },
@@ -171,12 +171,12 @@ export const apocalipse2v6 = {
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
       "meanings": "obra",
-      "explanation": "Substantivo acusativo plural neutro. Glosa neste contexto: «obras». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «ἔργα τῶν Νικολαϊτῶν,» — integrado ao constituinte com função de objeto direto «τὰ ἔργα τῶν Νικολαϊτῶν, ἃ κἀγὼ μισῶ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἔργα τῶν Νικολαϊτῶν,» — integrado ao constituinte com função de objeto direto «τὰ ἔργα τῶν Νικολαϊτῶν, ἃ κἀγὼ μισῶ.»",
         "clauseId": "AP.2.6.C1",
         "governedBy": null
       },
@@ -195,12 +195,12 @@ export const apocalipse2v6 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo plural masculino. Glosa neste contexto: «dos/das». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τῶν Νικολαϊτῶν,» — integrado ao constituinte com função de objeto direto «τὰ ἔργα τῶν Νικολαϊτῶν, ἃ κἀγὼ μισῶ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν Νικολαϊτῶν,» — integrado ao constituinte com função de objeto direto «τὰ ἔργα τῶν Νικολαϊτῶν, ἃ κἀγὼ μισῶ.»",
         "clauseId": "AP.2.6.C1",
         "governedBy": null
       },
@@ -219,12 +219,12 @@ export const apocalipse2v6 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo genitivo plural masculino",
       "meanings": "nicolaíta",
-      "explanation": "Substantivo genitivo plural masculino. Glosa neste contexto: «nicolaítas». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «τῶν Νικολαϊτῶν,» — integrado ao constituinte com função de objeto direto «τὰ ἔργα τῶν Νικολαϊτῶν, ἃ κἀγὼ μισῶ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τῶν Νικολαϊτῶν,» — integrado ao constituinte com função de objeto direto «τὰ ἔργα τῶν Νικολαϊτῶν, ἃ κἀγὼ μισῶ.»",
         "clauseId": "AP.2.6.C1",
         "governedBy": null
       },
@@ -244,12 +244,12 @@ export const apocalipse2v6 = {
       "morphologyCode": "----APN-",
       "morphology": "Pronome relativo acusativo plural neutro",
       "meanings": "que",
-      "explanation": "Pronome relativo acusativo plural neutro. Glosa neste contexto: «que». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Objeto direto da oração",
         "clauseId": "AP.2.6.C1",
         "governedBy": null
       },
@@ -268,12 +268,12 @@ export const apocalipse2v6 = {
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal nominativo singular",
       "meanings": "eu também",
-      "explanation": "Pronome pessoal nominativo singular. Glosa neste contexto: «eu também». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Sujeito da oração",
         "clauseId": "AP.2.6.C1",
         "governedBy": null
       },
@@ -292,12 +292,12 @@ export const apocalipse2v6 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "odiar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «odeio». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:6"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.6.C1",
         "governedBy": null
       },

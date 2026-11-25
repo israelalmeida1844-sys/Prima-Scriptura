@@ -30,12 +30,12 @@ export const apocalipse5v14 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ τὰ τέσσαρα ζῷα ἔλεγον· Ἀμήν.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:14"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ τὰ τέσσαρα ζῷα ἔλεγον· Ἀμήν.»",
         "clauseId": "AP.5.14",
         "governedBy": null
       },
@@ -54,12 +54,12 @@ export const apocalipse5v14 = {
       "morphologyCode": "----NPN-",
       "morphology": "MorphGNT 6.12: RA ----NPN-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τὰ τέσσαρα ζῷα» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:14"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τὰ τέσσαρα ζῷα» — sujeito da oração",
         "clauseId": "AP.5.14",
         "governedBy": null
       },
@@ -78,12 +78,12 @@ export const apocalipse5v14 = {
       "morphologyCode": "----NPN-",
       "morphology": "MorphGNT 6.12: A- ----NPN-",
       "meanings": "Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Adjetivo no constituinte «τέσσαρα ζῷα» — integrado ao constituinte com função de sujeito «τὰ τέσσαρα ζῷα». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:14"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Adjetivo no constituinte «τέσσαρα ζῷα» — integrado ao constituinte com função de sujeito «τὰ τέσσαρα ζῷα»",
         "clauseId": "AP.5.14",
         "governedBy": null
       },
@@ -102,12 +102,12 @@ export const apocalipse5v14 = {
       "morphologyCode": "----NPN-",
       "morphology": "MorphGNT 6.12: N- ----NPN-",
       "meanings": "Ser vivente; designa as quatro criaturas próximas ao trono em 4:6–9.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «τέσσαρα ζῷα» — integrado ao constituinte com função de sujeito «τὰ τέσσαρα ζῷα». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:14"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «τέσσαρα ζῷα» — integrado ao constituinte com função de sujeito «τὰ τέσσαρα ζῷα»",
         "clauseId": "AP.5.14",
         "governedBy": null
       },
@@ -126,12 +126,12 @@ export const apocalipse5v14 = {
       "morphologyCode": "3IAI-P--",
       "morphology": "MorphGNT 6.12: V- 3IAI-P--",
       "meanings": "dizer; declarar",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:14"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.5.14",
         "governedBy": null
       },
@@ -151,7 +151,7 @@ export const apocalipse5v14 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: X- --------",
       "meanings": "amém; assim seja",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Elemento de ligação ou estruturação. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:14"
       ],
@@ -176,12 +176,12 @@ export const apocalipse5v14 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ οἱ πρεσβύτεροι ἔπεσαν καὶ προσεκύνησαν.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:14"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ οἱ πρεσβύτεροι ἔπεσαν καὶ προσεκύνησαν.»",
         "clauseId": "AP.5.14",
         "governedBy": null
       },
@@ -200,12 +200,12 @@ export const apocalipse5v14 = {
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: RA ----NPM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «οἱ πρεσβύτεροι» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:14"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «οἱ πρεσβύτεροι» — sujeito da oração",
         "clauseId": "AP.5.14",
         "governedBy": null
       },
@@ -224,12 +224,12 @@ export const apocalipse5v14 = {
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: A- ----NPM-",
       "meanings": "Pessoa mais velha ou ancião; em 4:4,10 designa membros do grupo celestial de vinte e quatro anciãos.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Adjetivo no constituinte «οἱ πρεσβύτεροι» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:14"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Adjetivo no constituinte «οἱ πρεσβύτεροι» — sujeito da oração",
         "clauseId": "AP.5.14",
         "governedBy": null
       },
@@ -248,12 +248,12 @@ export const apocalipse5v14 = {
       "morphologyCode": "3AAI-P--",
       "morphology": "MorphGNT 6.12: V- 3AAI-P--",
       "meanings": "cair",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:14"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.5.14",
         "governedBy": null
       },
@@ -272,12 +272,12 @@ export const apocalipse5v14 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ προσεκύνησαν.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:14"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ προσεκύνησαν.»",
         "clauseId": "AP.5.14",
         "governedBy": null
       },
@@ -296,12 +296,12 @@ export const apocalipse5v14 = {
       "morphologyCode": "3AAI-P--",
       "morphology": "MorphGNT 6.12: V- 3AAI-P--",
       "meanings": "Prostrar-se ou prestar homenagem; 3:9 requer leitura contextual para determinar o objeto e a natureza do ato.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:14"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.5.14",
         "governedBy": null
       },

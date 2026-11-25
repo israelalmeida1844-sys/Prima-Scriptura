@@ -115,7 +115,7 @@ export const apocalipse3v11 = {
       "shortMorph": "V- 2PAI-S--",
       "greek": "ἔχεις",
       "transliteration": "echeis",
-      "gloss": "tinha",
+      "gloss": "tens",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",
@@ -177,7 +177,7 @@ export const apocalipse3v11 = {
         "Ap 3:11"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Sujeito da oração",
         "clauseId": "AP.3.11.C1",
         "governedBy": null
       },
@@ -225,7 +225,7 @@ export const apocalipse3v11 = {
         "Ap 3:11"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸν στέφανόν σου.» — objeto direto da oração",
         "clauseId": "AP.3.11.C1",
         "governedBy": null
       },
@@ -249,7 +249,7 @@ export const apocalipse3v11 = {
         "Ap 3:11"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «στέφανόν σου.» — integrado ao constituinte com função de objeto direto «τὸν στέφανόν σου.»",
         "clauseId": "AP.3.11.C1",
         "governedBy": null
       },

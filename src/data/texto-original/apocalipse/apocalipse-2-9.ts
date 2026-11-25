@@ -27,12 +27,12 @@ export const apocalipse2v9 = {
       "morphologyCode": "1XAI-S--",
       "morphology": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "conhecer",
-      "explanation": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «conheço». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.9.C1",
         "governedBy": null
       },
@@ -51,12 +51,12 @@ export const apocalipse2v9 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo singular. Glosa neste contexto: «tua». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Pronome no constituinte «σου τὴν θλῖψιν καὶ τὴν πτωχείαν,» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Pronome no constituinte «σου τὴν θλῖψιν καὶ τὴν πτωχείαν,» — objeto direto da oração",
         "clauseId": "AP.2.9.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse2v9 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τὴν θλῖψιν» — integrado ao constituinte com função de objeto direto «σου τὴν θλῖψιν καὶ τὴν πτωχείαν,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν θλῖψιν» — integrado ao constituinte com função de objeto direto «σου τὴν θλῖψιν καὶ τὴν πτωχείαν,»",
         "clauseId": "AP.2.9.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse2v9 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "tribulação",
-      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «tribulação». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «τὴν θλῖψιν» — integrado ao constituinte com função de objeto direto «σου τὴν θλῖψιν καὶ τὴν πτωχείαν,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τὴν θλῖψιν» — integrado ao constituinte com função de objeto direto «σου τὴν θλῖψιν καὶ τὴν πτωχείαν,»",
         "clauseId": "AP.2.9.C1",
         "governedBy": null
       },
@@ -123,7 +123,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -147,12 +147,12 @@ export const apocalipse2v9 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τὴν πτωχείαν,» — integrado ao constituinte com função de objeto direto «σου τὴν θλῖψιν καὶ τὴν πτωχείαν,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν πτωχείαν,» — integrado ao constituinte com função de objeto direto «σου τὴν θλῖψιν καὶ τὴν πτωχείαν,»",
         "clauseId": "AP.2.9.C1",
         "governedBy": null
       },
@@ -171,12 +171,12 @@ export const apocalipse2v9 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "pobreza",
-      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «pobreza». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «τὴν πτωχείαν,» — integrado ao constituinte com função de objeto direto «σου τὴν θλῖψιν καὶ τὴν πτωχείαν,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τὴν πτωχείαν,» — integrado ao constituinte com função de objeto direto «σου τὴν θλῖψιν καὶ τὴν πτωχείαν,»",
         "clauseId": "AP.2.9.C1",
         "governedBy": null
       },
@@ -196,7 +196,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "mas",
-      "explanation": "Conjunção. Glosa neste contexto: «mas». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -220,12 +220,12 @@ export const apocalipse2v9 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
       "meanings": "rico",
-      "explanation": "Adjetivo nominativo singular masculino. Glosa neste contexto: «rico». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicativo da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Predicativo da oração",
         "clauseId": "AP.2.9.C1",
         "governedBy": null
       },
@@ -244,12 +244,12 @@ export const apocalipse2v9 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ser",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Glosa neste contexto: «és». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Verbo de ligação da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Verbo de ligação da oração",
         "clauseId": "AP.2.9.C1",
         "governedBy": null
       },
@@ -269,7 +269,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -293,12 +293,12 @@ export const apocalipse2v9 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τὴν βλασφημίαν ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς,» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν βλασφημίαν ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς,» — objeto direto da oração",
         "clauseId": "AP.2.9.C1",
         "governedBy": null
       },
@@ -317,12 +317,12 @@ export const apocalipse2v9 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "difamação",
-      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «difamação». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «βλασφημίαν ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς,» — integrado ao constituinte com função de objeto direto «τὴν βλασφημίαν ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «βλασφημίαν ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς,» — integrado ao constituinte com função de objeto direto «τὴν βλασφημίαν ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς,»",
         "clauseId": "AP.2.9.C1",
         "governedBy": null
       },
@@ -341,12 +341,12 @@ export const apocalipse2v9 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "de",
-      "explanation": "Preposição. Glosa neste contexto: «de». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Preposição que introduz «ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς,» — integrado ao constituinte com função de objeto direto «τὴν βλασφημίαν ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς,» — integrado ao constituinte com função de objeto direto «τὴν βλασφημίαν ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς,»",
         "clauseId": "AP.2.9.C1",
         "governedBy": null
       },
@@ -365,12 +365,12 @@ export const apocalipse2v9 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo plural masculino. Glosa neste contexto: «dos/das». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς,» — integrado ao constituinte com função de objeto direto «τὴν βλασφημίαν ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς,» — integrado ao constituinte com função de objeto direto «τὴν βλασφημίαν ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς,»",
         "clauseId": "AP.2.9.C1",
         "governedBy": null
       },
@@ -389,7 +389,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "-PAPGPM-",
       "morphology": "Verbo no presente, voz ativa, particípio genitivo plural masculino",
       "meanings": "dizer",
-      "explanation": "Verbo no presente, voz ativa, particípio genitivo plural masculino. Glosa neste contexto: «que dizem». Particípio em construção sintática. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Particípio em construção sintática. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -413,12 +413,12 @@ export const apocalipse2v9 = {
       "morphologyCode": "----APM-",
       "morphology": "Adjetivo acusativo plural masculino",
       "meanings": "judeu",
-      "explanation": "Adjetivo acusativo plural masculino. Glosa neste contexto: «judeus». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicativo da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Predicativo da oração",
         "clauseId": "AP.2.9.C1",
         "governedBy": null
       },
@@ -437,7 +437,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "-PAN----",
       "morphology": "Verbo no presente, voz ativa, infinitivo",
       "meanings": "ser",
-      "explanation": "Verbo no presente, voz ativa, infinitivo. Glosa neste contexto: «ser». Infinitivo integrante da construção. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Infinitivo integrante da construção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -461,12 +461,12 @@ export const apocalipse2v9 = {
       "morphologyCode": "----APM-",
       "morphology": "Pronome pessoal acusativo plural masculino",
       "meanings": "si mesmo",
-      "explanation": "Pronome pessoal acusativo plural masculino. Glosa neste contexto: «a si mesmos». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Sujeito da oração",
         "clauseId": "AP.2.9.C1",
         "governedBy": null
       },
@@ -486,7 +486,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -510,12 +510,12 @@ export const apocalipse2v9 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Glosa neste contexto: «não». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Advérbio no constituinte «οὐκ εἰσίν, ἀλλὰ συναγωγὴ τοῦ Σατανᾶ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Advérbio no constituinte «οὐκ εἰσίν, ἀλλὰ συναγωγὴ τοῦ Σατανᾶ.»",
         "clauseId": "AP.2.9.C1",
         "governedBy": null
       },
@@ -534,12 +534,12 @@ export const apocalipse2v9 = {
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "ser",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural. Glosa neste contexto: «são». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.9.C1",
         "governedBy": null
       },
@@ -559,7 +559,7 @@ export const apocalipse2v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "mas",
-      "explanation": "Conjunção. Glosa neste contexto: «mas». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
@@ -583,12 +583,12 @@ export const apocalipse2v9 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
       "meanings": "sinagoga",
-      "explanation": "Substantivo nominativo singular feminino. Glosa neste contexto: «sinagoga». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «συναγωγὴ τοῦ Σατανᾶ.» — predicativo da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «συναγωγὴ τοῦ Σατανᾶ.» — predicativo da oração",
         "clauseId": "AP.2.9.C1",
         "governedBy": null
       },
@@ -607,12 +607,12 @@ export const apocalipse2v9 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular masculino. Glosa neste contexto: «do». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τοῦ Σατανᾶ.» — integrado ao constituinte com função de predicativo «συναγωγὴ τοῦ Σατανᾶ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ Σατανᾶ.» — integrado ao constituinte com função de predicativo «συναγωγὴ τοῦ Σατανᾶ.»",
         "clauseId": "AP.2.9.C1",
         "governedBy": null
       },
@@ -631,12 +631,12 @@ export const apocalipse2v9 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "Satanás",
-      "explanation": "Substantivo genitivo singular masculino. Glosa neste contexto: «Satanás». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «τοῦ Σατανᾶ.» — integrado ao constituinte com função de predicativo «συναγωγὴ τοῦ Σατανᾶ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τοῦ Σατανᾶ.» — integrado ao constituinte com função de predicativo «συναγωγὴ τοῦ Σατανᾶ.»",
         "clauseId": "AP.2.9.C1",
         "governedBy": null
       },

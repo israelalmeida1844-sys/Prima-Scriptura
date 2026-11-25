@@ -29,7 +29,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -54,12 +54,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido · nominativo · singular · masculino (MorphGNT: RA ----NSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «ὁ τέταρτος ἄγγελος» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ τέταρτος ἄγγελος» — sujeito da oração",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -79,7 +79,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo / numeral · nominativo · singular · masculino (MorphGNT: A- ----NSM-)",
       "meanings": "quarto",
-      "explanation": "Glosa neste contexto: quarto.",
+      "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -104,7 +104,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "Anjo, mensageiro celestial de Deus",
-      "explanation": "Glosa neste contexto: anjo.",
+      "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -129,7 +129,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "tocar trombeta",
-      "explanation": "Glosa neste contexto: tocou a trombeta.",
+      "explanation": "Verbo principal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -154,7 +154,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -179,7 +179,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
       "meanings": "ferir; atingir",
-      "explanation": "Glosa neste contexto: foi atingido.",
+      "explanation": "Verbo passivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -204,12 +204,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «τὸ τρίτον τοῦ ἡλίου» — integrado ao constituinte com função de sujeito «τὸ τρίτον τοῦ ἡλίου καὶ τὸ τρίτον τῆς …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ τρίτον τοῦ ἡλίου» — integrado ao constituinte com função de sujeito «τὸ τρίτον τοῦ ἡλίου καὶ τὸ τρίτον τῆς …»",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -229,7 +229,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
       "meanings": "terceiro",
-      "explanation": "Glosa neste contexto: terço.",
+      "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -254,12 +254,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: do.",
+      "explanation": "Determinante do sintagma «τοῦ ἡλίου» — integrado ao constituinte com função de sujeito «τὸ τρίτον τοῦ ἡλίου καὶ τὸ τρίτον τῆς …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ ἡλίου» — integrado ao constituinte com função de sujeito «τὸ τρίτον τοῦ ἡλίου καὶ τὸ τρίτον τῆς …»",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -279,7 +279,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "sol",
-      "explanation": "Glosa neste contexto: sol.",
+      "explanation": "Genitivo partitivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -304,7 +304,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -329,12 +329,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «τὸ τρίτον τῆς σελήνης» — integrado ao constituinte com função de sujeito «… τοῦ ἡλίου καὶ τὸ τρίτον τῆς σελήνης καὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ τρίτον τῆς σελήνης» — integrado ao constituinte com função de sujeito «… τοῦ ἡλίου καὶ τὸ τρίτον τῆς σελήνης καὶ …»",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -354,7 +354,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
       "meanings": "terceiro",
-      "explanation": "Glosa neste contexto: terço.",
+      "explanation": "Sujeito coordenado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -379,12 +379,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido · genitivo · singular · feminino (MorphGNT: RA ----GSF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: da.",
+      "explanation": "Determinante do sintagma «τῆς σελήνης» — integrado ao constituinte com função de sujeito «… καὶ τὸ τρίτον τῆς σελήνης καὶ τὸ τρίτον …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς σελήνης» — integrado ao constituinte com função de sujeito «… καὶ τὸ τρίτον τῆς σελήνης καὶ τὸ τρίτον …»",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -404,7 +404,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "lua",
-      "explanation": "Glosa neste contexto: lua.",
+      "explanation": "Genitivo partitivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -429,7 +429,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -454,12 +454,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «τὸ τρίτον τῶν ἀστέρων,» — integrado ao constituinte com função de sujeito «… τρίτον τῆς σελήνης καὶ τὸ τρίτον τῶν ἀστέρων,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ τρίτον τῶν ἀστέρων,» — integrado ao constituinte com função de sujeito «… τρίτον τῆς σελήνης καὶ τὸ τρίτον τῶν ἀστέρων,»",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -479,7 +479,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
       "meanings": "terceiro",
-      "explanation": "Glosa neste contexto: terço.",
+      "explanation": "Sujeito coordenado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -504,12 +504,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido · genitivo · plural · masculino (MorphGNT: RA ----GPM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: das.",
+      "explanation": "Determinante do sintagma «τῶν ἀστέρων,» — integrado ao constituinte com função de sujeito «… τρίτον τῆς σελήνης καὶ τὸ τρίτον τῶν ἀστέρων,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν ἀστέρων,» — integrado ao constituinte com função de sujeito «… τρίτον τῆς σελήνης καὶ τὸ τρίτον τῶν ἀστέρων,»",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -529,7 +529,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo · genitivo · plural · masculino (MorphGNT: N- ----GPM-)",
       "meanings": "estrelas",
-      "explanation": "Glosa neste contexto: estrelas.",
+      "explanation": "Genitivo partitivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -554,7 +554,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "para que",
-      "explanation": "Glosa neste contexto: para que.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -579,7 +579,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "3APS-S--",
       "morphology": "Verbo · aoristo · voz passiva · subjuntivo · 3ª pessoa · singular (MorphGNT: V- 3APS-S--)",
       "meanings": "escurecer; ficar escuro",
-      "explanation": "Glosa neste contexto: escurecesse.",
+      "explanation": "Verbo da oração final. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -604,12 +604,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «τὸ τρίτον αὐτῶν» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ τρίτον αὐτῶν» — sujeito da oração",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -629,7 +629,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
       "meanings": "terceiro",
-      "explanation": "Glosa neste contexto: terço.",
+      "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -654,7 +654,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----GPM-",
       "morphology": "Pronome pessoal · genitivo · plural · masculino (MorphGNT: RP ----GPM-)",
       "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Glosa neste contexto: deles.",
+      "explanation": "Pronome; função contextual na oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -679,7 +679,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -704,12 +704,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSF-",
       "morphology": "Artigo definido · nominativo · singular · feminino (MorphGNT: RA ----NSF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «ἡ ἡμέρα» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ἡ ἡμέρα» — sujeito da oração",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -729,7 +729,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
       "meanings": "dia",
-      "explanation": "Glosa neste contexto: dia.",
+      "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -754,7 +754,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio (MorphGNT: D- --------)",
       "meanings": "não",
-      "explanation": "Glosa neste contexto: não.",
+      "explanation": "Advérbio. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -779,7 +779,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "3AAS-S--",
       "morphology": "Verbo · aoristo · voz ativa · subjuntivo · 3ª pessoa · singular (MorphGNT: V- 3AAS-S--)",
       "meanings": "brilha",
-      "explanation": "Glosa neste contexto: brilhasse.",
+      "explanation": "Verbo coordenado na oração final. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -804,12 +804,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o.",
+      "explanation": "Determinante do sintagma «τὸ τρίτον αὐτῆς,» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ τρίτον αὐτῆς,» — adjunto adverbial da oração",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -829,7 +829,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
       "meanings": "terceiro",
-      "explanation": "Glosa neste contexto: terço.",
+      "explanation": "Extensão temporal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -854,7 +854,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----GSF-",
       "morphology": "Pronome pessoal · genitivo · singular · feminino (MorphGNT: RP ----GSF-)",
       "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Glosa neste contexto: dele (do dia).",
+      "explanation": "Pronome; função contextual na oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -879,7 +879,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -904,12 +904,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSF-",
       "morphology": "Artigo definido · nominativo · singular · feminino (MorphGNT: RA ----NSF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: a.",
+      "explanation": "Determinante do sintagma «ἡ νὺξ» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ἡ νὺξ» — sujeito da oração",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -929,7 +929,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
       "meanings": "noite",
-      "explanation": "Glosa neste contexto: noite.",
+      "explanation": "Sujeito elíptico. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -954,7 +954,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio (MorphGNT: D- --------)",
       "meanings": "igualmente",
-      "explanation": "Glosa neste contexto: igualmente.",
+      "explanation": "Advérbio. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],

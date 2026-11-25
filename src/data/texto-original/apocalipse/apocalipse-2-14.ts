@@ -27,7 +27,7 @@ export const apocalipse2v14 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "mas",
-      "explanation": "Conjunção. Glosa neste contexto: «mas». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
@@ -51,12 +51,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «tenho». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "contra",
-      "explanation": "Preposição. Glosa neste contexto: «contra». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Preposição que introduz «κατὰ σοῦ» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «κατὰ σοῦ» — adjunto adverbial da oração",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "tu",
-      "explanation": "Pronome pessoal genitivo singular. Glosa neste contexto: «teu/de ti». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Pronome no constituinte «κατὰ σοῦ» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Pronome no constituinte «κατὰ σοῦ» — adjunto adverbial da oração",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -123,12 +123,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "----APN-",
       "morphology": "Adjetivo acusativo plural neutro",
       "meanings": "pouco",
-      "explanation": "Adjetivo acusativo plural neutro. Glosa neste contexto: «pouco». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Objeto direto da oração",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -148,7 +148,7 @@ export const apocalipse2v14 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "que",
-      "explanation": "Conjunção. Glosa neste contexto: «que». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
@@ -172,12 +172,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular. Glosa neste contexto: «tens». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -196,12 +196,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "ali",
-      "explanation": "Advérbio. Glosa neste contexto: «ali». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjunto adverbial da oração",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -220,7 +220,7 @@ export const apocalipse2v14 = {
       "morphologyCode": "-PAPAPM-",
       "morphology": "Verbo no presente, voz ativa, particípio acusativo plural masculino",
       "meanings": "segurar firmemente",
-      "explanation": "Verbo no presente, voz ativa, particípio acusativo plural masculino. Glosa neste contexto: «os que seguem». Particípio em construção sintática. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Particípio em construção sintática. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
@@ -244,12 +244,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τὴν διδαχὴν Βαλαάμ, ὃς ἐδίδασκεν τῷ Βαλὰκ βαλεῖν …» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν διδαχὴν Βαλαάμ, ὃς ἐδίδασκεν τῷ Βαλὰκ βαλεῖν …» — objeto direto da oração",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -268,12 +268,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "ensino",
-      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «ensino». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «διδαχὴν Βαλαάμ, ὃς ἐδίδασκεν τῷ Βαλὰκ βαλεῖν σκάνδαλον …» — integrado ao constituinte com função de objeto direto «τὴν διδαχὴν Βαλαάμ, ὃς ἐδίδασκεν τῷ Βαλὰκ βαλεῖν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «διδαχὴν Βαλαάμ, ὃς ἐδίδασκεν τῷ Βαλὰκ βαλεῖν σκάνδαλον …» — integrado ao constituinte com função de objeto direto «τὴν διδαχὴν Βαλαάμ, ὃς ἐδίδασκεν τῷ Βαλὰκ βαλεῖν …»",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -292,12 +292,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "Balaão",
-      "explanation": "Substantivo genitivo singular masculino. Glosa neste contexto: «Balaão». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «Βαλαάμ, ὃς ἐδίδασκεν τῷ Βαλὰκ βαλεῖν σκάνδαλον ἐνώπιον …» — integrado ao constituinte com função de objeto direto «τὴν διδαχὴν Βαλαάμ, ὃς ἐδίδασκεν τῷ Βαλὰκ βαλεῖν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «Βαλαάμ, ὃς ἐδίδασκεν τῷ Βαλὰκ βαλεῖν σκάνδαλον ἐνώπιον …» — integrado ao constituinte com função de objeto direto «τὴν διδαχὴν Βαλαάμ, ὃς ἐδίδασκεν τῷ Βαλὰκ βαλεῖν …»",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -317,12 +317,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "----NSM-",
       "morphology": "Pronome relativo nominativo singular masculino",
       "meanings": "que",
-      "explanation": "Pronome relativo nominativo singular masculino. Glosa neste contexto: «que». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Sujeito da oração",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -341,12 +341,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "3IAI-S--",
       "morphology": "Verbo no imperfeito, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "ensinar",
-      "explanation": "Verbo no imperfeito, voz ativa, indicativo, 3ª pessoa singular. Glosa neste contexto: «ensinava». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -365,12 +365,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo singular masculino. Glosa neste contexto: «ao». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τῷ Βαλὰκ» — objeto indireto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῷ Βαλὰκ» — objeto indireto da oração",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -389,12 +389,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "Balaque",
-      "explanation": "Substantivo dativo singular masculino. Glosa neste contexto: «Balaque». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «τῷ Βαλὰκ» — objeto indireto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τῷ Βαλὰκ» — objeto indireto da oração",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -413,7 +413,7 @@ export const apocalipse2v14 = {
       "morphologyCode": "-AAN----",
       "morphology": "Verbo no aoristo, voz ativa, infinitivo",
       "meanings": "lançar",
-      "explanation": "Verbo no aoristo, voz ativa, infinitivo. Glosa neste contexto: «colocar». Infinitivo integrante da construção. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Infinitivo integrante da construção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
@@ -437,12 +437,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo acusativo singular neutro",
       "meanings": "armadilha",
-      "explanation": "Substantivo acusativo singular neutro. Glosa neste contexto: «tropeço». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Objeto direto da oração",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -461,12 +461,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "diante de",
-      "explanation": "Preposição. Glosa neste contexto: «diante de». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Preposição que introduz «ἐνώπιον τῶν υἱῶν Ἰσραήλ,» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐνώπιον τῶν υἱῶν Ἰσραήλ,» — adjunto adverbial da oração",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -485,12 +485,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo plural masculino. Glosa neste contexto: «dos/das». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τῶν υἱῶν Ἰσραήλ,» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τῶν υἱῶν Ἰσραήλ,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν υἱῶν Ἰσραήλ,» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τῶν υἱῶν Ἰσραήλ,»",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -509,12 +509,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo genitivo plural masculino",
       "meanings": "filho",
-      "explanation": "Substantivo genitivo plural masculino. Glosa neste contexto: «filhos». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «υἱῶν Ἰσραήλ,» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τῶν υἱῶν Ἰσραήλ,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «υἱῶν Ἰσραήλ,» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τῶν υἱῶν Ἰσραήλ,»",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -533,12 +533,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "Israel",
-      "explanation": "Substantivo genitivo singular masculino. Glosa neste contexto: «Israel». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «υἱῶν Ἰσραήλ,» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τῶν υἱῶν Ἰσραήλ,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «υἱῶν Ἰσραήλ,» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τῶν υἱῶν Ἰσραήλ,»",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -558,7 +558,7 @@ export const apocalipse2v14 = {
       "morphologyCode": "-AAN----",
       "morphology": "Verbo no aoristo, voz ativa, infinitivo",
       "meanings": "comer",
-      "explanation": "Verbo no aoristo, voz ativa, infinitivo. Glosa neste contexto: «comer». Infinitivo integrante da construção. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Infinitivo integrante da construção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
@@ -582,12 +582,12 @@ export const apocalipse2v14 = {
       "morphologyCode": "----APN-",
       "morphology": "Adjetivo acusativo plural neutro",
       "meanings": "alimento sacrificado a ídolos",
-      "explanation": "Adjetivo acusativo plural neutro. Glosa neste contexto: «alimentos sacrificados a ídolos». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Objeto direto da oração",
         "clauseId": "AP.2.14.C1",
         "governedBy": null
       },
@@ -606,7 +606,7 @@ export const apocalipse2v14 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],
@@ -630,7 +630,7 @@ export const apocalipse2v14 = {
       "morphologyCode": "-AAN----",
       "morphology": "Verbo no aoristo, voz ativa, infinitivo",
       "meanings": "praticar imoralidade sexual",
-      "explanation": "Verbo no aoristo, voz ativa, infinitivo. Glosa neste contexto: «praticar imoralidade sexual». Infinitivo integrante da construção. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Infinitivo integrante da construção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:14"
       ],

@@ -57,7 +57,7 @@ export const apocalipse7v16 = {
         "Ap 7:16"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.16",
         "governedBy": null
       },
@@ -129,7 +129,7 @@ export const apocalipse7v16 = {
         "Ap 7:16"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.16",
         "governedBy": null
       },
@@ -226,7 +226,7 @@ export const apocalipse7v16 = {
         "Ap 7:16"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.16",
         "governedBy": null
       },
@@ -298,7 +298,7 @@ export const apocalipse7v16 = {
         "Ap 7:16"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ ἥλιος» — integrado ao constituinte com função de sujeito «ὁ ἥλιος οὐδὲ πᾶν καῦμα,»",
         "clauseId": "AP.7.16",
         "governedBy": null
       },

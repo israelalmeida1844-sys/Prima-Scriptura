@@ -6,7 +6,7 @@ export const apocalipse5v8 = {
   "verse": 8,
   "source": "SBL Greek New Testament via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Quando tomou o livro, os quatro seres viventes e os vinte e quatro anciãos prostraram-se diante do Cordeiro, tendo cada um uma harpa e taças de ouro cheias de incenso, que são as orações dos santos.",
+  "translation": "Quando tomou o rolo, os quatro seres viventes e os vinte e quatro anciãos prostraram-se diante do Cordeiro, tendo cada um uma harpa e taças de ouro cheias de incenso, que são as orações dos santos.",
   "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): αἱ WH Treg NA28 ] – RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἔλαβεν» → «ἔλαβε»; «εἴκοσι τέσσαρες» → «εἰκοσιτέσσαρες»; «ἔπεσαν» → «ἔπεσον»; «κιθάραν» → «κιθάρας».",
   "syntacticNotes": [
@@ -31,12 +31,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ ὅτε ἔλαβεν τὸ βιβλίον, τὰ τέσσαρα ζῷα …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ ὅτε ἔλαβεν τὸ βιβλίον, τὰ τέσσαρα ζῷα …»",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -55,12 +55,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "quando",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «ὅτε ἔλαβεν τὸ βιβλίον,» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «ὅτε ἔλαβεν τὸ βιβλίον,» — adjunto adverbial da oração",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -79,12 +79,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "MorphGNT 6.12: V- 3AAI-S--",
       "meanings": "λαμβάνων é particípio presente ativo substantivado, sujeito da exceção «aquele que recebe» a pedrinha/nome.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -103,12 +103,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: RA ----ASN-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τὸ βιβλίον,» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τὸ βιβλίον,» — objeto direto da oração",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -127,12 +127,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: N- ----ASN-",
       "meanings": "livro; rolo",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «τὸ βιβλίον,» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «τὸ βιβλίον,» — objeto direto da oração",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -152,12 +152,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "----NPN-",
       "morphology": "MorphGNT 6.12: RA ----NPN-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τὰ τέσσαρα ζῷα» — integrado ao constituinte com função de sujeito «τὰ τέσσαρα ζῷα καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τὰ τέσσαρα ζῷα» — integrado ao constituinte com função de sujeito «τὰ τέσσαρα ζῷα καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι»",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -176,12 +176,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "----NPN-",
       "morphology": "MorphGNT 6.12: A- ----NPN-",
       "meanings": "Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Adjetivo no constituinte «τέσσαρα ζῷα» — integrado ao constituinte com função de sujeito «τὰ τέσσαρα ζῷα καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Adjetivo no constituinte «τέσσαρα ζῷα» — integrado ao constituinte com função de sujeito «τὰ τέσσαρα ζῷα καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι»",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -200,12 +200,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "----NPN-",
       "morphology": "MorphGNT 6.12: N- ----NPN-",
       "meanings": "Ser vivente; designa as quatro criaturas próximas ao trono em 4:6–9.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «τέσσαρα ζῷα» — integrado ao constituinte com função de sujeito «τὰ τέσσαρα ζῷα καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «τέσσαρα ζῷα» — integrado ao constituinte com função de sujeito «τὰ τέσσαρα ζῷα καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι»",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -224,12 +224,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι» — integrado ao constituinte com função de sujeito «τὰ τέσσαρα ζῷα καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι» — integrado ao constituinte com função de sujeito «τὰ τέσσαρα ζῷα καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι»",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -248,12 +248,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: RA ----NPM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «οἱ εἴκοσι τέσσαρες πρεσβύτεροι» — integrado ao constituinte com função de sujeito «τὰ τέσσαρα ζῷα καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «οἱ εἴκοσι τέσσαρες πρεσβύτεροι» — integrado ao constituinte com função de sujeito «τὰ τέσσαρα ζῷα καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι»",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -272,12 +272,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: A- ----NPM-",
       "meanings": "Numeral indeclinável «vinte», combinado a τέσσαρες para indicar vinte e quatro em 4:4,10.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Numeral no constituinte «εἴκοσι τέσσαρες» — integrado ao constituinte com função de sujeito «τὰ τέσσαρα ζῷα καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Numeral no constituinte «εἴκοσι τέσσαρες» — integrado ao constituinte com função de sujeito «τὰ τέσσαρα ζῷα καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι»",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -296,12 +296,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: A- ----NPM-",
       "meanings": "Numeral «quatro», também em vinte e quatro anciãos e nos quatro seres viventes; sua flexão depende do sintagma.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Adjetivo no constituinte «εἴκοσι τέσσαρες» — integrado ao constituinte com função de sujeito «τὰ τέσσαρα ζῷα καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Adjetivo no constituinte «εἴκοσι τέσσαρες» — integrado ao constituinte com função de sujeito «τὰ τέσσαρα ζῷα καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι»",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -320,12 +320,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: A- ----NPM-",
       "meanings": "Pessoa mais velha ou ancião; em 4:4,10 designa membros do grupo celestial de vinte e quatro anciãos.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Adjetivo no constituinte «εἴκοσι τέσσαρες πρεσβύτεροι» — integrado ao constituinte com função de sujeito «τὰ τέσσαρα ζῷα καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Adjetivo no constituinte «εἴκοσι τέσσαρες πρεσβύτεροι» — integrado ao constituinte com função de sujeito «τὰ τέσσαρα ζῷα καὶ οἱ εἴκοσι τέσσαρες πρεσβύτεροι»",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -344,12 +344,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "3AAI-P--",
       "morphology": "MorphGNT 6.12: V- 3AAI-P--",
       "meanings": "cair",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -368,12 +368,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
       "meanings": "diante de; na presença de",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Preposição que introduz «ἐνώπιον τοῦ ἀρνίου,» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐνώπιον τοῦ ἀρνίου,» — adjunto adverbial da oração",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -392,12 +392,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "----GSN-",
       "morphology": "MorphGNT 6.12: RA ----GSN-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τοῦ ἀρνίου,» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τοῦ ἀρνίου,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τοῦ ἀρνίου,» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τοῦ ἀρνίου,»",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -412,16 +412,16 @@ export const apocalipse5v8 = {
       "strong": "G721",
       "lemma": "ἀρνίον",
       "lemmaTransliteration": "arnion",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSN-",
       "morphology": "MorphGNT 6.12: N- ----GSN-",
       "meanings": "Denominação de um cordeiro, com emprego simbólico predominante no Apocalipse.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «τοῦ ἀρνίου,» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τοῦ ἀρνίου,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «τοῦ ἀρνίου,» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τοῦ ἀρνίου,»",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -441,12 +441,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "-PAPNPM-",
       "morphology": "MorphGNT 6.12: V- -PAPNPM-",
       "meanings": "ter; segurar",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -465,12 +465,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: A- ----NSM-",
       "meanings": "ἑκάστῳ é dativo singular distributivo «a cada um», combinando-se com ὑμῖν na promessa de retribuição individual.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Adjunto adverbial da oração",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -485,16 +485,16 @@ export const apocalipse5v8 = {
       "strong": "G2788",
       "lemma": "κιθάρα",
       "lemmaTransliteration": "kithara",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: N- ----ASF-",
       "meanings": "Instrumento musical de cordas dedilhadas; a equivalência com harpa é aproximativa em traduções bíblicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «κιθάραν καὶ φιάλας χρυσᾶς γεμούσας θυμιαμάτων, αἵ εἰσιν …» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «κιθάραν καὶ φιάλας χρυσᾶς γεμούσας θυμιαμάτων, αἵ εἰσιν …» — objeto direto da oração",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -513,12 +513,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ φιάλας χρυσᾶς γεμούσας θυμιαμάτων, αἵ εἰσιν αἱ …» — integrado ao constituinte com função de objeto direto «κιθάραν καὶ φιάλας χρυσᾶς γεμούσας θυμιαμάτων, αἵ εἰσιν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ φιάλας χρυσᾶς γεμούσας θυμιαμάτων, αἵ εἰσιν αἱ …» — integrado ao constituinte com função de objeto direto «κιθάραν καὶ φιάλας χρυσᾶς γεμούσας θυμιαμάτων, αἵ εἰσιν …»",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -533,16 +533,16 @@ export const apocalipse5v8 = {
       "strong": "G5357",
       "lemma": "φιάλη",
       "lemmaTransliteration": "phialē",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----APF-",
       "morphology": "MorphGNT 6.12: N- ----APF-",
       "meanings": "Recipiente aberto, por vezes utilizado em contexto ritual ou litúrgico.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «φιάλας χρυσᾶς» — integrado ao constituinte com função de objeto direto «κιθάραν καὶ φιάλας χρυσᾶς γεμούσας θυμιαμάτων, αἵ εἰσιν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «φιάλας χρυσᾶς» — integrado ao constituinte com função de objeto direto «κιθάραν καὶ φιάλας χρυσᾶς γεμούσας θυμιαμάτων, αἵ εἰσιν …»",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -561,12 +561,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "----APF-",
       "morphology": "MorphGNT 6.12: A- ----APF-",
       "meanings": "de ouro; dourado",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Adjetivo no constituinte «φιάλας χρυσᾶς» — integrado ao constituinte com função de objeto direto «κιθάραν καὶ φιάλας χρυσᾶς γεμούσας θυμιαμάτων, αἵ εἰσιν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Adjetivo no constituinte «φιάλας χρυσᾶς» — integrado ao constituinte com função de objeto direto «κιθάραν καὶ φιάλας χρυσᾶς γεμούσας θυμιαμάτων, αἵ εἰσιν …»",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -585,12 +585,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "-PAPAPF-",
       "morphology": "MorphGNT 6.12: V- -PAPAPF-",
       "meanings": "Estar cheio, abundar; usado para seres viventes repletos de olhos em 4:6 e 4:8.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -605,16 +605,16 @@ export const apocalipse5v8 = {
       "strong": "G2368",
       "lemma": "θυμίαμα",
       "lemmaTransliteration": "thymiama",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPN-",
       "morphology": "MorphGNT 6.12: N- ----GPN-",
       "meanings": "Substância aromática queimada, frequentemente associada ao culto.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «θυμιαμάτων, αἵ εἰσιν αἱ προσευχαὶ τῶν ἁγίων·» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «θυμιαμάτων, αἵ εἰσιν αἱ προσευχαὶ τῶν ἁγίων·» — objeto direto da oração",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -634,12 +634,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "----NPF-",
       "morphology": "MorphGNT 6.12: RR ----NPF-",
       "meanings": "Introduz uma oração subordinada adjetiva que qualifica, especifica ou expande um termo antecedente.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Elemento pronominal, função segundo o caso",
+        "role": "Sujeito da oração",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -658,12 +658,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "3PAI-P--",
       "morphology": "MorphGNT 6.12: V- 3PAI-P--",
       "meanings": "ser; estar; existir",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Verbo de ligação da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Verbo de ligação da oração",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -682,12 +682,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "----NPF-",
       "morphology": "MorphGNT 6.12: RA ----NPF-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «αἱ προσευχαὶ τῶν ἁγίων·» — predicativo da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «αἱ προσευχαὶ τῶν ἁγίων·» — predicativo da oração",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -702,16 +702,16 @@ export const apocalipse5v8 = {
       "strong": "G4335",
       "lemma": "προσευχή",
       "lemmaTransliteration": "proseuchē",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPF-",
       "morphology": "MorphGNT 6.12: N- ----NPF-",
       "meanings": "Ato de dirigir súplica, petição ou expressão devocional a Deus.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «προσευχαὶ τῶν ἁγίων·» — integrado ao constituinte com função de predicativo «αἱ προσευχαὶ τῶν ἁγίων·». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «προσευχαὶ τῶν ἁγίων·» — integrado ao constituinte com função de predicativo «αἱ προσευχαὶ τῶν ἁγίων·»",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -730,12 +730,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "----GPM-",
       "morphology": "MorphGNT 6.12: RA ----GPM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τῶν ἁγίων·» — integrado ao constituinte com função de predicativo «αἱ προσευχαὶ τῶν ἁγίων·». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τῶν ἁγίων·» — integrado ao constituinte com função de predicativo «αἱ προσευχαὶ τῶν ἁγίων·»",
         "clauseId": "AP.5.8",
         "governedBy": null
       },
@@ -754,12 +754,12 @@ export const apocalipse5v8 = {
       "morphologyCode": "----GPM-",
       "morphology": "MorphGNT 6.12: A- ----GPM-",
       "meanings": "Santo ou consagrado; em 3:7 é título substantivado do Cristo que fala.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Adjetivo no constituinte «τῶν ἁγίων·» — integrado ao constituinte com função de predicativo «αἱ προσευχαὶ τῶν ἁγίων·». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Adjetivo no constituinte «τῶν ἁγίων·» — integrado ao constituinte com função de predicativo «αἱ προσευχαὶ τῶν ἁγίων·»",
         "clauseId": "AP.5.8",
         "governedBy": null
       },

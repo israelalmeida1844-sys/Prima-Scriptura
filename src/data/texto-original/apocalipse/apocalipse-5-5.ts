@@ -6,7 +6,7 @@ export const apocalipse5v5 = {
   "verse": 5,
   "source": "SBL Greek New Testament via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Então um dos anciãos me disse: Não chores. Eis que o Leão da tribo de Judá, a Raiz de Davi, venceu para abrir o livro e os seus sete selos.",
+  "translation": "Então um dos anciãos me disse: \"Não chores. Eis que o Leão da tribo de Judá, a Raiz de Davi, venceu para abrir o rolo e os seus sete selos.\"",
   "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἀνοῖξαι WH Treg NA28 ] ὁ ἀνοίγων RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «ὢν» após «ὁ»; «Δαυίδ» → «Δαβίδ»; acrescenta «λῦσαι» após «καὶ».",
   "syntacticNotes": [
@@ -31,12 +31,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ εἷς ἐκ τῶν πρεσβυτέρων λέγει μοι· Μὴ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ εἷς ἐκ τῶν πρεσβυτέρων λέγει μοι· Μὴ …»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -55,12 +55,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: A- ----NSM-",
       "meanings": "Um; em 4:8, a repetição ἓν καθ’ ἓν distribui as seis asas a cada vivente.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Adjetivo no constituinte «εἷς ἐκ τῶν πρεσβυτέρων» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Adjetivo no constituinte «εἷς ἐκ τῶν πρεσβυτέρων» — sujeito da oração",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -79,12 +79,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
       "meanings": "de; para fora de",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Preposição que introduz «ἐκ τῶν πρεσβυτέρων» — integrado ao constituinte com função de sujeito «εἷς ἐκ τῶν πρεσβυτέρων». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐκ τῶν πρεσβυτέρων» — integrado ao constituinte com função de sujeito «εἷς ἐκ τῶν πρεσβυτέρων»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -103,12 +103,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "----GPM-",
       "morphology": "MorphGNT 6.12: RA ----GPM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τῶν πρεσβυτέρων» — integrado ao constituinte com função de sujeito «εἷς ἐκ τῶν πρεσβυτέρων». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τῶν πρεσβυτέρων» — integrado ao constituinte com função de sujeito «εἷς ἐκ τῶν πρεσβυτέρων»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -127,12 +127,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "----GPM-",
       "morphology": "MorphGNT 6.12: A- ----GPM-",
       "meanings": "Pessoa mais velha ou ancião; em 4:4,10 designa membros do grupo celestial de vinte e quatro anciãos.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Adjetivo no constituinte «τῶν πρεσβυτέρων» — integrado ao constituinte com função de sujeito «εἷς ἐκ τῶν πρεσβυτέρων». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Adjetivo no constituinte «τῶν πρεσβυτέρων» — integrado ao constituinte com função de sujeito «εἷς ἐκ τῶν πρεσβυτέρων»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -151,12 +151,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "MorphGNT 6.12: V- 3PAI-S--",
       "meanings": "dizer; declarar",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -175,12 +175,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "----DS--",
       "morphology": "MorphGNT 6.12: RP ----DS--",
       "meanings": "eu; nós",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Objeto indireto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Elemento pronominal, função segundo o caso",
+        "role": "Objeto indireto da oração",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -200,7 +200,7 @@ export const apocalipse5v5 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: D- --------",
       "meanings": "não; partícula negativa",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Advérbio ou partícula modificadora. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
@@ -220,16 +220,16 @@ export const apocalipse5v5 = {
       "strong": "G2799",
       "lemma": "κλαίω",
       "lemmaTransliteration": "klaiō",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Verbo",
       "morphologyCode": "2PAD-S--",
       "morphology": "MorphGNT 6.12: V- 2PAD-S--",
       "meanings": "Expressar dor ou tristeza por meio de choro; a intensidade depende do contexto.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -249,7 +249,7 @@ export const apocalipse5v5 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: X- --------",
       "meanings": "eis; veja",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Elemento de ligação ou estruturação. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
@@ -273,12 +273,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "MorphGNT 6.12: V- 3AAI-S--",
       "meanings": "νικάω descreve vitória ou superação. Nas mensagens às igrejas, o particípio articular substantivado identifica aquele que vence e recebe promessa escatológica.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -297,12 +297,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: RA ----NSM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «ὁ λέων» — integrado ao constituinte com função de sujeito «ὁ λέων ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «ὁ λέων» — integrado ao constituinte com função de sujeito «ὁ λέων ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ …»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -321,12 +321,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: N- ----NSM-",
       "meanings": "Leão; primeiro termo da comparação dos seres viventes em 4:7.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «ὁ λέων» — integrado ao constituinte com função de sujeito «ὁ λέων ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «ὁ λέων» — integrado ao constituinte com função de sujeito «ὁ λέων ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ …»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -345,12 +345,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: RA ----NSM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «ὁ ἐκ τῆς φυλῆς Ἰούδα,» — integrado ao constituinte com função de sujeito «ὁ λέων ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «ὁ ἐκ τῆς φυλῆς Ἰούδα,» — integrado ao constituinte com função de sujeito «ὁ λέων ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ …»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -369,12 +369,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
       "meanings": "de; para fora de",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Preposição que introduz «ἐκ τῆς φυλῆς Ἰούδα,» — integrado ao constituinte com função de sujeito «ὁ λέων ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐκ τῆς φυλῆς Ἰούδα,» — integrado ao constituinte com função de sujeito «ὁ λέων ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ …»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -393,12 +393,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: RA ----GSF-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τῆς φυλῆς Ἰούδα,» — integrado ao constituinte com função de sujeito «… λέων ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ ῥίζα …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τῆς φυλῆς Ἰούδα,» — integrado ao constituinte com função de sujeito «… λέων ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ ῥίζα …»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -417,12 +417,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: N- ----GSF-",
       "meanings": "tribo; família; povo",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «φυλῆς Ἰούδα,» — integrado ao constituinte com função de sujeito «… ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ ῥίζα Δαυίδ,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «φυλῆς Ἰούδα,» — integrado ao constituinte com função de sujeito «… ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ ῥίζα Δαυίδ,»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -437,16 +437,16 @@ export const apocalipse5v5 = {
       "strong": "G2455",
       "lemma": "Ἰούδας",
       "lemmaTransliteration": "Ioudas",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "MorphGNT 6.12: N- ----GSM-",
       "meanings": "Nome próprio empregado para uma pessoa ou tribo; a referência precisa depende da construção.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «φυλῆς Ἰούδα,» — integrado ao constituinte com função de sujeito «… ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ ῥίζα Δαυίδ,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «φυλῆς Ἰούδα,» — integrado ao constituinte com função de sujeito «… ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ ῥίζα Δαυίδ,»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -466,12 +466,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: RA ----NSF-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «ἡ ῥίζα Δαυίδ,» — integrado ao constituinte com função de sujeito «… ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ ῥίζα Δαυίδ,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «ἡ ῥίζα Δαυίδ,» — integrado ao constituinte com função de sujeito «… ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ ῥίζα Δαυίδ,»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -486,16 +486,16 @@ export const apocalipse5v5 = {
       "strong": "G4491",
       "lemma": "ῥίζα",
       "lemmaTransliteration": "rhiza",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: N- ----NSF-",
       "meanings": "Parte da planta que a fixa e alimenta; figuradamente pode designar origem ou linhagem.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «ῥίζα Δαυίδ,» — integrado ao constituinte com função de sujeito «… ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ ῥίζα Δαυίδ,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «ῥίζα Δαυίδ,» — integrado ao constituinte com função de sujeito «… ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ ῥίζα Δαυίδ,»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -514,12 +514,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "----GSM-",
       "morphology": "MorphGNT 6.12: N- ----GSM-",
       "meanings": "Nome próprio Davi; «chave de Davi» em 3:7 evoca a imagem de Isaías 22:22, sem identidade literal com a chave antiga.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «ῥίζα Δαυίδ,» — integrado ao constituinte com função de sujeito «… ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ ῥίζα Δαυίδ,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «ῥίζα Δαυίδ,» — integrado ao constituinte com função de sujeito «… ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ ῥίζα Δαυίδ,»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -539,12 +539,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "-AAN----",
       "morphology": "MorphGNT 6.12: V- -AAN----",
       "meanings": "Abrir; em 3:7–8, a ação descreve autoridade para abrir o que ninguém fecha.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -563,12 +563,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: RA ----ASN-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τὸ βιβλίον» — integrado ao constituinte com função de objeto direto «τὸ βιβλίον καὶ τὰς ἑπτὰ σφραγῖδας αὐτοῦ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τὸ βιβλίον» — integrado ao constituinte com função de objeto direto «τὸ βιβλίον καὶ τὰς ἑπτὰ σφραγῖδας αὐτοῦ.»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -587,12 +587,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: N- ----ASN-",
       "meanings": "livro; rolo",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «τὸ βιβλίον» — integrado ao constituinte com função de objeto direto «τὸ βιβλίον καὶ τὰς ἑπτὰ σφραγῖδας αὐτοῦ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «τὸ βιβλίον» — integrado ao constituinte com função de objeto direto «τὸ βιβλίον καὶ τὰς ἑπτὰ σφραγῖδας αὐτοῦ.»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -611,12 +611,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ τὰς ἑπτὰ σφραγῖδας αὐτοῦ.» — integrado ao constituinte com função de objeto direto «τὸ βιβλίον καὶ τὰς ἑπτὰ σφραγῖδας αὐτοῦ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ τὰς ἑπτὰ σφραγῖδας αὐτοῦ.» — integrado ao constituinte com função de objeto direto «τὸ βιβλίον καὶ τὰς ἑπτὰ σφραγῖδας αὐτοῦ.»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -635,12 +635,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "----APF-",
       "morphology": "MorphGNT 6.12: RA ----APF-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τὰς ἑπτὰ σφραγῖδας αὐτοῦ.» — integrado ao constituinte com função de objeto direto «τὸ βιβλίον καὶ τὰς ἑπτὰ σφραγῖδας αὐτοῦ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τὰς ἑπτὰ σφραγῖδας αὐτοῦ.» — integrado ao constituinte com função de objeto direto «τὸ βιβλίον καὶ τὰς ἑπτὰ σφραγῖδας αὐτοῦ.»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -659,12 +659,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "----APF-",
       "morphology": "MorphGNT 6.12: A- ----APF-",
       "meanings": "sete",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Numeral no constituinte «ἑπτὰ σφραγῖδας αὐτοῦ.» — integrado ao constituinte com função de objeto direto «τὸ βιβλίον καὶ τὰς ἑπτὰ σφραγῖδας αὐτοῦ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Numeral no constituinte «ἑπτὰ σφραγῖδας αὐτοῦ.» — integrado ao constituinte com função de objeto direto «τὸ βιβλίον καὶ τὰς ἑπτὰ σφραγῖδας αὐτοῦ.»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -679,16 +679,16 @@ export const apocalipse5v5 = {
       "strong": "G4973",
       "lemma": "σφραγίς",
       "lemmaTransliteration": "sphragis",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----APF-",
       "morphology": "MorphGNT 6.12: N- ----APF-",
       "meanings": "Objeto ou marca com função de autenticar, fechar ou assegurar; o contexto decide a nuance.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «σφραγῖδας αὐτοῦ.» — integrado ao constituinte com função de objeto direto «τὸ βιβλίον καὶ τὰς ἑπτὰ σφραγῖδας αὐτοῦ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «σφραγῖδας αὐτοῦ.» — integrado ao constituinte com função de objeto direto «τὸ βιβλίον καὶ τὰς ἑπτὰ σφραγῖδας αὐτοῦ.»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },
@@ -707,12 +707,12 @@ export const apocalipse5v5 = {
       "morphologyCode": "----GSN-",
       "morphology": "MorphGNT 6.12: RP ----GSN-",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Pronome no constituinte «σφραγῖδας αὐτοῦ.» — integrado ao constituinte com função de objeto direto «τὸ βιβλίον καὶ τὰς ἑπτὰ σφραγῖδας αὐτοῦ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
       ],
       "syntax": {
-        "role": "Elemento pronominal, função segundo o caso",
+        "role": "Pronome no constituinte «σφραγῖδας αὐτοῦ.» — integrado ao constituinte com função de objeto direto «τὸ βιβλίον καὶ τὰς ἑπτὰ σφραγῖδας αὐτοῦ.»",
         "clauseId": "AP.5.5",
         "governedBy": null
       },

@@ -29,7 +29,7 @@ export const apocalipse8v2 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
@@ -54,7 +54,7 @@ export const apocalipse8v2 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 1ª pessoa · singular (MorphGNT: V- 1AAI-S--)",
       "meanings": "Ver ou perceber visualmente; Contemplar realidades em uma visão revelatória",
-      "explanation": "Glosa neste contexto: vi.",
+      "explanation": "Verbo principal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
@@ -79,12 +79,12 @@ export const apocalipse8v2 = {
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido · acusativo · plural · masculino (MorphGNT: RA ----APM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: os.",
+      "explanation": "Determinante do sintagma «τοὺς ἑπτὰ ἀγγέλους οἳ ἐνώπιον τοῦ θεοῦ ἑστήκασιν,» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοὺς ἑπτὰ ἀγγέλους οἳ ἐνώπιον τοῦ θεοῦ ἑστήκασιν,» — objeto direto da oração",
         "clauseId": "AP.8.2",
         "governedBy": null
       },
@@ -104,7 +104,7 @@ export const apocalipse8v2 = {
       "morphologyCode": "----APM-",
       "morphology": "Adjetivo / numeral · acusativo · plural · masculino (MorphGNT: A- ----APM-)",
       "meanings": "sete",
-      "explanation": "Glosa neste contexto: sete.",
+      "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
@@ -129,7 +129,7 @@ export const apocalipse8v2 = {
       "morphologyCode": "----APM-",
       "morphology": "Substantivo · acusativo · plural · masculino (MorphGNT: N- ----APM-)",
       "meanings": "Anjo, mensageiro celestial de Deus",
-      "explanation": "Glosa neste contexto: anjos.",
+      "explanation": "Objeto direto. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
@@ -154,7 +154,7 @@ export const apocalipse8v2 = {
       "morphologyCode": "----NPM-",
       "morphology": "Pronome relativo · nominativo · plural · masculino (MorphGNT: RR ----NPM-)",
       "meanings": "Pronome relativo anafórico (o qual, a qual, que)",
-      "explanation": "Glosa neste contexto: que.",
+      "explanation": "Sujeito da relativa. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
@@ -179,7 +179,7 @@ export const apocalipse8v2 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "diante de",
-      "explanation": "Glosa neste contexto: diante de.",
+      "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
@@ -204,12 +204,12 @@ export const apocalipse8v2 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: o (genitivo).",
+      "explanation": "Determinante do sintagma «τοῦ θεοῦ» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τοῦ θεοῦ». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ θεοῦ» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τοῦ θεοῦ»",
         "clauseId": "AP.8.2",
         "governedBy": null
       },
@@ -229,7 +229,7 @@ export const apocalipse8v2 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "O Deus Supremo, o Criador e Pai de nosso Senhor",
-      "explanation": "Glosa neste contexto: Deus.",
+      "explanation": "Função não individualizada; consultar análise do versículo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
@@ -254,7 +254,7 @@ export const apocalipse8v2 = {
       "morphologyCode": "3XAI-P--",
       "morphology": "Verbo · perfeito · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3XAI-P--)",
       "meanings": "estar de pé",
-      "explanation": "Glosa neste contexto: estão de pé.",
+      "explanation": "Verbo da relativa. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
@@ -279,7 +279,7 @@ export const apocalipse8v2 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
@@ -304,7 +304,7 @@ export const apocalipse8v2 = {
       "morphologyCode": "3API-P--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · plural (MorphGNT: V- 3API-P--)",
       "meanings": "Dar, conceder por graça ou outorgar autoridade",
-      "explanation": "Glosa neste contexto: foram dadas.",
+      "explanation": "Verbo passivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
@@ -329,7 +329,7 @@ export const apocalipse8v2 = {
       "morphologyCode": "----DPM-",
       "morphology": "Pronome pessoal · dativo · plural · masculino (MorphGNT: RP ----DPM-)",
       "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Glosa neste contexto: a eles.",
+      "explanation": "Dativo de destinatário. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
@@ -354,7 +354,7 @@ export const apocalipse8v2 = {
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo / numeral · nominativo · plural · feminino (MorphGNT: A- ----NPF-)",
       "meanings": "sete",
-      "explanation": "Glosa neste contexto: sete.",
+      "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
@@ -379,7 +379,7 @@ export const apocalipse8v2 = {
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo · nominativo · plural · feminino (MorphGNT: N- ----NPF-)",
       "meanings": "trombeta",
-      "explanation": "Glosa neste contexto: trombetas.",
+      "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],

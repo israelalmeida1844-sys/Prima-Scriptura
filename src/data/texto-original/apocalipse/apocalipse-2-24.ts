@@ -27,12 +27,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "----DP--",
       "morphology": "Pronome pessoal dativo plural",
       "meanings": "tu",
-      "explanation": "Pronome pessoal dativo plural. Glosa neste contexto: «a vós». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Pronome no constituinte «ὑμῖν τοῖς λοιποῖς τοῖς ἐν Θυατείροις,» — integrado ao constituinte com função de objeto indireto «ὑμῖν τοῖς λοιποῖς τοῖς ἐν Θυατείροις, ὅσοι οὐκ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Pronome no constituinte «ὑμῖν τοῖς λοιποῖς τοῖς ἐν Θυατείροις,» — integrado ao constituinte com função de objeto indireto «ὑμῖν τοῖς λοιποῖς τοῖς ἐν Θυατείροις, ὅσοι οὐκ …»",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -51,7 +51,7 @@ export const apocalipse2v24 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "porém",
-      "explanation": "Conjunção. Glosa neste contexto: «porém». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
@@ -75,12 +75,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "dizer",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «dizer». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "----DPM-",
       "morphology": "Artigo definido dativo plural masculino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo plural masculino. Glosa neste contexto: «aos». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τοῖς λοιποῖς» — integrado ao constituinte com função de objeto indireto «ὑμῖν τοῖς λοιποῖς τοῖς ἐν Θυατείροις, ὅσοι οὐκ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῖς λοιποῖς» — integrado ao constituinte com função de objeto indireto «ὑμῖν τοῖς λοιποῖς τοῖς ἐν Θυατείροις, ὅσοι οὐκ …»",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -123,12 +123,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "----DPM-",
       "morphology": "Adjetivo dativo plural masculino",
       "meanings": "restante",
-      "explanation": "Adjetivo dativo plural masculino. Glosa neste contexto: «demais». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjetivo no constituinte «τοῖς λοιποῖς» — integrado ao constituinte com função de objeto indireto «ὑμῖν τοῖς λοιποῖς τοῖς ἐν Θυατείροις, ὅσοι οὐκ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjetivo no constituinte «τοῖς λοιποῖς» — integrado ao constituinte com função de objeto indireto «ὑμῖν τοῖς λοιποῖς τοῖς ἐν Θυατείροις, ὅσοι οὐκ …»",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -147,12 +147,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "----DPM-",
       "morphology": "Artigo definido dativo plural masculino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo plural masculino. Glosa neste contexto: «aos». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τοῖς ἐν Θυατείροις,» — integrado ao constituinte com função de objeto indireto «ὑμῖν τοῖς λοιποῖς τοῖς ἐν Θυατείροις, ὅσοι οὐκ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῖς ἐν Θυατείροις,» — integrado ao constituinte com função de objeto indireto «ὑμῖν τοῖς λοιποῖς τοῖς ἐν Θυατείροις, ὅσοι οὐκ …»",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -171,12 +171,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "em",
-      "explanation": "Preposição. Glosa neste contexto: «em». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Preposição que introduz «ἐν Θυατείροις,» — integrado ao constituinte com função de objeto indireto «… τοῖς λοιποῖς τοῖς ἐν Θυατείροις, ὅσοι οὐκ ἔχουσιν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐν Θυατείροις,» — integrado ao constituinte com função de objeto indireto «… τοῖς λοιποῖς τοῖς ἐν Θυατείροις, ὅσοι οὐκ ἔχουσιν …»",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -195,12 +195,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "----DPN-",
       "morphology": "Substantivo dativo plural neutro",
       "meanings": "Tiatira",
-      "explanation": "Substantivo dativo plural neutro. Glosa neste contexto: «Tiatira». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «ἐν Θυατείροις,» — integrado ao constituinte com função de objeto indireto «… λοιποῖς τοῖς ἐν Θυατείροις, ὅσοι οὐκ ἔχουσιν τὴν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἐν Θυατείροις,» — integrado ao constituinte com função de objeto indireto «… λοιποῖς τοῖς ἐν Θυατείροις, ὅσοι οὐκ ἔχουσιν τὴν …»",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -220,12 +220,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "----NPM-",
       "morphology": "Pronome relativo nominativo plural masculino",
       "meanings": "todos quantos",
-      "explanation": "Pronome relativo nominativo plural masculino. Glosa neste contexto: «todos quantos». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Sujeito da oração",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -244,12 +244,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Glosa neste contexto: «não». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjunto adverbial da oração",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -268,12 +268,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural. Glosa neste contexto: «têm». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -292,12 +292,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular feminino. Glosa neste contexto: «a». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τὴν διδαχὴν» — integrado ao constituinte com função de objeto direto «τὴν διδαχὴν ταύτην,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν διδαχὴν» — integrado ao constituinte com função de objeto direto «τὴν διδαχὴν ταύτην,»",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -316,12 +316,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
       "meanings": "ensino",
-      "explanation": "Substantivo acusativo singular feminino. Glosa neste contexto: «ensino». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «τὴν διδαχὴν» — integrado ao constituinte com função de objeto direto «τὴν διδαχὴν ταύτην,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τὴν διδαχὴν» — integrado ao constituinte com função de objeto direto «τὴν διδαχὴν ταύτην,»",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -340,12 +340,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "----ASF-",
       "morphology": "Pronome demonstrativo acusativo singular feminino",
       "meanings": "este",
-      "explanation": "Pronome demonstrativo acusativo singular feminino. Glosa neste contexto: «este». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Pronome no constituinte «τὴν διδαχὴν ταύτην,» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Pronome no constituinte «τὴν διδαχὴν ταύτην,» — objeto direto da oração",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -365,12 +365,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "----NPM-",
       "morphology": "Pronome relativo nominativo plural masculino",
       "meanings": "os quais",
-      "explanation": "Pronome relativo nominativo plural masculino. Glosa neste contexto: «os quais». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Sujeito da oração",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -389,12 +389,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Glosa neste contexto: «não». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjunto adverbial da oração",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -413,12 +413,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "3AAI-P--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "conhecer",
-      "explanation": "Verbo no aoristo, voz ativa, indicativo, 3ª pessoa plural. Glosa neste contexto: «conheceram». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -437,12 +437,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo plural neutro. Glosa neste contexto: «as». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τὰ βαθέα τοῦ Σατανᾶ,» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰ βαθέα τοῦ Σατανᾶ,» — objeto direto da oração",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -461,12 +461,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "----APN-",
       "morphology": "Adjetivo acusativo plural neutro",
       "meanings": "profundo",
-      "explanation": "Adjetivo acusativo plural neutro. Glosa neste contexto: «profundezas». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjetivo no constituinte «βαθέα τοῦ Σατανᾶ,» — integrado ao constituinte com função de objeto direto «τὰ βαθέα τοῦ Σατανᾶ,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjetivo no constituinte «βαθέα τοῦ Σατανᾶ,» — integrado ao constituinte com função de objeto direto «τὰ βαθέα τοῦ Σατανᾶ,»",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -485,12 +485,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular masculino. Glosa neste contexto: «do». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τοῦ Σατανᾶ,» — integrado ao constituinte com função de objeto direto «τὰ βαθέα τοῦ Σατανᾶ,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ Σατανᾶ,» — integrado ao constituinte com função de objeto direto «τὰ βαθέα τοῦ Σατανᾶ,»",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -509,12 +509,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "Satanás",
-      "explanation": "Substantivo genitivo singular masculino. Glosa neste contexto: «Satanás». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «τοῦ Σατανᾶ,» — integrado ao constituinte com função de objeto direto «τὰ βαθέα τοῦ Σατανᾶ,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τοῦ Σατανᾶ,» — integrado ao constituinte com função de objeto direto «τὰ βαθέα τοῦ Σατανᾶ,»",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -534,7 +534,7 @@ export const apocalipse2v24 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "como",
-      "explanation": "Conjunção. Glosa neste contexto: «como». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
@@ -558,12 +558,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural",
       "meanings": "dizer",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural. Glosa neste contexto: «dizem». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -583,12 +583,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Glosa neste contexto: «não». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjunto adverbial da oração",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -607,12 +607,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "lançar",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «lanço». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -631,12 +631,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "sobre",
-      "explanation": "Preposição. Glosa neste contexto: «sobre». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Preposição que introduz «ἐφ’ ὑμᾶς» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐφ’ ὑμᾶς» — adjunto adverbial da oração",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -655,12 +655,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "----AP--",
       "morphology": "Pronome pessoal acusativo plural",
       "meanings": "tu",
-      "explanation": "Pronome pessoal acusativo plural. Glosa neste contexto: «tu». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Pronome no constituinte «ἐφ’ ὑμᾶς» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Pronome no constituinte «ἐφ’ ὑμᾶς» — adjunto adverbial da oração",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -679,12 +679,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "----ASN-",
       "morphology": "Adjetivo acusativo singular neutro",
       "meanings": "outro",
-      "explanation": "Adjetivo acusativo singular neutro. Glosa neste contexto: «outro». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjetivo no constituinte «ἄλλο βάρος·» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjetivo no constituinte «ἄλλο βάρος·» — objeto direto da oração",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },
@@ -703,12 +703,12 @@ export const apocalipse2v24 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo acusativo singular neutro",
       "meanings": "peso",
-      "explanation": "Substantivo acusativo singular neutro. Glosa neste contexto: «fardo». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «ἄλλο βάρος·» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἄλλο βάρος·» — objeto direto da oração",
         "clauseId": "AP.2.24.C1",
         "governedBy": null
       },

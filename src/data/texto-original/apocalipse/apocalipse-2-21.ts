@@ -27,7 +27,7 @@ export const apocalipse2v21 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
@@ -51,12 +51,12 @@ export const apocalipse2v21 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "dar",
-      "explanation": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «dei». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.21.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse2v21 = {
       "morphologyCode": "----DSF-",
       "morphology": "Pronome pessoal dativo singular feminino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal dativo singular feminino. Glosa neste contexto: «a ela». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Objeto indireto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Objeto indireto da oração",
         "clauseId": "AP.2.21.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse2v21 = {
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo acusativo singular masculino",
       "meanings": "tempo",
-      "explanation": "Substantivo acusativo singular masculino. Glosa neste contexto: «tempo». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Objeto direto da oração",
         "clauseId": "AP.2.21.C1",
         "governedBy": null
       },
@@ -123,7 +123,7 @@ export const apocalipse2v21 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "para que",
-      "explanation": "Conjunção. Glosa neste contexto: «para que». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
@@ -147,12 +147,12 @@ export const apocalipse2v21 = {
       "morphologyCode": "3AAS-S--",
       "morphology": "Verbo no aoristo, voz ativa, subjuntivo, 3ª pessoa singular",
       "meanings": "arrepender-se",
-      "explanation": "Verbo no aoristo, voz ativa, subjuntivo, 3ª pessoa singular. Glosa neste contexto: «se arrependa». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.21.C1",
         "governedBy": null
       },
@@ -172,7 +172,7 @@ export const apocalipse2v21 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
@@ -196,12 +196,12 @@ export const apocalipse2v21 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "não",
-      "explanation": "Advérbio. Glosa neste contexto: «não». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjunto adverbial da oração",
         "clauseId": "AP.2.21.C1",
         "governedBy": null
       },
@@ -220,12 +220,12 @@ export const apocalipse2v21 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "querer",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Glosa neste contexto: «quer». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.21.C1",
         "governedBy": null
       },
@@ -244,7 +244,7 @@ export const apocalipse2v21 = {
       "morphologyCode": "-AAN----",
       "morphology": "Verbo no aoristo, voz ativa, infinitivo",
       "meanings": "arrepender-se",
-      "explanation": "Verbo no aoristo, voz ativa, infinitivo. Glosa neste contexto: «arrepender-se». Infinitivo integrante da construção. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Infinitivo integrante da construção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
@@ -268,12 +268,12 @@ export const apocalipse2v21 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "de",
-      "explanation": "Preposição. Glosa neste contexto: «de». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Preposição que introduz «ἐκ τῆς πορνείας αὐτῆς.» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐκ τῆς πορνείας αὐτῆς.» — adjunto adverbial da oração",
         "clauseId": "AP.2.21.C1",
         "governedBy": null
       },
@@ -292,12 +292,12 @@ export const apocalipse2v21 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular feminino. Glosa neste contexto: «da». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τῆς πορνείας αὐτῆς.» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῆς πορνείας αὐτῆς.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς πορνείας αὐτῆς.» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῆς πορνείας αὐτῆς.»",
         "clauseId": "AP.2.21.C1",
         "governedBy": null
       },
@@ -316,12 +316,12 @@ export const apocalipse2v21 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "imoralidade sexual",
-      "explanation": "Substantivo genitivo singular feminino. Glosa neste contexto: «imoralidade sexual». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «πορνείας αὐτῆς.» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῆς πορνείας αὐτῆς.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «πορνείας αὐτῆς.» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῆς πορνείας αὐτῆς.»",
         "clauseId": "AP.2.21.C1",
         "governedBy": null
       },
@@ -340,12 +340,12 @@ export const apocalipse2v21 = {
       "morphologyCode": "----GSF-",
       "morphology": "Pronome pessoal genitivo singular feminino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal genitivo singular feminino. Glosa neste contexto: «dele/dela». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Pronome no constituinte «πορνείας αὐτῆς.» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῆς πορνείας αὐτῆς.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:21"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Pronome no constituinte «πορνείας αὐτῆς.» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῆς πορνείας αὐτῆς.»",
         "clauseId": "AP.2.21.C1",
         "governedBy": null
       },

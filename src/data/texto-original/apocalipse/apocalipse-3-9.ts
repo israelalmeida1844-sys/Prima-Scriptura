@@ -103,7 +103,7 @@ export const apocalipse3v9 = {
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς συναγωγῆς τοῦ Σατανᾶ,» — integrado ao constituinte com função de objeto direto «ἐκ τῆς συναγωγῆς τοῦ Σατανᾶ, τῶν λεγόντων ἑαυτοὺς …»",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -127,7 +127,7 @@ export const apocalipse3v9 = {
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «συναγωγῆς τοῦ Σατανᾶ,» — integrado ao constituinte com função de objeto direto «ἐκ τῆς συναγωγῆς τοῦ Σατανᾶ, τῶν λεγόντων ἑαυτοὺς …»",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -151,7 +151,7 @@ export const apocalipse3v9 = {
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ Σατανᾶ,» — integrado ao constituinte com função de objeto direto «ἐκ τῆς συναγωγῆς τοῦ Σατανᾶ, τῶν λεγόντων ἑαυτοὺς …»",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -175,7 +175,7 @@ export const apocalipse3v9 = {
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τοῦ Σατανᾶ,» — integrado ao constituinte com função de objeto direto «… τῆς συναγωγῆς τοῦ Σατανᾶ, τῶν λεγόντων ἑαυτοὺς Ἰουδαίους …»",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -200,7 +200,7 @@ export const apocalipse3v9 = {
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν λεγόντων ἑαυτοὺς Ἰουδαίους εἶναι,» — integrado ao constituinte com função de objeto direto «… συναγωγῆς τοῦ Σατανᾶ, τῶν λεγόντων ἑαυτοὺς Ἰουδαίους εἶναι,»",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -224,7 +224,7 @@ export const apocalipse3v9 = {
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Particípio",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -272,7 +272,7 @@ export const apocalipse3v9 = {
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Predicativo da oração",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -634,7 +634,7 @@ export const apocalipse3v9 = {
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν ποδῶν σου,» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τῶν ποδῶν σου,»",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },
@@ -658,7 +658,7 @@ export const apocalipse3v9 = {
         "Ap 3:9"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ποδῶν σου,» — integrado ao constituinte com função de adjunto adverbial «ἐνώπιον τῶν ποδῶν σου,»",
         "clauseId": "AP.3.9.C1",
         "governedBy": null
       },

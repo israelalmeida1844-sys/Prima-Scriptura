@@ -81,7 +81,7 @@ export const apocalipse7v1 = {
         "Ap 7:1"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.1",
         "governedBy": null
       },
@@ -153,7 +153,7 @@ export const apocalipse7v1 = {
         "Ap 7:1"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.1",
         "governedBy": null
       },
@@ -201,7 +201,7 @@ export const apocalipse7v1 = {
         "Ap 7:1"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰς τέσσαρας γωνίας τῆς γῆς,» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τὰς τέσσαρας γωνίας τῆς γῆς,»",
         "clauseId": "AP.7.1",
         "governedBy": null
       },
@@ -273,7 +273,7 @@ export const apocalipse7v1 = {
         "Ap 7:1"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς γῆς,» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τὰς τέσσαρας γωνίας τῆς γῆς,»",
         "clauseId": "AP.7.1",
         "governedBy": null
       },
@@ -322,7 +322,7 @@ export const apocalipse7v1 = {
         "Ap 7:1"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.1",
         "governedBy": null
       },
@@ -346,7 +346,7 @@ export const apocalipse7v1 = {
         "Ap 7:1"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοὺς τέσσαρας ἀνέμους τῆς γῆς,» — objeto direto da oração",
         "clauseId": "AP.7.1",
         "governedBy": null
       },
@@ -418,7 +418,7 @@ export const apocalipse7v1 = {
         "Ap 7:1"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς γῆς,» — integrado ao constituinte com função de objeto direto «τοὺς τέσσαρας ἀνέμους τῆς γῆς,»",
         "clauseId": "AP.7.1",
         "governedBy": null
       },
@@ -515,7 +515,7 @@ export const apocalipse7v1 = {
         "Ap 7:1"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.1",
         "governedBy": null
       },
@@ -587,7 +587,7 @@ export const apocalipse7v1 = {
         "Ap 7:1"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς γῆς» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τῆς γῆς μήτε ἐπὶ τῆς θαλάσσης μήτε …»",
         "clauseId": "AP.7.1",
         "governedBy": null
       },
@@ -683,7 +683,7 @@ export const apocalipse7v1 = {
         "Ap 7:1"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς θαλάσσης» — integrado ao constituinte com função de adjunto adverbial «… γῆς μήτε ἐπὶ τῆς θαλάσσης μήτε ἐπὶ πᾶν …»",
         "clauseId": "AP.7.1",
         "governedBy": null
       },

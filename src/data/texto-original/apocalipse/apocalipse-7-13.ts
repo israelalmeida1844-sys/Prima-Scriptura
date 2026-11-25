@@ -57,7 +57,7 @@ export const apocalipse7v13 = {
         "Ap 7:13"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.13",
         "governedBy": null
       },
@@ -129,7 +129,7 @@ export const apocalipse7v13 = {
         "Ap 7:13"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν πρεσβυτέρων» — integrado ao constituinte com função de sujeito «εἷς ἐκ τῶν πρεσβυτέρων»",
         "clauseId": "AP.7.13",
         "governedBy": null
       },
@@ -177,7 +177,7 @@ export const apocalipse7v13 = {
         "Ap 7:13"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.13",
         "governedBy": null
       },
@@ -250,7 +250,7 @@ export const apocalipse7v13 = {
         "Ap 7:13"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «οἱ περιβεβλημένοι τὰς στολὰς τὰς λευκὰς» — integrado ao constituinte com função de sujeito «Οὗτοι οἱ περιβεβλημένοι τὰς στολὰς τὰς λευκὰς»",
         "clauseId": "AP.7.13",
         "governedBy": null
       },
@@ -274,7 +274,7 @@ export const apocalipse7v13 = {
         "Ap 7:13"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.13",
         "governedBy": null
       },
@@ -298,7 +298,7 @@ export const apocalipse7v13 = {
         "Ap 7:13"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰς στολὰς τὰς λευκὰς» — objeto direto da oração",
         "clauseId": "AP.7.13",
         "governedBy": null
       },
@@ -346,7 +346,7 @@ export const apocalipse7v13 = {
         "Ap 7:13"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰς λευκὰς» — integrado ao constituinte com função de objeto direto «τὰς στολὰς τὰς λευκὰς»",
         "clauseId": "AP.7.13",
         "governedBy": null
       },
@@ -418,7 +418,7 @@ export const apocalipse7v13 = {
         "Ap 7:13"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo de ligação da oração",
         "clauseId": "AP.7.13",
         "governedBy": null
       },
@@ -490,7 +490,7 @@ export const apocalipse7v13 = {
         "Ap 7:13"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.13",
         "governedBy": null
       },

@@ -5,7 +5,7 @@ export const apocalipse7v12 = {
   "verse": 12,
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
-  "translation": "dizendo: Amém! O louvor, a glória, a sabedoria, a ação de graças, a honra, o poder e a força pertencem ao nosso Deus pelos séculos dos séculos. Amém!",
+  "translation": "dizendo: \"Amém! O louvor, a glória, a sabedoria, a ação de graças, a honra, o poder e a força pertencem ao nosso Deus pelos séculos dos séculos. Amém!\"",
   "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "syntacticNotes": [
@@ -33,7 +33,7 @@ export const apocalipse7v12 = {
         "Ap 7:12"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.7.12",
         "governedBy": null
       },
@@ -83,7 +83,7 @@ export const apocalipse7v12 = {
         "Ap 7:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ἡ εὐλογία» — integrado ao constituinte com função de sujeito «ἡ εὐλογία καὶ ἡ δόξα καὶ ἡ σοφία …»",
         "clauseId": "AP.7.12",
         "governedBy": null
       },
@@ -155,7 +155,7 @@ export const apocalipse7v12 = {
         "Ap 7:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ἡ δόξα» — integrado ao constituinte com função de sujeito «ἡ εὐλογία καὶ ἡ δόξα καὶ ἡ σοφία …»",
         "clauseId": "AP.7.12",
         "governedBy": null
       },
@@ -227,7 +227,7 @@ export const apocalipse7v12 = {
         "Ap 7:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ἡ σοφία» — integrado ao constituinte com função de sujeito «… ἡ δόξα καὶ ἡ σοφία καὶ ἡ εὐχαριστία …»",
         "clauseId": "AP.7.12",
         "governedBy": null
       },
@@ -299,7 +299,7 @@ export const apocalipse7v12 = {
         "Ap 7:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ἡ εὐχαριστία» — integrado ao constituinte com função de sujeito «… ἡ σοφία καὶ ἡ εὐχαριστία καὶ ἡ τιμὴ …»",
         "clauseId": "AP.7.12",
         "governedBy": null
       },
@@ -371,7 +371,7 @@ export const apocalipse7v12 = {
         "Ap 7:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ἡ τιμὴ» — integrado ao constituinte com função de sujeito «… ἡ εὐχαριστία καὶ ἡ τιμὴ καὶ ἡ δύναμις …»",
         "clauseId": "AP.7.12",
         "governedBy": null
       },
@@ -443,7 +443,7 @@ export const apocalipse7v12 = {
         "Ap 7:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ἡ δύναμις» — integrado ao constituinte com função de sujeito «… ἡ τιμὴ καὶ ἡ δύναμις καὶ ἡ ἰσχὺς»",
         "clauseId": "AP.7.12",
         "governedBy": null
       },
@@ -515,7 +515,7 @@ export const apocalipse7v12 = {
         "Ap 7:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ἡ ἰσχὺς» — integrado ao constituinte com função de sujeito «… ἡ τιμὴ καὶ ἡ δύναμις καὶ ἡ ἰσχὺς»",
         "clauseId": "AP.7.12",
         "governedBy": null
       },
@@ -563,7 +563,7 @@ export const apocalipse7v12 = {
         "Ap 7:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῷ θεῷ ἡμῶν» — objeto indireto da oração",
         "clauseId": "AP.7.12",
         "governedBy": null
       },
@@ -659,7 +659,7 @@ export const apocalipse7v12 = {
         "Ap 7:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοὺς αἰῶνας τῶν αἰώνων·» — integrado ao constituinte com função de adjunto adverbial «εἰς τοὺς αἰῶνας τῶν αἰώνων·»",
         "clauseId": "AP.7.12",
         "governedBy": null
       },
@@ -707,7 +707,7 @@ export const apocalipse7v12 = {
         "Ap 7:12"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῶν αἰώνων·» — integrado ao constituinte com função de adjunto adverbial «εἰς τοὺς αἰῶνας τῶν αἰώνων·»",
         "clauseId": "AP.7.12",
         "governedBy": null
       },

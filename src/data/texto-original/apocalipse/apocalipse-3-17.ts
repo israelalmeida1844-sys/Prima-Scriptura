@@ -103,7 +103,7 @@ export const apocalipse3v17 = {
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Predicativo da oração",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -223,7 +223,7 @@ export const apocalipse3v17 = {
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «οὐδὲν χρείαν» — objeto direto da oração",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -247,7 +247,7 @@ export const apocalipse3v17 = {
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «οὐδὲν χρείαν» — objeto direto da oração",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -258,7 +258,7 @@ export const apocalipse3v17 = {
       "shortMorph": "V- 1PAI-S--",
       "greek": "ἔχω",
       "transliteration": "echō",
-      "gloss": "tinha",
+      "gloss": "tenho",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",
@@ -440,7 +440,7 @@ export const apocalipse3v17 = {
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ ταλαίπωρος καὶ ἐλεεινὸς καὶ πτωχὸς καὶ τυφλὸς …» — predicativo da oração",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -464,7 +464,7 @@ export const apocalipse3v17 = {
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «ταλαίπωρος καὶ ἐλεεινὸς καὶ πτωχὸς καὶ τυφλὸς καὶ …» — integrado ao constituinte com função de predicativo «ὁ ταλαίπωρος καὶ ἐλεεινὸς καὶ πτωχὸς καὶ τυφλὸς …»",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -512,7 +512,7 @@ export const apocalipse3v17 = {
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «καὶ ἐλεεινὸς» — integrado ao constituinte com função de predicativo «ὁ ταλαίπωρος καὶ ἐλεεινὸς καὶ πτωχὸς καὶ τυφλὸς …»",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -560,7 +560,7 @@ export const apocalipse3v17 = {
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «καὶ πτωχὸς» — integrado ao constituinte com função de predicativo «… καὶ ἐλεεινὸς καὶ πτωχὸς καὶ τυφλὸς καὶ γυμνός,»",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -608,7 +608,7 @@ export const apocalipse3v17 = {
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «καὶ τυφλὸς» — integrado ao constituinte com função de predicativo «… καὶ ἐλεεινὸς καὶ πτωχὸς καὶ τυφλὸς καὶ γυμνός,»",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },
@@ -656,7 +656,7 @@ export const apocalipse3v17 = {
         "Ap 3:17"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «καὶ γυμνός,» — integrado ao constituinte com função de predicativo «… καὶ ἐλεεινὸς καὶ πτωχὸς καὶ τυφλὸς καὶ γυμνός,»",
         "clauseId": "AP.3.17.C1",
         "governedBy": null
       },

@@ -27,12 +27,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio",
       "meanings": "como",
-      "explanation": "Advérbio. Glosa neste contexto: «como». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Advérbio no constituinte «ὡς κἀγὼ εἴληφα παρὰ τοῦ πατρός μου,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Advérbio no constituinte «ὡς κἀγὼ εἴληφα παρὰ τοῦ πατρός μου,»",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
@@ -51,12 +51,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal nominativo singular",
       "meanings": "eu também",
-      "explanation": "Pronome pessoal nominativo singular. Glosa neste contexto: «eu também». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Sujeito da oração",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
@@ -75,12 +75,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "1XAI-S--",
       "morphology": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "receber",
-      "explanation": "Verbo no perfeito, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «recebi». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "junto de",
-      "explanation": "Preposição. Glosa neste contexto: «de». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Preposição que introduz «παρὰ τοῦ πατρός μου,» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «παρὰ τοῦ πατρός μου,» — adjunto adverbial da oração",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
@@ -123,12 +123,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular masculino. Glosa neste contexto: «do». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τοῦ πατρός μου,» — integrado ao constituinte com função de adjunto adverbial «παρὰ τοῦ πατρός μου,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ πατρός μου,» — integrado ao constituinte com função de adjunto adverbial «παρὰ τοῦ πατρός μου,»",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
@@ -147,12 +147,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "pai",
-      "explanation": "Substantivo genitivo singular masculino. Glosa neste contexto: «Pai». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «πατρός μου,» — integrado ao constituinte com função de adjunto adverbial «παρὰ τοῦ πατρός μου,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «πατρός μου,» — integrado ao constituinte com função de adjunto adverbial «παρὰ τοῦ πατρός μου,»",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
@@ -171,12 +171,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
       "meanings": "eu",
-      "explanation": "Pronome pessoal genitivo singular. Glosa neste contexto: «meu/de mim». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Pronome no constituinte «πατρός μου,» — integrado ao constituinte com função de adjunto adverbial «παρὰ τοῦ πατρός μου,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Pronome no constituinte «πατρός μου,» — integrado ao constituinte com função de adjunto adverbial «παρὰ τοῦ πατρός μου,»",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
@@ -196,7 +196,7 @@ export const apocalipse2v28 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção",
       "meanings": "e",
-      "explanation": "Conjunção. Glosa neste contexto: «e». Conector da oração. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
@@ -220,12 +220,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "1FAI-S--",
       "morphology": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "dar",
-      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «darei». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
@@ -244,12 +244,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "----DSM-",
       "morphology": "Pronome pessoal dativo singular masculino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal dativo singular masculino. Glosa neste contexto: «a ele». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Objeto indireto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Objeto indireto da oração",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
@@ -268,12 +268,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "----ASM-",
       "morphology": "Artigo definido acusativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular masculino. Glosa neste contexto: «o». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τὸν ἀστέρα τὸν πρωϊνόν.» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸν ἀστέρα τὸν πρωϊνόν.» — objeto direto da oração",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
@@ -292,12 +292,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo acusativo singular masculino",
       "meanings": "estrela",
-      "explanation": "Substantivo acusativo singular masculino. Glosa neste contexto: «estrela». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «ἀστέρα τὸν πρωϊνόν.» — integrado ao constituinte com função de objeto direto «τὸν ἀστέρα τὸν πρωϊνόν.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἀστέρα τὸν πρωϊνόν.» — integrado ao constituinte com função de objeto direto «τὸν ἀστέρα τὸν πρωϊνόν.»",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
@@ -316,12 +316,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "----ASM-",
       "morphology": "Artigo definido acusativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido acusativo singular masculino. Glosa neste contexto: «o». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τὸν πρωϊνόν.» — integrado ao constituinte com função de objeto direto «τὸν ἀστέρα τὸν πρωϊνόν.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸν πρωϊνόν.» — integrado ao constituinte com função de objeto direto «τὸν ἀστέρα τὸν πρωϊνόν.»",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },
@@ -340,12 +340,12 @@ export const apocalipse2v28 = {
       "morphologyCode": "----ASM-",
       "morphology": "Adjetivo acusativo singular masculino",
       "meanings": "matutino",
-      "explanation": "Adjetivo acusativo singular masculino. Glosa neste contexto: «da manhã». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Adjetivo no constituinte «τὸν πρωϊνόν.» — integrado ao constituinte com função de objeto direto «τὸν ἀστέρα τὸν πρωϊνόν.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Adjetivo no constituinte «τὸν πρωϊνόν.» — integrado ao constituinte com função de objeto direto «τὸν ἀστέρα τὸν πρωϊνόν.»",
         "clauseId": "AP.2.28.C1",
         "governedBy": null
       },

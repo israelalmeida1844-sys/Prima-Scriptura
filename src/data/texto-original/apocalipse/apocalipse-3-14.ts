@@ -55,7 +55,7 @@ export const apocalipse3v14 = {
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῷ ἀγγέλῳ τῆς ἐν Λαοδικείᾳ ἐκκλησίας» — objeto indireto da oração",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -79,7 +79,7 @@ export const apocalipse3v14 = {
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἀγγέλῳ τῆς ἐν Λαοδικείᾳ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Λαοδικείᾳ ἐκκλησίας»",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -103,7 +103,7 @@ export const apocalipse3v14 = {
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς ἐν Λαοδικείᾳ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Λαοδικείᾳ ἐκκλησίας»",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -151,7 +151,7 @@ export const apocalipse3v14 = {
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἐν Λαοδικείᾳ» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Λαοδικείᾳ ἐκκλησίας»",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -175,7 +175,7 @@ export const apocalipse3v14 = {
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἐν Λαοδικείᾳ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Λαοδικείᾳ ἐκκλησίας»",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -186,7 +186,7 @@ export const apocalipse3v14 = {
       "shortMorph": "V- 2AAD-S--",
       "greek": "γράψον",
       "transliteration": "grapson",
-      "gloss": "escrever",
+      "gloss": "escreve",
       "strong": "G1125",
       "lemma": "γράφω",
       "lemmaTransliteration": "graphō",
@@ -235,7 +235,7 @@ export const apocalipse3v14 = {
       "shortMorph": "V- 3PAI-S--",
       "greek": "λέγει",
       "transliteration": "legei",
-      "gloss": "dizer",
+      "gloss": "diz",
       "strong": "G3004",
       "lemma": "λέγω",
       "lemmaTransliteration": "legō",
@@ -272,7 +272,7 @@ export const apocalipse3v14 = {
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ Ἀμήν,» — integrado ao constituinte com função de sujeito «ὁ Ἀμήν, ὁ μάρτυς ὁ πιστὸς καὶ ἀληθινός, …»",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -321,7 +321,7 @@ export const apocalipse3v14 = {
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ μάρτυς ὁ πιστὸς καὶ ἀληθινός,» — integrado ao constituinte com função de sujeito «ὁ Ἀμήν, ὁ μάρτυς ὁ πιστὸς καὶ ἀληθινός, …»",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -345,7 +345,7 @@ export const apocalipse3v14 = {
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «μάρτυς ὁ πιστὸς καὶ ἀληθινός,» — integrado ao constituinte com função de sujeito «ὁ Ἀμήν, ὁ μάρτυς ὁ πιστὸς καὶ ἀληθινός, …»",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -369,7 +369,7 @@ export const apocalipse3v14 = {
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ πιστὸς καὶ ἀληθινός,» — integrado ao constituinte com função de sujeito «… Ἀμήν, ὁ μάρτυς ὁ πιστὸς καὶ ἀληθινός, ἡ …»",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -393,7 +393,7 @@ export const apocalipse3v14 = {
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «πιστὸς καὶ ἀληθινός,» — integrado ao constituinte com função de sujeito «… ὁ μάρτυς ὁ πιστὸς καὶ ἀληθινός, ἡ ἀρχὴ …»",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -441,7 +441,7 @@ export const apocalipse3v14 = {
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo segundo a construção",
+        "role": "Adjetivo no constituinte «καὶ ἀληθινός,» — integrado ao constituinte com função de sujeito «… ὁ πιστὸς καὶ ἀληθινός, ἡ ἀρχὴ τῆς κτίσεως …»",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -466,7 +466,7 @@ export const apocalipse3v14 = {
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ·» — integrado ao constituinte com função de sujeito «… πιστὸς καὶ ἀληθινός, ἡ ἀρχὴ τῆς κτίσεως τοῦ …»",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -490,7 +490,7 @@ export const apocalipse3v14 = {
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ἀρχὴ τῆς κτίσεως τοῦ θεοῦ·» — integrado ao constituinte com função de sujeito «… καὶ ἀληθινός, ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ·»",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -514,7 +514,7 @@ export const apocalipse3v14 = {
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς κτίσεως τοῦ θεοῦ·» — integrado ao constituinte com função de sujeito «… καὶ ἀληθινός, ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ·»",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -538,7 +538,7 @@ export const apocalipse3v14 = {
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «κτίσεως τοῦ θεοῦ·» — integrado ao constituinte com função de sujeito «… καὶ ἀληθινός, ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ·»",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -562,7 +562,7 @@ export const apocalipse3v14 = {
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ θεοῦ·» — integrado ao constituinte com função de sujeito «… καὶ ἀληθινός, ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ·»",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },
@@ -573,7 +573,7 @@ export const apocalipse3v14 = {
       "shortMorph": "N- ----GSM-",
       "greek": "θεοῦ",
       "transliteration": "theou",
-      "gloss": "o deus supremo",
+      "gloss": "Deus",
       "strong": "G2316",
       "lemma": "θεός",
       "lemmaTransliteration": "theos",
@@ -586,7 +586,7 @@ export const apocalipse3v14 = {
         "Ap 3:14"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τοῦ θεοῦ·» — integrado ao constituinte com função de sujeito «… καὶ ἀληθινός, ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ·»",
         "clauseId": "AP.3.14.C1",
         "governedBy": null
       },

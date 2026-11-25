@@ -27,12 +27,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular masculino. Glosa neste contexto: «o». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «ὁ ἔχων οὖς» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ὁ ἔχων οὖς» — sujeito da oração",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -51,7 +51,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
       "meanings": "ter",
-      "explanation": "Verbo no presente, voz ativa, particípio nominativo singular masculino. Glosa neste contexto: «tem». Particípio em construção sintática. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Particípio em construção sintática. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -75,12 +75,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo acusativo singular neutro",
       "meanings": "ouvido",
-      "explanation": "Substantivo acusativo singular neutro. Glosa neste contexto: «ouvidos». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Objeto direto da oração",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -99,12 +99,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "3AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 3ª pessoa singular",
       "meanings": "ouvir",
-      "explanation": "Verbo no aoristo, voz ativa, imperativo, 3ª pessoa singular. Glosa neste contexto: «ouça». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -123,12 +123,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "----ASN-",
       "morphology": "Pronome interrogativo/indefinido acusativo singular neutro",
       "meanings": "que?",
-      "explanation": "Pronome interrogativo/indefinido acusativo singular neutro. Glosa neste contexto: «o que». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Objeto direto da oração",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -147,12 +147,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido nominativo singular neutro",
       "meanings": "o",
-      "explanation": "Artigo definido nominativo singular neutro. Glosa neste contexto: «o». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τὸ πνεῦμα» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὸ πνεῦμα» — sujeito da oração",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -171,12 +171,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo nominativo singular neutro",
       "meanings": "Espírito",
-      "explanation": "Substantivo nominativo singular neutro. Glosa neste contexto: «Espírito». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «τὸ πνεῦμα» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τὸ πνεῦμα» — sujeito da oração",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -195,12 +195,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "dizer",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Glosa neste contexto: «diz». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -219,12 +219,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "----DPF-",
       "morphology": "Artigo definido dativo plural feminino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo plural feminino. Glosa neste contexto: «às». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «ταῖς ἐκκλησίαις.» — objeto indireto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «ταῖς ἐκκλησίαις.» — objeto indireto da oração",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -243,12 +243,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo dativo plural feminino",
       "meanings": "assembleia",
-      "explanation": "Substantivo dativo plural feminino. Glosa neste contexto: «igrejas». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «ταῖς ἐκκλησίαις.» — objeto indireto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ταῖς ἐκκλησίαις.» — objeto indireto da oração",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -268,12 +268,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo singular masculino. Glosa neste contexto: «ao». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τῷ νικῶντι». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῷ νικῶντι»",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -292,7 +292,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "-PAPDSM-",
       "morphology": "Verbo no presente, voz ativa, particípio dativo singular masculino",
       "meanings": "vencer",
-      "explanation": "Verbo no presente, voz ativa, particípio dativo singular masculino. Glosa neste contexto: «vence». Particípio articular dativo singular masculino, tópico da promessa. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Particípio articular dativo singular masculino, tópico da promessa. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -316,12 +316,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "1FAI-S--",
       "morphology": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular",
       "meanings": "dar",
-      "explanation": "Verbo no futuro, voz ativa, indicativo, 1ª pessoa singular. Glosa neste contexto: «darei». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -340,7 +340,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "----DSM-",
       "morphology": "Pronome pessoal dativo singular masculino",
       "meanings": "dele",
-      "explanation": "Pronome pessoal dativo singular masculino. Glosa neste contexto: «a ele». Retomada pronominal do dativo τῷ νικῶντι. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Retomada pronominal do dativo τῷ νικῶντι. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -364,7 +364,7 @@ export const apocalipse2v7 = {
       "morphologyCode": "-AAN----",
       "morphology": "Verbo no aoristo, voz ativa, infinitivo",
       "meanings": "comer",
-      "explanation": "Verbo no aoristo, voz ativa, infinitivo. Glosa neste contexto: «comer». Infinitivo integrante da construção. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Infinitivo integrante da construção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
@@ -388,12 +388,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "de",
-      "explanation": "Preposição. Glosa neste contexto: «de». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Preposição que introduz «ἐκ τοῦ ξύλου τῆς ζωῆς, ὅ ἐστιν ἐν …» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐκ τοῦ ξύλου τῆς ζωῆς, ὅ ἐστιν ἐν …» — adjunto adverbial da oração",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -412,12 +412,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido genitivo singular neutro",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular neutro. Glosa neste contexto: «do». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τοῦ ξύλου τῆς ζωῆς, ὅ ἐστιν ἐν τῷ …» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ ξύλου τῆς ζωῆς, ὅ ἐστιν ἐν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ ξύλου τῆς ζωῆς, ὅ ἐστιν ἐν τῷ …» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ ξύλου τῆς ζωῆς, ὅ ἐστιν ἐν …»",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -436,12 +436,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo genitivo singular neutro",
       "meanings": "árvore",
-      "explanation": "Substantivo genitivo singular neutro. Glosa neste contexto: «árvore». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «ξύλου τῆς ζωῆς,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ ξύλου τῆς ζωῆς, ὅ ἐστιν ἐν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «ξύλου τῆς ζωῆς,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ ξύλου τῆς ζωῆς, ὅ ἐστιν ἐν …»",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -460,12 +460,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular feminino. Glosa neste contexto: «da». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τῆς ζωῆς,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ ξύλου τῆς ζωῆς, ὅ ἐστιν ἐν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῆς ζωῆς,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ ξύλου τῆς ζωῆς, ὅ ἐστιν ἐν …»",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -484,12 +484,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
       "meanings": "vida",
-      "explanation": "Substantivo genitivo singular feminino. Glosa neste contexto: «vida». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «τῆς ζωῆς,» — integrado ao constituinte com função de adjunto adverbial «… τοῦ ξύλου τῆς ζωῆς, ὅ ἐστιν ἐν τῷ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τῆς ζωῆς,» — integrado ao constituinte com função de adjunto adverbial «… τοῦ ξύλου τῆς ζωῆς, ὅ ἐστιν ἐν τῷ …»",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -509,12 +509,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Pronome relativo nominativo singular neutro",
       "meanings": "que",
-      "explanation": "Pronome relativo nominativo singular neutro. Glosa neste contexto: «que». Elemento discursivo. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Elemento discursivo",
+        "role": "Sujeito da oração",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -533,12 +533,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
       "meanings": "ser",
-      "explanation": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular. Glosa neste contexto: «está». Núcleo verbal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Verbo de ligação da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Núcleo verbal",
+        "role": "Verbo de ligação da oração",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -557,12 +557,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "--------",
       "morphology": "Preposição",
       "meanings": "em",
-      "explanation": "Preposição. Glosa neste contexto: «em». Introduz complemento preposicional. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Preposição que introduz «ἐν τῷ παραδείσῳ τοῦ θεοῦ.» — predicativo da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐν τῷ παραδείσῳ τοῦ θεοῦ.» — predicativo da oração",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -581,12 +581,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido dativo singular masculino. Glosa neste contexto: «no». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τῷ παραδείσῳ τοῦ θεοῦ.» — integrado ao constituinte com função de predicativo «ἐν τῷ παραδείσῳ τοῦ θεοῦ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τῷ παραδείσῳ τοῦ θεοῦ.» — integrado ao constituinte com função de predicativo «ἐν τῷ παραδείσῳ τοῦ θεοῦ.»",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -605,12 +605,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
       "meanings": "paraíso",
-      "explanation": "Substantivo dativo singular masculino. Glosa neste contexto: «paraíso». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «παραδείσῳ τοῦ θεοῦ.» — integrado ao constituinte com função de predicativo «ἐν τῷ παραδείσῳ τοῦ θεοῦ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «παραδείσῳ τοῦ θεοῦ.» — integrado ao constituinte com função de predicativo «ἐν τῷ παραδείσῳ τοῦ θεοῦ.»",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -629,12 +629,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
       "meanings": "o",
-      "explanation": "Artigo definido genitivo singular masculino. Glosa neste contexto: «do». Determinante nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Determinante do sintagma «τοῦ θεοῦ.» — integrado ao constituinte com função de predicativo «ἐν τῷ παραδείσῳ τοῦ θεοῦ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ θεοῦ.» — integrado ao constituinte com função de predicativo «ἐν τῷ παραδείσῳ τοῦ θεοῦ.»",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },
@@ -653,12 +653,12 @@ export const apocalipse2v7 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
       "meanings": "Deus",
-      "explanation": "Substantivo genitivo singular masculino. Glosa neste contexto: «Deus». Núcleo nominal. A dependência sintática precisa de análise particular; conferir notas do versículo.",
+      "explanation": "Substantivo no constituinte «τοῦ θεοῦ.» — integrado ao constituinte com função de predicativo «ἐν τῷ παραδείσῳ τοῦ θεοῦ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:7"
       ],
       "syntax": {
-        "role": "Núcleo nominal",
+        "role": "Substantivo no constituinte «τοῦ θεοῦ.» — integrado ao constituinte com função de predicativo «ἐν τῷ παραδείσῳ τοῦ θεοῦ.»",
         "clauseId": "AP.2.7.C1",
         "governedBy": null
       },

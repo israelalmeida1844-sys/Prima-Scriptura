@@ -6,7 +6,7 @@ export const apocalipse5v13 = {
   "verse": 13,
   "source": "SBL Greek New Testament via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "E ouvi toda criatura no céu, sobre a terra, debaixo da terra, sobre o mar e tudo o que neles há, dizendo: Àquele que está sentado no trono e ao Cordeiro sejam o louvor, a honra, a glória e o domínio pelos séculos dos séculos.",
+  "translation": "E ouvi toda criatura no céu, sobre a terra, debaixo da terra, sobre o mar e tudo o que neles há, dizendo: \"Àquele que está sentado no trono e ao Cordeiro sejam o louvor, a honra, a glória e o domínio pelos séculos dos séculos.\"",
   "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): θαλάσσης Treg NA28 ] + ἐστίν WH RP; πάντα WH Treg NA28 ] πάντας RP; τῷ θρόνῳ NA28 ] τοῦ θρόνου WH Treg RP; αἰώνων WH Treg NA28 ] + Ἀμήν RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «ἐστιν» após «ὃ»; «ἐπὶ τῆς γῆς» → «ἐν τῇ γῇ»; acrescenta «ἅ ἐστι» após «θαλάσσης»; «τῷ θρόνῳ» → «τοῦ θρόνου».",
   "syntacticNotes": [
@@ -31,12 +31,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ πᾶν κτίσμα ὃ ἐν τῷ οὐρανῷ καὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ πᾶν κτίσμα ὃ ἐν τῷ οὐρανῷ καὶ …»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -55,12 +55,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: A- ----ASN-",
       "meanings": "todo; cada",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Adjetivo no constituinte «πᾶν κτίσμα ὃ ἐν τῷ οὐρανῷ καὶ ἐπὶ …» — integrado ao constituinte com função de sujeito «πᾶν κτίσμα ὃ ἐν τῷ οὐρανῷ καὶ ἐπὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Adjetivo no constituinte «πᾶν κτίσμα ὃ ἐν τῷ οὐρανῷ καὶ ἐπὶ …» — integrado ao constituinte com função de sujeito «πᾶν κτίσμα ὃ ἐν τῷ οὐρανῷ καὶ ἐπὶ …»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -75,16 +75,16 @@ export const apocalipse5v13 = {
       "strong": "G2938",
       "lemma": "κτίσμα",
       "lemmaTransliteration": "ktisma",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: N- ----ASN-",
       "meanings": "Entidade ou realidade que resulta do ato de criar.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «κτίσμα ὃ ἐν τῷ οὐρανῷ καὶ ἐπὶ τῆς …» — integrado ao constituinte com função de sujeito «πᾶν κτίσμα ὃ ἐν τῷ οὐρανῷ καὶ ἐπὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «κτίσμα ὃ ἐν τῷ οὐρανῷ καὶ ἐπὶ τῆς …» — integrado ao constituinte com função de sujeito «πᾶν κτίσμα ὃ ἐν τῷ οὐρανῷ καὶ ἐπὶ …»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -103,12 +103,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----NSN-",
       "morphology": "MorphGNT 6.12: RR ----NSN-",
       "meanings": "Introduz uma oração subordinada adjetiva que qualifica, especifica ou expande um termo antecedente.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Elemento pronominal, função segundo o caso",
+        "role": "Sujeito da oração",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -127,12 +127,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
       "meanings": "Estabelece circunstância de tempo, modo, esfera de localização ou associação íntima.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Preposição que introduz «ἐν τῷ οὐρανῷ» — integrado ao constituinte com função de predicativo «ἐν τῷ οὐρανῷ καὶ ἐπὶ τῆς γῆς καὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐν τῷ οὐρανῷ» — integrado ao constituinte com função de predicativo «ἐν τῷ οὐρανῷ καὶ ἐπὶ τῆς γῆς καὶ …»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -151,12 +151,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----DSM-",
       "morphology": "MorphGNT 6.12: RA ----DSM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τῷ οὐρανῷ» — integrado ao constituinte com função de predicativo «ἐν τῷ οὐρανῷ καὶ ἐπὶ τῆς γῆς καὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τῷ οὐρανῷ» — integrado ao constituinte com função de predicativo «ἐν τῷ οὐρανῷ καὶ ἐπὶ τῆς γῆς καὶ …»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -175,12 +175,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----DSM-",
       "morphology": "MorphGNT 6.12: N- ----DSM-",
       "meanings": "Céu; em 3:12 indica a procedência da Nova Jerusalém no relato visionário.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «τῷ οὐρανῷ» — integrado ao constituinte com função de predicativo «ἐν τῷ οὐρανῷ καὶ ἐπὶ τῆς γῆς καὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «τῷ οὐρανῷ» — integrado ao constituinte com função de predicativo «ἐν τῷ οὐρανῷ καὶ ἐπὶ τῆς γῆς καὶ …»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -199,12 +199,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ ἐπὶ τῆς γῆς» — integrado ao constituinte com função de predicativo «ἐν τῷ οὐρανῷ καὶ ἐπὶ τῆς γῆς καὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ ἐπὶ τῆς γῆς» — integrado ao constituinte com função de predicativo «ἐν τῷ οὐρανῷ καὶ ἐπὶ τῆς γῆς καὶ …»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -223,12 +223,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
       "meanings": "sobre; por causa de",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Preposição que introduz «ἐπὶ τῆς γῆς» — integrado ao constituinte com função de predicativo «… τῷ οὐρανῷ καὶ ἐπὶ τῆς γῆς καὶ ὑποκάτω …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐπὶ τῆς γῆς» — integrado ao constituinte com função de predicativo «… τῷ οὐρανῷ καὶ ἐπὶ τῆς γῆς καὶ ὑποκάτω …»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -247,12 +247,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: RA ----GSF-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τῆς γῆς» — integrado ao constituinte com função de predicativo «… οὐρανῷ καὶ ἐπὶ τῆς γῆς καὶ ὑποκάτω τῆς …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τῆς γῆς» — integrado ao constituinte com função de predicativo «… οὐρανῷ καὶ ἐπὶ τῆς γῆς καὶ ὑποκάτω τῆς …»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -271,12 +271,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: N- ----GSF-",
       "meanings": "terra; solo",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «τῆς γῆς» — integrado ao constituinte com função de predicativo «… καὶ ἐπὶ τῆς γῆς καὶ ὑποκάτω τῆς γῆς …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «τῆς γῆς» — integrado ao constituinte com função de predicativo «… καὶ ἐπὶ τῆς γῆς καὶ ὑποκάτω τῆς γῆς …»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -295,12 +295,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ ὑποκάτω τῆς γῆς» — integrado ao constituinte com função de predicativo «… ἐπὶ τῆς γῆς καὶ ὑποκάτω τῆς γῆς καὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ ὑποκάτω τῆς γῆς» — integrado ao constituinte com função de predicativo «… ἐπὶ τῆς γῆς καὶ ὑποκάτω τῆς γῆς καὶ …»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -315,16 +315,16 @@ export const apocalipse5v13 = {
       "strong": "G5270",
       "lemma": "ὑποκάτω",
       "lemmaTransliteration": "hypokatō",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
       "meanings": "Localização inferior relativamente a um ponto de referência, frequentemente com genitivo.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Preposição que introduz «ὑποκάτω τῆς γῆς» — integrado ao constituinte com função de predicativo «… τῆς γῆς καὶ ὑποκάτω τῆς γῆς καὶ ἐπὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ὑποκάτω τῆς γῆς» — integrado ao constituinte com função de predicativo «… τῆς γῆς καὶ ὑποκάτω τῆς γῆς καὶ ἐπὶ …»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -343,12 +343,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: RA ----GSF-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τῆς γῆς» — integrado ao constituinte com função de predicativo «… γῆς καὶ ὑποκάτω τῆς γῆς καὶ ἐπὶ τῆς …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τῆς γῆς» — integrado ao constituinte com função de predicativo «… γῆς καὶ ὑποκάτω τῆς γῆς καὶ ἐπὶ τῆς …»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -367,12 +367,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: N- ----GSF-",
       "meanings": "terra; solo",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «τῆς γῆς» — integrado ao constituinte com função de predicativo «… καὶ ὑποκάτω τῆς γῆς καὶ ἐπὶ τῆς θαλάσσης,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «τῆς γῆς» — integrado ao constituinte com função de predicativo «… καὶ ὑποκάτω τῆς γῆς καὶ ἐπὶ τῆς θαλάσσης,»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -391,12 +391,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ ἐπὶ τῆς θαλάσσης,» — integrado ao constituinte com função de predicativo «… καὶ ὑποκάτω τῆς γῆς καὶ ἐπὶ τῆς θαλάσσης,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ ἐπὶ τῆς θαλάσσης,» — integrado ao constituinte com função de predicativo «… καὶ ὑποκάτω τῆς γῆς καὶ ἐπὶ τῆς θαλάσσης,»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -415,12 +415,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
       "meanings": "sobre; por causa de",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Preposição que introduz «ἐπὶ τῆς θαλάσσης,» — integrado ao constituinte com função de predicativo «… καὶ ὑποκάτω τῆς γῆς καὶ ἐπὶ τῆς θαλάσσης,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐπὶ τῆς θαλάσσης,» — integrado ao constituinte com função de predicativo «… καὶ ὑποκάτω τῆς γῆς καὶ ἐπὶ τῆς θαλάσσης,»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -439,12 +439,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: RA ----GSF-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τῆς θαλάσσης,» — integrado ao constituinte com função de predicativo «… καὶ ὑποκάτω τῆς γῆς καὶ ἐπὶ τῆς θαλάσσης,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τῆς θαλάσσης,» — integrado ao constituinte com função de predicativo «… καὶ ὑποκάτω τῆς γῆς καὶ ἐπὶ τῆς θαλάσσης,»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -463,12 +463,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: N- ----GSF-",
       "meanings": "Mar; em 4:6 aparece sob comparação visionária com vidro e cristal.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «τῆς θαλάσσης,» — integrado ao constituinte com função de predicativo «… καὶ ὑποκάτω τῆς γῆς καὶ ἐπὶ τῆς θαλάσσης,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «τῆς θαλάσσης,» — integrado ao constituinte com função de predicativo «… καὶ ὑποκάτω τῆς γῆς καὶ ἐπὶ τῆς θαλάσσης,»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -488,12 +488,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ τὰ ἐν αὐτοῖς πάντα,» — integrado ao constituinte com função de sujeito «… ἐπὶ τῆς θαλάσσης, καὶ τὰ ἐν αὐτοῖς πάντα,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ τὰ ἐν αὐτοῖς πάντα,» — integrado ao constituinte com função de sujeito «… ἐπὶ τῆς θαλάσσης, καὶ τὰ ἐν αὐτοῖς πάντα,»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -512,12 +512,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----APN-",
       "morphology": "MorphGNT 6.12: RA ----APN-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τὰ ἐν αὐτοῖς πάντα,» — integrado ao constituinte com função de sujeito «… ἐπὶ τῆς θαλάσσης, καὶ τὰ ἐν αὐτοῖς πάντα,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τὰ ἐν αὐτοῖς πάντα,» — integrado ao constituinte com função de sujeito «… ἐπὶ τῆς θαλάσσης, καὶ τὰ ἐν αὐτοῖς πάντα,»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -536,12 +536,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
       "meanings": "Estabelece circunstância de tempo, modo, esfera de localização ou associação íntima.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Preposição que introduz «ἐν αὐτοῖς» — integrado ao constituinte com função de sujeito «… ἐπὶ τῆς θαλάσσης, καὶ τὰ ἐν αὐτοῖς πάντα,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐν αὐτοῖς» — integrado ao constituinte com função de sujeito «… ἐπὶ τῆς θαλάσσης, καὶ τὰ ἐν αὐτοῖς πάντα,»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -560,12 +560,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----DPM-",
       "morphology": "MorphGNT 6.12: RP ----DPM-",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Pronome no constituinte «ἐν αὐτοῖς» — integrado ao constituinte com função de sujeito «… ἐπὶ τῆς θαλάσσης, καὶ τὰ ἐν αὐτοῖς πάντα,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Elemento pronominal, função segundo o caso",
+        "role": "Pronome no constituinte «ἐν αὐτοῖς» — integrado ao constituinte com função de sujeito «… ἐπὶ τῆς θαλάσσης, καὶ τὰ ἐν αὐτοῖς πάντα,»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -584,12 +584,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----APN-",
       "morphology": "MorphGNT 6.12: A- ----APN-",
       "meanings": "todo; cada",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Adjetivo no constituinte «τὰ ἐν αὐτοῖς πάντα,» — integrado ao constituinte com função de sujeito «… ἐπὶ τῆς θαλάσσης, καὶ τὰ ἐν αὐτοῖς πάντα,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Modificador nominal ou predicativo",
+        "role": "Adjetivo no constituinte «τὰ ἐν αὐτοῖς πάντα,» — integrado ao constituinte com função de sujeito «… ἐπὶ τῆς θαλάσσης, καὶ τὰ ἐν αὐτοῖς πάντα,»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -609,12 +609,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "MorphGNT 6.12: V- 1AAI-S--",
       "meanings": "ouvir; escutar",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -633,12 +633,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "-PAPAPM-",
       "morphology": "MorphGNT 6.12: V- -PAPAPM-",
       "meanings": "dizer; declarar",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -658,12 +658,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----DSM-",
       "morphology": "MorphGNT 6.12: RA ----DSM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «Τῷ καθημένῳ ἐπὶ τῷ θρόνῳ» — integrado ao constituinte com função de objeto indireto «Τῷ καθημένῳ ἐπὶ τῷ θρόνῳ καὶ τῷ ἀρνίῳ». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «Τῷ καθημένῳ ἐπὶ τῷ θρόνῳ» — integrado ao constituinte com função de objeto indireto «Τῷ καθημένῳ ἐπὶ τῷ θρόνῳ καὶ τῷ ἀρνίῳ»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -682,12 +682,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "-PMPDSM-",
       "morphology": "MorphGNT 6.12: V- -PMPDSM-",
       "meanings": "Estar sentado; participial em 4:2–4 e 4:9–10, designando ocupantes de tronos.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Predicado verbal ou forma dependente",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -706,12 +706,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
       "meanings": "sobre; por causa de",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Preposição que introduz «ἐπὶ τῷ θρόνῳ» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «ἐπὶ τῷ θρόνῳ» — adjunto adverbial da oração",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -730,12 +730,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----DSM-",
       "morphology": "MorphGNT 6.12: RA ----DSM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τῷ θρόνῳ» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τῷ θρόνῳ». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τῷ θρόνῳ» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τῷ θρόνῳ»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -755,12 +755,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----DSM-",
       "morphology": "MorphGNT 6.12: N- ----DSM-",
       "meanings": "trono",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «τῷ θρόνῳ» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τῷ θρόνῳ». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «τῷ θρόνῳ» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τῷ θρόνῳ»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -780,12 +780,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ τῷ ἀρνίῳ» — integrado ao constituinte com função de objeto indireto «Τῷ καθημένῳ ἐπὶ τῷ θρόνῳ καὶ τῷ ἀρνίῳ». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ τῷ ἀρνίῳ» — integrado ao constituinte com função de objeto indireto «Τῷ καθημένῳ ἐπὶ τῷ θρόνῳ καὶ τῷ ἀρνίῳ»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -804,12 +804,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----DSN-",
       "morphology": "MorphGNT 6.12: RA ----DSN-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τῷ ἀρνίῳ» — integrado ao constituinte com função de objeto indireto «Τῷ καθημένῳ ἐπὶ τῷ θρόνῳ καὶ τῷ ἀρνίῳ». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τῷ ἀρνίῳ» — integrado ao constituinte com função de objeto indireto «Τῷ καθημένῳ ἐπὶ τῷ θρόνῳ καὶ τῷ ἀρνίῳ»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -824,16 +824,16 @@ export const apocalipse5v13 = {
       "strong": "G721",
       "lemma": "ἀρνίον",
       "lemmaTransliteration": "arnion",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSN-",
       "morphology": "MorphGNT 6.12: N- ----DSN-",
       "meanings": "Denominação de um cordeiro, com emprego simbólico predominante no Apocalipse.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «τῷ ἀρνίῳ» — integrado ao constituinte com função de objeto indireto «Τῷ καθημένῳ ἐπὶ τῷ θρόνῳ καὶ τῷ ἀρνίῳ». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «τῷ ἀρνίῳ» — integrado ao constituinte com função de objeto indireto «Τῷ καθημένῳ ἐπὶ τῷ θρόνῳ καὶ τῷ ἀρνίῳ»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -852,12 +852,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: RA ----NSF-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «ἡ εὐλογία» — integrado ao constituinte com função de sujeito «ἡ εὐλογία καὶ ἡ τιμὴ καὶ ἡ δόξα …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «ἡ εὐλογία» — integrado ao constituinte com função de sujeito «ἡ εὐλογία καὶ ἡ τιμὴ καὶ ἡ δόξα …»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -872,16 +872,16 @@ export const apocalipse5v13 = {
       "strong": "G2129",
       "lemma": "εὐλογία",
       "lemmaTransliteration": "eulogia",
-      "partOfSpeech": "Conforme MorphGNT 6.12",
+      "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: N- ----NSF-",
       "meanings": "Expressão de bem-dizer, elogio ou bênção; em doxologias, louvor dirigido ao destinatário.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «ἡ εὐλογία» — integrado ao constituinte com função de sujeito «ἡ εὐλογία καὶ ἡ τιμὴ καὶ ἡ δόξα …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «ἡ εὐλογία» — integrado ao constituinte com função de sujeito «ἡ εὐλογία καὶ ἡ τιμὴ καὶ ἡ δόξα …»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -900,12 +900,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ ἡ τιμὴ» — integrado ao constituinte com função de sujeito «ἡ εὐλογία καὶ ἡ τιμὴ καὶ ἡ δόξα …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ ἡ τιμὴ» — integrado ao constituinte com função de sujeito «ἡ εὐλογία καὶ ἡ τιμὴ καὶ ἡ δόξα …»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -924,12 +924,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: RA ----NSF-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «ἡ τιμὴ» — integrado ao constituinte com função de sujeito «ἡ εὐλογία καὶ ἡ τιμὴ καὶ ἡ δόξα …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «ἡ τιμὴ» — integrado ao constituinte com função de sujeito «ἡ εὐλογία καὶ ἡ τιμὴ καὶ ἡ δόξα …»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -948,12 +948,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: N- ----NSF-",
       "meanings": "Honra; qualidade oferecida ao ocupante do trono em 4:9 e 4:11.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «ἡ τιμὴ» — integrado ao constituinte com função de sujeito «… εὐλογία καὶ ἡ τιμὴ καὶ ἡ δόξα καὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «ἡ τιμὴ» — integrado ao constituinte com função de sujeito «… εὐλογία καὶ ἡ τιμὴ καὶ ἡ δόξα καὶ …»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -972,12 +972,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ ἡ δόξα» — integrado ao constituinte com função de sujeito «… καὶ ἡ τιμὴ καὶ ἡ δόξα καὶ τὸ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ ἡ δόξα» — integrado ao constituinte com função de sujeito «… καὶ ἡ τιμὴ καὶ ἡ δόξα καὶ τὸ …»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -996,12 +996,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: RA ----NSF-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «ἡ δόξα» — integrado ao constituinte com função de sujeito «… ἡ τιμὴ καὶ ἡ δόξα καὶ τὸ κράτος». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «ἡ δόξα» — integrado ao constituinte com função de sujeito «… ἡ τιμὴ καὶ ἡ δόξα καὶ τὸ κράτος»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -1020,12 +1020,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: N- ----NSF-",
       "meanings": "glória",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «ἡ δόξα» — integrado ao constituinte com função de sujeito «… ἡ τιμὴ καὶ ἡ δόξα καὶ τὸ κράτος». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «ἡ δόξα» — integrado ao constituinte com função de sujeito «… ἡ τιμὴ καὶ ἡ δόξα καὶ τὸ κράτος»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -1044,12 +1044,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ τὸ κράτος» — integrado ao constituinte com função de sujeito «… ἡ τιμὴ καὶ ἡ δόξα καὶ τὸ κράτος». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Conector coordenativo ou subordinativo",
+        "role": "Conjunção que articula os constituintes de «καὶ τὸ κράτος» — integrado ao constituinte com função de sujeito «… ἡ τιμὴ καὶ ἡ δόξα καὶ τὸ κράτος»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -1068,12 +1068,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----NSN-",
       "morphology": "MorphGNT 6.12: RA ----NSN-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τὸ κράτος» — integrado ao constituinte com função de sujeito «… ἡ τιμὴ καὶ ἡ δόξα καὶ τὸ κράτος». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τὸ κράτος» — integrado ao constituinte com função de sujeito «… ἡ τιμὴ καὶ ἡ δόξα καὶ τὸ κράτος»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -1092,12 +1092,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----NSN-",
       "morphology": "MorphGNT 6.12: N- ----NSN-",
       "meanings": "poder; domínio",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «τὸ κράτος» — integrado ao constituinte com função de sujeito «… ἡ τιμὴ καὶ ἡ δόξα καὶ τὸ κράτος». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «τὸ κράτος» — integrado ao constituinte com função de sujeito «… ἡ τιμὴ καὶ ἡ δόξα καὶ τὸ κράτος»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -1116,12 +1116,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
       "meanings": "para; em direção a; por",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Preposição que introduz «εἰς τοὺς αἰῶνας τῶν αἰώνων.» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Introduz complemento preposicional",
+        "role": "Preposição que introduz «εἰς τοὺς αἰῶνας τῶν αἰώνων.» — adjunto adverbial da oração",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -1140,12 +1140,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----APM-",
       "morphology": "MorphGNT 6.12: RA ----APM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τοὺς αἰῶνας τῶν αἰώνων.» — integrado ao constituinte com função de adjunto adverbial «εἰς τοὺς αἰῶνας τῶν αἰώνων.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τοὺς αἰῶνας τῶν αἰώνων.» — integrado ao constituinte com função de adjunto adverbial «εἰς τοὺς αἰῶνας τῶν αἰώνων.»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -1164,12 +1164,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----APM-",
       "morphology": "MorphGNT 6.12: N- ----APM-",
       "meanings": "era; século; eternidade",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «αἰῶνας τῶν αἰώνων.» — integrado ao constituinte com função de adjunto adverbial «εἰς τοὺς αἰῶνας τῶν αἰώνων.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «αἰῶνας τῶν αἰώνων.» — integrado ao constituinte com função de adjunto adverbial «εἰς τοὺς αἰῶνας τῶν αἰώνων.»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -1188,12 +1188,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----GPM-",
       "morphology": "MorphGNT 6.12: RA ----GPM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Determinante do sintagma «τῶν αἰώνων.» — integrado ao constituinte com função de adjunto adverbial «εἰς τοὺς αἰῶνας τῶν αἰώνων.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Determinante nominal; verificar acordo com o substantivo",
+        "role": "Determinante do sintagma «τῶν αἰώνων.» — integrado ao constituinte com função de adjunto adverbial «εἰς τοὺς αἰῶνας τῶν αἰώνων.»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },
@@ -1212,12 +1212,12 @@ export const apocalipse5v13 = {
       "morphologyCode": "----GPM-",
       "morphology": "MorphGNT 6.12: N- ----GPM-",
       "meanings": "era; século; eternidade",
-      "explanation": "A descrição lexical e a função sintática devem ser interpretadas no contexto; a revisão gramatical fina permanece indicada no relatório editorial.",
+      "explanation": "Substantivo no constituinte «τῶν αἰώνων.» — integrado ao constituinte com função de adjunto adverbial «εἰς τοὺς αἰῶνας τῶν αἰώνων.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
       ],
       "syntax": {
-        "role": "Núcleo nominal ou complemento; caso e função dependem da oração",
+        "role": "Substantivo no constituinte «τῶν αἰώνων.» — integrado ao constituinte com função de adjunto adverbial «εἰς τοὺς αἰῶνας τῶν αἰώνων.»",
         "clauseId": "AP.5.13",
         "governedBy": null
       },

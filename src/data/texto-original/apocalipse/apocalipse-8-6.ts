@@ -29,7 +29,7 @@ export const apocalipse8v6 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Glosa neste contexto: e.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
@@ -54,12 +54,12 @@ export const apocalipse8v6 = {
       "morphologyCode": "----NPM-",
       "morphology": "Artigo definido · nominativo · plural · masculino (MorphGNT: RA ----NPM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: os.",
+      "explanation": "Determinante do sintagma «οἱ ἑπτὰ ἄγγελοι» — integrado ao constituinte com função de sujeito «οἱ ἑπτὰ ἄγγελοι οἱ ἔχοντες τὰς ἑπτὰ σάλπιγγας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «οἱ ἑπτὰ ἄγγελοι» — integrado ao constituinte com função de sujeito «οἱ ἑπτὰ ἄγγελοι οἱ ἔχοντες τὰς ἑπτὰ σάλπιγγας»",
         "clauseId": "AP.8.6",
         "governedBy": null
       },
@@ -79,7 +79,7 @@ export const apocalipse8v6 = {
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo / numeral · nominativo · plural · masculino (MorphGNT: A- ----NPM-)",
       "meanings": "sete",
-      "explanation": "Glosa neste contexto: sete.",
+      "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
@@ -104,7 +104,7 @@ export const apocalipse8v6 = {
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo · nominativo · plural · masculino (MorphGNT: N- ----NPM-)",
       "meanings": "Anjo, mensageiro celestial de Deus",
-      "explanation": "Glosa neste contexto: anjos.",
+      "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
@@ -129,12 +129,12 @@ export const apocalipse8v6 = {
       "morphologyCode": "----NPM-",
       "morphology": "Artigo definido · nominativo · plural · masculino (MorphGNT: RA ----NPM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: os (artigo reiterado).",
+      "explanation": "Determinante do sintagma «οἱ ἔχοντες τὰς ἑπτὰ σάλπιγγας» — integrado ao constituinte com função de sujeito «οἱ ἑπτὰ ἄγγελοι οἱ ἔχοντες τὰς ἑπτὰ σάλπιγγας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «οἱ ἔχοντες τὰς ἑπτὰ σάλπιγγας» — integrado ao constituinte com função de sujeito «οἱ ἑπτὰ ἄγγελοι οἱ ἔχοντες τὰς ἑπτὰ σάλπιγγας»",
         "clauseId": "AP.8.6",
         "governedBy": null
       },
@@ -154,7 +154,7 @@ export const apocalipse8v6 = {
       "morphologyCode": "-PAPNPM-",
       "morphology": "Verbo · presente · voz ativa · particípio · nominativo · plural · masculino (MorphGNT: V- -PAPNPM-)",
       "meanings": "tinha",
-      "explanation": "Glosa neste contexto: que têm.",
+      "explanation": "Particípio atributivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
@@ -179,12 +179,12 @@ export const apocalipse8v6 = {
       "morphologyCode": "----APF-",
       "morphology": "Artigo definido · acusativo · plural · feminino (MorphGNT: RA ----APF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Glosa neste contexto: as.",
+      "explanation": "Determinante do sintagma «τὰς ἑπτὰ σάλπιγγας» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὰς ἑπτὰ σάλπιγγας» — objeto direto da oração",
         "clauseId": "AP.8.6",
         "governedBy": null
       },
@@ -204,7 +204,7 @@ export const apocalipse8v6 = {
       "morphologyCode": "----APF-",
       "morphology": "Adjetivo / numeral · acusativo · plural · feminino (MorphGNT: A- ----APF-)",
       "meanings": "sete",
-      "explanation": "Glosa neste contexto: sete.",
+      "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
@@ -229,7 +229,7 @@ export const apocalipse8v6 = {
       "morphologyCode": "----APF-",
       "morphology": "Substantivo · acusativo · plural · feminino (MorphGNT: N- ----APF-)",
       "meanings": "trombeta",
-      "explanation": "Glosa neste contexto: trombetas.",
+      "explanation": "Objeto do particípio. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
@@ -254,7 +254,7 @@ export const apocalipse8v6 = {
       "morphologyCode": "3AAI-P--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3AAI-P--)",
       "meanings": "preparar",
-      "explanation": "Glosa neste contexto: prepararam.",
+      "explanation": "Verbo principal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
@@ -279,7 +279,7 @@ export const apocalipse8v6 = {
       "morphologyCode": "----APM-",
       "morphology": "Pronome pessoal · acusativo · plural · masculino (MorphGNT: RP ----APM-)",
       "meanings": "si mesmo",
-      "explanation": "Glosa neste contexto: a si mesmos.",
+      "explanation": "Objeto reflexivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
@@ -304,7 +304,7 @@ export const apocalipse8v6 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "para que",
-      "explanation": "Glosa neste contexto: para que.",
+      "explanation": "Conjunção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
@@ -329,7 +329,7 @@ export const apocalipse8v6 = {
       "morphologyCode": "3AAS-P--",
       "morphology": "Verbo · aoristo · voz ativa · subjuntivo · 3ª pessoa · plural (MorphGNT: V- 3AAS-P--)",
       "meanings": "tocar trombeta",
-      "explanation": "Glosa neste contexto: tocassem.",
+      "explanation": "Verbo da oração final. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],

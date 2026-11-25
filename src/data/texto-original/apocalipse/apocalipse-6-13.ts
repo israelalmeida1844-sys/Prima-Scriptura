@@ -29,12 +29,12 @@ export const apocalipse6v13 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "Liga palavras, orações ou proposições, introduzindo o passo subsequente de uma exposição.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conjunção que articula os constituintes de «καὶ οἱ ἀστέρες τοῦ οὐρανοῦ ἔπεσαν εἰς τὴν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Conjunção que articula os constituintes de «καὶ οἱ ἀστέρες τοῦ οὐρανοῦ ἔπεσαν εἰς τὴν …»",
         "clauseId": "AP.6.13",
         "governedBy": null
       },
@@ -53,12 +53,12 @@ export const apocalipse6v13 = {
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: RA ----NPM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Determinante do sintagma «οἱ ἀστέρες τοῦ οὐρανοῦ» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «οἱ ἀστέρες τοῦ οὐρανοῦ» — sujeito da oração",
         "clauseId": "AP.6.13",
         "governedBy": null
       },
@@ -77,7 +77,7 @@ export const apocalipse6v13 = {
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: N- ----NPM-",
       "meanings": "estrela",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
       ],
@@ -101,12 +101,12 @@ export const apocalipse6v13 = {
       "morphologyCode": "----GSM-",
       "morphology": "MorphGNT 6.12: RA ----GSM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Determinante do sintagma «τοῦ οὐρανοῦ» — integrado ao constituinte com função de sujeito «οἱ ἀστέρες τοῦ οὐρανοῦ». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοῦ οὐρανοῦ» — integrado ao constituinte com função de sujeito «οἱ ἀστέρες τοῦ οὐρανοῦ»",
         "clauseId": "AP.6.13",
         "governedBy": null
       },
@@ -125,7 +125,7 @@ export const apocalipse6v13 = {
       "morphologyCode": "----GSM-",
       "morphology": "MorphGNT 6.12: N- ----GSM-",
       "meanings": "Céu; em 3:12 indica a procedência da Nova Jerusalém no relato visionário.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
       ],
@@ -149,12 +149,12 @@ export const apocalipse6v13 = {
       "morphologyCode": "3AAI-P--",
       "morphology": "MorphGNT 6.12: V- 3AAI-P--",
       "meanings": "cair",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.6.13",
         "governedBy": null
       },
@@ -173,7 +173,7 @@ export const apocalipse6v13 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
       "meanings": "para; em direção a; por",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conector preposicional. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
       ],
@@ -197,12 +197,12 @@ export const apocalipse6v13 = {
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: RA ----ASF-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Determinante do sintagma «τὴν γῆν,» — integrado ao constituinte com função de adjunto adverbial «εἰς τὴν γῆν,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τὴν γῆν,» — integrado ao constituinte com função de adjunto adverbial «εἰς τὴν γῆν,»",
         "clauseId": "AP.6.13",
         "governedBy": null
       },
@@ -221,7 +221,7 @@ export const apocalipse6v13 = {
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: N- ----ASF-",
       "meanings": "terra; solo",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
       ],
@@ -246,12 +246,12 @@ export const apocalipse6v13 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
       "meanings": "como",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conjunção que articula os constituintes de «ὡς συκῆ βάλλει τοὺς ὀλύνθους αὐτῆς ὑπὸ ἀνέμου …» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Conjunção que articula os constituintes de «ὡς συκῆ βάλλει τοὺς ὀλύνθους αὐτῆς ὑπὸ ἀνέμου …» — adjunto adverbial da oração",
         "clauseId": "AP.6.13",
         "governedBy": null
       },
@@ -270,7 +270,7 @@ export const apocalipse6v13 = {
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: N- ----NSF-",
       "meanings": "Figueira, árvore frutífera, usada em 6:13 como elemento de comparação.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
       ],
@@ -294,12 +294,12 @@ export const apocalipse6v13 = {
       "morphologyCode": "3PAI-S--",
       "morphology": "MorphGNT 6.12: V- 3PAI-S--",
       "meanings": "βάλλειν é infinitivo presente dependente de μέλλει; com εἰς φυλακήν indica lançar na prisão.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.6.13",
         "governedBy": null
       },
@@ -318,12 +318,12 @@ export const apocalipse6v13 = {
       "morphologyCode": "----APM-",
       "morphology": "MorphGNT 6.12: RA ----APM-",
       "meanings": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Determinante do sintagma «τοὺς ὀλύνθους αὐτῆς» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
       ],
       "syntax": {
-        "role": "Determinante nominal",
+        "role": "Determinante do sintagma «τοὺς ὀλύνθους αὐτῆς» — objeto direto da oração",
         "clauseId": "AP.6.13",
         "governedBy": null
       },
@@ -342,7 +342,7 @@ export const apocalipse6v13 = {
       "morphologyCode": "----APM-",
       "morphology": "MorphGNT 6.12: N- ----APM-",
       "meanings": "Figo precoce ou imaturo que pode cair da figueira antes da maturação.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
       ],
@@ -366,12 +366,12 @@ export const apocalipse6v13 = {
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: RP ----GSF-",
       "meanings": "Indica a terceira pessoa do discurso nos casos oblíquos ou atua como pronome enfático.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Pronome no constituinte «ὀλύνθους αὐτῆς» — integrado ao constituinte com função de objeto direto «τοὺς ὀλύνθους αὐτῆς». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Pronome no constituinte «ὀλύνθους αὐτῆς» — integrado ao constituinte com função de objeto direto «τοὺς ὀλύνθους αὐτῆς»",
         "clauseId": "AP.6.13",
         "governedBy": null
       },
@@ -390,7 +390,7 @@ export const apocalipse6v13 = {
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
       "meanings": "Preposição que pode indicar posição inferior ou agente; a interpretação depende do caso gramatical regido.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Conector preposicional. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
       ],
@@ -414,7 +414,7 @@ export const apocalipse6v13 = {
       "morphologyCode": "----GSM-",
       "morphology": "MorphGNT 6.12: N- ----GSM-",
       "meanings": "Vento, movimento de ar que, em 6:13, sacode a figueira.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
       ],
@@ -438,12 +438,12 @@ export const apocalipse6v13 = {
       "morphologyCode": "----GSM-",
       "morphology": "MorphGNT 6.12: A- ----GSM-",
       "meanings": "grande",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Adjetivo no constituinte «ἀνέμου μεγάλου» — integrado ao constituinte com função de adjunto adverbial «ὑπὸ ἀνέμου μεγάλου». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
       ],
       "syntax": {
-        "role": "Elemento do período",
+        "role": "Adjetivo no constituinte «ἀνέμου μεγάλου» — integrado ao constituinte com função de adjunto adverbial «ὑπὸ ἀνέμου μεγάλου»",
         "clauseId": "AP.6.13",
         "governedBy": null
       },
@@ -462,12 +462,12 @@ export const apocalipse6v13 = {
       "morphologyCode": "-PPPNSF-",
       "morphology": "MorphGNT 6.12: V- -PPPNSF-",
       "meanings": "Sacudir, abalar ou agitar; descreve a ação do vento sobre a figueira.",
-      "explanation": "A função da forma deve ser lida em conjunto com as observações sintáticas específicas do versículo.",
+      "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Predicado verbal da oração",
         "clauseId": "AP.6.13",
         "governedBy": null
       },
