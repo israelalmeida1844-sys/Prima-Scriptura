@@ -97,7 +97,7 @@ export const apocalipse5v14 = {
       "gloss": "seres viventes",
       "strong": "G2226",
       "lemma": "ζῷον",
-      "lemmaTransliteration": "zōon",
+      "lemmaTransliteration": "zōion",
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPN-",
       "morphology": "MorphGNT 6.12: N- ----NPN-",

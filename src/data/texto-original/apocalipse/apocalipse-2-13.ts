@@ -792,7 +792,7 @@ export const apocalipse2v13 = {
       "id": "ap2-13-33",
       "shortMorph": "P-",
       "greek": "παρ’",
-      "transliteration": "par'",
+      "transliteration": "par",
       "gloss": "junto de",
       "strong": "G3844",
       "lemma": "παρά",

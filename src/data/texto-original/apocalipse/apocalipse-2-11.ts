@@ -355,7 +355,7 @@ export const apocalipse2v11 = {
       "id": "ap2-11-15",
       "shortMorph": "V-APS-3S",
       "greek": "ἀδικηθῇ",
-      "transliteration": "adikēthē",
+      "transliteration": "adikēthēi",
       "gloss": "sofrerá dano",
       "strong": "G91",
       "lemma": "ἀδικέω",

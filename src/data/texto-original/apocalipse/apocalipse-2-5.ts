@@ -671,7 +671,7 @@ export const apocalipse2v5 = {
       "id": "ap2-5-28",
       "shortMorph": "V-AAS-2S",
       "greek": "μετανοήσῃς",
-      "transliteration": "metanoēsēs",
+      "transliteration": "metanoēsēis",
       "gloss": "te arrependas",
       "strong": "G3340",
       "lemma": "μετανοέω",

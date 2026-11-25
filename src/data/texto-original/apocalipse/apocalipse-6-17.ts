@@ -212,7 +212,7 @@ export const apocalipse6v17 = {
       "id": "ap6-17-9",
       "shortMorph": "PRO-GPM",
       "greek": "αὐτῶν",
-      "transliteration": "aytōn",
+      "transliteration": "autōn",
       "gloss": "deles",
       "strong": "G846",
       "lemma": "αὐτός",

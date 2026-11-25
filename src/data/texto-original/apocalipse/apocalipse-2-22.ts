@@ -211,7 +211,7 @@ export const apocalipse2v22 = {
       "id": "ap2-22-9",
       "shortMorph": "P-",
       "greek": "μετ’",
-      "transliteration": "met'",
+      "transliteration": "met",
       "gloss": "com",
       "strong": "G3326",
       "lemma": "μετά",

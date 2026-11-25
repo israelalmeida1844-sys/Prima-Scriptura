@@ -234,7 +234,7 @@ export const apocalipse3v8 = {
       "id": "ap3-8-10",
       "shortMorph": "V- -XPPASF-",
       "greek": "ἠνεῳγμένην",
-      "transliteration": "ēneōgmenēn",
+      "transliteration": "ēneōigmenēn",
       "gloss": "abrir",
       "strong": "G455",
       "lemma": "ἀνοίγω",

@@ -356,7 +356,7 @@ export const apocalipse2v2 = {
       "id": "ap2-2-15",
       "shortMorph": "V-PMI-2S",
       "greek": "δύνῃ",
-      "transliteration": "dynē",
+      "transliteration": "dynēi",
       "gloss": "podes",
       "strong": "G1410",
       "lemma": "δύναμαι",

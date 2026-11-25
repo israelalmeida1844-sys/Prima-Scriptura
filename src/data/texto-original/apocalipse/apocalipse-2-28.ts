@@ -235,7 +235,7 @@ export const apocalipse2v28 = {
       "id": "ap2-28-10",
       "shortMorph": "PPro-DSM",
       "greek": "αὐτῷ",
-      "transliteration": "autō",
+      "transliteration": "autōi",
       "gloss": "a ele",
       "strong": "G846",
       "lemma": "αὐτός",

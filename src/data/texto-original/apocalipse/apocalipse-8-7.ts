@@ -20,7 +20,7 @@ export const apocalipse8v7 = {
       "id": "ap8-7-1",
       "shortMorph": "C- ",
       "greek": "Καὶ",
-      "transliteration": "kai",
+      "transliteration": "Kai",
       "gloss": "e",
       "strong": "G2532",
       "lemma": "καί",

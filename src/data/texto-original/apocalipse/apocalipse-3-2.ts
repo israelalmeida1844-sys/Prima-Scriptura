@@ -214,7 +214,7 @@ export const apocalipse3v2 = {
       "gloss": "morrer",
       "strong": "G599",
       "lemma": "ἀποθνῄσκω",
-      "lemmaTransliteration": "apothnēskō",
+      "lemmaTransliteration": "apothnēiskō",
       "partOfSpeech": "Verbo",
       "morphologyCode": "-AAN----",
       "morphology": "Verbo aoristo, voz ativa, infinitivo",

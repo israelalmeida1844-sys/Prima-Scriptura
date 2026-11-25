@@ -52,7 +52,7 @@
     "G191": {
       "strong": "G191",
       "lemma": "ἀκούω",
-      "lemmaTransliteration": "akoyō",
+      "lemmaTransliteration": "akouō",
       "partOfSpeech": "Verbo",
       "senses": [
         {
@@ -190,7 +190,7 @@
     "G1451": {
       "strong": "G1451",
       "lemma": "ἐγγύς",
-      "lemmaTransliteration": "eggys",
+      "lemmaTransliteration": "engys",
       "partOfSpeech": "Advérbio",
       "senses": [
         {
@@ -259,7 +259,7 @@
     "G773": {
       "strong": "G773",
       "lemma": "Ἀσία",
-      "lemmaTransliteration": "asia",
+      "lemmaTransliteration": "Asia",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -452,7 +452,7 @@
     "G4151": {
       "strong": "G4151",
       "lemma": "πνεῦμα",
-      "lemmaTransliteration": "pneyma",
+      "lemmaTransliteration": "pneuma",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -636,7 +636,7 @@
     "G935": {
       "strong": "G935",
       "lemma": "βασιλεύς",
-      "lemmaTransliteration": "basileys",
+      "lemmaTransliteration": "basileus",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -821,7 +821,7 @@
     "G129": {
       "strong": "G129",
       "lemma": "αἷμα",
-      "lemmaTransliteration": "ahima",
+      "lemmaTransliteration": "haima",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -890,7 +890,7 @@
     "G2409": {
       "strong": "G2409",
       "lemma": "ἱερεύς",
-      "lemmaTransliteration": "hiereys",
+      "lemmaTransliteration": "hiereus",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -1059,7 +1059,7 @@
     "G2400": {
       "strong": "G2400",
       "lemma": "ἰδού",
-      "lemmaTransliteration": "idoy",
+      "lemmaTransliteration": "idou",
       "partOfSpeech": "Partícula",
       "senses": [
         {
@@ -1312,7 +1312,7 @@
     "G1": {
       "strong": "G1",
       "lemma": "Ἄλφα",
-      "lemmaTransliteration": "alpha",
+      "lemmaTransliteration": "Alpha",
       "partOfSpeech": "Substantivo",
       "senses": [
         {
@@ -1335,7 +1335,7 @@
     "G5598": {
       "strong": "G5598",
       "lemma": "Ὦ",
-      "lemmaTransliteration": "ō",
+      "lemmaTransliteration": "Ō",
       "partOfSpeech": "Substantivo",
       "senses": [
         {

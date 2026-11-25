@@ -66,7 +66,7 @@ export const apocalipse1v13 = {
       "id": "ap1-13-3",
       "shortMorph": "Adj-DSN",
       "greek": "μέσῳ",
-      "transliteration": "mesō",
+      "transliteration": "mesōi",
       "gloss": "meio",
       "strong": "G3319",
       "lemma": "μέσος",

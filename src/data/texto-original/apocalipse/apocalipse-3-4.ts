@@ -354,7 +354,7 @@ export const apocalipse3v4 = {
       "id": "ap3-4-15",
       "shortMorph": "P- --------",
       "greek": "μετ’",
-      "transliteration": "met'",
+      "transliteration": "met",
       "gloss": "com",
       "strong": "G3326",
       "lemma": "μετά",

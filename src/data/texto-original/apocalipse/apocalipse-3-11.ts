@@ -187,7 +187,7 @@ export const apocalipse3v11 = {
       "id": "ap3-11-8",
       "shortMorph": "V- 3AAS-S--",
       "greek": "λάβῃ",
-      "transliteration": "labē",
+      "transliteration": "labēi",
       "gloss": "receber",
       "strong": "G2983",
       "lemma": "λαμβάνω",

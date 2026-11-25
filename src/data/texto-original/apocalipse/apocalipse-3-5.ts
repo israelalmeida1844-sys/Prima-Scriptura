@@ -69,7 +69,7 @@ export const apocalipse3v5 = {
       "gloss": "assim",
       "strong": "G3779",
       "lemma": "οὕτω(ς)",
-      "lemmaTransliteration": "houtōs",
+      "lemmaTransliteration": "houtō s",
       "partOfSpeech": "Advérbio",
       "morphologyCode": "--------",
       "morphology": "Advérbio ",

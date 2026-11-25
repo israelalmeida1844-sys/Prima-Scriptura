@@ -622,7 +622,7 @@ export const apocalipse2v24 = {
       "id": "ap2-24-26",
       "shortMorph": "P-",
       "greek": "ἐφ’",
-      "transliteration": "eph'",
+      "transliteration": "eph",
       "gloss": "sobre",
       "strong": "G1909",
       "lemma": "ἐπί",

@@ -404,7 +404,7 @@ export const apocalipse2v20 = {
       "id": "ap2-20-17",
       "shortMorph": "V-PAI-3S",
       "greek": "πλανᾷ",
-      "transliteration": "plana",
+      "transliteration": "planai",
       "gloss": "desvia",
       "strong": "G4105",
       "lemma": "πλανάω",

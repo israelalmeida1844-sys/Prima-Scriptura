@@ -186,7 +186,7 @@ export const apocalipse1v12 = {
       "id": "ap1-12-8",
       "shortMorph": "Preposição",
       "greek": "μετ’",
-      "transliteration": "met'",
+      "transliteration": "met",
       "gloss": "com",
       "strong": "G3326",
       "lemma": "μετά",
