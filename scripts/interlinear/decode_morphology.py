@@ -57,10 +57,17 @@ def semitic_part(raw,lang):
         slots=[] if tail[1] in "ac" else [GENDER,NUMBER,STATE] if tail[1] in "rs" else [PERSON,GENDER,NUMBER]
         f.update(decode_slots(tail[2:],slots))
     else:
-        if not tail or tail[0] not in TYPES[cls]:raise ValueError("tipo desconhecido "+raw)
-        typ=tail[0];f["tipo"]=TYPES[cls][typ]
+        if cls=="T" and not tail:
+            f["tipo"]="Não especificado no código"
+            return {"codigo":raw,"campos":f}
+        if not tail or (tail[0] not in TYPES[cls] and tail[0]!="x"):raise ValueError("tipo desconhecido "+raw)
+        typ=tail[0];f["tipo"]="Não especificado no código" if typ=="x" else TYPES[cls][typ]
         slots=[GENDER,NUMBER,STATE] if cls=="A" or (cls=="N" and typ!="p") else [PERSON,GENDER,NUMBER] if cls=="P" or (cls=="S" and typ=="p") else []
-        f.update(decode_slots(tail[1:],slots))
+        values=tail[1:]
+        if cls=="P" and typ in "dfir" and not values:
+            # Abbreviated source tags: retain the known subtype, mark omitted fields.
+            values="xxx"
+        f.update(decode_slots(values,slots))
     return {"codigo":raw,"campos":f}
 def decode(lang,pos,raw):
     try:
@@ -82,6 +89,9 @@ def selftest():
     assert decode("hbo",None,"HC/Vqw3ms")["partes"][1]["campos"]["conjugacao"].startswith("Imperfeito sequencial")
     assert decode("hbo",None,"HNcmsc/Sp3ms")["partes"][1]["campos"]["tipo"]=="Pronominal"
     assert decode("arc",None,"AVqp3ms")["partes"][0]["campos"]["tronco"]=="Peal"
+    assert decode("hbo",None,"HPf")["partes"][0]["campos"]["tipo"]=="Indefinido"
+    assert decode("arc",None,"AT")["partes"][0]["campos"]["tipo"]=="Não especificado no código"
+    assert decode("arc",None,"ANxxxa")["partes"][0]["campos"]["estado"]=="Absoluto"
     assert decode("hbo",None,"HV?i3ms")["status"]=="pendente"
     assert decode("grc","N-","----NSMZ")["status"]=="pendente"
 def write(p,obj):
