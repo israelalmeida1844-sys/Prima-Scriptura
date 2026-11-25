@@ -260,10 +260,10 @@ document.querySelector<HTMLButtonElement>("#comment-open")!.onclick=async()=>{
     for(const author of manifest.authors.filter((x:any)=>!a||x.id===a)){
       const section=document.createElement("article");section.className="commentary-entry";commentContent.append(section);
       appendText(section,"h4",author.author);appendText(section,"small",author.title+" · módulo "+author.id+" "+author.version+" · "+author.license);
-      const rec=chapterData[author.id],hash=rec?.keys?.[rec?.granularity==="chapter"?"0":String(v)];
+      const rec=chapterData[author.id],hash=rec?.granularity==="chapter"?(rec.verse_keys?.[String(v)]||rec.keys?.["0"]):rec?.keys?.[String(v)];
       if(!hash){appendText(section,"p","Nenhuma entrada indexada nesta referência.");continue;}
       const raw=rec.entries[hash];if(rec.invalid_bytes?.[hash])appendText(section,"p","A fonte contém bytes incompatíveis com UTF-8. A visualização apresenta caracteres substitutos; os bytes originais estão preservados no arquivo de dados.");const keys=Object.keys(rec.keys).filter(k=>rec.keys[k]===hash);
-      if(rec.granularity==="chapter")appendText(section,"p","Comentário integral do capítulo, não isolado por versículo · transcrição histórica EEBO-TCP "+rec.year+" · "+rec.heading+". Pode conter erros de transcrição; confira a edição original.");else appendText(section,"p","Chaves do módulo com este mesmo conteúdo no capítulo: "+keys.join(", ")+".");
+      if(rec.granularity==="chapter")appendText(section,"p",(rec.verse_keys?.[String(v)]===hash?"Texto e anotações do versículo, identificado na transcrição":"Comentário integral do capítulo, não isolado por versículo")+" · transcrição histórica EEBO-TCP "+rec.year+" · "+rec.heading+". Pode conter erros de transcrição; confira a edição original.");else appendText(section,"p","Chaves do módulo com este mesmo conteúdo no capítulo: "+keys.join(", ")+".");
       if(lang==="pt"){
         const translated=translations?.[author.id]?.[hash];
         if(translated?.source_sha256===hash&&translated?.status==="reviewed"&&typeof translated.text==="string")appendText(section,"p",translated.text);
