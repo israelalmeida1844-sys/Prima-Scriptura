@@ -26,7 +26,7 @@ export const apocalipse2v29 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Artigo nominativo masculino singular substantiva o particípio ἔχων.",
       "occurrencesExamples": [
         "Ap 2:29"
@@ -50,7 +50,7 @@ export const apocalipse2v29 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
-      "meanings": "ter",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "Particípio presente ativo substantivado: «aquele que tem», sujeito do imperativo ἀκουσάτω.",
       "occurrencesExamples": [
         "Ap 2:29"
@@ -98,7 +98,7 @@ export const apocalipse2v29 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 3ª pessoa singular",
-      "meanings": "ouvir",
+      "meanings": "Perceber sons ou palavras; escutar, prestar atenção e, em contextos de instrução, acolher o que é ouvido.",
       "explanation": "Imperativo aoristo ativo, terceira pessoa singular; núcleo da exortação.",
       "occurrencesExamples": [
         "Ap 2:29"
@@ -122,7 +122,7 @@ export const apocalipse2v29 = {
       "partOfSpeech": "Pronome interrogativo/indefinido",
       "morphologyCode": "----ASN-",
       "morphology": "Pronome interrogativo/indefinido acusativo singular neutro",
-      "meanings": "que?",
+      "meanings": "Pronome interrogativo que solicita a identidade de pessoa ou coisa; suas formas flexionadas desempenham funções diferentes na oração.",
       "explanation": "Pronome interrogativo neutro em interrogativa indireta: «o que» o Espírito diz.",
       "occurrencesExamples": [
         "Ap 2:29"
@@ -146,7 +146,7 @@ export const apocalipse2v29 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido nominativo singular neutro",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Artigo nominativo neutro singular que determina πνεῦμα.",
       "occurrencesExamples": [
         "Ap 2:29"
@@ -194,7 +194,7 @@ export const apocalipse2v29 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
-      "meanings": "dizer",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Presente ativo indicativo, terceira pessoa singular; verbo da oração interrogativa indireta.",
       "occurrencesExamples": [
         "Ap 2:29"
@@ -218,7 +218,7 @@ export const apocalipse2v29 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DPF-",
       "morphology": "Artigo definido dativo plural feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Artigo dativo feminino plural que determina ἐκκλησίαις.",
       "occurrencesExamples": [
         "Ap 2:29"
@@ -242,7 +242,7 @@ export const apocalipse2v29 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo dativo plural feminino",
-      "meanings": "assembleia",
+      "meanings": "Reunião ou comunidade convocada; no Novo Testamento, comunidade de seguidores de Cristo, local ou coletiva.",
       "explanation": "Dativo feminino plural; destinatárias da comunicação, complemento de λέγει.",
       "occurrencesExamples": [
         "Ap 2:29"

@@ -142,7 +142,7 @@ export const apocalipse1v3 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNPM-",
       "morphology": "Verbo presente ativo particípio nominativo plural masculino",
-      "meanings": "ouvir; escutar",
+      "meanings": "Perceber sons ou palavras; escutar, prestar atenção e, em contextos de instrução, acolher o que é ouvido.",
       "explanation": "Os ouvintes são apresentados no plural, sinalizando a recepção comunitária da profecia.",
       "occurrencesExamples": [
         "Ap 1:3"
@@ -382,7 +382,7 @@ export const apocalipse1v3 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-XPPAPN-",
       "morphology": "Verbo perfeito passivo particípio acusativo plural neutro",
-      "meanings": "escrever; registrar",
+      "meanings": "Registrar palavras por escrito, redigir uma mensagem ou consignar um nome num documento.",
       "explanation": "Particípio perfeito passivo substantivado, objeto de τηροῦντες. Verbo perfeito passivo particípio acusativo plural neutro.",
       "occurrencesExamples": [
         "Ap 1:3"
@@ -431,7 +431,7 @@ export const apocalipse1v3 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
-      "meanings": "pois; porque",
+      "meanings": "Conjunção pós-positiva que apresenta fundamento, explicação ou razão para a afirmação precedente.",
       "explanation": "Conjunção explicativa da bem-aventurança. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:3"
@@ -479,7 +479,7 @@ export const apocalipse1v3 = {
       "partOfSpeech": "Advérbio",
       "morphologyCode": "--------",
       "morphology": "Advérbio (indeclinável)",
-      "meanings": "perto; próximo",
+      "meanings": "Advérbio ou expressão de proximidade espacial ou temporal; o contexto determina a dimensão.",
       "explanation": "Predicativo adverbial «perto», sem necessidade de verbo explícito na oração grega.",
       "occurrencesExamples": [
         "Ap 1:3"

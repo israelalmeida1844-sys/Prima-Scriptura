@@ -50,7 +50,7 @@ export const apocalipse3v4 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 2ª pessoa singular",
-      "meanings": "ter; segurar",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:4"
@@ -146,7 +146,7 @@ export const apocalipse3v4 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo dativo plural feminino",
-      "meanings": "Sardes",
+      "meanings": "Nome da cidade da Ásia Menor à qual se dirige a quinta carta de Apocalipse.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:4"
@@ -363,7 +363,7 @@ export const apocalipse3v4 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição ",
-      "meanings": "com; depois de",
+      "meanings": "Preposição que, com genitivo, indica companhia ou associação e, com acusativo, normalmente sucessão temporal ou espacial.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:4"
@@ -387,7 +387,7 @@ export const apocalipse3v4 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:4"
@@ -435,7 +435,7 @@ export const apocalipse3v4 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----DPN-",
       "morphology": "Adjetivo dativo plural neutro",
-      "meanings": "branco",
+      "meanings": "De cor branca; em imagens visionárias, sua significação simbólica deve ser interpretada no contexto.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:4"
@@ -484,7 +484,7 @@ export const apocalipse3v4 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo nominativo plural masculino",
-      "meanings": "digno",
+      "meanings": "Adequado, merecedor ou qualificado em relação a uma condição, avaliação ou ação.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:4"
@@ -508,7 +508,7 @@ export const apocalipse3v4 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo presente, voz ativa, indicativo, 3ª pessoa plural",
-      "meanings": "ser; estar; existir",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:4"

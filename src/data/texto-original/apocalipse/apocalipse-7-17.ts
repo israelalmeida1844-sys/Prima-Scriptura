@@ -149,7 +149,7 @@ export const apocalipse7v17 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----ASN-",
       "morphology": "Adjetivo / numeral · acusativo · singular · neutro (MorphGNT: A- ----ASN-)",
-      "meanings": "meio; centro",
+      "meanings": "Que ocupa posição intermediária ou central; substantivado em expressões de localização.",
       "explanation": "Sentido contextual: meio.",
       "occurrencesExamples": [
         "Ap 7:17"
@@ -197,7 +197,7 @@ export const apocalipse7v17 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "Sentido contextual: trono.",
       "occurrencesExamples": [
         "Ap 7:17"
@@ -294,7 +294,7 @@ export const apocalipse7v17 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3FAI-S--",
       "morphology": "Verbo · futuro · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3FAI-S--)",
-      "meanings": "guiar; conduzir",
+      "meanings": "Dirigir alguém ao longo de um caminho ou em direção a um destino.",
       "explanation": "Sentido contextual: guiará.",
       "occurrencesExamples": [
         "Ap 7:17"
@@ -342,7 +342,7 @@ export const apocalipse7v17 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Sentido contextual: a.",
       "occurrencesExamples": [
         "Ap 7:17"
@@ -390,7 +390,7 @@ export const apocalipse7v17 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APF-",
       "morphology": "Substantivo · acusativo · plural · feminino (MorphGNT: N- ----APF-)",
-      "meanings": "fonte; nascente",
+      "meanings": "Lugar de onde brota água; figuradamente, origem ou fonte de algo.",
       "explanation": "Sentido contextual: fontes.",
       "occurrencesExamples": [
         "Ap 7:17"
@@ -414,7 +414,7 @@ export const apocalipse7v17 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
-      "meanings": "água",
+      "meanings": "Substância líquida essencial à vida; o plural pode designar massas de água ou fontes.",
       "explanation": "Sentido contextual: de águas.",
       "occurrencesExamples": [
         "Ap 7:17"
@@ -535,7 +535,7 @@ export const apocalipse7v17 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----ASN-",
       "morphology": "Adjetivo / numeral · acusativo · singular · neutro (MorphGNT: A- ----ASN-)",
-      "meanings": "todo; cada",
+      "meanings": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",
       "explanation": "Sentido contextual: toda.",
       "occurrencesExamples": [
         "Ap 7:17"
@@ -559,7 +559,7 @@ export const apocalipse7v17 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo · acusativo · singular · neutro (MorphGNT: N- ----ASN-)",
-      "meanings": "lágrima",
+      "meanings": "Gota de líquido lacrimal associada ao choro ou à aflição.",
       "explanation": "Sentido contextual: lágrima.",
       "occurrencesExamples": [
         "Ap 7:17"
@@ -583,7 +583,7 @@ export const apocalipse7v17 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:17"
@@ -631,7 +631,7 @@ export const apocalipse7v17 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo · genitivo · plural · masculino (MorphGNT: N- ----GPM-)",
-      "meanings": "olho",
+      "meanings": "Órgão da visão; figuradamente, capacidade de perceber, discernir ou observar.",
       "explanation": "Sentido contextual: olhos.",
       "occurrencesExamples": [
         "Ap 7:17"

@@ -126,7 +126,7 @@ export const apocalipse5v9 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNPM-",
       "morphology": "MorphGNT 6.12: V- -PAPNPM-",
-      "meanings": "dizer; declarar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:9"
@@ -175,7 +175,7 @@ export const apocalipse5v9 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2PAI-S--",
       "morphology": "MorphGNT 6.12: V- 2PAI-S--",
-      "meanings": "ser; estar; existir",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "Verbo de ligação da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:9"
@@ -247,7 +247,7 @@ export const apocalipse5v9 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: N- ----ASN-",
-      "meanings": "livro; rolo",
+      "meanings": "Documento escrito ou livro em forma de rolo ou outro suporte antigo; o contexto determina a forma material.",
       "explanation": "Substantivo no constituinte «τὸ βιβλίον» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:9"
@@ -584,7 +584,7 @@ export const apocalipse5v9 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSN-",
       "morphology": "MorphGNT 6.12: N- ----DSN-",
-      "meanings": "sangue",
+      "meanings": "Fluido vital; em contextos sacrificiais ou violentos pode representar vida entregue, morte ou responsabilidade pelo derramamento.",
       "explanation": "Substantivo no constituinte «αἵματί σου» — integrado ao constituinte com função de adjunto adverbial «ἐν τῷ αἵματί σου». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:9"
@@ -608,7 +608,7 @@ export const apocalipse5v9 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----GS--",
       "morphology": "MorphGNT 6.12: RP ----GS--",
-      "meanings": "tu; vós; você(s)",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "Pronome no constituinte «αἵματί σου» — integrado ao constituinte com função de adjunto adverbial «ἐν τῷ αἵματί σου». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:9"
@@ -632,7 +632,7 @@ export const apocalipse5v9 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Preposição que introduz «ἐκ πάσης φυλῆς καὶ γλώσσης καὶ λαοῦ καὶ …» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:9"
@@ -656,7 +656,7 @@ export const apocalipse5v9 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: A- ----GSF-",
-      "meanings": "todo; cada",
+      "meanings": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",
       "explanation": "Adjetivo no constituinte «πάσης φυλῆς καὶ γλώσσης καὶ λαοῦ καὶ ἔθνους,» — integrado ao constituinte com função de objeto direto «ἐκ πάσης φυλῆς καὶ γλώσσης καὶ λαοῦ καὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:9"

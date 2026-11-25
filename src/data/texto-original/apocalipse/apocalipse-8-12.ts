@@ -129,7 +129,7 @@ export const apocalipse8v12 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
-      "meanings": "tocar trombeta",
+      "meanings": "Produzir o som de uma trombeta; em Ap 8, introduz cada cena do septenário.",
       "explanation": "Verbo principal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
@@ -179,7 +179,7 @@ export const apocalipse8v12 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
-      "meanings": "ferir; atingir",
+      "meanings": "Golpear ou atingir algo ou alguém, causando dano.",
       "explanation": "Verbo passivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
@@ -279,7 +279,7 @@ export const apocalipse8v12 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
-      "meanings": "sol",
+      "meanings": "Astro que ilumina a terra; empregado também em comparações de brilho.",
       "explanation": "Genitivo partitivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
@@ -529,7 +529,7 @@ export const apocalipse8v12 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo · genitivo · plural · masculino (MorphGNT: N- ----GPM-)",
-      "meanings": "estrelas",
+      "meanings": "Corpo celeste luminoso; em textos visionários, sua identificação simbólica depende da explicação contextual.",
       "explanation": "Genitivo partitivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
@@ -579,7 +579,7 @@ export const apocalipse8v12 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3APS-S--",
       "morphology": "Verbo · aoristo · voz passiva · subjuntivo · 3ª pessoa · singular (MorphGNT: V- 3APS-S--)",
-      "meanings": "escurecer; ficar escuro",
+      "meanings": "Tornar-se escuro ou perder a luz; a forma passiva pode indicar o efeito sofrido.",
       "explanation": "Verbo da oração final. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
@@ -729,7 +729,7 @@ export const apocalipse8v12 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
-      "meanings": "dia",
+      "meanings": "Período diurno ou unidade temporal; em contextos proféticos pode indicar ocasião determinada.",
       "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"
@@ -779,7 +779,7 @@ export const apocalipse8v12 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAS-S--",
       "morphology": "Verbo · aoristo · voz ativa · subjuntivo · 3ª pessoa · singular (MorphGNT: V- 3AAS-S--)",
-      "meanings": "brilha",
+      "meanings": "Dar luz ou tornar-se visível; conforme a voz e a construção, manifestar-se ou parecer.",
       "explanation": "Verbo coordenado na oração final. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:12"

@@ -54,7 +54,7 @@ export const apocalipse5v8 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
-      "meanings": "quando",
+      "meanings": "Conjunção temporal que situa uma ação em relação a outra.",
       "explanation": "Conjunção que articula os constituintes de «ὅτε ἔλαβεν τὸ βιβλίον,» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
@@ -126,7 +126,7 @@ export const apocalipse5v8 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: N- ----ASN-",
-      "meanings": "livro; rolo",
+      "meanings": "Documento escrito ou livro em forma de rolo ou outro suporte antigo; o contexto determina a forma material.",
       "explanation": "Substantivo no constituinte «τὸ βιβλίον,» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
@@ -343,7 +343,7 @@ export const apocalipse5v8 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-P--",
       "morphology": "MorphGNT 6.12: V- 3AAI-P--",
-      "meanings": "cair",
+      "meanings": "Mover-se para baixo, cair ou prostrar-se; figuradamente, perder uma posição ou condição.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
@@ -440,7 +440,7 @@ export const apocalipse5v8 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNPM-",
       "morphology": "MorphGNT 6.12: V- -PAPNPM-",
-      "meanings": "ter; segurar",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
@@ -560,7 +560,7 @@ export const apocalipse5v8 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----APF-",
       "morphology": "MorphGNT 6.12: A- ----APF-",
-      "meanings": "de ouro; dourado",
+      "meanings": "Adjetivo que caracteriza aquilo que é feito de ouro, revestido de ouro ou semelhante a ele.",
       "explanation": "Adjetivo no constituinte «φιάλας χρυσᾶς» — integrado ao constituinte com função de objeto direto «κιθάραν καὶ φιάλας χρυσᾶς γεμούσας θυμιαμάτων, αἵ εἰσιν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"
@@ -657,7 +657,7 @@ export const apocalipse5v8 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
       "morphology": "MorphGNT 6.12: V- 3PAI-P--",
-      "meanings": "ser; estar; existir",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "Verbo de ligação da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:8"

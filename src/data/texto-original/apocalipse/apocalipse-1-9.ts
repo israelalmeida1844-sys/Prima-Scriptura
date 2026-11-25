@@ -26,7 +26,7 @@ export const apocalipse1v9 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal nominativo singular",
-      "meanings": "eu; mim",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Sujeito explícito de ἐγενόμην. Pronome pessoal nominativo singular.",
       "occurrencesExamples": [
         "Ap 1:9"
@@ -75,7 +75,7 @@ export const apocalipse1v9 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de ἀδελφός. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:9"
@@ -99,7 +99,7 @@ export const apocalipse1v9 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
-      "meanings": "irmão",
+      "meanings": "Pessoa com parentesco fraterno; por extensão, membro da mesma comunidade ou grupo de fé.",
       "explanation": "Aposto nominativo de Ἐγώ. Substantivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:9"
@@ -123,7 +123,7 @@ export const apocalipse1v9 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GP--",
       "morphology": "Pronome pessoal genitivo plural",
-      "meanings": "tu; vós",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "Genitivo de relação de ἀδελφός. Pronome pessoal genitivo plural.",
       "occurrencesExamples": [
         "Ap 1:9"
@@ -219,7 +219,7 @@ export const apocalipse1v9 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de θλίψει. Artigo definido dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:9"
@@ -243,7 +243,7 @@ export const apocalipse1v9 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
-      "meanings": "tribulação; aflição",
+      "meanings": "Pressão, aflição, sofrimento ou circunstância adversa; pode designar provação coletiva.",
       "explanation": "Primeiro complemento de ἐν. Substantivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:9"
@@ -291,7 +291,7 @@ export const apocalipse1v9 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
-      "meanings": "reino; realeza",
+      "meanings": "Reinado, autoridade régia ou domínio sobre o qual se exerce governo; o contexto distingue essas nuances.",
       "explanation": "Segundo complemento dativo de ἐν. Substantivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:9"
@@ -460,7 +460,7 @@ export const apocalipse1v9 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de νήσῳ. Artigo definido dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:9"
@@ -484,7 +484,7 @@ export const apocalipse1v9 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
-      "meanings": "ilha",
+      "meanings": "Porção de terra cercada por água, como Patmos na narrativa de Apocalipse.",
       "explanation": "Complemento locativo de ἐν. Substantivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:9"
@@ -508,7 +508,7 @@ export const apocalipse1v9 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Artigo da posição atributiva de καλουμένῃ. Artigo definido dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:9"
@@ -532,7 +532,7 @@ export const apocalipse1v9 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PPPDSF-",
       "morphology": "Verbo no presente, voz passiva, particípio dativo singular feminino",
-      "meanings": "chamar; denominar",
+      "meanings": "Convocar, chamar alguém ou atribuir um nome ou designação.",
       "explanation": "Particípio presente passivo atributivo de νήσῳ. Verbo no presente, voz passiva, particípio dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:9"
@@ -556,7 +556,7 @@ export const apocalipse1v9 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
-      "meanings": "Patmos",
+      "meanings": "Nome da ilha do mar Egeu onde João situa sua experiência visionária em Ap 1:9.",
       "explanation": "Nome próprio em aposição dativa à ilha. Substantivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:9"
@@ -604,7 +604,7 @@ export const apocalipse1v9 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASM-",
       "morphology": "Artigo definido acusativo singular masculino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de λόγον. Artigo definido acusativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:9"
@@ -652,7 +652,7 @@ export const apocalipse1v9 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de θεοῦ. Artigo definido genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:9"
@@ -724,7 +724,7 @@ export const apocalipse1v9 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de μαρτυρίαν. Artigo definido acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:9"

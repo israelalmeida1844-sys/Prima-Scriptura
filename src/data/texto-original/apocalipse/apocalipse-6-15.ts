@@ -78,7 +78,7 @@ export const apocalipse6v15 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: N- ----NPM-",
-      "meanings": "rei",
+      "meanings": "Governante investido de autoridade régia sobre um povo ou território.",
       "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
@@ -126,7 +126,7 @@ export const apocalipse6v15 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: N- ----GSF-",
-      "meanings": "terra; solo",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"
@@ -462,7 +462,7 @@ export const apocalipse6v15 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: A- ----NSM-",
-      "meanings": "todo; cada",
+      "meanings": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",
       "explanation": "Adjetivo no constituinte «πᾶς δοῦλος καὶ ἐλεύθερος» — integrado ao constituinte com função de sujeito «… καὶ οἱ ἰσχυροὶ καὶ πᾶς δοῦλος καὶ ἐλεύθερος». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:15"

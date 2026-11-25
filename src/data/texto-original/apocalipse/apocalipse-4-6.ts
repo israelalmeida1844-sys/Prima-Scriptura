@@ -98,7 +98,7 @@ export const apocalipse4v6 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:6"
@@ -122,7 +122,7 @@ export const apocalipse4v6 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção",
-      "meanings": "como",
+      "meanings": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:6"
@@ -194,7 +194,7 @@ export const apocalipse4v6 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSF-",
       "morphology": "Adjetivo nominativo singular feminino",
-      "meanings": "semelhante",
+      "meanings": "Que apresenta semelhança de forma, qualidade ou aparência com outro referente; frequentemente rege dativo.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:6"
@@ -291,7 +291,7 @@ export const apocalipse4v6 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----DSN-",
       "morphology": "Adjetivo dativo singular neutro",
-      "meanings": "meio; centro",
+      "meanings": "Que ocupa posição intermediária ou central; substantivado em expressões de localização.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:6"
@@ -339,7 +339,7 @@ export const apocalipse4v6 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:6"
@@ -435,7 +435,7 @@ export const apocalipse4v6 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:6"
@@ -531,7 +531,7 @@ export const apocalipse4v6 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo genitivo plural masculino",
-      "meanings": "olho",
+      "meanings": "Órgão da visão; figuradamente, capacidade de perceber, discernir ou observar.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:6"

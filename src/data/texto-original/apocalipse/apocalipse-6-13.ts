@@ -78,7 +78,7 @@ export const apocalipse6v13 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: N- ----NPM-",
-      "meanings": "estrela",
+      "meanings": "Corpo celeste luminoso; em textos visionários, sua identificação simbólica depende da explicação contextual.",
       "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
@@ -150,7 +150,7 @@ export const apocalipse6v13 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-P--",
       "morphology": "MorphGNT 6.12: V- 3AAI-P--",
-      "meanings": "cair",
+      "meanings": "Mover-se para baixo, cair ou prostrar-se; figuradamente, perder uma posição ou condição.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
@@ -222,7 +222,7 @@ export const apocalipse6v13 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: N- ----ASF-",
-      "meanings": "terra; solo",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
@@ -247,7 +247,7 @@ export const apocalipse6v13 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
-      "meanings": "como",
+      "meanings": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual.",
       "explanation": "Conjunção que articula os constituintes de «ὡς συκῆ βάλλει τοὺς ὀλύνθους αὐτῆς ὑπὸ ἀνέμου …» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"
@@ -439,7 +439,7 @@ export const apocalipse6v13 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----GSM-",
       "morphology": "MorphGNT 6.12: A- ----GSM-",
-      "meanings": "grande",
+      "meanings": "De dimensão, intensidade, importância ou quantidade elevada; com voz pode significar alta ou forte.",
       "explanation": "Adjetivo no constituinte «ἀνέμου μεγάλου» — integrado ao constituinte com função de adjunto adverbial «ὑπὸ ἀνέμου μεγάλου». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:13"

@@ -104,7 +104,7 @@ export const apocalipse8v3 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
-      "meanings": "vir",
+      "meanings": "Movimento em direção a um lugar ou pessoa, ou chegada de alguém ou de um acontecimento.",
       "explanation": "Verbo principal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
@@ -179,7 +179,7 @@ export const apocalipse8v3 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "sobre",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
@@ -254,7 +254,7 @@ export const apocalipse8v3 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo · presente · voz ativa · particípio · nominativo · singular · masculino (MorphGNT: V- -PAPNSM-)",
-      "meanings": "tinha",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "Particípio circunstancial. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
@@ -304,7 +304,7 @@ export const apocalipse8v3 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----ASM-",
       "morphology": "Adjetivo / numeral · acusativo · singular · masculino (MorphGNT: A- ----ASM-)",
-      "meanings": "de ouro",
+      "meanings": "Adjetivo que caracteriza aquilo que é feito de ouro, revestido de ouro ou semelhante a ele.",
       "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
@@ -429,7 +429,7 @@ export const apocalipse8v3 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPN-",
       "morphology": "Adjetivo / numeral · nominativo · plural · neutro (MorphGNT: A- ----NPN-)",
-      "meanings": "muitas",
+      "meanings": "Quantificador que expressa quantidade elevada, multiplicidade ou intensidade.",
       "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
@@ -604,7 +604,7 @@ export const apocalipse8v3 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----GPM-",
       "morphology": "Adjetivo / numeral · genitivo · plural · masculino (MorphGNT: A- ----GPM-)",
-      "meanings": "todo",
+      "meanings": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",
       "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
@@ -629,7 +629,7 @@ export const apocalipse8v3 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "sobre",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
@@ -729,7 +729,7 @@ export const apocalipse8v3 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----ASN-",
       "morphology": "Adjetivo / numeral · acusativo · singular · neutro (MorphGNT: A- ----ASN-)",
-      "meanings": "de ouro",
+      "meanings": "Adjetivo que caracteriza aquilo que é feito de ouro, revestido de ouro ou semelhante a ele.",
       "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"
@@ -829,7 +829,7 @@ export const apocalipse8v3 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "Função não individualizada; consultar análise do versículo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:3"

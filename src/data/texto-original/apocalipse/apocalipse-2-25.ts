@@ -74,7 +74,7 @@ export const apocalipse2v25 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2PAI-P--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa plural",
-      "meanings": "ter",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:25"

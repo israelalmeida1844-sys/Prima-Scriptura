@@ -146,7 +146,7 @@ export const apocalipse3v1 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo dativo plural feminino",
-      "meanings": "Sardes",
+      "meanings": "Nome da cidade da Ásia Menor à qual se dirige a quinta carta de Apocalipse.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:1"
@@ -170,7 +170,7 @@ export const apocalipse3v1 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
-      "meanings": "assembleia; igreja",
+      "meanings": "Reunião ou comunidade convocada; no Novo Testamento, comunidade de seguidores de Cristo, local ou coletiva.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:1"
@@ -194,7 +194,7 @@ export const apocalipse3v1 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo aoristo, voz ativa, imperativo, 2ª pessoa singular",
-      "meanings": "escrever; registrar",
+      "meanings": "Registrar palavras por escrito, redigir uma mensagem ou consignar um nome num documento.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:1"
@@ -243,7 +243,7 @@ export const apocalipse3v1 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 3ª pessoa singular",
-      "meanings": "dizer; declarar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:1"
@@ -291,7 +291,7 @@ export const apocalipse3v1 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo presente, voz ativa, particípio nominativo singular masculino",
-      "meanings": "ter; segurar",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:1"
@@ -339,7 +339,7 @@ export const apocalipse3v1 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----APN-",
       "morphology": "Adjetivo acusativo plural neutro",
-      "meanings": "sete",
+      "meanings": "Numeral cardinal que indica sete unidades; o valor simbólico de uma enumeração depende do contexto.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:1"
@@ -483,7 +483,7 @@ export const apocalipse3v1 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----APM-",
       "morphology": "Adjetivo acusativo plural masculino",
-      "meanings": "sete",
+      "meanings": "Numeral cardinal que indica sete unidades; o valor simbólico de uma enumeração depende do contexto.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:1"
@@ -507,7 +507,7 @@ export const apocalipse3v1 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APM-",
       "morphology": "Substantivo acusativo plural masculino",
-      "meanings": "estrela",
+      "meanings": "Corpo celeste luminoso; em textos visionários, sua identificação simbólica depende da explicação contextual.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:1"
@@ -556,7 +556,7 @@ export const apocalipse3v1 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
-      "meanings": "tu; vós; você(s)",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:1"
@@ -677,7 +677,7 @@ export const apocalipse3v1 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 2ª pessoa singular",
-      "meanings": "ter; segurar",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:1"
@@ -725,7 +725,7 @@ export const apocalipse3v1 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 2ª pessoa singular",
-      "meanings": "viver",
+      "meanings": "Estar vivo ou exercer a vida; pode descrever vida física, espiritual ou um modo de viver.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:1"
@@ -774,7 +774,7 @@ export const apocalipse3v1 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
-      "meanings": "morto",
+      "meanings": "Que perdeu a vida; em sentido figurado, descreve condição de inatividade ou ausência de vida espiritual.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:1"
@@ -798,7 +798,7 @@ export const apocalipse3v1 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 2ª pessoa singular",
-      "meanings": "ser; estar; existir",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:1"

@@ -103,7 +103,7 @@ export const apocalipse5v11 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AAI-S--",
       "morphology": "MorphGNT 6.12: V- 1AAI-S--",
-      "meanings": "ouvir; escutar",
+      "meanings": "Perceber sons ou palavras; escutar, prestar atenção e, em contextos de instrução, acolher o que é ouvido.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
@@ -127,7 +127,7 @@ export const apocalipse5v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: N- ----ASF-",
-      "meanings": "voz; som",
+      "meanings": "Som produzido ou percebido, especialmente voz humana ou celestial; pode designar uma proclamação.",
       "explanation": "Substantivo no constituinte «φωνὴν ἀγγέλων πολλῶν» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
@@ -175,7 +175,7 @@ export const apocalipse5v11 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----GPM-",
       "morphology": "MorphGNT 6.12: A- ----GPM-",
-      "meanings": "muito; numeroso",
+      "meanings": "Quantificador que expressa quantidade elevada, multiplicidade ou intensidade.",
       "explanation": "Adjetivo no constituinte «ἀγγέλων πολλῶν» — integrado ao constituinte com função de objeto direto «φωνὴν ἀγγέλων πολλῶν». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
@@ -247,7 +247,7 @@ export const apocalipse5v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "MorphGNT 6.12: N- ----GSM-",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "Substantivo no constituinte «τοῦ θρόνου» — integrado ao constituinte com função de adjunto adverbial «κύκλῳ τοῦ θρόνου καὶ τῶν ζῴων καὶ τῶν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"
@@ -440,7 +440,7 @@ export const apocalipse5v11 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3IAI-S--",
       "morphology": "MorphGNT 6.12: V- 3IAI-S--",
-      "meanings": "ser; estar; existir",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "Verbo de ligação da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:11"

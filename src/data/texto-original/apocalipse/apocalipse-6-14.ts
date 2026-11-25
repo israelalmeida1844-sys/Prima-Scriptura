@@ -126,7 +126,7 @@ export const apocalipse6v14 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
-      "meanings": "como",
+      "meanings": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual.",
       "explanation": "Conjunção que articula os constituintes de «ὡς βιβλίον ἑλισσόμενον,» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:14"
@@ -150,7 +150,7 @@ export const apocalipse6v14 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSN-",
       "morphology": "MorphGNT 6.12: N- ----NSN-",
-      "meanings": "livro; rolo",
+      "meanings": "Documento escrito ou livro em forma de rolo ou outro suporte antigo; o contexto determina a forma material.",
       "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:14"
@@ -223,7 +223,7 @@ export const apocalipse6v14 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSN-",
       "morphology": "MorphGNT 6.12: A- ----NSN-",
-      "meanings": "todo; cada",
+      "meanings": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",
       "explanation": "Adjetivo no constituinte «πᾶν ὄρος καὶ νῆσος» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:14"
@@ -295,7 +295,7 @@ export const apocalipse6v14 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: N- ----NSF-",
-      "meanings": "ilha",
+      "meanings": "Porção de terra cercada por água, como Patmos na narrativa de Apocalipse.",
       "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:14"
@@ -319,7 +319,7 @@ export const apocalipse6v14 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Conector preposicional. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:14"

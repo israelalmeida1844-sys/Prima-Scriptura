@@ -70,7 +70,7 @@ export const apocalipse1v4 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----DPF-",
       "morphology": "Adjetivo dativo plural feminino",
-      "meanings": "sete",
+      "meanings": "Numeral cardinal que indica sete unidades; o valor simbólico de uma enumeração depende do contexto.",
       "explanation": "Numeral que quantifica ἐκκλησίαις. Adjetivo dativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:4"
@@ -94,7 +94,7 @@ export const apocalipse1v4 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo dativo plural feminino",
-      "meanings": "assembleia; igreja",
+      "meanings": "Reunião ou comunidade convocada; no Novo Testamento, comunidade de seguidores de Cristo, local ou coletiva.",
       "explanation": "Dativo dos destinatários. Substantivo dativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:4"
@@ -190,7 +190,7 @@ export const apocalipse1v4 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
-      "meanings": "Ásia (província romana)",
+      "meanings": "Nome da província romana da Ásia, situada na parte ocidental da Ásia Menor.",
       "explanation": "Complemento locativo de ἐν. Substantivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:4"
@@ -215,7 +215,7 @@ export const apocalipse1v4 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
-      "meanings": "graça; favor",
+      "meanings": "Favor, benevolência ou dádiva concedida; pode designar a ação graciosa de Deus e a saudação que a invoca.",
       "explanation": "Primeiro núcleo nominal da saudação. Substantivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:4"
@@ -239,7 +239,7 @@ export const apocalipse1v4 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----DP--",
       "morphology": "Pronome pessoal dativo plural",
-      "meanings": "tu; vós; você(s)",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "Dativo de destinatário da saudação. Pronome pessoal dativo plural.",
       "occurrencesExamples": [
         "Ap 1:4"
@@ -287,7 +287,7 @@ export const apocalipse1v4 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
-      "meanings": "paz; bem-estar",
+      "meanings": "Condição de harmonia, segurança ou ausência de conflito; também fórmula de saudação e bem-estar.",
       "explanation": "Segundo núcleo nominal da saudação. Substantivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:4"
@@ -359,7 +359,7 @@ export const apocalipse1v4 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo presente ativo particípio nominativo singular masculino",
-      "meanings": "ser; estar; existir",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "Em 1:4, ὢν (presente), ἦν (imperfeito) e ἐρχόμενος (presente médio) integram a fórmula divina. O artigo nominativo após ἀπό constitui anomalia sintática provavelmente motivada pela fórmula fixa; intenção teológica é interpretação, não dado morfológico.",
       "occurrencesExamples": [
         "Ap 1:4"
@@ -431,7 +431,7 @@ export const apocalipse1v4 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3IAI-S--",
       "morphology": "Verbo imperfeito ativo indicativo 3ª pessoa singular",
-      "meanings": "ser; estar; existir",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "Em 1:4, ὢν (presente), ἦν (imperfeito) e ἐρχόμενος (presente médio) integram a fórmula divina. O artigo nominativo após ἀπό constitui anomalia sintática provavelmente motivada pela fórmula fixa; intenção teológica é interpretação, não dado morfológico.",
       "occurrencesExamples": [
         "Ap 1:4"
@@ -503,7 +503,7 @@ export const apocalipse1v4 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PMPNSM-",
       "morphology": "Verbo presente médio particípio nominativo singular masculino",
-      "meanings": "vir; chegar",
+      "meanings": "Movimento em direção a um lugar ou pessoa, ou chegada de alguém ou de um acontecimento.",
       "explanation": "A forma ἐρχόμενος, na fórmula divina, aponta para aquele que vem; em 1:7, ἔρχεται refere-se à vinda anunciada em linguagem profética.",
       "occurrencesExamples": [
         "Ap 1:4"
@@ -600,7 +600,7 @@ export const apocalipse1v4 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----GPN-",
       "morphology": "Adjetivo genitivo plural neutro",
-      "meanings": "sete",
+      "meanings": "Numeral cardinal que indica sete unidades; o valor simbólico de uma enumeração depende do contexto.",
       "explanation": "Numeral que quantifica πνευμάτων. Adjetivo genitivo plural neutro.",
       "occurrencesExamples": [
         "Ap 1:4"
@@ -720,7 +720,7 @@ export const apocalipse1v4 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "Complemento genitivo de ἐνώπιον. Substantivo genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:4"

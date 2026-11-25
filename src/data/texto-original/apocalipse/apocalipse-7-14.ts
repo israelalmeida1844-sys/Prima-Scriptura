@@ -53,7 +53,7 @@ export const apocalipse7v14 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1XAI-S--",
       "morphology": "Verbo · perfeito · voz ativa · indicativo · 1ª pessoa · singular (MorphGNT: V- 1XAI-S--)",
-      "meanings": "dizer; declarar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Sentido contextual: disse.",
       "occurrencesExamples": [
         "Ap 7:14"
@@ -102,7 +102,7 @@ export const apocalipse7v14 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----VSM-",
       "morphology": "Substantivo · vocativo · singular · masculino (MorphGNT: N- ----VSM-)",
-      "meanings": "Senhor",
+      "meanings": "Pessoa investida de autoridade, proprietário ou tratamento respeitoso; título aplicado a Deus ou a Cristo.",
       "explanation": "Sentido contextual: senhor.",
       "occurrencesExamples": [
         "Ap 7:14"
@@ -126,7 +126,7 @@ export const apocalipse7v14 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal · genitivo · singular (MorphGNT: RP ----GS--)",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Sentido contextual: meu.",
       "occurrencesExamples": [
         "Ap 7:14"
@@ -151,7 +151,7 @@ export const apocalipse7v14 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal · nominativo · singular (MorphGNT: RP ----NS--)",
-      "meanings": "tu; vós; você(s)",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "Sentido contextual: tu.",
       "occurrencesExamples": [
         "Ap 7:14"
@@ -224,7 +224,7 @@ export const apocalipse7v14 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
-      "meanings": "dizer; declarar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Sentido contextual: disse.",
       "occurrencesExamples": [
         "Ap 7:14"
@@ -248,7 +248,7 @@ export const apocalipse7v14 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----DS--",
       "morphology": "Pronome pessoal · dativo · singular (MorphGNT: RP ----DS--)",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Sentido contextual: a mim.",
       "occurrencesExamples": [
         "Ap 7:14"
@@ -273,7 +273,7 @@ export const apocalipse7v14 = {
       "partOfSpeech": "Pronome demonstrativo",
       "morphologyCode": "----NPM-",
       "morphology": "Pronome demonstrativo · nominativo · plural · masculino (MorphGNT: RD ----NPM-)",
-      "meanings": "este; essas coisas",
+      "meanings": "Pronome demonstrativo que identifica referente próximo no discurso, no espaço ou no contexto.",
       "explanation": "Sentido contextual: estes.",
       "occurrencesExamples": [
         "Ap 7:14"
@@ -297,7 +297,7 @@ export const apocalipse7v14 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo · presente · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3PAI-P--)",
-      "meanings": "ser; estar; existir",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "Sentido contextual: são.",
       "occurrencesExamples": [
         "Ap 7:14"
@@ -345,7 +345,7 @@ export const apocalipse7v14 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PMPNPM-",
       "morphology": "Verbo · presente · voz média · particípio · nominativo · plural · masculino (MorphGNT: V- -PMPNPM-)",
-      "meanings": "vir; chegar",
+      "meanings": "Movimento em direção a um lugar ou pessoa, ou chegada de alguém ou de um acontecimento.",
       "explanation": "Sentido contextual: que vêm.",
       "occurrencesExamples": [
         "Ap 7:14"
@@ -369,7 +369,7 @@ export const apocalipse7v14 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:14"
@@ -417,7 +417,7 @@ export const apocalipse7v14 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
-      "meanings": "tribulação; aflição",
+      "meanings": "Pressão, aflição, sofrimento ou circunstância adversa; pode designar provação coletiva.",
       "explanation": "Sentido contextual: tribulação.",
       "occurrencesExamples": [
         "Ap 7:14"
@@ -465,7 +465,7 @@ export const apocalipse7v14 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----GSF-",
       "morphology": "Adjetivo / numeral · genitivo · singular · feminino (MorphGNT: A- ----GSF-)",
-      "meanings": "grande",
+      "meanings": "De dimensão, intensidade, importância ou quantidade elevada; com voz pode significar alta ou forte.",
       "explanation": "Sentido contextual: grande.",
       "occurrencesExamples": [
         "Ap 7:14"
@@ -514,7 +514,7 @@ export const apocalipse7v14 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-P--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3AAI-P--)",
-      "meanings": "lavar",
+      "meanings": "Limpar com líquido, especialmente lavar vestes ou objetos.",
       "explanation": "Sentido contextual: lavaram.",
       "occurrencesExamples": [
         "Ap 7:14"
@@ -634,7 +634,7 @@ export const apocalipse7v14 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-P--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3AAI-P--)",
-      "meanings": "tornar branco",
+      "meanings": "Branquear ou fazer algo adquirir cor branca; em Ap 7:14, empregado figuradamente.",
       "explanation": "Sentido contextual: branquearam.",
       "occurrencesExamples": [
         "Ap 7:14"
@@ -730,7 +730,7 @@ export const apocalipse7v14 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSN-",
       "morphology": "Substantivo · dativo · singular · neutro (MorphGNT: N- ----DSN-)",
-      "meanings": "sangue",
+      "meanings": "Fluido vital; em contextos sacrificiais ou violentos pode representar vida entregue, morte ou responsabilidade pelo derramamento.",
       "explanation": "Sentido contextual: sangue.",
       "occurrencesExamples": [
         "Ap 7:14"

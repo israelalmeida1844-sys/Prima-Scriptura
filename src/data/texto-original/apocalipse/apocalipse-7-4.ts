@@ -53,7 +53,7 @@ export const apocalipse7v4 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 1ª pessoa · singular (MorphGNT: V- 1AAI-S--)",
-      "meanings": "ouvir; escutar",
+      "meanings": "Perceber sons ou palavras; escutar, prestar atenção e, em contextos de instrução, acolher o que é ouvido.",
       "explanation": "Sentido contextual: ouvi.",
       "occurrencesExamples": [
         "Ap 7:4"
@@ -149,7 +149,7 @@ export const apocalipse7v4 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-XPPGPM-",
       "morphology": "Verbo · perfeito · voz passiva · particípio · genitivo · plural · masculino (MorphGNT: V- -XPPGPM-)",
-      "meanings": "selar; marcar com selo",
+      "meanings": "Aplicar selo ou marca de autenticação, fechamento, propriedade ou proteção.",
       "explanation": "Marcar com selo; as formas perfeitas passivas descrevem os que foram selados.",
       "occurrencesExamples": [
         "Ap 7:4"
@@ -174,7 +174,7 @@ export const apocalipse7v4 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo / numeral · nominativo · plural · feminino (MorphGNT: A- ----NPF-)",
-      "meanings": "cem",
+      "meanings": "Numeral cardinal que indica uma centena.",
       "explanation": "Sentido contextual: cem.",
       "occurrencesExamples": [
         "Ap 7:4"
@@ -198,7 +198,7 @@ export const apocalipse7v4 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo / numeral · nominativo · plural · feminino (MorphGNT: A- ----NPF-)",
-      "meanings": "quarenta",
+      "meanings": "Numeral cardinal que indica quatro dezenas.",
       "explanation": "Sentido contextual: quarenta.",
       "occurrencesExamples": [
         "Ap 7:4"
@@ -271,7 +271,7 @@ export const apocalipse7v4 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-XPPNPM-",
       "morphology": "Verbo · perfeito · voz passiva · particípio · nominativo · plural · masculino (MorphGNT: V- -XPPNPM-)",
-      "meanings": "selar; marcar com selo",
+      "meanings": "Aplicar selo ou marca de autenticação, fechamento, propriedade ou proteção.",
       "explanation": "Marcar com selo; as formas perfeitas passivas descrevem os que foram selados.",
       "occurrencesExamples": [
         "Ap 7:4"
@@ -295,7 +295,7 @@ export const apocalipse7v4 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:4"
@@ -319,7 +319,7 @@ export const apocalipse7v4 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----GSF-",
       "morphology": "Adjetivo / numeral · genitivo · singular · feminino (MorphGNT: A- ----GSF-)",
-      "meanings": "todo; cada",
+      "meanings": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",
       "explanation": "Sentido contextual: toda.",
       "occurrencesExamples": [
         "Ap 7:4"
@@ -367,7 +367,7 @@ export const apocalipse7v4 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo · genitivo · plural · masculino (MorphGNT: N- ----GPM-)",
-      "meanings": "filho",
+      "meanings": "Descendente masculino ou designação relacional; pode integrar títulos e expressões de pertencimento.",
       "explanation": "Sentido contextual: dos filhos.",
       "occurrencesExamples": [
         "Ap 7:4"

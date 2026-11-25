@@ -50,7 +50,7 @@ export const apocalipse2v9 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
-      "meanings": "tu",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "Pronome no constituinte «σου τὴν θλῖψιν καὶ τὴν πτωχείαν,» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
@@ -74,7 +74,7 @@ export const apocalipse2v9 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὴν θλῖψιν» — integrado ao constituinte com função de objeto direto «σου τὴν θλῖψιν καὶ τὴν πτωχείαν,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
@@ -98,7 +98,7 @@ export const apocalipse2v9 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
-      "meanings": "tribulação",
+      "meanings": "Pressão, aflição, sofrimento ou circunstância adversa; pode designar provação coletiva.",
       "explanation": "Substantivo no constituinte «τὴν θλῖψιν» — integrado ao constituinte com função de objeto direto «σου τὴν θλῖψιν καὶ τὴν πτωχείαν,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
@@ -146,7 +146,7 @@ export const apocalipse2v9 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὴν πτωχείαν,» — integrado ao constituinte com função de objeto direto «σου τὴν θλῖψιν καὶ τὴν πτωχείαν,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
@@ -243,7 +243,7 @@ export const apocalipse2v9 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
-      "meanings": "ser",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "Verbo de ligação da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
@@ -292,7 +292,7 @@ export const apocalipse2v9 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὴν βλασφημίαν ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς,» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
@@ -340,7 +340,7 @@ export const apocalipse2v9 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição",
-      "meanings": "de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Preposição que introduz «ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς,» — integrado ao constituinte com função de objeto direto «τὴν βλασφημίαν ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
@@ -364,7 +364,7 @@ export const apocalipse2v9 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς,» — integrado ao constituinte com função de objeto direto «τὴν βλασφημίαν ἐκ τῶν λεγόντων Ἰουδαίους εἶναι ἑαυτούς,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
@@ -388,7 +388,7 @@ export const apocalipse2v9 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPGPM-",
       "morphology": "Verbo no presente, voz ativa, particípio genitivo plural masculino",
-      "meanings": "dizer",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Particípio em construção sintática. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
@@ -436,7 +436,7 @@ export const apocalipse2v9 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAN----",
       "morphology": "Verbo no presente, voz ativa, infinitivo",
-      "meanings": "ser",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "Infinitivo integrante da construção. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
@@ -533,7 +533,7 @@ export const apocalipse2v9 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural",
-      "meanings": "ser",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"
@@ -606,7 +606,7 @@ export const apocalipse2v9 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τοῦ Σατανᾶ.» — integrado ao constituinte com função de predicativo «συναγωγὴ τοῦ Σατανᾶ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:9"

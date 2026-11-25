@@ -54,7 +54,7 @@ export const apocalipse5v10 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2AAI-S--",
       "morphology": "MorphGNT 6.12: V- 2AAI-S--",
-      "meanings": "fazer; constituir",
+      "meanings": "Realizar, produzir, constituir ou causar algo; a construção com dois acusativos pode indicar transformação do objeto.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:10"
@@ -150,7 +150,7 @@ export const apocalipse5v10 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----GP--",
       "morphology": "MorphGNT 6.12: RP ----GP--",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Pronome no constituinte «θεῷ ἡμῶν» — integrado ao constituinte com função de objeto indireto «τῷ θεῷ ἡμῶν». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:10"
@@ -174,7 +174,7 @@ export const apocalipse5v10 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: N- ----ASF-",
-      "meanings": "reino; realeza",
+      "meanings": "Reinado, autoridade régia ou domínio sobre o qual se exerce governo; o contexto distingue essas nuances.",
       "explanation": "Substantivo no constituinte «βασιλείαν καὶ ἱερεῖς,» — segundo objeto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:10"
@@ -222,7 +222,7 @@ export const apocalipse5v10 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APM-",
       "morphology": "MorphGNT 6.12: N- ----APM-",
-      "meanings": "sacerdote",
+      "meanings": "Pessoa que exerce funções sacerdotais de culto e serviço religioso diante de uma divindade.",
       "explanation": "Substantivo no constituinte «καὶ ἱερεῖς,» — integrado ao constituinte com função de segundo objeto «βασιλείαν καὶ ἱερεῖς,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:10"
@@ -296,7 +296,7 @@ export const apocalipse5v10 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Preposição que introduz «ἐπὶ τῆς γῆς.» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:10"
@@ -344,7 +344,7 @@ export const apocalipse5v10 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: N- ----GSF-",
-      "meanings": "terra; solo",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Substantivo no constituinte «τῆς γῆς.» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τῆς γῆς.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:10"

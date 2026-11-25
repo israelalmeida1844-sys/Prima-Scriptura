@@ -103,7 +103,7 @@ export const apocalipse6v8 = {
       "partOfSpeech": "Partícula",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: X- --------",
-      "meanings": "eis; veja",
+      "meanings": "Partícula de apresentação que chama atenção para algo visto, anunciado ou relevante no discurso.",
       "explanation": "Partícula no constituinte «ἰδοὺ ἵππος χλωρός,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:8"
@@ -368,7 +368,7 @@ export const apocalipse6v8 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: N- ----NSM-",
-      "meanings": "morte",
+      "meanings": "Cessação da vida; também condição figurada ou realidade personificada em linguagem visionária.",
       "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:8"
@@ -489,7 +489,7 @@ export const apocalipse6v8 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "com; depois de",
+      "meanings": "Preposição que, com genitivo, indica companhia ou associação e, com acusativo, normalmente sucessão temporal ou espacial.",
       "explanation": "Conector preposicional. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:8"
@@ -634,7 +634,7 @@ export const apocalipse6v8 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Conector preposicional. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:8"
@@ -730,7 +730,7 @@ export const apocalipse6v8 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: N- ----GSF-",
-      "meanings": "terra; solo",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:8"
@@ -947,7 +947,7 @@ export const apocalipse6v8 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSM-",
       "morphology": "MorphGNT 6.12: N- ----DSM-",
-      "meanings": "morte",
+      "meanings": "Cessação da vida; também condição figurada ou realidade personificada em linguagem visionária.",
       "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:8"
@@ -1091,7 +1091,7 @@ export const apocalipse6v8 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: N- ----GSF-",
-      "meanings": "terra; solo",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:8"

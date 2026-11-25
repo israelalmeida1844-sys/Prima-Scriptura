@@ -50,7 +50,7 @@ export const apocalipse2v26 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «ὁ νικῶν». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:26"
@@ -122,7 +122,7 @@ export const apocalipse2v26 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «ὁ τηρῶν ἄχρι τέλους τὰ ἔργα μου,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:26"
@@ -218,7 +218,7 @@ export const apocalipse2v26 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὰ ἔργα μου,» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:26"
@@ -266,7 +266,7 @@ export const apocalipse2v26 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
-      "meanings": "eu",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Pronome no constituinte «ἔργα μου,» — integrado ao constituinte com função de objeto direto «τὰ ἔργα μου,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:26"
@@ -363,7 +363,7 @@ export const apocalipse2v26 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição",
-      "meanings": "sobre",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Preposição que introduz «ἐπὶ τῶν ἐθνῶν,» — integrado ao constituinte com função de objeto direto «ἐξουσίαν ἐπὶ τῶν ἐθνῶν,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:26"
@@ -387,7 +387,7 @@ export const apocalipse2v26 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido genitivo plural neutro",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τῶν ἐθνῶν,» — integrado ao constituinte com função de objeto direto «ἐξουσίαν ἐπὶ τῶν ἐθνῶν,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:26"

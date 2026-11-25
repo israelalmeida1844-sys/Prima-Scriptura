@@ -26,7 +26,7 @@ export const apocalipse1v11 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPGSF-",
       "morphology": "Verbo no presente, voz ativa, particípio genitivo singular feminino",
-      "meanings": "dizer; falar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "λεγούσης é particípio presente ativo, genitivo feminino singular de λέγω. O antecedente de concordância é σάλπιγγος (1:10), também genitivo feminino singular; φωνὴν é acusativo feminino singular e não pode concordar formalmente com o particípio.",
       "occurrencesExamples": [
         "Ap 1:11"
@@ -75,7 +75,7 @@ export const apocalipse1v11 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
-      "meanings": "ver; observar",
+      "meanings": "Perceber pela visão, dirigir o olhar ou, figuradamente, perceber e discernir.",
       "explanation": "Predicado presente da relativa. Verbo no presente, voz ativa, indicativo, 2ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:11"
@@ -99,7 +99,7 @@ export const apocalipse1v11 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
-      "meanings": "escrever",
+      "meanings": "Registrar palavras por escrito, redigir uma mensagem ou consignar um nome num documento.",
       "explanation": "Imperativo principal de ordem. Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:11"
@@ -147,7 +147,7 @@ export const apocalipse1v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo acusativo singular neutro",
-      "meanings": "livro; rolo",
+      "meanings": "Documento escrito ou livro em forma de rolo ou outro suporte antigo; o contexto determina a forma material.",
       "explanation": "Complemento acusativo de εἰς. Substantivo acusativo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:11"
@@ -195,7 +195,7 @@ export const apocalipse1v11 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
-      "meanings": "enviar",
+      "meanings": "Mandar alguém ou algo a determinado destino, transmitir ou despachar.",
       "explanation": "Imperativo coordenado. Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:11"
@@ -219,7 +219,7 @@ export const apocalipse1v11 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DPF-",
       "morphology": "Artigo definido dativo plural feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de ἐκκλησίαις. Artigo definido dativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:11"
@@ -267,7 +267,7 @@ export const apocalipse1v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo dativo plural feminino",
-      "meanings": "igreja; assembleia",
+      "meanings": "Reunião ou comunidade convocada; no Novo Testamento, comunidade de seguidores de Cristo, local ou coletiva.",
       "explanation": "Dativo de destinatário de πέμψον. Substantivo dativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:11"
@@ -316,7 +316,7 @@ export const apocalipse1v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
-      "meanings": "Éfeso",
+      "meanings": "Nome da cidade da província romana da Ásia à qual se dirige a primeira carta de Apocalipse.",
       "explanation": "Primeiro destino da mensagem. Substantivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:11"
@@ -388,7 +388,7 @@ export const apocalipse1v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
-      "meanings": "Esmirna",
+      "meanings": "Nome da cidade da Ásia Menor à qual se dirige a segunda carta de Apocalipse.",
       "explanation": "Segundo destino da mensagem. Substantivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:11"
@@ -460,7 +460,7 @@ export const apocalipse1v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
-      "meanings": "Pérgamo",
+      "meanings": "Nome da cidade da Ásia Menor à qual se dirige a terceira carta de Apocalipse.",
       "explanation": "Terceiro destino da mensagem. Substantivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:11"
@@ -532,7 +532,7 @@ export const apocalipse1v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APN-",
       "morphology": "Substantivo acusativo plural neutro",
-      "meanings": "Tiatira",
+      "meanings": "Nome da cidade da Ásia Menor à qual se dirige a quarta carta de Apocalipse.",
       "explanation": "Quarto destino da mensagem. Substantivo acusativo plural neutro.",
       "occurrencesExamples": [
         "Ap 1:11"
@@ -604,7 +604,7 @@ export const apocalipse1v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APF-",
       "morphology": "Substantivo acusativo plural feminino",
-      "meanings": "Sardes",
+      "meanings": "Nome da cidade da Ásia Menor à qual se dirige a quinta carta de Apocalipse.",
       "explanation": "Quinto destino da mensagem. Substantivo acusativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:11"
@@ -676,7 +676,7 @@ export const apocalipse1v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
-      "meanings": "Filadélfia",
+      "meanings": "Nome da cidade da Ásia Menor à qual se dirige a sexta carta de Apocalipse.",
       "explanation": "Sexto destino da mensagem. Substantivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:11"
@@ -748,7 +748,7 @@ export const apocalipse1v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
-      "meanings": "Laodiceia",
+      "meanings": "Nome da cidade da Ásia Menor à qual se dirige a sétima carta de Apocalipse.",
       "explanation": "Sétimo destino da mensagem. Substantivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:11"

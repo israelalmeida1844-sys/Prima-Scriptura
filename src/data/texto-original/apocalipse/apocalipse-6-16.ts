@@ -54,7 +54,7 @@ export const apocalipse6v16 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
       "morphology": "MorphGNT 6.12: V- 3PAI-P--",
-      "meanings": "dizer; declarar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:16"
@@ -199,7 +199,7 @@ export const apocalipse6v16 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2AAD-P--",
       "morphology": "MorphGNT 6.12: V- 2AAD-P--",
-      "meanings": "cair",
+      "meanings": "Mover-se para baixo, cair ou prostrar-se; figuradamente, perder uma posição ou condição.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:16"
@@ -223,7 +223,7 @@ export const apocalipse6v16 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Conector preposicional. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:16"
@@ -247,7 +247,7 @@ export const apocalipse6v16 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----AP--",
       "morphology": "MorphGNT 6.12: RP ----AP--",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Pronome no constituinte «ἐφ’ ἡμᾶς» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:16"
@@ -319,7 +319,7 @@ export const apocalipse6v16 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----AP--",
       "morphology": "MorphGNT 6.12: RP ----AP--",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:16"
@@ -439,7 +439,7 @@ export const apocalipse6v16 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Conector preposicional. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:16"
@@ -487,7 +487,7 @@ export const apocalipse6v16 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "MorphGNT 6.12: N- ----GSM-",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:16"

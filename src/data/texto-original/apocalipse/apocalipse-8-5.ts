@@ -204,7 +204,7 @@ export const apocalipse8v5 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
-      "meanings": "encher",
+      "meanings": "Fazer um recipiente conter determinada substância ou ficar cheio.",
       "explanation": "Verbo coordenado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
@@ -254,7 +254,7 @@ export const apocalipse8v5 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
@@ -304,7 +304,7 @@ export const apocalipse8v5 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo · genitivo · singular · neutro (MorphGNT: N- ----GSN-)",
-      "meanings": "fogo",
+      "meanings": "Combustão ou chama; em contextos figurados, pode evocar purificação, manifestação ou julgamento.",
       "explanation": "Origem do conteúdo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
@@ -479,7 +479,7 @@ export const apocalipse8v5 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
-      "meanings": "terra",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Alvo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"
@@ -604,7 +604,7 @@ export const apocalipse8v5 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo · nominativo · plural · feminino (MorphGNT: N- ----NPF-)",
-      "meanings": "voz",
+      "meanings": "Som produzido ou percebido, especialmente voz humana ou celestial; pode designar uma proclamação.",
       "explanation": "Sujeito coordenado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:5"

@@ -173,7 +173,7 @@ export const apocalipse7v2 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
-      "meanings": "nascente; oriente",
+      "meanings": "Ato ou lugar do nascer de um astro; por extensão, a direção oriental.",
       "explanation": "Sentido contextual: nascente.",
       "occurrencesExamples": [
         "Ap 7:2"
@@ -197,7 +197,7 @@ export const apocalipse7v2 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
-      "meanings": "sol",
+      "meanings": "Astro que ilumina a terra; empregado também em comparações de brilho.",
       "explanation": "Sentido contextual: do sol.",
       "occurrencesExamples": [
         "Ap 7:2"
@@ -222,7 +222,7 @@ export const apocalipse7v2 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPASM-",
       "morphology": "Verbo · presente · voz ativa · particípio · acusativo · singular · masculino (MorphGNT: V- -PAPASM-)",
-      "meanings": "ter; segurar",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "Sentido contextual: tendo.",
       "occurrencesExamples": [
         "Ap 7:2"
@@ -294,7 +294,7 @@ export const apocalipse7v2 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPGSM-",
       "morphology": "Verbo · presente · voz ativa · particípio · genitivo · singular · masculino (MorphGNT: V- -PAPGSM-)",
-      "meanings": "viver",
+      "meanings": "Estar vivo ou exercer a vida; pode descrever vida física, espiritual ou um modo de viver.",
       "explanation": "Sentido contextual: vivente.",
       "occurrencesExamples": [
         "Ap 7:2"
@@ -367,7 +367,7 @@ export const apocalipse7v2 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo · dativo · singular · feminino (MorphGNT: N- ----DSF-)",
-      "meanings": "voz; som",
+      "meanings": "Som produzido ou percebido, especialmente voz humana ou celestial; pode designar uma proclamação.",
       "explanation": "Sentido contextual: voz.",
       "occurrencesExamples": [
         "Ap 7:2"
@@ -391,7 +391,7 @@ export const apocalipse7v2 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----DSF-",
       "morphology": "Adjetivo / numeral · dativo · singular · feminino (MorphGNT: A- ----DSF-)",
-      "meanings": "grande",
+      "meanings": "De dimensão, intensidade, importância ou quantidade elevada; com voz pode significar alta ou forte.",
       "explanation": "Sentido contextual: alta.",
       "occurrencesExamples": [
         "Ap 7:2"
@@ -607,7 +607,7 @@ export const apocalipse7v2 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
-      "meanings": "terra; solo",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Sentido contextual: terra.",
       "occurrencesExamples": [
         "Ap 7:2"

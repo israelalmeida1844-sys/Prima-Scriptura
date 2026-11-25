@@ -29,7 +29,7 @@ export const apocalipse7v12 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNPM-",
       "morphology": "Verbo · presente · voz ativa · particípio · nominativo · plural · masculino (MorphGNT: V- -PAPNPM-)",
-      "meanings": "dizer; declarar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Sentido contextual: dizendo.",
       "occurrencesExamples": [
         "Ap 7:12"
@@ -54,7 +54,7 @@ export const apocalipse7v12 = {
       "partOfSpeech": "Partícula",
       "morphologyCode": "--------",
       "morphology": "Partícula (MorphGNT: X- --------)",
-      "meanings": "amém; assim seja",
+      "meanings": "Partícula de confirmação ou ratificação de origem semítica, empregada para afirmar a veracidade de uma declaração.",
       "explanation": "Sentido contextual: amém.",
       "occurrencesExamples": [
         "Ap 7:12"
@@ -175,7 +175,7 @@ export const apocalipse7v12 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
-      "meanings": "glória",
+      "meanings": "Honra, esplendor, reputação ou manifestação de majestade; em doxologias, reconhecimento da dignidade divina.",
       "explanation": "Sentido contextual: glória.",
       "occurrencesExamples": [
         "Ap 7:12"
@@ -463,7 +463,7 @@ export const apocalipse7v12 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
-      "meanings": "força; poder",
+      "meanings": "Capacidade de agir, força ou poder efetivo; o contexto pode indicar manifestações extraordinárias de poder.",
       "explanation": "Sentido contextual: poder.",
       "occurrencesExamples": [
         "Ap 7:12"
@@ -607,7 +607,7 @@ export const apocalipse7v12 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GP--",
       "morphology": "Pronome pessoal · genitivo · plural (MorphGNT: RP ----GP--)",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Sentido contextual: nosso.",
       "occurrencesExamples": [
         "Ap 7:12"
@@ -752,7 +752,7 @@ export const apocalipse7v12 = {
       "partOfSpeech": "Partícula",
       "morphologyCode": "--------",
       "morphology": "Partícula (MorphGNT: X- --------)",
-      "meanings": "amém; assim seja",
+      "meanings": "Partícula de confirmação ou ratificação de origem semítica, empregada para afirmar a veracidade de uma declaração.",
       "explanation": "Sentido contextual: amém.",
       "occurrencesExamples": [
         "Ap 7:12"

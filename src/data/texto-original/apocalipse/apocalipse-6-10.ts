@@ -78,7 +78,7 @@ export const apocalipse6v10 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
       "morphology": "MorphGNT 6.12: N- ----DSF-",
-      "meanings": "voz; som",
+      "meanings": "Som produzido ou percebido, especialmente voz humana ou celestial; pode designar uma proclamação.",
       "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:10"
@@ -102,7 +102,7 @@ export const apocalipse6v10 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----DSF-",
       "morphology": "MorphGNT 6.12: A- ----DSF-",
-      "meanings": "grande",
+      "meanings": "De dimensão, intensidade, importância ou quantidade elevada; com voz pode significar alta ou forte.",
       "explanation": "Adjetivo no constituinte «φωνῇ μεγάλῃ» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:10"
@@ -126,7 +126,7 @@ export const apocalipse6v10 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNPM-",
       "morphology": "MorphGNT 6.12: V- -PAPNPM-",
-      "meanings": "dizer; declarar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:10"
@@ -465,7 +465,7 @@ export const apocalipse6v10 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: N- ----ASN-",
-      "meanings": "sangue",
+      "meanings": "Fluido vital; em contextos sacrificiais ou violentos pode representar vida entregue, morte ou responsabilidade pelo derramamento.",
       "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:10"
@@ -489,7 +489,7 @@ export const apocalipse6v10 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----GP--",
       "morphology": "MorphGNT 6.12: RP ----GP--",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Pronome no constituinte «αἷμα ἡμῶν» — integrado ao constituinte com função de objeto direto «τὸ αἷμα ἡμῶν». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:10"
@@ -513,7 +513,7 @@ export const apocalipse6v10 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Conector preposicional. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:10"
@@ -585,7 +585,7 @@ export const apocalipse6v10 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Conector preposicional. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:10"
@@ -633,7 +633,7 @@ export const apocalipse6v10 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: N- ----GSF-",
-      "meanings": "terra; solo",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:10"

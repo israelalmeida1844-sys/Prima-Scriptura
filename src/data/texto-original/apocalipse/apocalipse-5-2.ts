@@ -174,7 +174,7 @@ export const apocalipse5v2 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
       "morphology": "MorphGNT 6.12: N- ----DSF-",
-      "meanings": "voz; som",
+      "meanings": "Som produzido ou percebido, especialmente voz humana ou celestial; pode designar uma proclamação.",
       "explanation": "Dativo singular feminino; indica a voz com que o anjo proclama.",
       "occurrencesExamples": [
         "Ap 5:2"

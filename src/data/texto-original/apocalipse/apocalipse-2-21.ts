@@ -267,7 +267,7 @@ export const apocalipse2v21 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição",
-      "meanings": "de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Preposição que introduz «ἐκ τῆς πορνείας αὐτῆς.» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:21"
@@ -291,7 +291,7 @@ export const apocalipse2v21 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τῆς πορνείας αὐτῆς.» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῆς πορνείας αὐτῆς.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:21"

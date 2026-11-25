@@ -706,7 +706,7 @@
         {
           "id": "G5101-1",
           "label": "quem; que; o que",
-          "definition": "Pronome interrogativo que pergunta pela identidade de uma pessoa ou coisa; o gênero e o caso determinam sua função na oração.",
+          "definition": "Pronome interrogativo que solicita a identidade de pessoa ou coisa; suas formas flexionadas desempenham funções diferentes na oração.",
           "examples": [
             {
               "reference": "Ap 2:7",
@@ -983,9 +983,9 @@
           "examples": [
             {
               "reference": "Ap 2:10",
-              "greek": "μέλλεις πάσχειν. ἰδοὺ",
+              "greek": "πάσχειν",
               "translation": "sofrer",
-              "explanation": "πάσχειν é infinitivo presente dependente de μέλλεις, projetando sofrimento futuro sem especificar todas as circunstâncias."
+              "explanation": "Forma em Ap 2:10: Verbo no presente, voz ativa, infinitivo. Função: Infinitivo integrante da construção."
             }
           ]
         }
@@ -1004,9 +1004,9 @@
           "examples": [
             {
               "reference": "Ap 2:10",
-              "greek": "μέλλει βάλλειν ὁ",
+              "greek": "βάλλειν",
               "translation": "lançar",
-              "explanation": "βάλλειν é infinitivo presente dependente de μέλλει; com εἰς φυλακήν indica lançar na prisão."
+              "explanation": "Forma em Ap 2:10: Verbo no presente, voz ativa, infinitivo. Função: Infinitivo integrante da construção."
             }
           ]
         }
@@ -1020,8 +1020,8 @@
       "senses": [
         {
           "id": "G1228-1",
-          "label": "diabo",
-          "definition": "διάβολος ocorre com artigo como sujeito de μέλλει βάλλειν; corresponde ao acusador/adversário na representação do texto.",
+          "label": "diabo; acusador; caluniador",
+          "definition": "Adjetivo que significa caluniador ou acusador; substantivado, designa um adversário ou o Diabo conforme o contexto.",
           "examples": [
             {
               "reference": "Ap 2:10",

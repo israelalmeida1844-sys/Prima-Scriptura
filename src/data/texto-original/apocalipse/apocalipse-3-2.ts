@@ -268,7 +268,7 @@ export const apocalipse3v2 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
-      "meanings": "pois; porque",
+      "meanings": "Conjunção pós-positiva que apresenta fundamento, explicação ou razão para a afirmação precedente.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:2"
@@ -316,7 +316,7 @@ export const apocalipse3v2 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
-      "meanings": "tu; vós; você(s)",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:2"
@@ -484,7 +484,7 @@ export const apocalipse3v2 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:2"

@@ -26,7 +26,7 @@ export const apocalipse2v28 = {
       "partOfSpeech": "Advérbio",
       "morphologyCode": "--------",
       "morphology": "Advérbio",
-      "meanings": "como",
+      "meanings": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual.",
       "explanation": "Advérbio no constituinte «ὡς κἀγὼ εἴληφα παρὰ τοῦ πατρός μου,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"
@@ -122,7 +122,7 @@ export const apocalipse2v28 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τοῦ πατρός μου,» — integrado ao constituinte com função de adjunto adverbial «παρὰ τοῦ πατρός μου,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"
@@ -146,7 +146,7 @@ export const apocalipse2v28 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
-      "meanings": "pai",
+      "meanings": "Progenitor ou figura paterna; em sentido relacional e teológico, designação de Deus como Pai.",
       "explanation": "Substantivo no constituinte «πατρός μου,» — integrado ao constituinte com função de adjunto adverbial «παρὰ τοῦ πατρός μου,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"
@@ -170,7 +170,7 @@ export const apocalipse2v28 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
-      "meanings": "eu",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Pronome no constituinte «πατρός μου,» — integrado ao constituinte com função de adjunto adverbial «παρὰ τοῦ πατρός μου,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"
@@ -267,7 +267,7 @@ export const apocalipse2v28 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASM-",
       "morphology": "Artigo definido acusativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὸν ἀστέρα τὸν πρωϊνόν.» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"
@@ -291,7 +291,7 @@ export const apocalipse2v28 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo acusativo singular masculino",
-      "meanings": "estrela",
+      "meanings": "Corpo celeste luminoso; em textos visionários, sua identificação simbólica depende da explicação contextual.",
       "explanation": "Substantivo no constituinte «ἀστέρα τὸν πρωϊνόν.» — integrado ao constituinte com função de objeto direto «τὸν ἀστέρα τὸν πρωϊνόν.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"
@@ -315,7 +315,7 @@ export const apocalipse2v28 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASM-",
       "morphology": "Artigo definido acusativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὸν πρωϊνόν.» — integrado ao constituinte com função de objeto direto «τὸν ἀστέρα τὸν πρωϊνόν.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:28"

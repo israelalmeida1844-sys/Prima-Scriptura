@@ -22,7 +22,7 @@ export const apocalipse1v8 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal nominativo singular",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Sujeito explícito de εἰμι. Pronome pessoal nominativo singular.",
       "occurrencesExamples": [
         "Ap 1:8"
@@ -46,7 +46,7 @@ export const apocalipse1v8 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo presente ativo indicativo 1ª pessoa singular",
-      "meanings": "ser; estar; existir",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "A cópula εἰμι introduz a identificação do locutor pelos predicativos Alfa e Ômega.",
       "occurrencesExamples": [
         "Ap 1:8"
@@ -191,7 +191,7 @@ export const apocalipse1v8 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo presente ativo indicativo 3ª pessoa singular",
-      "meanings": "dizer; declarar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Predicado da fórmula de atribuição do discurso. Verbo presente ativo indicativo 3ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:8"
@@ -215,7 +215,7 @@ export const apocalipse1v8 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
-      "meanings": "Senhor",
+      "meanings": "Pessoa investida de autoridade, proprietário ou tratamento respeitoso; título aplicado a Deus ou a Cristo.",
       "explanation": "Sujeito da fórmula λέγει. Substantivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:8"
@@ -313,7 +313,7 @@ export const apocalipse1v8 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo presente ativo particípio nominativo singular masculino",
-      "meanings": "ser; estar; existir",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "O particípio substantivado integra a fórmula divina apositiva, sem a regência excepcional de Ap 1:4.",
       "occurrencesExamples": [
         "Ap 1:8"
@@ -385,7 +385,7 @@ export const apocalipse1v8 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3IAI-S--",
       "morphology": "Verbo imperfeito ativo indicativo 3ª pessoa singular",
-      "meanings": "ser; estar; existir",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "O artigo nominaliza o imperfeito finito na segunda designação divina.",
       "occurrencesExamples": [
         "Ap 1:8"
@@ -457,7 +457,7 @@ export const apocalipse1v8 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PMPNSM-",
       "morphology": "Verbo presente médio particípio nominativo singular masculino",
-      "meanings": "vir; chegar",
+      "meanings": "Movimento em direção a um lugar ou pessoa, ou chegada de alguém ou de um acontecimento.",
       "explanation": "O particípio substantivado encerra a tríade de designações temporais.",
       "occurrencesExamples": [
         "Ap 1:8"

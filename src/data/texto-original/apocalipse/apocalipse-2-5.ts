@@ -50,7 +50,7 @@ export const apocalipse2v5 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção",
-      "meanings": "portanto",
+      "meanings": "Conjunção pós-positiva que introduz inferência, consequência ou retomada do raciocínio.",
       "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
@@ -98,7 +98,7 @@ export const apocalipse2v5 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2XAI-S--",
       "morphology": "Verbo no perfeito, voz ativa, indicativo, 2ª pessoa singular",
-      "meanings": "cair",
+      "meanings": "Mover-se para baixo, cair ou prostrar-se; figuradamente, perder uma posição ou condição.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
@@ -195,7 +195,7 @@ export const apocalipse2v5 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὰ πρῶτα ἔργα» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
@@ -219,7 +219,7 @@ export const apocalipse2v5 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----APN-",
       "morphology": "Adjetivo acusativo plural neutro",
-      "meanings": "primeiro",
+      "meanings": "Ordinal ou qualificativo de prioridade temporal, posição ou importância.",
       "explanation": "Adjetivo no constituinte «πρῶτα ἔργα» — integrado ao constituinte com função de objeto direto «τὰ πρῶτα ἔργα». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
@@ -267,7 +267,7 @@ export const apocalipse2v5 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
-      "meanings": "fazer",
+      "meanings": "Realizar, produzir, constituir ou causar algo; a construção com dois acusativos pode indicar transformação do objeto.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
@@ -316,7 +316,7 @@ export const apocalipse2v5 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção",
-      "meanings": "porém",
+      "meanings": "Conjunção pós-positiva que articula enunciados por continuidade, transição ou contraste conforme o contexto.",
       "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
@@ -365,7 +365,7 @@ export const apocalipse2v5 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1PMI-S--",
       "morphology": "Verbo no presente, voz média, indicativo, 1ª pessoa singular",
-      "meanings": "vir",
+      "meanings": "Movimento em direção a um lugar ou pessoa, ou chegada de alguém ou de um acontecimento.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
@@ -389,7 +389,7 @@ export const apocalipse2v5 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----DS--",
       "morphology": "Pronome pessoal dativo singular",
-      "meanings": "tu",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "Adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
@@ -462,7 +462,7 @@ export const apocalipse2v5 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὴν λυχνίαν σου» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
@@ -510,7 +510,7 @@ export const apocalipse2v5 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
-      "meanings": "tu",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "Pronome no constituinte «λυχνίαν σου» — integrado ao constituinte com função de objeto direto «τὴν λυχνίαν σου». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
@@ -534,7 +534,7 @@ export const apocalipse2v5 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição",
-      "meanings": "de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Preposição que introduz «ἐκ τοῦ τόπου αὐτῆς,» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"
@@ -558,7 +558,7 @@ export const apocalipse2v5 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τοῦ τόπου αὐτῆς,» — integrado ao constituinte com função de adjunto adverbial «ἐκ τοῦ τόπου αὐτῆς,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:5"

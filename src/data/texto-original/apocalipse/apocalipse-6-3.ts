@@ -54,7 +54,7 @@ export const apocalipse6v3 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
-      "meanings": "quando",
+      "meanings": "Conjunção temporal que situa uma ação em relação a outra.",
       "explanation": "Conjunção que articula os constituintes de «ὅτε ἤνοιξεν τὴν σφραγῖδα τὴν δευτέραν,» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:3"
@@ -199,7 +199,7 @@ export const apocalipse6v3 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AAI-S--",
       "morphology": "MorphGNT 6.12: V- 1AAI-S--",
-      "meanings": "ouvir; escutar",
+      "meanings": "Perceber sons ou palavras; escutar, prestar atenção e, em contextos de instrução, acolher o que é ouvido.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:3"
@@ -295,7 +295,7 @@ export const apocalipse6v3 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPGSN-",
       "morphology": "MorphGNT 6.12: V- -PAPGSN-",
-      "meanings": "dizer; declarar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:3"
@@ -320,7 +320,7 @@ export const apocalipse6v3 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2PMD-S--",
       "morphology": "MorphGNT 6.12: V- 2PMD-S--",
-      "meanings": "vir; chegar",
+      "meanings": "Movimento em direção a um lugar ou pessoa, ou chegada de alguém ou de um acontecimento.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:3"

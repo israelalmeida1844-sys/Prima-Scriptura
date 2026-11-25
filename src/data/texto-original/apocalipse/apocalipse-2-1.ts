@@ -26,7 +26,7 @@ export const apocalipse2v1 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Artigo dativo que determina ἀγγέλῳ, destinatário do imperativo γράψον.",
       "occurrencesExamples": [
         "Ap 2:1"
@@ -50,7 +50,7 @@ export const apocalipse2v1 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
-      "meanings": "mensageiro",
+      "meanings": "Mensageiro enviado para comunicar ou executar uma tarefa; em Apocalipse, frequentemente um ser celestial.",
       "explanation": "Destinatário expresso no dativo de γράψον; o referente de «anjo» exige discussão contextual.",
       "occurrencesExamples": [
         "Ap 2:1"
@@ -74,7 +74,7 @@ export const apocalipse2v1 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Artigo genitivo feminino singular de ἐκκλησίας; a locução ἐν Ἐφέσῳ intercala-se no sintagma.",
       "occurrencesExamples": [
         "Ap 2:1"
@@ -122,7 +122,7 @@ export const apocalipse2v1 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
-      "meanings": "Éfeso",
+      "meanings": "Nome da cidade da província romana da Ásia à qual se dirige a primeira carta de Apocalipse.",
       "explanation": "Topônimo no dativo regido por ἐν; indica a localização da igreja.",
       "occurrencesExamples": [
         "Ap 2:1"
@@ -146,7 +146,7 @@ export const apocalipse2v1 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
-      "meanings": "assembleia",
+      "meanings": "Reunião ou comunidade convocada; no Novo Testamento, comunidade de seguidores de Cristo, local ou coletiva.",
       "explanation": "Genitivo feminino singular que especifica o destinatário ἀγγέλῳ: anjo da igreja.",
       "occurrencesExamples": [
         "Ap 2:1"
@@ -170,7 +170,7 @@ export const apocalipse2v1 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
-      "meanings": "escrever",
+      "meanings": "Registrar palavras por escrito, redigir uma mensagem ou consignar um nome num documento.",
       "explanation": "Imperativo aoristo ativo, segunda pessoa singular: ordem dirigida a João para escrever.",
       "occurrencesExamples": [
         "Ap 2:1"
@@ -219,7 +219,7 @@ export const apocalipse2v1 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
-      "meanings": "dizer",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Presente ativo indicativo, terceira pessoa singular, introduz a fala autorizada de Cristo.",
       "occurrencesExamples": [
         "Ap 2:1"
@@ -243,7 +243,7 @@ export const apocalipse2v1 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Artigo nominativo masculino singular que substantiva o particípio κρατῶν.",
       "occurrencesExamples": [
         "Ap 2:1"
@@ -291,7 +291,7 @@ export const apocalipse2v1 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido acusativo plural masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Artigo acusativo masculino plural que determina ἀστέρας.",
       "occurrencesExamples": [
         "Ap 2:1"
@@ -339,7 +339,7 @@ export const apocalipse2v1 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APM-",
       "morphology": "Substantivo acusativo plural masculino",
-      "meanings": "estrela",
+      "meanings": "Corpo celeste luminoso; em textos visionários, sua identificação simbólica depende da explicação contextual.",
       "explanation": "Objeto direto acusativo plural do particípio κρατῶν.",
       "occurrencesExamples": [
         "Ap 2:1"
@@ -387,7 +387,7 @@ export const apocalipse2v1 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Artigo dativo feminino singular que determina δεξιᾷ.",
       "occurrencesExamples": [
         "Ap 2:1"
@@ -411,7 +411,7 @@ export const apocalipse2v1 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----DSF-",
       "morphology": "Adjetivo dativo singular feminino",
-      "meanings": "direita",
+      "meanings": "Que pertence ao lado direito; substantivado, pode designar a mão direita ou essa posição.",
       "explanation": "Adjetivo substantivado no dativo feminino singular, regido por ἐν: «na [mão] direita».",
       "occurrencesExamples": [
         "Ap 2:1"
@@ -460,7 +460,7 @@ export const apocalipse2v1 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Artigo nominativo masculino singular que substantiva περιπατῶν.",
       "occurrencesExamples": [
         "Ap 2:1"
@@ -532,7 +532,7 @@ export const apocalipse2v1 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----DSN-",
       "morphology": "Adjetivo dativo singular neutro",
-      "meanings": "meio",
+      "meanings": "Que ocupa posição intermediária ou central; substantivado em expressões de localização.",
       "explanation": "Dativo de μέσος em locução com ἐν; seguido do genitivo τῶν ... λυχνιῶν.",
       "occurrencesExamples": [
         "Ap 2:1"
@@ -556,7 +556,7 @@ export const apocalipse2v1 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPF-",
       "morphology": "Artigo definido genitivo plural feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Artigo genitivo feminino plural que determina λυχνιῶν.",
       "occurrencesExamples": [
         "Ap 2:1"
@@ -628,7 +628,7 @@ export const apocalipse2v1 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPF-",
       "morphology": "Artigo definido genitivo plural feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Segundo artigo genitivo feminino plural, com χρυσῶν, em construção atributiva.",
       "occurrencesExamples": [
         "Ap 2:1"
@@ -652,7 +652,7 @@ export const apocalipse2v1 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----GPF-",
       "morphology": "Adjetivo genitivo plural feminino",
-      "meanings": "de ouro",
+      "meanings": "Adjetivo que caracteriza aquilo que é feito de ouro, revestido de ouro ou semelhante a ele.",
       "explanation": "Adjetivo genitivo feminino plural «de ouro», concordando com λυχνιῶν.",
       "occurrencesExamples": [
         "Ap 2:1"

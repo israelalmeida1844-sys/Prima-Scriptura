@@ -50,7 +50,7 @@ export const apocalipse2v19 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
-      "meanings": "tu",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "Pronome no constituinte «σου τὰ ἔργα,» — integrado ao constituinte com função de objeto direto «σου τὰ ἔργα, καὶ τὴν ἀγάπην καὶ τὴν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:19"
@@ -74,7 +74,7 @@ export const apocalipse2v19 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὰ ἔργα,» — integrado ao constituinte com função de objeto direto «σου τὰ ἔργα, καὶ τὴν ἀγάπην καὶ τὴν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:19"
@@ -147,7 +147,7 @@ export const apocalipse2v19 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὴν ἀγάπην» — integrado ao constituinte com função de objeto direto «… τὰ ἔργα, καὶ τὴν ἀγάπην καὶ τὴν πίστιν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:19"
@@ -219,7 +219,7 @@ export const apocalipse2v19 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὴν πίστιν» — integrado ao constituinte com função de objeto direto «… τὴν ἀγάπην καὶ τὴν πίστιν καὶ τὴν διακονίαν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:19"
@@ -291,7 +291,7 @@ export const apocalipse2v19 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὴν διακονίαν» — integrado ao constituinte com função de objeto direto «… τὴν πίστιν καὶ τὴν διακονίαν καὶ τὴν ὑπομονήν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:19"
@@ -363,7 +363,7 @@ export const apocalipse2v19 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὴν ὑπομονήν σου,» — integrado ao constituinte com função de objeto direto «… τὴν διακονίαν καὶ τὴν ὑπομονήν σου, καὶ τὰ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:19"
@@ -411,7 +411,7 @@ export const apocalipse2v19 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
-      "meanings": "tu",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "Pronome no constituinte «ὑπομονήν σου,» — integrado ao constituinte com função de objeto direto «… καὶ τὴν ὑπομονήν σου, καὶ τὰ ἔργα σου …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:19"
@@ -460,7 +460,7 @@ export const apocalipse2v19 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὰ ἔργα σου τὰ ἔσχατα» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:19"
@@ -508,7 +508,7 @@ export const apocalipse2v19 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
-      "meanings": "tu",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "Pronome no constituinte «ἔργα σου» — integrado ao constituinte com função de sujeito «τὰ ἔργα σου τὰ ἔσχατα». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:19"
@@ -532,7 +532,7 @@ export const apocalipse2v19 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὰ ἔσχατα» — integrado ao constituinte com função de sujeito «τὰ ἔργα σου τὰ ἔσχατα». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:19"
@@ -556,7 +556,7 @@ export const apocalipse2v19 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----APN-",
       "morphology": "Adjetivo acusativo plural neutro",
-      "meanings": "último",
+      "meanings": "Ordinal ou qualificativo da posição final em uma série, ou de sua etapa derradeira.",
       "explanation": "Adjetivo no constituinte «τὰ ἔσχατα» — integrado ao constituinte com função de sujeito «τὰ ἔργα σου τὰ ἔσχατα». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:19"
@@ -580,7 +580,7 @@ export const apocalipse2v19 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----APNC",
       "morphology": "Adjetivo acusativo plural neutro",
-      "meanings": "muito",
+      "meanings": "Quantificador que expressa quantidade elevada, multiplicidade ou intensidade.",
       "explanation": "Predicativo da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:19"
@@ -604,7 +604,7 @@ export const apocalipse2v19 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido genitivo plural neutro",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τῶν πρώτων.» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:19"
@@ -628,7 +628,7 @@ export const apocalipse2v19 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----GPN-",
       "morphology": "Adjetivo genitivo plural neutro",
-      "meanings": "primeiro",
+      "meanings": "Ordinal ou qualificativo de prioridade temporal, posição ou importância.",
       "explanation": "Adjetivo no constituinte «τῶν πρώτων.» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:19"

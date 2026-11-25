@@ -150,7 +150,7 @@ export const apocalipse6v11 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: A- ----NSF-",
-      "meanings": "branco",
+      "meanings": "De cor branca; em imagens visionárias, sua significação simbólica deve ser interpretada no contexto.",
       "explanation": "Adjetivo no constituinte «στολὴ λευκή,» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:11"
@@ -199,7 +199,7 @@ export const apocalipse6v11 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3API-S--",
       "morphology": "MorphGNT 6.12: V- 3API-S--",
-      "meanings": "dizer; declarar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:11"
@@ -560,7 +560,7 @@ export const apocalipse6v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPM-",
       "morphology": "MorphGNT 6.12: N- ----NPM-",
-      "meanings": "irmão",
+      "meanings": "Pessoa com parentesco fraterno; por extensão, membro da mesma comunidade ou grupo de fé.",
       "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:11"
@@ -680,7 +680,7 @@ export const apocalipse6v11 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
-      "meanings": "como",
+      "meanings": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual.",
       "explanation": "Conjunção que articula os constituintes de «ὡς καὶ αὐτοί.» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:11"

@@ -1,0 +1,140 @@
+{
+  "scope": "Ap 1:1–8:13; léxicos cumulativos e compartilhados",
+  "source": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "strongsChecked": 534,
+  "tokenDefinitionsUpdated": 1136,
+  "files": [
+    {
+      "file": "apocalipse-1-1.json",
+      "entriesChecked": 20,
+      "definitionsUpdated": 3,
+      "examplesChecked": 37,
+      "examplesRepaired": 0,
+      "examplesRemoved": 0,
+      "examplesAdded": 0,
+      "unresolved": 0
+    },
+    {
+      "file": "apocalipse-1-2.json",
+      "entriesChecked": 5,
+      "definitionsUpdated": 0,
+      "examplesChecked": 16,
+      "examplesRepaired": 0,
+      "examplesRemoved": 0,
+      "examplesAdded": 0,
+      "unresolved": 0
+    },
+    {
+      "file": "apocalipse-1-3-8.json",
+      "entriesChecked": 59,
+      "definitionsUpdated": 41,
+      "examplesChecked": 67,
+      "examplesRepaired": 47,
+      "examplesRemoved": 0,
+      "examplesAdded": 0,
+      "unresolved": 0
+    },
+    {
+      "file": "apocalipse-1-9-20.json",
+      "entriesChecked": 80,
+      "definitionsUpdated": 65,
+      "examplesChecked": 80,
+      "examplesRepaired": 73,
+      "examplesRemoved": 0,
+      "examplesAdded": 0,
+      "unresolved": 0
+    },
+    {
+      "file": "apocalipse-2-1-12.json",
+      "entriesChecked": 56,
+      "definitionsUpdated": 2,
+      "examplesChecked": 56,
+      "examplesRepaired": 2,
+      "examplesRemoved": 0,
+      "examplesAdded": 0,
+      "unresolved": 0
+    },
+    {
+      "file": "apocalipse-2-13-29.json",
+      "entriesChecked": 62,
+      "definitionsUpdated": 0,
+      "examplesChecked": 62,
+      "examplesRepaired": 1,
+      "examplesRemoved": 0,
+      "examplesAdded": 0,
+      "unresolved": 0
+    },
+    {
+      "file": "apocalipse-3-1-22.json",
+      "entriesChecked": 352,
+      "definitionsUpdated": 114,
+      "examplesChecked": 388,
+      "examplesRepaired": 124,
+      "examplesRemoved": 0,
+      "examplesAdded": 0,
+      "unresolved": 0
+    },
+    {
+      "file": "apocalipse-4-1-11.json",
+      "entriesChecked": 398,
+      "definitionsUpdated": 114,
+      "examplesChecked": 434,
+      "examplesRepaired": 124,
+      "examplesRemoved": 0,
+      "examplesAdded": 0,
+      "unresolved": 0
+    },
+    {
+      "file": "apocalipse-5-1-14.json",
+      "entriesChecked": 427,
+      "definitionsUpdated": 116,
+      "examplesChecked": 463,
+      "examplesRepaired": 124,
+      "examplesRemoved": 0,
+      "examplesAdded": 0,
+      "unresolved": 0
+    },
+    {
+      "file": "apocalipse-6-1-17.json",
+      "entriesChecked": 477,
+      "definitionsUpdated": 116,
+      "examplesChecked": 513,
+      "examplesRepaired": 174,
+      "examplesRemoved": 0,
+      "examplesAdded": 0,
+      "unresolved": 0
+    },
+    {
+      "file": "apocalipse-7-1-17.json",
+      "entriesChecked": 513,
+      "definitionsUpdated": 152,
+      "examplesChecked": 513,
+      "examplesRepaired": 174,
+      "examplesRemoved": 0,
+      "examplesAdded": 36,
+      "unresolved": 0
+    },
+    {
+      "file": "apocalipse-8-1-13.json",
+      "entriesChecked": 534,
+      "definitionsUpdated": 173,
+      "examplesChecked": 513,
+      "examplesRepaired": 174,
+      "examplesRemoved": 0,
+      "examplesAdded": 57,
+      "unresolved": 0
+    },
+    {
+      "file": "apocalipse-9-1-21.json",
+      "entriesChecked": 534,
+      "definitionsUpdated": 173,
+      "examplesChecked": 513,
+      "examplesRepaired": 174,
+      "examplesRemoved": 0,
+      "examplesAdded": 57,
+      "unresolved": 0
+    }
+  ],
+  "unresolved": [],
+  "limitations": "A correspondência do exemplo ao lema e ao versículo é verificável; a seleção de uma acepção semântica específica não é comprovada apenas pela coincidência lexical."
+}

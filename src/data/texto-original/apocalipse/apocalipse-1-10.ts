@@ -122,7 +122,7 @@ export const apocalipse1v10 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de ἡμέρᾳ. Artigo definido dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:10"
@@ -170,7 +170,7 @@ export const apocalipse1v10 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
-      "meanings": "dia",
+      "meanings": "Período diurno ou unidade temporal; em contextos proféticos pode indicar ocasião determinada.",
       "explanation": "Complemento dativo temporal de ἐν. Substantivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:10"
@@ -219,7 +219,7 @@ export const apocalipse1v10 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular",
-      "meanings": "ouvir",
+      "meanings": "Perceber sons ou palavras; escutar, prestar atenção e, em contextos de instrução, acolher o que é ouvido.",
       "explanation": "Predicado verbal de percepção auditiva. Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:10"
@@ -243,7 +243,7 @@ export const apocalipse1v10 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
-      "meanings": "atrás",
+      "meanings": "Advérbio ou preposição imprópria que indica posição posterior, atrás de alguém ou algo.",
       "explanation": "Preposição de localização posterior. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:10"
@@ -267,7 +267,7 @@ export const apocalipse1v10 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
-      "meanings": "eu; mim",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Complemento genitivo de ὀπίσω. Pronome pessoal genitivo singular.",
       "occurrencesExamples": [
         "Ap 1:10"
@@ -291,7 +291,7 @@ export const apocalipse1v10 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
-      "meanings": "voz; som",
+      "meanings": "Som produzido ou percebido, especialmente voz humana ou celestial; pode designar uma proclamação.",
       "explanation": "Objeto direto de ἤκουσα. Substantivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:10"
@@ -315,7 +315,7 @@ export const apocalipse1v10 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
-      "meanings": "grande",
+      "meanings": "De dimensão, intensidade, importância ou quantidade elevada; com voz pode significar alta ou forte.",
       "explanation": "Adjetivo atributivo de φωνήν. Adjetivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:10"
@@ -339,7 +339,7 @@ export const apocalipse1v10 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
-      "meanings": "como",
+      "meanings": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual.",
       "explanation": "Partícula introdutória da comparação. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:10"
@@ -363,7 +363,7 @@ export const apocalipse1v10 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
-      "meanings": "trombeta",
+      "meanings": "Instrumento sonoro usado para anúncios, convocações, culto ou sinais; no texto visionário, figura de proclamação.",
       "explanation": "Genitivo de comparação, em construção elíptica. Substantivo genitivo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:10"

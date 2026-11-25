@@ -50,7 +50,7 @@ export const apocalipse2v10 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2PMD-S--",
       "morphology": "Verbo no presente, voz média, imperativo, 2ª pessoa singular",
-      "meanings": "temer",
+      "meanings": "Sentir medo, receio ou reverência; as nuances dependem do objeto e da situação.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:10"
@@ -147,7 +147,7 @@ export const apocalipse2v10 = {
       "partOfSpeech": "Partícula",
       "morphologyCode": "--------",
       "morphology": "Partícula",
-      "meanings": "eis",
+      "meanings": "Partícula de apresentação que chama atenção para algo visto, anunciado ou relevante no discurso.",
       "explanation": "Partícula no constituinte «ἰδοὺ μέλλει βάλλειν ὁ διάβολος ἐξ ὑμῶν εἰς …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:10"
@@ -219,7 +219,7 @@ export const apocalipse2v10 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «ὁ διάβολος» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:10"
@@ -243,7 +243,7 @@ export const apocalipse2v10 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
-      "meanings": "diabo",
+      "meanings": "Adjetivo que significa caluniador ou acusador; substantivado, designa um adversário ou o Diabo conforme o contexto.",
       "explanation": "Adjetivo no constituinte «ὁ διάβολος» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:10"
@@ -267,7 +267,7 @@ export const apocalipse2v10 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição",
-      "meanings": "de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Preposição que introduz «ἐξ ὑμῶν» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:10"
@@ -291,7 +291,7 @@ export const apocalipse2v10 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GP--",
       "morphology": "Pronome pessoal genitivo plural",
-      "meanings": "tu",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "Pronome no constituinte «ἐξ ὑμῶν» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:10"
@@ -436,7 +436,7 @@ export const apocalipse2v10 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2FAI-P--",
       "morphology": "Verbo no futuro, voz ativa, indicativo, 2ª pessoa plural",
-      "meanings": "ter",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:10"
@@ -460,7 +460,7 @@ export const apocalipse2v10 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
-      "meanings": "tribulação",
+      "meanings": "Pressão, aflição, sofrimento ou circunstância adversa; pode designar provação coletiva.",
       "explanation": "Substantivo no constituinte «θλῖψιν ἡμερῶν δέκα.» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:10"
@@ -484,7 +484,7 @@ export const apocalipse2v10 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPF-",
       "morphology": "Substantivo genitivo plural feminino",
-      "meanings": "dia",
+      "meanings": "Período diurno ou unidade temporal; em contextos proféticos pode indicar ocasião determinada.",
       "explanation": "Substantivo no constituinte «ἡμερῶν δέκα.» — integrado ao constituinte com função de objeto direto «θλῖψιν ἡμερῶν δέκα.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:10"
@@ -605,7 +605,7 @@ export const apocalipse2v10 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
-      "meanings": "morte",
+      "meanings": "Cessação da vida; também condição figurada ou realidade personificada em linguagem visionária.",
       "explanation": "Substantivo no constituinte «ἄχρι θανάτου,» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:10"
@@ -678,7 +678,7 @@ export const apocalipse2v10 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----DS--",
       "morphology": "Pronome pessoal dativo singular",
-      "meanings": "tu",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "Objeto indireto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:10"
@@ -702,7 +702,7 @@ export const apocalipse2v10 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASM-",
       "morphology": "Artigo definido acusativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὸν στέφανον τῆς ζωῆς.» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:10"
@@ -750,7 +750,7 @@ export const apocalipse2v10 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τῆς ζωῆς.» — integrado ao constituinte com função de objeto direto «τὸν στέφανον τῆς ζωῆς.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:10"

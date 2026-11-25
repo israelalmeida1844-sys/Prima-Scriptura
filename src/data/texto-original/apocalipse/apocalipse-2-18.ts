@@ -50,7 +50,7 @@ export const apocalipse2v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τῷ ἀγγέλῳ τῆς ἐν Θυατείροις ἐκκλησίας» — objeto indireto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:18"
@@ -74,7 +74,7 @@ export const apocalipse2v18 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
-      "meanings": "mensageiro",
+      "meanings": "Mensageiro enviado para comunicar ou executar uma tarefa; em Apocalipse, frequentemente um ser celestial.",
       "explanation": "Substantivo no constituinte «ἀγγέλῳ τῆς ἐν Θυατείροις ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Θυατείροις ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:18"
@@ -98,7 +98,7 @@ export const apocalipse2v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τῆς ἐν Θυατείροις ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Θυατείροις ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:18"
@@ -146,7 +146,7 @@ export const apocalipse2v18 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DPN-",
       "morphology": "Substantivo dativo plural neutro",
-      "meanings": "Tiatira",
+      "meanings": "Nome da cidade da Ásia Menor à qual se dirige a quarta carta de Apocalipse.",
       "explanation": "Substantivo no constituinte «ἐν Θυατείροις» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Θυατείροις ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:18"
@@ -170,7 +170,7 @@ export const apocalipse2v18 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
-      "meanings": "assembleia",
+      "meanings": "Reunião ou comunidade convocada; no Novo Testamento, comunidade de seguidores de Cristo, local ou coletiva.",
       "explanation": "Substantivo no constituinte «ἐν Θυατείροις ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Θυατείροις ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:18"
@@ -194,7 +194,7 @@ export const apocalipse2v18 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
-      "meanings": "escrever",
+      "meanings": "Registrar palavras por escrito, redigir uma mensagem ou consignar um nome num documento.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:18"
@@ -243,7 +243,7 @@ export const apocalipse2v18 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
-      "meanings": "dizer",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:18"
@@ -267,7 +267,7 @@ export const apocalipse2v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «ὁ υἱὸς τοῦ θεοῦ,» — integrado ao constituinte com função de sujeito «ὁ υἱὸς τοῦ θεοῦ, ὁ ἔχων τοὺς ὀφθαλμοὺς …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:18"
@@ -291,7 +291,7 @@ export const apocalipse2v18 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
-      "meanings": "filho",
+      "meanings": "Descendente masculino ou designação relacional; pode integrar títulos e expressões de pertencimento.",
       "explanation": "Substantivo no constituinte «υἱὸς τοῦ θεοῦ,» — integrado ao constituinte com função de sujeito «ὁ υἱὸς τοῦ θεοῦ, ὁ ἔχων τοὺς ὀφθαλμοὺς …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:18"
@@ -315,7 +315,7 @@ export const apocalipse2v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τοῦ θεοῦ,» — integrado ao constituinte com função de sujeito «ὁ υἱὸς τοῦ θεοῦ, ὁ ἔχων τοὺς ὀφθαλμοὺς …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:18"
@@ -364,7 +364,7 @@ export const apocalipse2v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «ὁ ἔχων τοὺς ὀφθαλμοὺς αὐτοῦ ὡς φλόγα πυρός, …» — integrado ao constituinte com função de sujeito «… υἱὸς τοῦ θεοῦ, ὁ ἔχων τοὺς ὀφθαλμοὺς αὐτοῦ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:18"
@@ -388,7 +388,7 @@ export const apocalipse2v18 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
-      "meanings": "ter",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "Particípio em construção sintática. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:18"
@@ -412,7 +412,7 @@ export const apocalipse2v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido acusativo plural masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τοὺς ὀφθαλμοὺς αὐτοῦ» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:18"
@@ -436,7 +436,7 @@ export const apocalipse2v18 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APM-",
       "morphology": "Substantivo acusativo plural masculino",
-      "meanings": "olho",
+      "meanings": "Órgão da visão; figuradamente, capacidade de perceber, discernir ou observar.",
       "explanation": "Substantivo no constituinte «ὀφθαλμοὺς αὐτοῦ» — integrado ao constituinte com função de objeto direto «τοὺς ὀφθαλμοὺς αὐτοῦ». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:18"
@@ -484,7 +484,7 @@ export const apocalipse2v18 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção",
-      "meanings": "como",
+      "meanings": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual.",
       "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:18"
@@ -508,7 +508,7 @@ export const apocalipse2v18 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
-      "meanings": "chama",
+      "meanings": "Porção visível de fogo que arde; também imagem de intensidade e brilho.",
       "explanation": "Substantivo no constituinte «φλόγα πυρός,» — integrado ao constituinte com função de segundo objeto «ὡς φλόγα πυρός,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:18"
@@ -532,7 +532,7 @@ export const apocalipse2v18 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo genitivo singular neutro",
-      "meanings": "fogo",
+      "meanings": "Combustão ou chama; em contextos figurados, pode evocar purificação, manifestação ou julgamento.",
       "explanation": "Substantivo no constituinte «φλόγα πυρός,» — integrado ao constituinte com função de segundo objeto «ὡς φλόγα πυρός,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:18"
@@ -581,7 +581,7 @@ export const apocalipse2v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NPM-",
       "morphology": "Artigo definido nominativo plural masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «οἱ πόδες αὐτοῦ» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:18"
@@ -605,7 +605,7 @@ export const apocalipse2v18 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo nominativo plural masculino",
-      "meanings": "pé",
+      "meanings": "Extremidade inferior do membro usado para ficar em pé ou caminhar; também marca posição diante de alguém.",
       "explanation": "Substantivo no constituinte «πόδες αὐτοῦ» — integrado ao constituinte com função de sujeito «οἱ πόδες αὐτοῦ». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:18"
@@ -653,7 +653,7 @@ export const apocalipse2v18 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo nominativo plural masculino",
-      "meanings": "semelhante",
+      "meanings": "Que apresenta semelhança de forma, qualidade ou aparência com outro referente; frequentemente rege dativo.",
       "explanation": "Predicativo da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:18"

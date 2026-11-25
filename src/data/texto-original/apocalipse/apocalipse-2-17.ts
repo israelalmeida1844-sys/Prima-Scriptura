@@ -26,7 +26,7 @@ export const apocalipse2v17 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «ὁ ἔχων οὖς» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:17"
@@ -50,7 +50,7 @@ export const apocalipse2v17 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
-      "meanings": "ter",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "Particípio em construção sintática. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:17"
@@ -98,7 +98,7 @@ export const apocalipse2v17 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 3ª pessoa singular",
-      "meanings": "ouvir",
+      "meanings": "Perceber sons ou palavras; escutar, prestar atenção e, em contextos de instrução, acolher o que é ouvido.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:17"
@@ -122,7 +122,7 @@ export const apocalipse2v17 = {
       "partOfSpeech": "Pronome interrogativo/indefinido",
       "morphologyCode": "----ASN-",
       "morphology": "Pronome interrogativo/indefinido acusativo singular neutro",
-      "meanings": "que?",
+      "meanings": "Pronome interrogativo que solicita a identidade de pessoa ou coisa; suas formas flexionadas desempenham funções diferentes na oração.",
       "explanation": "Objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:17"
@@ -146,7 +146,7 @@ export const apocalipse2v17 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido nominativo singular neutro",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὸ πνεῦμα» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:17"
@@ -194,7 +194,7 @@ export const apocalipse2v17 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
-      "meanings": "dizer",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:17"
@@ -218,7 +218,7 @@ export const apocalipse2v17 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DPF-",
       "morphology": "Artigo definido dativo plural feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «ταῖς ἐκκλησίαις.» — objeto indireto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:17"
@@ -242,7 +242,7 @@ export const apocalipse2v17 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo dativo plural feminino",
-      "meanings": "assembleia",
+      "meanings": "Reunião ou comunidade convocada; no Novo Testamento, comunidade de seguidores de Cristo, local ou coletiva.",
       "explanation": "Substantivo no constituinte «ταῖς ἐκκλησίαις.» — objeto indireto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:17"
@@ -267,7 +267,7 @@ export const apocalipse2v17 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τῷ νικῶντι». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:17"
@@ -363,7 +363,7 @@ export const apocalipse2v17 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido genitivo singular neutro",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τοῦ μάννα» — integrado ao constituinte com função de objeto direto «τοῦ μάννα τοῦ κεκρυμμένου,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:17"
@@ -411,7 +411,7 @@ export const apocalipse2v17 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido genitivo singular neutro",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τοῦ κεκρυμμένου,» — integrado ao constituinte com função de objeto direto «τοῦ μάννα τοῦ κεκρυμμένου,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:17"
@@ -556,7 +556,7 @@ export const apocalipse2v17 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
-      "meanings": "branco",
+      "meanings": "De cor branca; em imagens visionárias, sua significação simbólica deve ser interpretada no contexto.",
       "explanation": "Adjetivo no constituinte «ψῆφον λευκήν,» — integrado ao constituinte com função de objeto direto «ψῆφον λευκήν, καὶ ἐπὶ τὴν ψῆφον ὄνομα καινὸν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:17"
@@ -605,7 +605,7 @@ export const apocalipse2v17 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição",
-      "meanings": "sobre",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Preposição que introduz «ἐπὶ τὴν ψῆφον» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:17"
@@ -629,7 +629,7 @@ export const apocalipse2v17 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὴν ψῆφον» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τὴν ψῆφον». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:17"
@@ -725,7 +725,7 @@ export const apocalipse2v17 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-XPPASN-",
       "morphology": "Verbo no perfeito, voz passiva, particípio acusativo singular neutro",
-      "meanings": "escrever",
+      "meanings": "Registrar palavras por escrito, redigir uma mensagem ou consignar um nome num documento.",
       "explanation": "Particípio em construção sintática. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:17"
@@ -869,7 +869,7 @@ export const apocalipse2v17 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «ὁ λαμβάνων.» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:17"

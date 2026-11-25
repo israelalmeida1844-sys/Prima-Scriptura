@@ -99,7 +99,7 @@ export const apocalipse3v16 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 2ª pessoa singular",
-      "meanings": "ser; estar; existir",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:16"
@@ -268,7 +268,7 @@ export const apocalipse3v16 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----AS--",
       "morphology": "Pronome acusativo singular",
-      "meanings": "tu; vós; você(s)",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:16"
@@ -316,7 +316,7 @@ export const apocalipse3v16 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição ",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:16"
@@ -364,7 +364,7 @@ export const apocalipse3v16 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo genitivo singular neutro",
-      "meanings": "boca",
+      "meanings": "Órgão da fala e alimentação; figuradamente, fonte de palavras ou proclamação.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:16"
@@ -388,7 +388,7 @@ export const apocalipse3v16 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:16"

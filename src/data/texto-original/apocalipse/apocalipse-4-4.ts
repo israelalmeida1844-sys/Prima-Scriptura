@@ -98,7 +98,7 @@ export const apocalipse4v4 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:4"
@@ -122,7 +122,7 @@ export const apocalipse4v4 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo nominativo plural masculino",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:4"
@@ -219,7 +219,7 @@ export const apocalipse4v4 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:4"
@@ -267,7 +267,7 @@ export const apocalipse4v4 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APM-",
       "morphology": "Substantivo acusativo plural masculino",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:4"
@@ -459,7 +459,7 @@ export const apocalipse4v4 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----DPN-",
       "morphology": "Adjetivo dativo plural neutro",
-      "meanings": "branco",
+      "meanings": "De cor branca; em imagens visionárias, sua significação simbólica deve ser interpretada no contexto.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:4"
@@ -508,7 +508,7 @@ export const apocalipse4v4 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:4"
@@ -556,7 +556,7 @@ export const apocalipse4v4 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APF-",
       "morphology": "Substantivo acusativo plural feminino",
-      "meanings": "cabeça",
+      "meanings": "Parte superior do corpo; em sentido figurado pode indicar posição de liderança ou preeminência.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:4"
@@ -628,7 +628,7 @@ export const apocalipse4v4 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----APM-",
       "morphology": "Adjetivo acusativo plural masculino",
-      "meanings": "de ouro; dourado",
+      "meanings": "Adjetivo que caracteriza aquilo que é feito de ouro, revestido de ouro ou semelhante a ele.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:4"

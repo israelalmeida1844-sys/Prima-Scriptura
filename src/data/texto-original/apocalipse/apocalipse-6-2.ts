@@ -103,7 +103,7 @@ export const apocalipse6v2 = {
       "partOfSpeech": "Partícula",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: X- --------",
-      "meanings": "eis; veja",
+      "meanings": "Partícula de apresentação que chama atenção para algo visto, anunciado ou relevante no discurso.",
       "explanation": "Partícula no constituinte «ἰδοὺ ἵππος λευκός,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:2"
@@ -151,7 +151,7 @@ export const apocalipse6v2 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSM-",
       "morphology": "MorphGNT 6.12: A- ----NSM-",
-      "meanings": "branco",
+      "meanings": "De cor branca; em imagens visionárias, sua significação simbólica deve ser interpretada no contexto.",
       "explanation": "Adjetivo no constituinte «ἰδοὺ ἵππος λευκός,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:2"
@@ -248,7 +248,7 @@ export const apocalipse6v2 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Conector preposicional. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:2"
@@ -296,7 +296,7 @@ export const apocalipse6v2 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
       "morphology": "MorphGNT 6.12: V- -PAPNSM-",
-      "meanings": "ter; segurar",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:2"

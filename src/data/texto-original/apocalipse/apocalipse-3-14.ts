@@ -146,7 +146,7 @@ export const apocalipse3v14 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
-      "meanings": "Laodiceia",
+      "meanings": "Nome da cidade da Ásia Menor à qual se dirige a sétima carta de Apocalipse.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:14"
@@ -170,7 +170,7 @@ export const apocalipse3v14 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
-      "meanings": "assembleia; igreja",
+      "meanings": "Reunião ou comunidade convocada; no Novo Testamento, comunidade de seguidores de Cristo, local ou coletiva.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:14"
@@ -194,7 +194,7 @@ export const apocalipse3v14 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo aoristo, voz ativa, imperativo, 2ª pessoa singular",
-      "meanings": "escrever; registrar",
+      "meanings": "Registrar palavras por escrito, redigir uma mensagem ou consignar um nome num documento.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:14"
@@ -243,7 +243,7 @@ export const apocalipse3v14 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 3ª pessoa singular",
-      "meanings": "dizer; declarar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:14"
@@ -291,7 +291,7 @@ export const apocalipse3v14 = {
       "partOfSpeech": "Partícula",
       "morphologyCode": "--------",
       "morphology": "Partícula ",
-      "meanings": "amém; assim seja",
+      "meanings": "Partícula de confirmação ou ratificação de origem semítica, empregada para afirmar a veracidade de uma declaração.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:14"
@@ -340,7 +340,7 @@ export const apocalipse3v14 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
-      "meanings": "testemunha",
+      "meanings": "Pessoa que atesta fatos ou declara uma verdade; o contexto pode associar o testemunho ao sofrimento.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:14"

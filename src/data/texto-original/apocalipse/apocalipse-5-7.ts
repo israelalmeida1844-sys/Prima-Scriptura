@@ -54,7 +54,7 @@ export const apocalipse5v7 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-S--",
       "morphology": "MorphGNT 6.12: V- 3AAI-S--",
-      "meanings": "vir; chegar",
+      "meanings": "Movimento em direção a um lugar ou pessoa, ou chegada de alguém ou de um acontecimento.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:7"
@@ -126,7 +126,7 @@ export const apocalipse5v7 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Preposição que introduz «ἐκ τῆς δεξιᾶς τοῦ καθημένου ἐπὶ τοῦ θρόνου.» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:7"
@@ -174,7 +174,7 @@ export const apocalipse5v7 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: A- ----GSF-",
-      "meanings": "direita; direito",
+      "meanings": "Que pertence ao lado direito; substantivado, pode designar a mão direita ou essa posição.",
       "explanation": "Adjetivo no constituinte «δεξιᾶς τοῦ καθημένου ἐπὶ τοῦ θρόνου.» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῆς δεξιᾶς τοῦ καθημένου ἐπὶ τοῦ θρόνου.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:7"
@@ -246,7 +246,7 @@ export const apocalipse5v7 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Preposição que introduz «ἐπὶ τοῦ θρόνου.» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:7"
@@ -294,7 +294,7 @@ export const apocalipse5v7 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "MorphGNT 6.12: N- ----GSM-",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "Substantivo no constituinte «τοῦ θρόνου.» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τοῦ θρόνου.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:7"

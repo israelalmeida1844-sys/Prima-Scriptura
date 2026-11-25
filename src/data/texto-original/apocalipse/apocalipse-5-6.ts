@@ -102,7 +102,7 @@ export const apocalipse5v6 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----DSN-",
       "morphology": "MorphGNT 6.12: A- ----DSN-",
-      "meanings": "meio; centro",
+      "meanings": "Que ocupa posição intermediária ou central; substantivado em expressões de localização.",
       "explanation": "Adjetivo no constituinte «μέσῳ τοῦ θρόνου καὶ τῶν τεσσάρων ζῴων» — integrado ao constituinte com função de adjunto adverbial «ἐν μέσῳ τοῦ θρόνου καὶ τῶν τεσσάρων ζῴων …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:6"
@@ -150,7 +150,7 @@ export const apocalipse5v6 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "MorphGNT 6.12: N- ----GSM-",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "Substantivo no constituinte «τοῦ θρόνου» — integrado ao constituinte com função de adjunto adverbial «ἐν μέσῳ τοῦ θρόνου καὶ τῶν τεσσάρων ζῴων …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:6"
@@ -318,7 +318,7 @@ export const apocalipse5v6 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----DSN-",
       "morphology": "MorphGNT 6.12: A- ----DSN-",
-      "meanings": "meio; centro",
+      "meanings": "Que ocupa posição intermediária ou central; substantivado em expressões de localização.",
       "explanation": "Adjetivo no constituinte «μέσῳ τῶν πρεσβυτέρων» — integrado ao constituinte com função de adjunto adverbial «… τῶν τεσσάρων ζῴων καὶ ἐν μέσῳ τῶν πρεσβυτέρων». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:6"
@@ -438,7 +438,7 @@ export const apocalipse5v6 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
-      "meanings": "como",
+      "meanings": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual.",
       "explanation": "Conjunção que articula os constituintes de «ὡς ἐσφαγμένον,» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:6"
@@ -487,7 +487,7 @@ export const apocalipse5v6 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
       "morphology": "MorphGNT 6.12: V- -PAPNSM-",
-      "meanings": "ter; segurar",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:6"
@@ -535,7 +535,7 @@ export const apocalipse5v6 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----APN-",
       "morphology": "MorphGNT 6.12: A- ----APN-",
-      "meanings": "sete",
+      "meanings": "Numeral cardinal que indica sete unidades; o valor simbólico de uma enumeração depende do contexto.",
       "explanation": "Numeral no constituinte «κέρατα ἑπτὰ» — integrado ao constituinte com função de objeto direto «κέρατα ἑπτὰ καὶ ὀφθαλμοὺς ἑπτά, οἵ εἰσιν τὰ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:6"
@@ -583,7 +583,7 @@ export const apocalipse5v6 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APM-",
       "morphology": "MorphGNT 6.12: N- ----APM-",
-      "meanings": "olho",
+      "meanings": "Órgão da visão; figuradamente, capacidade de perceber, discernir ou observar.",
       "explanation": "Substantivo no constituinte «ὀφθαλμοὺς ἑπτά,» — integrado ao constituinte com função de objeto direto «κέρατα ἑπτὰ καὶ ὀφθαλμοὺς ἑπτά, οἵ εἰσιν τὰ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:6"
@@ -607,7 +607,7 @@ export const apocalipse5v6 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----APM-",
       "morphology": "MorphGNT 6.12: A- ----APM-",
-      "meanings": "sete",
+      "meanings": "Numeral cardinal que indica sete unidades; o valor simbólico de uma enumeração depende do contexto.",
       "explanation": "Numeral no constituinte «ὀφθαλμοὺς ἑπτά,» — integrado ao constituinte com função de objeto direto «… ἑπτὰ καὶ ὀφθαλμοὺς ἑπτά, οἵ εἰσιν τὰ ἑπτὰ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:6"
@@ -656,7 +656,7 @@ export const apocalipse5v6 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
       "morphology": "MorphGNT 6.12: V- 3PAI-P--",
-      "meanings": "ser; estar; existir",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "Verbo de ligação da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:6"
@@ -704,7 +704,7 @@ export const apocalipse5v6 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NPN-",
       "morphology": "MorphGNT 6.12: A- ----NPN-",
-      "meanings": "sete",
+      "meanings": "Numeral cardinal que indica sete unidades; o valor simbólico de uma enumeração depende do contexto.",
       "explanation": "Numeral no constituinte «ἑπτὰ πνεύματα τοῦ θεοῦ, ἀπεσταλμένοι εἰς πᾶσαν τὴν …» — integrado ao constituinte com função de predicativo «τὰ ἑπτὰ πνεύματα τοῦ θεοῦ, ἀπεσταλμένοι εἰς πᾶσαν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:6"
@@ -849,7 +849,7 @@ export const apocalipse5v6 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: A- ----ASF-",
-      "meanings": "todo; cada",
+      "meanings": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",
       "explanation": "Adjetivo no constituinte «πᾶσαν τὴν γῆν.» — integrado ao constituinte com função de adjunto adverbial «εἰς πᾶσαν τὴν γῆν.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:6"
@@ -897,7 +897,7 @@ export const apocalipse5v6 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: N- ----ASF-",
-      "meanings": "terra; solo",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Substantivo no constituinte «τὴν γῆν.» — integrado ao constituinte com função de adjunto adverbial «εἰς πᾶσαν τὴν γῆν.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:6"

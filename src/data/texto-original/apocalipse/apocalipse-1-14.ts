@@ -26,7 +26,7 @@ export const apocalipse1v14 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSF-",
       "morphology": "Artigo definido nominativo singular feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de κεφαλή. Artigo definido nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:14"
@@ -50,7 +50,7 @@ export const apocalipse1v14 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
-      "meanings": "mas; e; por sua vez",
+      "meanings": "Conjunção pós-positiva que articula enunciados por continuidade, transição ou contraste conforme o contexto.",
       "explanation": "Conjunção que introduz novo traço da figura. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:14"
@@ -74,7 +74,7 @@ export const apocalipse1v14 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
-      "meanings": "cabeça",
+      "meanings": "Parte superior do corpo; em sentido figurado pode indicar posição de liderança ou preeminência.",
       "explanation": "Primeiro sujeito da descrição nominal. Substantivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:14"
@@ -146,7 +146,7 @@ export const apocalipse1v14 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NPF-",
       "morphology": "Artigo definido nominativo plural feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de τρίχες. Artigo definido nominativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:14"
@@ -194,7 +194,7 @@ export const apocalipse1v14 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo nominativo plural feminino",
-      "meanings": "branco",
+      "meanings": "De cor branca; em imagens visionárias, sua significação simbólica deve ser interpretada no contexto.",
       "explanation": "Predicativo plural, concorda formalmente com τρίχες. Adjetivo nominativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:14"
@@ -218,7 +218,7 @@ export const apocalipse1v14 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
-      "meanings": "como",
+      "meanings": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual.",
       "explanation": "Introduz a primeira comparação. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:14"
@@ -242,7 +242,7 @@ export const apocalipse1v14 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo nominativo singular neutro",
-      "meanings": "lã",
+      "meanings": "Fibra têxtil animal, especialmente de ovelhas; empregada em comparações de cor ou textura.",
       "explanation": "Termo da comparação com λευκαί. Substantivo nominativo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:14"
@@ -266,7 +266,7 @@ export const apocalipse1v14 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
-      "meanings": "branco",
+      "meanings": "De cor branca; em imagens visionárias, sua significação simbólica deve ser interpretada no contexto.",
       "explanation": "Adjetivo atributivo de ἔριον. Adjetivo nominativo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:14"
@@ -291,7 +291,7 @@ export const apocalipse1v14 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
-      "meanings": "como",
+      "meanings": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual.",
       "explanation": "Introduz a segunda comparação. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:14"
@@ -315,7 +315,7 @@ export const apocalipse1v14 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
-      "meanings": "neve",
+      "meanings": "Precipitação de cristais de gelo; usada em comparações de brancura.",
       "explanation": "Termo da comparação com λευκαί. Substantivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:14"
@@ -364,7 +364,7 @@ export const apocalipse1v14 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NPM-",
       "morphology": "Artigo definido nominativo plural masculino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de ὀφθαλμοί. Artigo definido nominativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:14"
@@ -388,7 +388,7 @@ export const apocalipse1v14 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo nominativo plural masculino",
-      "meanings": "olho",
+      "meanings": "Órgão da visão; figuradamente, capacidade de perceber, discernir ou observar.",
       "explanation": "Sujeito da oração nominal. Substantivo nominativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:14"
@@ -436,7 +436,7 @@ export const apocalipse1v14 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
-      "meanings": "como",
+      "meanings": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual.",
       "explanation": "Partícula de comparação. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:14"
@@ -460,7 +460,7 @@ export const apocalipse1v14 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
-      "meanings": "chama",
+      "meanings": "Porção visível de fogo que arde; também imagem de intensidade e brilho.",
       "explanation": "Predicativo comparativo de ὀφθαλμοί. Substantivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:14"
@@ -484,7 +484,7 @@ export const apocalipse1v14 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo genitivo singular neutro",
-      "meanings": "fogo",
+      "meanings": "Combustão ou chama; em contextos figurados, pode evocar purificação, manifestação ou julgamento.",
       "explanation": "Genitivo de caracterização de φλόξ. Substantivo genitivo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:14"

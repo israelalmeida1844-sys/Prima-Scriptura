@@ -54,7 +54,7 @@ export const apocalipse6v5 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
-      "meanings": "quando",
+      "meanings": "Conjunção temporal que situa uma ação em relação a outra.",
       "explanation": "Conjunção que articula os constituintes de «ὅτε ἤνοιξε τὴν σφραγῖδα τὴν τρίτην,» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:5"
@@ -199,7 +199,7 @@ export const apocalipse6v5 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AAI-S--",
       "morphology": "MorphGNT 6.12: V- 1AAI-S--",
-      "meanings": "ouvir; escutar",
+      "meanings": "Perceber sons ou palavras; escutar, prestar atenção e, em contextos de instrução, acolher o que é ouvido.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:5"
@@ -295,7 +295,7 @@ export const apocalipse6v5 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPGSN-",
       "morphology": "MorphGNT 6.12: V- -PAPGSN-",
-      "meanings": "dizer; declarar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:5"
@@ -320,7 +320,7 @@ export const apocalipse6v5 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2PMD-S--",
       "morphology": "MorphGNT 6.12: V- 2PMD-S--",
-      "meanings": "vir; chegar",
+      "meanings": "Movimento em direção a um lugar ou pessoa, ou chegada de alguém ou de um acontecimento.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:5"
@@ -418,7 +418,7 @@ export const apocalipse6v5 = {
       "partOfSpeech": "Partícula",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: X- --------",
-      "meanings": "eis; veja",
+      "meanings": "Partícula de apresentação que chama atenção para algo visto, anunciado ou relevante no discurso.",
       "explanation": "Partícula no constituinte «ἰδοὺ ἵππος μέλας,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:5"
@@ -563,7 +563,7 @@ export const apocalipse6v5 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Conector preposicional. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:5"
@@ -611,7 +611,7 @@ export const apocalipse6v5 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
       "morphology": "MorphGNT 6.12: V- -PAPNSM-",
-      "meanings": "ter; segurar",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:5"
@@ -707,7 +707,7 @@ export const apocalipse6v5 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
       "morphology": "MorphGNT 6.12: N- ----DSF-",
-      "meanings": "mão",
+      "meanings": "Órgão usado para segurar e agir; por extensão, meio, poder ou posse em determinadas expressões.",
       "explanation": "Núcleo/complemento nominal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:5"

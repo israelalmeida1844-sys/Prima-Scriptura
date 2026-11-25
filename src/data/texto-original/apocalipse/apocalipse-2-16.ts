@@ -50,7 +50,7 @@ export const apocalipse2v16 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção",
-      "meanings": "portanto",
+      "meanings": "Conjunção pós-positiva que introduz inferência, consequência ou retomada do raciocínio.",
       "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:16"
@@ -99,7 +99,7 @@ export const apocalipse2v16 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção",
-      "meanings": "porém",
+      "meanings": "Conjunção pós-positiva que articula enunciados por continuidade, transição ou contraste conforme o contexto.",
       "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:16"
@@ -148,7 +148,7 @@ export const apocalipse2v16 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1PMI-S--",
       "morphology": "Verbo no presente, voz média, indicativo, 1ª pessoa singular",
-      "meanings": "vir",
+      "meanings": "Movimento em direção a um lugar ou pessoa, ou chegada de alguém ou de um acontecimento.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:16"
@@ -172,7 +172,7 @@ export const apocalipse2v16 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----DS--",
       "morphology": "Pronome pessoal dativo singular",
-      "meanings": "tu",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "Adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:16"
@@ -269,7 +269,7 @@ export const apocalipse2v16 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição",
-      "meanings": "com",
+      "meanings": "Preposição que, com genitivo, indica companhia ou associação e, com acusativo, normalmente sucessão temporal ou espacial.",
       "explanation": "Preposição que introduz «μετ’ αὐτῶν» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:16"
@@ -341,7 +341,7 @@ export const apocalipse2v16 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τῇ ῥομφαίᾳ τοῦ στόματός μου.» — integrado ao constituinte com função de adjunto adverbial «ἐν τῇ ῥομφαίᾳ τοῦ στόματός μου.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:16"
@@ -389,7 +389,7 @@ export const apocalipse2v16 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido genitivo singular neutro",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τοῦ στόματός μου.» — integrado ao constituinte com função de adjunto adverbial «ἐν τῇ ῥομφαίᾳ τοῦ στόματός μου.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:16"
@@ -413,7 +413,7 @@ export const apocalipse2v16 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo genitivo singular neutro",
-      "meanings": "boca",
+      "meanings": "Órgão da fala e alimentação; figuradamente, fonte de palavras ou proclamação.",
       "explanation": "Substantivo no constituinte «στόματός μου.» — integrado ao constituinte com função de adjunto adverbial «ἐν τῇ ῥομφαίᾳ τοῦ στόματός μου.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:16"
@@ -437,7 +437,7 @@ export const apocalipse2v16 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
-      "meanings": "eu",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Pronome no constituinte «στόματός μου.» — integrado ao constituinte com função de adjunto adverbial «ἐν τῇ ῥομφαίᾳ τοῦ στόματός μου.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:16"

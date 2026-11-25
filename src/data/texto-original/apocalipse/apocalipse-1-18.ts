@@ -50,7 +50,7 @@ export const apocalipse1v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Artigo substantivador de ζῶν. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:18"
@@ -74,7 +74,7 @@ export const apocalipse1v18 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
-      "meanings": "viver",
+      "meanings": "Estar vivo ou exercer a vida; pode descrever vida física, espiritual ou um modo de viver.",
       "explanation": "Particípio substantivado em aposição aos títulos anteriores. Verbo no presente, voz ativa, particípio nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:18"
@@ -147,7 +147,7 @@ export const apocalipse1v18 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
-      "meanings": "morto",
+      "meanings": "Que perdeu a vida; em sentido figurado, descreve condição de inatividade ou ausência de vida espiritual.",
       "explanation": "Predicativo de ἐγενόμην. Adjetivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:18"
@@ -195,7 +195,7 @@ export const apocalipse1v18 = {
       "partOfSpeech": "Partícula",
       "morphologyCode": "--------",
       "morphology": "Partícula (indeclinável)",
-      "meanings": "eis; veja",
+      "meanings": "Partícula de apresentação que chama atenção para algo visto, anunciado ou relevante no discurso.",
       "explanation": "Partícula de apresentação enfática. Partícula (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:18"
@@ -219,7 +219,7 @@ export const apocalipse1v18 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
-      "meanings": "viver",
+      "meanings": "Estar vivo ou exercer a vida; pode descrever vida física, espiritual ou um modo de viver.",
       "explanation": "Particípio predicativo na construção com εἰμι. Verbo no presente, voz ativa, particípio nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:18"
@@ -243,7 +243,7 @@ export const apocalipse1v18 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
-      "meanings": "ser; estar",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "Cópula de ζῶν. Verbo no presente, voz ativa, indicativo, 1ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:18"
@@ -291,7 +291,7 @@ export const apocalipse1v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido acusativo plural masculino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de αἰῶνας. Artigo definido acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:18"
@@ -339,7 +339,7 @@ export const apocalipse1v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de αἰώνων. Artigo definido genitivo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:18"
@@ -412,7 +412,7 @@ export const apocalipse1v18 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
-      "meanings": "ter; segurar",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "Predicado verbal presente de primeira pessoa. Verbo no presente, voz ativa, indicativo, 1ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:18"
@@ -436,7 +436,7 @@ export const apocalipse1v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APF-",
       "morphology": "Artigo definido acusativo plural feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de κλεῖς. Artigo definido acusativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:18"
@@ -460,7 +460,7 @@ export const apocalipse1v18 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APF-",
       "morphology": "Substantivo acusativo plural feminino",
-      "meanings": "chave",
+      "meanings": "Instrumento que abre ou fecha; figuradamente, autoridade de acesso ou controle.",
       "explanation": "Objeto direto de ἔχω. Substantivo acusativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:18"
@@ -484,7 +484,7 @@ export const apocalipse1v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de θανάτου. Artigo definido genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:18"
@@ -508,7 +508,7 @@ export const apocalipse1v18 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
-      "meanings": "morte",
+      "meanings": "Cessação da vida; também condição figurada ou realidade personificada em linguagem visionária.",
       "explanation": "Genitivo adnominal de κλεῖς. Substantivo genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:18"
@@ -556,7 +556,7 @@ export const apocalipse1v18 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de ᾅδου. Artigo definido genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:18"

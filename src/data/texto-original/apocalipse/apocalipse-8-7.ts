@@ -79,7 +79,7 @@ export const apocalipse8v7 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo / numeral · nominativo · singular · masculino (MorphGNT: A- ----NSM-)",
-      "meanings": "primeiro",
+      "meanings": "Ordinal ou qualificativo de prioridade temporal, posição ou importância.",
       "explanation": "Sujeito substantivado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
@@ -104,7 +104,7 @@ export const apocalipse8v7 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
-      "meanings": "tocar trombeta",
+      "meanings": "Produzir o som de uma trombeta; em Ap 8, introduz cada cena do septenário.",
       "explanation": "Verbo principal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
@@ -179,7 +179,7 @@ export const apocalipse8v7 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
-      "meanings": "granizo",
+      "meanings": "Precipitação de pedras de gelo; em textos proféticos, pode integrar imagens de juízo.",
       "explanation": "Sujeito coordenado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
@@ -229,7 +229,7 @@ export const apocalipse8v7 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo · nominativo · singular · neutro (MorphGNT: N- ----NSN-)",
-      "meanings": "fogo",
+      "meanings": "Combustão ou chama; em contextos figurados, pode evocar purificação, manifestação ou julgamento.",
       "explanation": "Sujeito coordenado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
@@ -254,7 +254,7 @@ export const apocalipse8v7 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-XPPNPN-",
       "morphology": "Verbo · perfeito · voz passiva · particípio · nominativo · plural · neutro (MorphGNT: V- -XPPNPN-)",
-      "meanings": "misturar",
+      "meanings": "Combinar substâncias ou elementos, produzindo uma mistura.",
       "explanation": "Particípio predicativo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
@@ -304,7 +304,7 @@ export const apocalipse8v7 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSN-",
       "morphology": "Substantivo · dativo · singular · neutro (MorphGNT: N- ----DSN-)",
-      "meanings": "sangue",
+      "meanings": "Fluido vital; em contextos sacrificiais ou violentos pode representar vida entregue, morte ou responsabilidade pelo derramamento.",
       "explanation": "Dativo de associação. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
@@ -429,7 +429,7 @@ export const apocalipse8v7 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
-      "meanings": "terra",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Função não individualizada; consultar análise do versículo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
@@ -554,7 +554,7 @@ export const apocalipse8v7 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
-      "meanings": "terra",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Genitivo partitivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
@@ -579,7 +579,7 @@ export const apocalipse8v7 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
-      "meanings": "queimar completamente",
+      "meanings": "Consumir ou destruir algo pelo fogo.",
       "explanation": "Verbo passivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
@@ -704,7 +704,7 @@ export const apocalipse8v7 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
-      "meanings": "árvore",
+      "meanings": "Planta lenhosa de porte arbóreo; designação genérica da vegetação arbórea.",
       "explanation": "Genitivo partitivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
@@ -729,7 +729,7 @@ export const apocalipse8v7 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
-      "meanings": "queimar completamente",
+      "meanings": "Consumir ou destruir algo pelo fogo.",
       "explanation": "Verbo passivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
@@ -779,7 +779,7 @@ export const apocalipse8v7 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo / numeral · nominativo · singular · masculino (MorphGNT: A- ----NSM-)",
-      "meanings": "todo",
+      "meanings": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",
       "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
@@ -804,7 +804,7 @@ export const apocalipse8v7 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
-      "meanings": "erva; vegetação",
+      "meanings": "Vegetação herbácea ou capim; pode designar alimento vegetal.",
       "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"
@@ -854,7 +854,7 @@ export const apocalipse8v7 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
-      "meanings": "queimar completamente",
+      "meanings": "Consumir ou destruir algo pelo fogo.",
       "explanation": "Verbo passivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:7"

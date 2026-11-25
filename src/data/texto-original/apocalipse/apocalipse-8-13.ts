@@ -104,7 +104,7 @@ export const apocalipse8v13 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 1ª pessoa · singular (MorphGNT: V- 1AAI-S--)",
-      "meanings": "ouvir",
+      "meanings": "Perceber sons ou palavras; escutar, prestar atenção e, em contextos de instrução, acolher o que é ouvido.",
       "explanation": "Verbo coordenado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
@@ -229,7 +229,7 @@ export const apocalipse8v13 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSN-",
       "morphology": "Substantivo · dativo · singular · neutro (MorphGNT: N- ----DSN-)",
-      "meanings": "meio do céu",
+      "meanings": "Região do céu situada em posição elevada ou central, onde algo pode ser amplamente visto ou ouvido.",
       "explanation": "Localização. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
@@ -254,7 +254,7 @@ export const apocalipse8v13 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPGSM-",
       "morphology": "Verbo · presente · voz ativa · particípio · genitivo · singular · masculino (MorphGNT: V- -PAPGSM-)",
-      "meanings": "dizer",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Particípio circunstancial. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
@@ -279,7 +279,7 @@ export const apocalipse8v13 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo · dativo · singular · feminino (MorphGNT: N- ----DSF-)",
-      "meanings": "voz",
+      "meanings": "Som produzido ou percebido, especialmente voz humana ou celestial; pode designar uma proclamação.",
       "explanation": "Dativo de modo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
@@ -304,7 +304,7 @@ export const apocalipse8v13 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----DSF-",
       "morphology": "Adjetivo / numeral · dativo · singular · feminino (MorphGNT: A- ----DSF-)",
-      "meanings": "grande",
+      "meanings": "De dimensão, intensidade, importância ou quantidade elevada; com voz pode significar alta ou forte.",
       "explanation": "Adjetivo atributivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
@@ -454,7 +454,7 @@ export const apocalipse8v13 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "sobre",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
@@ -504,7 +504,7 @@ export const apocalipse8v13 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
-      "meanings": "terra",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Localização. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
@@ -529,7 +529,7 @@ export const apocalipse8v13 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
@@ -604,7 +604,7 @@ export const apocalipse8v13 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPF-",
       "morphology": "Substantivo · genitivo · plural · feminino (MorphGNT: N- ----GPF-)",
-      "meanings": "voz",
+      "meanings": "Som produzido ou percebido, especialmente voz humana ou celestial; pode designar uma proclamação.",
       "explanation": "Causa dos ais. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
@@ -654,7 +654,7 @@ export const apocalipse8v13 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
-      "meanings": "trombeta",
+      "meanings": "Instrumento sonoro usado para anúncios, convocações, culto ou sinais; no texto visionário, figura de proclamação.",
       "explanation": "Genitivo de especificação. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"
@@ -804,7 +804,7 @@ export const apocalipse8v13 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAN----",
       "morphology": "Verbo · presente · voz ativa · infinitivo (MorphGNT: V- -PAN----)",
-      "meanings": "tocar trombeta",
+      "meanings": "Produzir o som de uma trombeta; em Ap 8, introduz cada cena do septenário.",
       "explanation": "Infinitivo complementar. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:13"

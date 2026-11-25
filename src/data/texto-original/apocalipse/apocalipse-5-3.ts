@@ -199,7 +199,7 @@ export const apocalipse5v3 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Preposição que introduz «ἐπὶ τῆς γῆς» — integrado ao constituinte com função de sujeito «… τῷ οὐρανῷ οὐδὲ ἐπὶ τῆς γῆς οὐδὲ ὑποκάτω …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:3"
@@ -247,7 +247,7 @@ export const apocalipse5v3 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: N- ----GSF-",
-      "meanings": "terra; solo",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Substantivo no constituinte «τῆς γῆς» — integrado ao constituinte com função de sujeito «… οὐδὲ ἐπὶ τῆς γῆς οὐδὲ ὑποκάτω τῆς γῆς». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:3"
@@ -344,7 +344,7 @@ export const apocalipse5v3 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: N- ----GSF-",
-      "meanings": "terra; solo",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Substantivo no constituinte «τῆς γῆς» — integrado ao constituinte com função de sujeito «… οὐδὲ ἐπὶ τῆς γῆς οὐδὲ ὑποκάτω τῆς γῆς». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:3"
@@ -416,7 +416,7 @@ export const apocalipse5v3 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: N- ----ASN-",
-      "meanings": "livro; rolo",
+      "meanings": "Documento escrito ou livro em forma de rolo ou outro suporte antigo; o contexto determina a forma material.",
       "explanation": "Substantivo no constituinte «τὸ βιβλίον» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:3"
@@ -464,7 +464,7 @@ export const apocalipse5v3 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAN----",
       "morphology": "MorphGNT 6.12: V- -PAN----",
-      "meanings": "ver; observar",
+      "meanings": "Perceber pela visão, dirigir o olhar ou, figuradamente, perceber e discernir.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:3"

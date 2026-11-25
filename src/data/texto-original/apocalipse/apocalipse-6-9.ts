@@ -54,7 +54,7 @@ export const apocalipse6v9 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: C- --------",
-      "meanings": "quando",
+      "meanings": "Conjunção temporal que situa uma ação em relação a outra.",
       "explanation": "Conjunção que articula os constituintes de «ὅτε ἤνοιξεν τὴν πέμπτην σφραγῖδα,» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:9"
@@ -607,7 +607,7 @@ export const apocalipse6v9 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3IAI-P--",
       "morphology": "MorphGNT 6.12: V- 3IAI-P--",
-      "meanings": "ter; segurar",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 6:9"

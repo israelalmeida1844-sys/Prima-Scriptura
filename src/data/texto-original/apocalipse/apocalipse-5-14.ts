@@ -126,7 +126,7 @@ export const apocalipse5v14 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3IAI-P--",
       "morphology": "MorphGNT 6.12: V- 3IAI-P--",
-      "meanings": "dizer; declarar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:14"
@@ -151,7 +151,7 @@ export const apocalipse5v14 = {
       "partOfSpeech": "Partícula",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: X- --------",
-      "meanings": "amém; assim seja",
+      "meanings": "Partícula de confirmação ou ratificação de origem semítica, empregada para afirmar a veracidade de uma declaração.",
       "explanation": "Elemento de ligação ou estruturação. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:14"
@@ -248,7 +248,7 @@ export const apocalipse5v14 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-P--",
       "morphology": "MorphGNT 6.12: V- 3AAI-P--",
-      "meanings": "cair",
+      "meanings": "Mover-se para baixo, cair ou prostrar-se; figuradamente, perder uma posição ou condição.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:14"

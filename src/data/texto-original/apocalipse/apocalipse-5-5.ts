@@ -78,7 +78,7 @@ export const apocalipse5v5 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Preposição que introduz «ἐκ τῶν πρεσβυτέρων» — integrado ao constituinte com função de sujeito «εἷς ἐκ τῶν πρεσβυτέρων». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
@@ -150,7 +150,7 @@ export const apocalipse5v5 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-S--",
       "morphology": "MorphGNT 6.12: V- 3PAI-S--",
-      "meanings": "dizer; declarar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
@@ -174,7 +174,7 @@ export const apocalipse5v5 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----DS--",
       "morphology": "MorphGNT 6.12: RP ----DS--",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Objeto indireto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
@@ -248,7 +248,7 @@ export const apocalipse5v5 = {
       "partOfSpeech": "Partícula",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: X- --------",
-      "meanings": "eis; veja",
+      "meanings": "Partícula de apresentação que chama atenção para algo visto, anunciado ou relevante no discurso.",
       "explanation": "Elemento de ligação ou estruturação. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
@@ -368,7 +368,7 @@ export const apocalipse5v5 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Preposição que introduz «ἐκ τῆς φυλῆς Ἰούδα,» — integrado ao constituinte com função de sujeito «ὁ λέων ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
@@ -586,7 +586,7 @@ export const apocalipse5v5 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: N- ----ASN-",
-      "meanings": "livro; rolo",
+      "meanings": "Documento escrito ou livro em forma de rolo ou outro suporte antigo; o contexto determina a forma material.",
       "explanation": "Substantivo no constituinte «τὸ βιβλίον» — integrado ao constituinte com função de objeto direto «τὸ βιβλίον καὶ τὰς ἑπτὰ σφραγῖδας αὐτοῦ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"
@@ -658,7 +658,7 @@ export const apocalipse5v5 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----APF-",
       "morphology": "MorphGNT 6.12: A- ----APF-",
-      "meanings": "sete",
+      "meanings": "Numeral cardinal que indica sete unidades; o valor simbólico de uma enumeração depende do contexto.",
       "explanation": "Numeral no constituinte «ἑπτὰ σφραγῖδας αὐτοῦ.» — integrado ao constituinte com função de objeto direto «τὸ βιβλίον καὶ τὰς ἑπτὰ σφραγῖδας αὐτοῦ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:5"

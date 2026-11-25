@@ -50,7 +50,7 @@ export const apocalipse4v11 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo presente, voz ativa, indicativo, 2ª pessoa singular",
-      "meanings": "ser; estar; existir",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:11"
@@ -99,7 +99,7 @@ export const apocalipse4v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
-      "meanings": "Senhor",
+      "meanings": "Pessoa investida de autoridade, proprietário ou tratamento respeitoso; título aplicado a Deus ou a Cristo.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:11"
@@ -195,7 +195,7 @@ export const apocalipse4v11 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GP--",
       "morphology": "Pronome pessoal genitivo plural",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:11"
@@ -268,7 +268,7 @@ export const apocalipse4v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
-      "meanings": "glória",
+      "meanings": "Honra, esplendor, reputação ou manifestação de majestade; em doxologias, reconhecimento da dignidade divina.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:11"
@@ -412,7 +412,7 @@ export const apocalipse4v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
-      "meanings": "força; poder",
+      "meanings": "Capacidade de agir, força ou poder efetivo; o contexto pode indicar manifestações extraordinárias de poder.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:11"
@@ -461,7 +461,7 @@ export const apocalipse4v11 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal nominativo singular",
-      "meanings": "tu; vós; você(s)",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:11"
@@ -533,7 +533,7 @@ export const apocalipse4v11 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----APN-",
       "morphology": "Adjetivo acusativo plural neutro",
-      "meanings": "todo; cada",
+      "meanings": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:11"
@@ -654,7 +654,7 @@ export const apocalipse4v11 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
-      "meanings": "tu; vós; você(s)",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:11"
@@ -678,7 +678,7 @@ export const apocalipse4v11 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3IAI-P--",
       "morphology": "Verbo imperfeito, voz ativa, indicativo, 3ª pessoa plural",
-      "meanings": "ser; estar; existir",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:11"

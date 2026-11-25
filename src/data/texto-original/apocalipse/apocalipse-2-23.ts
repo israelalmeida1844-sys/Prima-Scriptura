@@ -50,7 +50,7 @@ export const apocalipse2v23 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὰ τέκνα αὐτῆς» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:23"
@@ -170,7 +170,7 @@ export const apocalipse2v23 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
-      "meanings": "morte",
+      "meanings": "Cessação da vida; também condição figurada ou realidade personificada em linguagem visionária.",
       "explanation": "Substantivo no constituinte «ἐν θανάτῳ·» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:23"
@@ -243,7 +243,7 @@ export const apocalipse2v23 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo nominativo plural feminino",
-      "meanings": "todo",
+      "meanings": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",
       "explanation": "Adjetivo no constituinte «πᾶσαι αἱ ἐκκλησίαι» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:23"
@@ -267,7 +267,7 @@ export const apocalipse2v23 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NPF-",
       "morphology": "Artigo definido nominativo plural feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «αἱ ἐκκλησίαι» — integrado ao constituinte com função de sujeito «πᾶσαι αἱ ἐκκλησίαι». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:23"
@@ -291,7 +291,7 @@ export const apocalipse2v23 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo nominativo plural feminino",
-      "meanings": "assembleia",
+      "meanings": "Reunião ou comunidade convocada; no Novo Testamento, comunidade de seguidores de Cristo, local ou coletiva.",
       "explanation": "Substantivo no constituinte «αἱ ἐκκλησίαι» — integrado ao constituinte com função de sujeito «πᾶσαι αἱ ἐκκλησίαι». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:23"
@@ -339,7 +339,7 @@ export const apocalipse2v23 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal nominativo singular",
-      "meanings": "eu",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:23"
@@ -363,7 +363,7 @@ export const apocalipse2v23 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
-      "meanings": "ser",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "Verbo de ligação da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:23"
@@ -387,7 +387,7 @@ export const apocalipse2v23 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «ὁ ἐραυνῶν νεφροὺς καὶ καρδίας,» — predicativo da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:23"
@@ -556,7 +556,7 @@ export const apocalipse2v23 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----DP--",
       "morphology": "Pronome pessoal dativo plural",
-      "meanings": "tu",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "Pronome no constituinte «ὑμῖν ἑκάστῳ» — objeto indireto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:23"
@@ -628,7 +628,7 @@ export const apocalipse2v23 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὰ ἔργα ὑμῶν.» — integrado ao constituinte com função de adjunto adverbial «κατὰ τὰ ἔργα ὑμῶν.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:23"
@@ -676,7 +676,7 @@ export const apocalipse2v23 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GP--",
       "morphology": "Pronome pessoal genitivo plural",
-      "meanings": "tu",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "Pronome no constituinte «ἔργα ὑμῶν.» — integrado ao constituinte com função de adjunto adverbial «κατὰ τὰ ἔργα ὑμῶν.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:23"

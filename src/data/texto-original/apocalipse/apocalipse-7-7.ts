@@ -29,7 +29,7 @@ export const apocalipse7v7 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:7"
@@ -77,7 +77,7 @@ export const apocalipse7v7 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
-      "meanings": "Simeão",
+      "meanings": "Nome próprio de um filho de Jacó e da tribo correspondente.",
       "explanation": "Sentido contextual: de Simeão.",
       "occurrencesExamples": [
         "Ap 7:7"
@@ -101,7 +101,7 @@ export const apocalipse7v7 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo / numeral · nominativo · plural · feminino (MorphGNT: A- ----NPF-)",
-      "meanings": "doze",
+      "meanings": "Numeral cardinal que indica doze unidades.",
       "explanation": "Sentido contextual: doze.",
       "occurrencesExamples": [
         "Ap 7:7"
@@ -150,7 +150,7 @@ export const apocalipse7v7 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:7"
@@ -198,7 +198,7 @@ export const apocalipse7v7 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
-      "meanings": "Levi",
+      "meanings": "Nome próprio de um filho de Jacó e da tribo levítica.",
       "explanation": "Sentido contextual: de Levi.",
       "occurrencesExamples": [
         "Ap 7:7"
@@ -222,7 +222,7 @@ export const apocalipse7v7 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo / numeral · nominativo · plural · feminino (MorphGNT: A- ----NPF-)",
-      "meanings": "doze",
+      "meanings": "Numeral cardinal que indica doze unidades.",
       "explanation": "Sentido contextual: doze.",
       "occurrencesExamples": [
         "Ap 7:7"
@@ -271,7 +271,7 @@ export const apocalipse7v7 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:7"
@@ -319,7 +319,7 @@ export const apocalipse7v7 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
-      "meanings": "Issacar",
+      "meanings": "Nome próprio de um filho de Jacó e da tribo correspondente.",
       "explanation": "Sentido contextual: de Issacar.",
       "occurrencesExamples": [
         "Ap 7:7"
@@ -343,7 +343,7 @@ export const apocalipse7v7 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo / numeral · nominativo · plural · feminino (MorphGNT: A- ----NPF-)",
-      "meanings": "doze",
+      "meanings": "Numeral cardinal que indica doze unidades.",
       "explanation": "Sentido contextual: doze.",
       "occurrencesExamples": [
         "Ap 7:7"

@@ -101,7 +101,7 @@ export const apocalipse7v13 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:13"
@@ -173,7 +173,7 @@ export const apocalipse7v13 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo · presente · voz ativa · particípio · nominativo · singular · masculino (MorphGNT: V- -PAPNSM-)",
-      "meanings": "dizer; declarar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Sentido contextual: dizendo.",
       "occurrencesExamples": [
         "Ap 7:13"
@@ -197,7 +197,7 @@ export const apocalipse7v13 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----DS--",
       "morphology": "Pronome pessoal · dativo · singular (MorphGNT: RP ----DS--)",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Sentido contextual: a mim.",
       "occurrencesExamples": [
         "Ap 7:13"
@@ -222,7 +222,7 @@ export const apocalipse7v13 = {
       "partOfSpeech": "Pronome demonstrativo",
       "morphologyCode": "----NPM-",
       "morphology": "Pronome demonstrativo · nominativo · plural · masculino (MorphGNT: RD ----NPM-)",
-      "meanings": "este; essas coisas",
+      "meanings": "Pronome demonstrativo que identifica referente próximo no discurso, no espaço ou no contexto.",
       "explanation": "Sentido contextual: estes.",
       "occurrencesExamples": [
         "Ap 7:13"
@@ -366,7 +366,7 @@ export const apocalipse7v13 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----APF-",
       "morphology": "Adjetivo / numeral · acusativo · plural · feminino (MorphGNT: A- ----APF-)",
-      "meanings": "branco",
+      "meanings": "De cor branca; em imagens visionárias, sua significação simbólica deve ser interpretada no contexto.",
       "explanation": "Sentido contextual: brancos.",
       "occurrencesExamples": [
         "Ap 7:13"
@@ -414,7 +414,7 @@ export const apocalipse7v13 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo · presente · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3PAI-P--)",
-      "meanings": "ser; estar; existir",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "Sentido contextual: são.",
       "occurrencesExamples": [
         "Ap 7:13"
@@ -486,7 +486,7 @@ export const apocalipse7v13 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-P--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3AAI-P--)",
-      "meanings": "vir; chegar",
+      "meanings": "Movimento em direção a um lugar ou pessoa, ou chegada de alguém ou de um acontecimento.",
       "explanation": "Sentido contextual: vieram.",
       "occurrencesExamples": [
         "Ap 7:13"

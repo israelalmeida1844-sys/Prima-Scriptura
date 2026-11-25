@@ -50,7 +50,7 @@ export const apocalipse2v8 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τῷ ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας» — objeto indireto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
@@ -74,7 +74,7 @@ export const apocalipse2v8 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
-      "meanings": "mensageiro",
+      "meanings": "Mensageiro enviado para comunicar ou executar uma tarefa; em Apocalipse, frequentemente um ser celestial.",
       "explanation": "Substantivo no constituinte «ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
@@ -98,7 +98,7 @@ export const apocalipse2v8 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τῆς ἐν Σμύρνῃ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
@@ -146,7 +146,7 @@ export const apocalipse2v8 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
-      "meanings": "Esmirna",
+      "meanings": "Nome da cidade da Ásia Menor à qual se dirige a segunda carta de Apocalipse.",
       "explanation": "Substantivo no constituinte «ἐν Σμύρνῃ» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
@@ -170,7 +170,7 @@ export const apocalipse2v8 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
-      "meanings": "assembleia",
+      "meanings": "Reunião ou comunidade convocada; no Novo Testamento, comunidade de seguidores de Cristo, local ou coletiva.",
       "explanation": "Substantivo no constituinte «ἐν Σμύρνῃ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Σμύρνῃ ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
@@ -194,7 +194,7 @@ export const apocalipse2v8 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
-      "meanings": "escrever",
+      "meanings": "Registrar palavras por escrito, redigir uma mensagem ou consignar um nome num documento.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
@@ -243,7 +243,7 @@ export const apocalipse2v8 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
-      "meanings": "dizer",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
@@ -267,7 +267,7 @@ export const apocalipse2v8 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «ὁ πρῶτος» — integrado ao constituinte com função de sujeito «ὁ πρῶτος καὶ ὁ ἔσχατος, ὃς ἐγένετο νεκρὸς …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
@@ -291,7 +291,7 @@ export const apocalipse2v8 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
-      "meanings": "primeiro",
+      "meanings": "Ordinal ou qualificativo de prioridade temporal, posição ou importância.",
       "explanation": "Adjetivo no constituinte «ὁ πρῶτος» — integrado ao constituinte com função de sujeito «ὁ πρῶτος καὶ ὁ ἔσχατος, ὃς ἐγένετο νεκρὸς …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
@@ -339,7 +339,7 @@ export const apocalipse2v8 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «ὁ ἔσχατος,» — integrado ao constituinte com função de sujeito «ὁ πρῶτος καὶ ὁ ἔσχατος, ὃς ἐγένετο νεκρὸς …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
@@ -363,7 +363,7 @@ export const apocalipse2v8 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
-      "meanings": "último",
+      "meanings": "Ordinal ou qualificativo da posição final em uma série, ou de sua etapa derradeira.",
       "explanation": "Adjetivo no constituinte «ὁ ἔσχατος,» — integrado ao constituinte com função de sujeito «… πρῶτος καὶ ὁ ἔσχατος, ὃς ἐγένετο νεκρὸς καὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
@@ -436,7 +436,7 @@ export const apocalipse2v8 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
-      "meanings": "morto",
+      "meanings": "Que perdeu a vida; em sentido figurado, descreve condição de inatividade ou ausência de vida espiritual.",
       "explanation": "Predicativo da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"
@@ -484,7 +484,7 @@ export const apocalipse2v8 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 3ª pessoa singular",
-      "meanings": "viver",
+      "meanings": "Estar vivo ou exercer a vida; pode descrever vida física, espiritual ou um modo de viver.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:8"

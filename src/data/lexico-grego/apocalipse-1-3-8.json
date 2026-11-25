@@ -58,7 +58,7 @@
         {
           "id": "G191-1",
           "label": "ouvir",
-          "definition": "ouvir; escutar",
+          "definition": "Perceber sons ou palavras; escutar, prestar atenção e, em contextos de instrução, acolher o que é ouvido.",
           "examples": [
             {
               "reference": "Ap 1:3",
@@ -85,11 +85,11 @@
           "examples": [
             {
               "reference": "Ap 1:3",
-              "greek": "τῆς προφητείας καὶ",
+              "greek": "προφητείας",
               "wordForm": "προφητείας",
-              "translation": "da profecia e",
-              "explanation": "A forma προφητείας é substantivo genitivo singular feminino do lema προφητεία; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "profecia",
+              "explanation": "Forma em Ap 1:3: Substantivo genitivo singular feminino. Função: Genitivo de conteúdo de λόγους.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -127,15 +127,15 @@
         {
           "id": "G1125-1",
           "label": "escrever",
-          "definition": "escrever; registrar",
+          "definition": "Registrar palavras por escrito, redigir uma mensagem ou consignar um nome num documento.",
           "examples": [
             {
               "reference": "Ap 1:3",
-              "greek": "αὐτῇ γεγραμμένα, ὁ",
-              "wordForm": "γεγραμμένα,",
-              "translation": "nela escritas o",
-              "explanation": "A forma γεγραμμένα, é verbo perfeito passivo particípio acusativo plural neutro do lema γράφω; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "greek": "γεγραμμένα",
+              "wordForm": "γεγραμμένα",
+              "translation": "escritas",
+              "explanation": "Forma em Ap 1:3: Verbo perfeito passivo particípio acusativo plural neutro. Função: Particípio perfeito passivo substantivado, objeto de τηροῦντες.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -150,15 +150,15 @@
         {
           "id": "G1063-1",
           "label": "pois",
-          "definition": "pois; porque",
+          "definition": "Conjunção pós-positiva que apresenta fundamento, explicação ou razão para a afirmação precedente.",
           "examples": [
             {
               "reference": "Ap 1:3",
-              "greek": "ὁ γὰρ καιρὸς",
+              "greek": "γὰρ",
               "wordForm": "γὰρ",
-              "translation": "o pois tempo oportuno",
-              "explanation": "A forma γὰρ é conjunção (indeclinável) do lema γάρ; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "pois",
+              "explanation": "Forma em Ap 1:3: Conjunção (indeclinável). Função: Conjunção explicativa da bem-aventurança.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -196,7 +196,7 @@
         {
           "id": "G1451-1",
           "label": "perto",
-          "definition": "perto; próximo",
+          "definition": "Advérbio ou expressão de proximidade espacial ou temporal; o contexto determina a dimensão.",
           "examples": [
             {
               "reference": "Ap 1:3",
@@ -219,15 +219,15 @@
         {
           "id": "G2033-1",
           "label": "sete",
-          "definition": "sete",
+          "definition": "Numeral cardinal que indica sete unidades; o valor simbólico de uma enumeração depende do contexto.",
           "examples": [
             {
               "reference": "Ap 1:4",
-              "greek": "ταῖς ἑπτὰ ἐκκλησίαις",
+              "greek": "ἑπτὰ",
               "wordForm": "ἑπτὰ",
-              "translation": "às sete assembleia",
-              "explanation": "A forma ἑπτὰ é adjetivo dativo plural feminino do lema ἑπτά; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "sete",
+              "explanation": "Forma em Ap 1:4: Adjetivo dativo plural feminino. Função: Numeral que quantifica ἐκκλησίαις.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -241,16 +241,16 @@
       "senses": [
         {
           "id": "G1577-1",
-          "label": "assembleia",
-          "definition": "assembleia; igreja",
+          "label": "assembleia; igreja",
+          "definition": "Reunião ou comunidade convocada; no Novo Testamento, comunidade de seguidores de Cristo, local ou coletiva.",
           "examples": [
             {
               "reference": "Ap 1:4",
-              "greek": "ἑπτὰ ἐκκλησίαις ταῖς",
+              "greek": "ἐκκλησίαις",
               "wordForm": "ἐκκλησίαις",
-              "translation": "sete assembleia às",
-              "explanation": "A forma ἐκκλησίαις é substantivo dativo plural feminino do lema ἐκκλησία; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "igrejas",
+              "explanation": "Forma em Ap 1:4: Substantivo dativo plural feminino. Função: Dativo dos destinatários.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -264,16 +264,16 @@
       "senses": [
         {
           "id": "G773-1",
-          "label": "Ásia (província romana)",
-          "definition": "Ásia (província romana)",
+          "label": "Ásia",
+          "definition": "Nome da província romana da Ásia, situada na parte ocidental da Ásia Menor.",
           "examples": [
             {
               "reference": "Ap 1:4",
-              "greek": "τῇ Ἀσίᾳ· χάρις",
-              "wordForm": "Ἀσίᾳ·",
-              "translation": "na Ásia (província romana) graça",
-              "explanation": "A forma Ἀσίᾳ· é substantivo dativo singular feminino do lema Ἀσία; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "greek": "Ἀσίᾳ",
+              "wordForm": "Ἀσίᾳ",
+              "translation": "Ásia",
+              "explanation": "Forma em Ap 1:4: Substantivo dativo singular feminino. Função: Complemento locativo de ἐν.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -288,15 +288,15 @@
         {
           "id": "G5485-1",
           "label": "graça",
-          "definition": "graça; favor",
+          "definition": "Favor, benevolência ou dádiva concedida; pode designar a ação graciosa de Deus e a saudação que a invoca.",
           "examples": [
             {
               "reference": "Ap 1:4",
-              "greek": "Ἀσίᾳ· χάρις ὑμῖν",
+              "greek": "χάρις",
               "wordForm": "χάρις",
-              "translation": "Ásia (província romana) graça a vocês",
-              "explanation": "A forma χάρις é substantivo nominativo singular feminino do lema χάρις; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "graça",
+              "explanation": "Forma em Ap 1:4: Substantivo nominativo singular feminino. Função: Primeiro núcleo nominal da saudação.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -310,16 +310,16 @@
       "senses": [
         {
           "id": "G4771-1",
-          "label": "tu",
-          "definition": "tu; vós; você(s)",
+          "label": "tu; vós",
+          "definition": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
           "examples": [
             {
               "reference": "Ap 1:4",
-              "greek": "χάρις ὑμῖν καὶ",
+              "greek": "ὑμῖν",
               "wordForm": "ὑμῖν",
-              "translation": "graça a vocês e",
-              "explanation": "A forma ὑμῖν é pronome pessoal dativo plural do lema σύ; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "a vocês",
+              "explanation": "Forma em Ap 1:4: Pronome pessoal dativo plural. Função: Dativo de destinatário da saudação.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -334,15 +334,15 @@
         {
           "id": "G1515-1",
           "label": "paz",
-          "definition": "paz; bem-estar",
+          "definition": "Condição de harmonia, segurança ou ausência de conflito; também fórmula de saudação e bem-estar.",
           "examples": [
             {
               "reference": "Ap 1:4",
-              "greek": "καὶ εἰρήνη ἀπὸ",
+              "greek": "εἰρήνη",
               "wordForm": "εἰρήνη",
-              "translation": "e paz de",
-              "explanation": "A forma εἰρήνη é substantivo nominativo singular feminino do lema εἰρήνη; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "paz",
+              "explanation": "Forma em Ap 1:4: Substantivo nominativo singular feminino. Função: Segundo núcleo nominal da saudação.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -361,19 +361,19 @@
           "examples": [
             {
               "reference": "Ap 1:4",
-              "greek": "εἰρήνη ἀπὸ ὁ",
+              "greek": "ἀπὸ",
               "wordForm": "ἀπὸ",
-              "translation": "paz de o",
-              "explanation": "A forma ἀπὸ é preposição (indeclinável) do lema ἀπό; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "de",
+              "explanation": "Forma em Ap 1:4: Preposição (indeclinável). Função: Preposição de procedência, seguida excepcionalmente de nominativo.",
+              "source": "SBLGNT / MorphGNT 6.12"
             },
             {
               "reference": "Ap 1:5",
-              "greek": "καὶ ἀπὸ Ἰησοῦ",
+              "greek": "ἀπὸ",
               "wordForm": "ἀπὸ",
-              "translation": "e de Jesus",
-              "explanation": "A forma ἀπὸ é preposição (indeclinável) do lema ἀπό; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "de",
+              "explanation": "Forma em Ap 1:5: Preposição (indeclinável). Função: Preposição de procedência, rege Ἰησοῦ Χριστοῦ.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -387,8 +387,8 @@
       "senses": [
         {
           "id": "G1510-1",
-          "label": "ser",
-          "definition": "ser; estar; existir",
+          "label": "ser; estar",
+          "definition": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
           "examples": [
             {
               "reference": "Ap 1:4",
@@ -418,8 +418,8 @@
       "senses": [
         {
           "id": "G2064-1",
-          "label": "vir",
-          "definition": "vir; chegar",
+          "label": "vir; ir",
+          "definition": "Movimento em direção a um lugar ou pessoa, ou chegada de alguém ou de um acontecimento.",
           "examples": [
             {
               "reference": "Ap 1:4",
@@ -485,11 +485,11 @@
           "examples": [
             {
               "reference": "Ap 1:4",
-              "greek": "ἃ ἐνώπιον τοῦ",
+              "greek": "ἐνώπιον",
               "wordForm": "ἐνώπιον",
-              "translation": "que diante de do",
-              "explanation": "A forma ἐνώπιον é preposição (indeclinável) do lema ἐνώπιον; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "diante de",
+              "explanation": "Forma em Ap 1:4: Preposição (indeclinável). Função: Expressão preposicional de posição.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -504,15 +504,15 @@
         {
           "id": "G2362-1",
           "label": "trono",
-          "definition": "trono",
+          "definition": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
           "examples": [
             {
               "reference": "Ap 1:4",
-              "greek": "τοῦ θρόνου αὐτοῦ,",
+              "greek": "θρόνου",
               "wordForm": "θρόνου",
-              "translation": "do trono dele",
-              "explanation": "A forma θρόνου é substantivo genitivo singular masculino do lema θρόνος; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "trono",
+              "explanation": "Forma em Ap 1:4: Substantivo genitivo singular masculino. Função: Complemento genitivo de ἐνώπιον.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -527,15 +527,15 @@
         {
           "id": "G3144-1",
           "label": "testemunha",
-          "definition": "testemunha",
+          "definition": "Pessoa que atesta fatos ou declara uma verdade; o contexto pode associar o testemunho ao sofrimento.",
           "examples": [
             {
               "reference": "Ap 1:5",
-              "greek": "ὁ μάρτυς ὁ",
+              "greek": "μάρτυς",
               "wordForm": "μάρτυς",
-              "translation": "o testemunha o",
-              "explanation": "A forma μάρτυς é substantivo nominativo singular masculino do lema μάρτυς; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "testemunha",
+              "explanation": "Forma em Ap 1:5: Substantivo nominativo singular masculino. Função: Título apositivo no nominativo apesar do genitivo antecedente.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -554,11 +554,11 @@
           "examples": [
             {
               "reference": "Ap 1:5",
-              "greek": "ὁ πιστός, ὁ",
-              "wordForm": "πιστός,",
-              "translation": "o fiel o",
-              "explanation": "A forma πιστός, é adjetivo nominativo singular masculino do lema πιστός; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "greek": "πιστός",
+              "wordForm": "πιστός",
+              "translation": "fiel",
+              "explanation": "Forma em Ap 1:5: Adjetivo nominativo singular masculino. Função: Adjetivo atributivo de μάρτυς.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -573,7 +573,7 @@
         {
           "id": "G4416-1",
           "label": "primogênito",
-          "definition": "primogênito",
+          "definition": "Primeiro nascido; pode expressar primazia, posição hereditária ou preeminência em relação a um grupo.",
           "examples": [
             {
               "reference": "Ap 1:5",
@@ -596,15 +596,15 @@
         {
           "id": "G3498-1",
           "label": "morto",
-          "definition": "morto",
+          "definition": "Que perdeu a vida; em sentido figurado, descreve condição de inatividade ou ausência de vida espiritual.",
           "examples": [
             {
               "reference": "Ap 1:5",
-              "greek": "τῶν νεκρῶν καὶ",
+              "greek": "νεκρῶν",
               "wordForm": "νεκρῶν",
-              "translation": "dos morto e",
-              "explanation": "A forma νεκρῶν é adjetivo genitivo plural masculino do lema νεκρός; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "mortos",
+              "explanation": "Forma em Ap 1:5: Adjetivo genitivo plural masculino. Função: Genitivo de relação com πρωτότοκος.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -623,11 +623,11 @@
           "examples": [
             {
               "reference": "Ap 1:5",
-              "greek": "ὁ ἄρχων τῶν",
+              "greek": "ἄρχων",
               "wordForm": "ἄρχων",
-              "translation": "o governante dos",
-              "explanation": "A forma ἄρχων é substantivo nominativo singular masculino do lema ἄρχων; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "governante",
+              "explanation": "Forma em Ap 1:5: Substantivo nominativo singular masculino. Função: Terceiro título apositivo no nominativo.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -642,15 +642,15 @@
         {
           "id": "G935-1",
           "label": "rei",
-          "definition": "rei",
+          "definition": "Governante investido de autoridade régia sobre um povo ou território.",
           "examples": [
             {
               "reference": "Ap 1:5",
-              "greek": "τῶν βασιλέων τῆς",
+              "greek": "βασιλέων",
               "wordForm": "βασιλέων",
-              "translation": "dos rei da",
-              "explanation": "A forma βασιλέων é substantivo genitivo plural masculino do lema βασιλεύς; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "reis",
+              "explanation": "Forma em Ap 1:5: Substantivo genitivo plural masculino. Função: Genitivo de domínio de ἄρχων.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -665,23 +665,23 @@
         {
           "id": "G1093-1",
           "label": "terra",
-          "definition": "terra; solo",
+          "definition": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
           "examples": [
             {
               "reference": "Ap 1:5",
-              "greek": "τῆς γῆς. Τῷ",
-              "wordForm": "γῆς.",
-              "translation": "da terra artigo definido",
-              "explanation": "A forma γῆς. é substantivo genitivo singular feminino do lema γῆ; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "greek": "γῆς",
+              "wordForm": "γῆς",
+              "translation": "terra",
+              "explanation": "Forma em Ap 1:5: Substantivo genitivo singular feminino. Função: Genitivo adnominal de βασιλέων.",
+              "source": "SBLGNT / MorphGNT 6.12"
             },
             {
               "reference": "Ap 1:7",
-              "greek": "τῆς γῆς. ναί,",
-              "wordForm": "γῆς.",
-              "translation": "da terra sim",
-              "explanation": "A forma γῆς. é substantivo genitivo singular feminino do lema γῆ; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "greek": "γῆς",
+              "wordForm": "γῆς",
+              "translation": "terra",
+              "explanation": "Forma em Ap 1:7: Substantivo genitivo singular feminino. Função: Genitivo que delimita φυλαί.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -696,15 +696,15 @@
         {
           "id": "G25-1",
           "label": "amar",
-          "definition": "amar",
+          "definition": "Demonstrar amor, apreço ou dedicação a alguém; o caráter do amor decorre da construção e do contexto.",
           "examples": [
             {
               "reference": "Ap 1:5",
-              "greek": "Τῷ ἀγαπῶντι ἡμᾶς",
+              "greek": "ἀγαπῶντι",
               "wordForm": "ἀγαπῶντι",
-              "translation": "artigo definido que ama nos",
-              "explanation": "A forma ἀγαπῶντι é verbo presente ativo particípio dativo singular masculino do lema ἀγαπάω; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "que ama",
+              "explanation": "Forma em Ap 1:5: Verbo presente ativo particípio dativo singular masculino. Função: Particípio presente ativo dativo, destinatário da doxologia.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -718,32 +718,32 @@
       "senses": [
         {
           "id": "G1473-1",
-          "label": "eu",
-          "definition": "eu; nós",
+          "label": "eu; nós",
+          "definition": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
           "examples": [
             {
               "reference": "Ap 1:5",
-              "greek": "ἀγαπῶντι ἡμᾶς καὶ",
+              "greek": "ἡμᾶς",
               "wordForm": "ἡμᾶς",
-              "translation": "que ama nos e",
-              "explanation": "A forma ἡμᾶς é pronome pessoal acusativo plural do lema ἐγώ; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "nos",
+              "explanation": "Forma em Ap 1:5: Pronome pessoal acusativo plural. Função: Objeto direto de ἀγαπῶντι.",
+              "source": "SBLGNT / MorphGNT 6.12"
             },
             {
               "reference": "Ap 1:6",
-              "greek": "ἐποίησεν ἡμᾶς βασιλείαν,",
+              "greek": "ἡμᾶς",
               "wordForm": "ἡμᾶς",
-              "translation": "fez nos reino",
-              "explanation": "A forma ἡμᾶς é pronome pessoal acusativo plural do lema ἐγώ; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "nos",
+              "explanation": "Forma em Ap 1:6: Pronome pessoal acusativo plural. Função: Objeto direto de ἐποίησεν.",
+              "source": "SBLGNT / MorphGNT 6.12"
             },
             {
               "reference": "Ap 1:8",
-              "greek": "Ἐγώ εἰμι",
+              "greek": "Ἐγώ",
               "wordForm": "Ἐγώ",
-              "translation": "Eu sou",
-              "explanation": "A forma Ἐγώ é pronome pessoal nominativo singular do lema ἐγώ; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "eu",
+              "explanation": "Forma em Ap 1:8: Pronome pessoal nominativo singular. Função: Sujeito explícito de εἰμι.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -757,8 +757,8 @@
       "senses": [
         {
           "id": "G3089-1",
-          "label": "soltar",
-          "definition": "soltar; libertar; desatar",
+          "label": "soltar; desatar; romper",
+          "definition": "Desatar ou liberar aquilo que está preso; em Ap 5:2, romper os selos de um rolo.",
           "examples": [
             {
               "reference": "Ap 1:5",
@@ -780,16 +780,16 @@
       "senses": [
         {
           "id": "G1537-1",
-          "label": "de",
-          "definition": "de; para fora de",
+          "label": "de; para fora de",
+          "definition": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
           "examples": [
             {
               "reference": "Ap 1:5",
-              "greek": "ἡμᾶς ἐκ τῶν",
+              "greek": "ἐκ",
               "wordForm": "ἐκ",
-              "translation": "nos de dos",
-              "explanation": "A forma ἐκ é preposição (indeclinável) do lema ἐκ; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "de",
+              "explanation": "Forma em Ap 1:5: Preposição (indeclinável). Função: Preposição de separação, rege ἁμαρτιῶν.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -804,15 +804,15 @@
         {
           "id": "G266-1",
           "label": "pecado",
-          "definition": "pecado",
+          "definition": "Transgressão ou desvio da vontade divina; pode designar atos pecaminosos ou a condição associada ao pecado.",
           "examples": [
             {
               "reference": "Ap 1:5",
-              "greek": "τῶν ἁμαρτιῶν ἡμῶν",
+              "greek": "ἁμαρτιῶν",
               "wordForm": "ἁμαρτιῶν",
-              "translation": "dos pecado nossos",
-              "explanation": "A forma ἁμαρτιῶν é substantivo genitivo plural feminino do lema ἁμαρτία; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "pecados",
+              "explanation": "Forma em Ap 1:5: Substantivo genitivo plural feminino. Função: Complemento genitivo de ἐκ.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -827,15 +827,15 @@
         {
           "id": "G129-1",
           "label": "sangue",
-          "definition": "sangue",
+          "definition": "Fluido vital; em contextos sacrificiais ou violentos pode representar vida entregue, morte ou responsabilidade pelo derramamento.",
           "examples": [
             {
               "reference": "Ap 1:5",
-              "greek": "τῷ αἵματι αὐτοῦ—",
+              "greek": "αἵματι",
               "wordForm": "αἵματι",
-              "translation": "ao sangue dele",
-              "explanation": "A forma αἵματι é substantivo dativo singular neutro do lema αἷμα; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "sangue",
+              "explanation": "Forma em Ap 1:5: Substantivo dativo singular neutro. Função: Complemento dativo de ἐν, meio da libertação.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -849,16 +849,16 @@
       "senses": [
         {
           "id": "G4160-1",
-          "label": "fazer",
-          "definition": "fazer; constituir",
+          "label": "fazer; produzir",
+          "definition": "Realizar, produzir, constituir ou causar algo; a construção com dois acusativos pode indicar transformação do objeto.",
           "examples": [
             {
               "reference": "Ap 1:6",
-              "greek": "καὶ ἐποίησεν ἡμᾶς",
+              "greek": "ἐποίησεν",
               "wordForm": "ἐποίησεν",
-              "translation": "e fez nos",
-              "explanation": "A forma ἐποίησεν é verbo aoristo ativo indicativo 3ª pessoa singular do lema ποιέω; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "fez",
+              "explanation": "Forma em Ap 1:6: Verbo aoristo ativo indicativo 3ª pessoa singular. Função: Predicado verbal de constituição.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -873,7 +873,7 @@
         {
           "id": "G932-1",
           "label": "reino",
-          "definition": "reino; realeza",
+          "definition": "Reinado, autoridade régia ou domínio sobre o qual se exerce governo; o contexto distingue essas nuances.",
           "examples": [
             {
               "reference": "Ap 1:6",
@@ -896,7 +896,7 @@
         {
           "id": "G2409-1",
           "label": "sacerdote",
-          "definition": "sacerdote",
+          "definition": "Pessoa que exerce funções sacerdotais de culto e serviço religioso diante de uma divindade.",
           "examples": [
             {
               "reference": "Ap 1:6",
@@ -919,15 +919,15 @@
         {
           "id": "G3962-1",
           "label": "pai",
-          "definition": "pai",
+          "definition": "Progenitor ou figura paterna; em sentido relacional e teológico, designação de Deus como Pai.",
           "examples": [
             {
               "reference": "Ap 1:6",
-              "greek": "καὶ πατρὶ αὐτοῦ—",
+              "greek": "πατρὶ",
               "wordForm": "πατρὶ",
-              "translation": "e pai dele",
-              "explanation": "A forma πατρὶ é substantivo dativo singular masculino do lema πατήρ; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "pai",
+              "explanation": "Forma em Ap 1:6: Substantivo dativo singular masculino. Função: Aposto coordenado a θεῷ.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -942,15 +942,15 @@
         {
           "id": "G1391-1",
           "label": "glória",
-          "definition": "glória",
+          "definition": "Honra, esplendor, reputação ou manifestação de majestade; em doxologias, reconhecimento da dignidade divina.",
           "examples": [
             {
               "reference": "Ap 1:6",
-              "greek": "ἡ δόξα καὶ",
+              "greek": "δόξα",
               "wordForm": "δόξα",
-              "translation": "a glória e",
-              "explanation": "A forma δόξα é substantivo nominativo singular feminino do lema δόξα; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "glória",
+              "explanation": "Forma em Ap 1:6: Substantivo nominativo singular feminino. Função: Primeiro núcleo da oração doxológica nominal.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -964,16 +964,16 @@
       "senses": [
         {
           "id": "G2904-1",
-          "label": "poder",
-          "definition": "poder; domínio",
+          "label": "domínio; poder",
+          "definition": "Força efetiva, domínio ou poder soberano; frequentemente empregado em fórmulas de louvor.",
           "examples": [
             {
               "reference": "Ap 1:6",
-              "greek": "τὸ κράτος εἰς",
+              "greek": "κράτος",
               "wordForm": "κράτος",
-              "translation": "o poder para",
-              "explanation": "A forma κράτος é substantivo nominativo singular neutro do lema κράτος; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "poder",
+              "explanation": "Forma em Ap 1:6: Substantivo nominativo singular neutro. Função: Segundo núcleo da oração doxológica.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -992,11 +992,11 @@
           "examples": [
             {
               "reference": "Ap 1:6",
-              "greek": "κράτος εἰς τοὺς",
+              "greek": "εἰς",
               "wordForm": "εἰς",
-              "translation": "poder para os",
-              "explanation": "A forma εἰς é preposição (indeclinável) do lema εἰς; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "para",
+              "explanation": "Forma em Ap 1:6: Preposição (indeclinável). Função: Preposição que introduz duração.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -1015,11 +1015,11 @@
           "examples": [
             {
               "reference": "Ap 1:6",
-              "greek": "τοὺς αἰῶνας τῶν",
+              "greek": "αἰῶνας",
               "wordForm": "αἰῶνας",
-              "translation": "os era dos",
-              "explanation": "A forma αἰῶνας é substantivo acusativo plural masculino do lema αἰών; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "séculos",
+              "explanation": "Forma em Ap 1:6: Substantivo acusativo plural masculino. Função: Acusativo de duração regido por εἰς.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -1034,23 +1034,23 @@
         {
           "id": "G281-1",
           "label": "amém",
-          "definition": "amém; assim seja",
+          "definition": "Partícula de confirmação ou ratificação de origem semítica, empregada para afirmar a veracidade de uma declaração.",
           "examples": [
             {
               "reference": "Ap 1:6",
-              "greek": "αἰώνων· ἀμήν.",
-              "wordForm": "ἀμήν.",
-              "translation": "era amém",
-              "explanation": "A forma ἀμήν. é partícula (indeclinável) do lema ἀμήν; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "greek": "ἀμήν",
+              "wordForm": "ἀμήν",
+              "translation": "amém",
+              "explanation": "Forma em Ap 1:6: Partícula (indeclinável). Função: Partícula de ratificação da doxologia.",
+              "source": "SBLGNT / MorphGNT 6.12"
             },
             {
               "reference": "Ap 1:7",
-              "greek": "ναί, ἀμήν.",
-              "wordForm": "ἀμήν.",
-              "translation": "sim amém",
-              "explanation": "A forma ἀμήν. é partícula (indeclinável) do lema ἀμήν; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "greek": "ἀμήν",
+              "wordForm": "ἀμήν",
+              "translation": "amém",
+              "explanation": "Forma em Ap 1:7: Partícula (indeclinável). Função: Partícula de ratificação.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -1065,15 +1065,15 @@
         {
           "id": "G2400-1",
           "label": "eis",
-          "definition": "eis; veja",
+          "definition": "Partícula de apresentação que chama atenção para algo visto, anunciado ou relevante no discurso.",
           "examples": [
             {
               "reference": "Ap 1:7",
-              "greek": "Ἰδοὺ ἔρχεται",
+              "greek": "Ἰδοὺ",
               "wordForm": "Ἰδοὺ",
-              "translation": "Eis vem",
-              "explanation": "A forma Ἰδοὺ é partícula (indeclinável) do lema ἰδού; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "Eis",
+              "explanation": "Forma em Ap 1:7: Partícula (indeclinável). Função: Partícula de apresentação do anúncio.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -1087,16 +1087,16 @@
       "senses": [
         {
           "id": "G3326-1",
-          "label": "com",
-          "definition": "com; depois de",
+          "label": "com; depois de",
+          "definition": "Preposição que, com genitivo, indica companhia ou associação e, com acusativo, normalmente sucessão temporal ou espacial.",
           "examples": [
             {
               "reference": "Ap 1:7",
-              "greek": "ἔρχεται μετὰ τῶν",
+              "greek": "μετὰ",
               "wordForm": "μετὰ",
-              "translation": "vem com dos",
-              "explanation": "A forma μετὰ é preposição (indeclinável) do lema μετά; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "com",
+              "explanation": "Forma em Ap 1:7: Preposição (indeclinável). Função: Preposição de acompanhamento.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -1111,15 +1111,15 @@
         {
           "id": "G3507-1",
           "label": "nuvem",
-          "definition": "nuvem",
+          "definition": "Massa visível de vapor atmosférico; em contextos visionários pode integrar imagens da manifestação divina.",
           "examples": [
             {
               "reference": "Ap 1:7",
-              "greek": "τῶν νεφελῶν, καὶ",
-              "wordForm": "νεφελῶν,",
-              "translation": "dos nuvem e",
-              "explanation": "A forma νεφελῶν, é substantivo genitivo plural feminino do lema νεφέλη; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "greek": "νεφελῶν",
+              "wordForm": "νεφελῶν",
+              "translation": "nuvens",
+              "explanation": "Forma em Ap 1:7: Substantivo genitivo plural feminino. Função: Complemento genitivo de μετά.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -1133,16 +1133,16 @@
       "senses": [
         {
           "id": "G3956-1",
-          "label": "todo",
-          "definition": "todo; cada",
+          "label": "todo; cada",
+          "definition": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",
           "examples": [
             {
               "reference": "Ap 1:7",
-              "greek": "αὐτὸν πᾶς ὀφθαλμὸς",
+              "greek": "πᾶς",
               "wordForm": "πᾶς",
-              "translation": "a ele todo olho",
-              "explanation": "A forma πᾶς é adjetivo nominativo singular masculino do lema πᾶς; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "todo",
+              "explanation": "Forma em Ap 1:7: Adjetivo nominativo singular masculino. Função: Quantificador de ὀφθαλμός.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -1157,15 +1157,15 @@
         {
           "id": "G3788-1",
           "label": "olho",
-          "definition": "olho",
+          "definition": "Órgão da visão; figuradamente, capacidade de perceber, discernir ou observar.",
           "examples": [
             {
               "reference": "Ap 1:7",
-              "greek": "πᾶς ὀφθαλμὸς καὶ",
+              "greek": "ὀφθαλμὸς",
               "wordForm": "ὀφθαλμὸς",
-              "translation": "todo olho e",
-              "explanation": "A forma ὀφθαλμὸς é substantivo nominativo singular masculino do lema ὀφθαλμός; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "olho",
+              "explanation": "Forma em Ap 1:7: Substantivo nominativo singular masculino. Função: Sujeito nominativo de ὄψεται.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -1184,11 +1184,11 @@
           "examples": [
             {
               "reference": "Ap 1:7",
-              "greek": "καὶ οἵτινες αὐτὸν",
+              "greek": "οἵτινες",
               "wordForm": "οἵτινες",
-              "translation": "e qualquer que a ele",
-              "explanation": "A forma οἵτινες é pronome relativo nominativo plural masculino do lema ὅστις; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "os que",
+              "explanation": "Forma em Ap 1:7: Pronome relativo nominativo plural masculino. Função: Pronome relativo substantivado, sujeito de ἐξεκέντησαν.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -1225,16 +1225,16 @@
       "senses": [
         {
           "id": "G2875-1",
-          "label": "lamentar",
-          "definition": "lamentar; golpear",
+          "label": "lamentar; golpear",
+          "definition": "Golpear ou bater; na voz média e em contextos de lamento, bater no peito ou lamentar-se.",
           "examples": [
             {
               "reference": "Ap 1:7",
-              "greek": "καὶ κόψονται ἐπ’",
+              "greek": "κόψονται",
               "wordForm": "κόψονται",
-              "translation": "e se lamentarão sobre",
-              "explanation": "A forma κόψονται é verbo futuro médio indicativo 3ª pessoa plural do lema κόπτω; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "se lamentarão",
+              "explanation": "Forma em Ap 1:7: Verbo futuro médio indicativo 3ª pessoa plural. Função: Predicado futuro médio de πᾶσαι αἱ φυλαί.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -1248,16 +1248,16 @@
       "senses": [
         {
           "id": "G1909-1",
-          "label": "sobre",
-          "definition": "sobre; por causa de",
+          "label": "sobre; em",
+          "definition": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
           "examples": [
             {
               "reference": "Ap 1:7",
-              "greek": "κόψονται ἐπ’ αὐτὸν",
+              "greek": "ἐπ’",
               "wordForm": "ἐπ’",
-              "translation": "se lamentarão sobre a ele",
-              "explanation": "A forma ἐπ’ é preposição (indeclinável) do lema ἐπί; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "por causa de",
+              "explanation": "Forma em Ap 1:7: Preposição (indeclinável). Função: Preposição causal, rege αὐτόν.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -1276,11 +1276,11 @@
           "examples": [
             {
               "reference": "Ap 1:7",
-              "greek": "αἱ φυλαὶ τῆς",
+              "greek": "φυλαὶ",
               "wordForm": "φυλαὶ",
-              "translation": "as tribo da",
-              "explanation": "A forma φυλαὶ é substantivo nominativo plural feminino do lema φυλή; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "tribos",
+              "explanation": "Forma em Ap 1:7: Substantivo nominativo plural feminino. Função: Sujeito nominativo plural de κόψονται.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -1295,15 +1295,15 @@
         {
           "id": "G3483-1",
           "label": "sim",
-          "definition": "sim; certamente",
+          "definition": "Partícula afirmativa que confirma ou aceita uma declaração.",
           "examples": [
             {
               "reference": "Ap 1:7",
-              "greek": "γῆς. ναί, ἀμήν.",
-              "wordForm": "ναί,",
-              "translation": "terra sim amém",
-              "explanation": "A forma ναί, é partícula (indeclinável) do lema ναί; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "greek": "ναί",
+              "wordForm": "ναί",
+              "translation": "sim",
+              "explanation": "Forma em Ap 1:7: Partícula (indeclinável). Função: Partícula de afirmação.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -1364,15 +1364,15 @@
         {
           "id": "G3004-1",
           "label": "dizer",
-          "definition": "dizer; declarar",
+          "definition": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
           "examples": [
             {
               "reference": "Ap 1:8",
-              "greek": "Ὦ, λέγει κύριος,",
+              "greek": "λέγει",
               "wordForm": "λέγει",
-              "translation": "ômega diz Senhor",
-              "explanation": "A forma λέγει é verbo presente ativo indicativo 3ª pessoa singular do lema λέγω; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "translation": "diz",
+              "explanation": "Forma em Ap 1:8: Verbo presente ativo indicativo 3ª pessoa singular. Função: Predicado da fórmula de atribuição do discurso.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }
@@ -1386,16 +1386,16 @@
       "senses": [
         {
           "id": "G2962-1",
-          "label": "Senhor",
-          "definition": "Senhor",
+          "label": "senhor",
+          "definition": "Pessoa investida de autoridade, proprietário ou tratamento respeitoso; título aplicado a Deus ou a Cristo.",
           "examples": [
             {
               "reference": "Ap 1:8",
-              "greek": "λέγει κύριος, ὁ",
-              "wordForm": "κύριος,",
-              "translation": "diz Senhor o",
-              "explanation": "A forma κύριος, é substantivo nominativo singular masculino do lema κύριος; a glosa é contextual e não substitui a análise sintática do período.",
-              "source": "SBLGNT (Holmes 2010); MorphGNT 6.12"
+              "greek": "κύριος",
+              "wordForm": "κύριος",
+              "translation": "Senhor",
+              "explanation": "Forma em Ap 1:8: Substantivo nominativo singular masculino. Função: Sujeito da fórmula λέγει.",
+              "source": "SBLGNT / MorphGNT 6.12"
             }
           ]
         }

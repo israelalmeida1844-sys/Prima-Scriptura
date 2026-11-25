@@ -79,7 +79,7 @@ export const apocalipse8v1 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
-      "meanings": "abrir",
+      "meanings": "Fazer algo fechado tornar-se aberto, em sentido literal ou figurado.",
       "explanation": "Verbo da oração temporal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:1"
@@ -179,7 +179,7 @@ export const apocalipse8v1 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo / numeral · acusativo · singular · feminino (MorphGNT: A- ----ASF-)",
-      "meanings": "sétimo",
+      "meanings": "Ordinal que designa a posição de número sete numa sequência.",
       "explanation": "Adjetivo atributivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:1"
@@ -229,7 +229,7 @@ export const apocalipse8v1 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
-      "meanings": "silêncio",
+      "meanings": "Condição de ausência de som ou fala.",
       "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:1"
@@ -329,7 +329,7 @@ export const apocalipse8v1 = {
       "partOfSpeech": "Advérbio",
       "morphologyCode": "--------",
       "morphology": "Advérbio (MorphGNT: D- --------)",
-      "meanings": "como",
+      "meanings": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual.",
       "explanation": "Advérbio. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:1"
@@ -354,7 +354,7 @@ export const apocalipse8v1 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo · acusativo · singular · neutro (MorphGNT: N- ----ASN-)",
-      "meanings": "meia hora",
+      "meanings": "Período correspondente à metade de uma hora, usado em Ap 8:1 com indicação aproximativa.",
       "explanation": "Acusativo de duração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:1"

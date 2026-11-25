@@ -50,7 +50,7 @@ export const apocalipse2v6 = {
       "partOfSpeech": "Pronome demonstrativo",
       "morphologyCode": "----ASN-",
       "morphology": "Pronome demonstrativo acusativo singular neutro",
-      "meanings": "este",
+      "meanings": "Pronome demonstrativo que identifica referente próximo no discurso, no espaço ou no contexto.",
       "explanation": "Objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:6"
@@ -74,7 +74,7 @@ export const apocalipse2v6 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 2ª pessoa singular",
-      "meanings": "ter",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:6"
@@ -146,7 +146,7 @@ export const apocalipse2v6 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὰ ἔργα τῶν Νικολαϊτῶν,» — integrado ao constituinte com função de objeto direto «τὰ ἔργα τῶν Νικολαϊτῶν, ἃ κἀγὼ μισῶ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:6"
@@ -194,7 +194,7 @@ export const apocalipse2v6 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τῶν Νικολαϊτῶν,» — integrado ao constituinte com função de objeto direto «τὰ ἔργα τῶν Νικολαϊτῶν, ἃ κἀγὼ μισῶ.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:6"

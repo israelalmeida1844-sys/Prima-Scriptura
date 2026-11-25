@@ -304,7 +304,7 @@ export const apocalipse8v9 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNPN-",
       "morphology": "Verbo · presente · voz ativa · particípio · nominativo · plural · neutro (MorphGNT: V- -PAPNPN-)",
-      "meanings": "tinha",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "Particípio substantivado. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
@@ -454,7 +454,7 @@ export const apocalipse8v9 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
-      "meanings": "navio; embarcação",
+      "meanings": "Veículo usado para navegar sobre a água.",
       "explanation": "Genitivo partitivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"
@@ -479,7 +479,7 @@ export const apocalipse8v9 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3API-P--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · plural (MorphGNT: V- 3API-P--)",
-      "meanings": "destruir; arruinar",
+      "meanings": "Causar destruição, deterioração ou ruína; na passiva, sofrer dano ou destruição.",
       "explanation": "Verbo passivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:9"

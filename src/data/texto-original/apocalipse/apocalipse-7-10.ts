@@ -77,7 +77,7 @@ export const apocalipse7v10 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo · dativo · singular · feminino (MorphGNT: N- ----DSF-)",
-      "meanings": "voz; som",
+      "meanings": "Som produzido ou percebido, especialmente voz humana ou celestial; pode designar uma proclamação.",
       "explanation": "Sentido contextual: voz.",
       "occurrencesExamples": [
         "Ap 7:10"
@@ -101,7 +101,7 @@ export const apocalipse7v10 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----DSF-",
       "morphology": "Adjetivo / numeral · dativo · singular · feminino (MorphGNT: A- ----DSF-)",
-      "meanings": "grande",
+      "meanings": "De dimensão, intensidade, importância ou quantidade elevada; com voz pode significar alta ou forte.",
       "explanation": "Sentido contextual: alta.",
       "occurrencesExamples": [
         "Ap 7:10"
@@ -125,7 +125,7 @@ export const apocalipse7v10 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNPM-",
       "morphology": "Verbo · presente · voz ativa · particípio · nominativo · plural · masculino (MorphGNT: V- -PAPNPM-)",
-      "meanings": "dizer; declarar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Sentido contextual: dizendo.",
       "occurrencesExamples": [
         "Ap 7:10"
@@ -174,7 +174,7 @@ export const apocalipse7v10 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
-      "meanings": "salvação; libertação",
+      "meanings": "Resgate, preservação ou libertação de perigo; em contextos teológicos, a ação salvadora atribuída a Deus.",
       "explanation": "Sentido contextual: salvação.",
       "occurrencesExamples": [
         "Ap 7:10"
@@ -246,7 +246,7 @@ export const apocalipse7v10 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GP--",
       "morphology": "Pronome pessoal · genitivo · plural (MorphGNT: RP ----GP--)",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Sentido contextual: nosso.",
       "occurrencesExamples": [
         "Ap 7:10"
@@ -318,7 +318,7 @@ export const apocalipse7v10 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Sentido contextual: sobre.",
       "occurrencesExamples": [
         "Ap 7:10"
@@ -366,7 +366,7 @@ export const apocalipse7v10 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo · dativo · singular · masculino (MorphGNT: N- ----DSM-)",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "Sentido contextual: trono.",
       "occurrencesExamples": [
         "Ap 7:10"

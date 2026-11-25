@@ -29,7 +29,7 @@ export const apocalipse7v5 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:5"
@@ -101,7 +101,7 @@ export const apocalipse7v5 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo / numeral · nominativo · plural · feminino (MorphGNT: A- ----NPF-)",
-      "meanings": "doze",
+      "meanings": "Numeral cardinal que indica doze unidades.",
       "explanation": "Sentido contextual: doze.",
       "occurrencesExamples": [
         "Ap 7:5"
@@ -149,7 +149,7 @@ export const apocalipse7v5 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-XPPNPM-",
       "morphology": "Verbo · perfeito · voz passiva · particípio · nominativo · plural · masculino (MorphGNT: V- -XPPNPM-)",
-      "meanings": "selar; marcar com selo",
+      "meanings": "Aplicar selo ou marca de autenticação, fechamento, propriedade ou proteção.",
       "explanation": "Marcar com selo; as formas perfeitas passivas descrevem os que foram selados.",
       "occurrencesExamples": [
         "Ap 7:5"
@@ -174,7 +174,7 @@ export const apocalipse7v5 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:5"
@@ -222,7 +222,7 @@ export const apocalipse7v5 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
-      "meanings": "Rúben",
+      "meanings": "Nome próprio do filho de Jacó e da tribo que leva seu nome.",
       "explanation": "Sentido contextual: de Rúben.",
       "occurrencesExamples": [
         "Ap 7:5"
@@ -246,7 +246,7 @@ export const apocalipse7v5 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo / numeral · nominativo · plural · feminino (MorphGNT: A- ----NPF-)",
-      "meanings": "doze",
+      "meanings": "Numeral cardinal que indica doze unidades.",
       "explanation": "Sentido contextual: doze.",
       "occurrencesExamples": [
         "Ap 7:5"
@@ -295,7 +295,7 @@ export const apocalipse7v5 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:5"
@@ -343,7 +343,7 @@ export const apocalipse7v5 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
-      "meanings": "Gade",
+      "meanings": "Nome próprio de um filho de Jacó e da tribo correspondente.",
       "explanation": "Sentido contextual: de Gade.",
       "occurrencesExamples": [
         "Ap 7:5"
@@ -367,7 +367,7 @@ export const apocalipse7v5 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo / numeral · nominativo · plural · feminino (MorphGNT: A- ----NPF-)",
-      "meanings": "doze",
+      "meanings": "Numeral cardinal que indica doze unidades.",
       "explanation": "Sentido contextual: doze.",
       "occurrencesExamples": [
         "Ap 7:5"

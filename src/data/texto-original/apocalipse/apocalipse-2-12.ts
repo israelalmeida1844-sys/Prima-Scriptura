@@ -50,7 +50,7 @@ export const apocalipse2v12 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido dativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τῷ ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας» — objeto indireto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
@@ -74,7 +74,7 @@ export const apocalipse2v12 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
-      "meanings": "mensageiro",
+      "meanings": "Mensageiro enviado para comunicar ou executar uma tarefa; em Apocalipse, frequentemente um ser celestial.",
       "explanation": "Substantivo no constituinte «ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
@@ -98,7 +98,7 @@ export const apocalipse2v12 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τῆς ἐν Περγάμῳ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
@@ -146,7 +146,7 @@ export const apocalipse2v12 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
-      "meanings": "Pérgamo",
+      "meanings": "Nome da cidade da Ásia Menor à qual se dirige a terceira carta de Apocalipse.",
       "explanation": "Substantivo no constituinte «ἐν Περγάμῳ» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
@@ -170,7 +170,7 @@ export const apocalipse2v12 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
-      "meanings": "assembleia",
+      "meanings": "Reunião ou comunidade convocada; no Novo Testamento, comunidade de seguidores de Cristo, local ou coletiva.",
       "explanation": "Substantivo no constituinte «ἐν Περγάμῳ ἐκκλησίας» — integrado ao constituinte com função de objeto indireto «τῷ ἀγγέλῳ τῆς ἐν Περγάμῳ ἐκκλησίας». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
@@ -194,7 +194,7 @@ export const apocalipse2v12 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
-      "meanings": "escrever",
+      "meanings": "Registrar palavras por escrito, redigir uma mensagem ou consignar um nome num documento.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
@@ -243,7 +243,7 @@ export const apocalipse2v12 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
-      "meanings": "dizer",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
@@ -267,7 +267,7 @@ export const apocalipse2v12 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «ὁ ἔχων τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
@@ -291,7 +291,7 @@ export const apocalipse2v12 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
-      "meanings": "ter",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "Particípio em construção sintática. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
@@ -315,7 +315,7 @@ export const apocalipse2v12 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
@@ -363,7 +363,7 @@ export const apocalipse2v12 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὴν δίστομον» — integrado ao constituinte com função de objeto direto «τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
@@ -387,7 +387,7 @@ export const apocalipse2v12 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
-      "meanings": "de dois gumes",
+      "meanings": "Que possui dois lados cortantes; qualificativo de uma lâmina ou espada.",
       "explanation": "Adjetivo no constituinte «τὴν δίστομον» — integrado ao constituinte com função de objeto direto «τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
@@ -411,7 +411,7 @@ export const apocalipse2v12 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὴν ὀξεῖαν·» — integrado ao constituinte com função de objeto direto «τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"
@@ -435,7 +435,7 @@ export const apocalipse2v12 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
-      "meanings": "afiado",
+      "meanings": "Que tem ponta, gume ou qualidade intensa; em referência a lâmina, cortante.",
       "explanation": "Adjetivo no constituinte «τὴν ὀξεῖαν·» — integrado ao constituinte com função de objeto direto «τὴν ῥομφαίαν τὴν δίστομον τὴν ὀξεῖαν·». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:12"

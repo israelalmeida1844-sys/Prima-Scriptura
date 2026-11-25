@@ -29,7 +29,7 @@ export const apocalipse7v3 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo · presente · voz ativa · particípio · nominativo · singular · masculino (MorphGNT: V- -PAPNSM-)",
-      "meanings": "dizer; declarar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Sentido contextual: dizendo.",
       "occurrencesExamples": [
         "Ap 7:3"
@@ -126,7 +126,7 @@ export const apocalipse7v3 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
-      "meanings": "terra; solo",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Sentido contextual: terra.",
       "occurrencesExamples": [
         "Ap 7:3"
@@ -150,7 +150,7 @@ export const apocalipse7v3 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "nem",
+      "meanings": "Conjunção ou partícula negativa que coordena elementos excluídos conjuntamente.",
       "explanation": "Sentido contextual: nem.",
       "occurrencesExamples": [
         "Ap 7:3"
@@ -222,7 +222,7 @@ export const apocalipse7v3 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "nem",
+      "meanings": "Conjunção ou partícula negativa que coordena elementos excluídos conjuntamente.",
       "explanation": "Sentido contextual: nem.",
       "occurrencesExamples": [
         "Ap 7:3"
@@ -270,7 +270,7 @@ export const apocalipse7v3 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APN-",
       "morphology": "Substantivo · acusativo · plural · neutro (MorphGNT: N- ----APN-)",
-      "meanings": "árvore",
+      "meanings": "Planta lenhosa de porte arbóreo; designação genérica da vegetação arbórea.",
       "explanation": "Sentido contextual: árvores.",
       "occurrencesExamples": [
         "Ap 7:3"
@@ -319,7 +319,7 @@ export const apocalipse7v3 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AAS-P--",
       "morphology": "Verbo · aoristo · voz ativa · subjuntivo · 1ª pessoa · plural (MorphGNT: V- 1AAS-P--)",
-      "meanings": "selar; marcar com selo",
+      "meanings": "Aplicar selo ou marca de autenticação, fechamento, propriedade ou proteção.",
       "explanation": "Marcar com selo; as formas perfeitas passivas descrevem os que foram selados.",
       "occurrencesExamples": [
         "Ap 7:3"
@@ -439,7 +439,7 @@ export const apocalipse7v3 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GP--",
       "morphology": "Pronome pessoal · genitivo · plural (MorphGNT: RP ----GP--)",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Sentido contextual: nosso.",
       "occurrencesExamples": [
         "Ap 7:3"
@@ -463,7 +463,7 @@ export const apocalipse7v3 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Sentido contextual: sobre.",
       "occurrencesExamples": [
         "Ap 7:3"
@@ -511,7 +511,7 @@ export const apocalipse7v3 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
-      "meanings": "testa; fronte",
+      "meanings": "Parte anterior da cabeça acima dos olhos; local do selo na visão de Ap 7.",
       "explanation": "Sentido contextual: testas.",
       "occurrencesExamples": [
         "Ap 7:3"

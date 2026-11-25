@@ -54,7 +54,7 @@ export const apocalipse5v13 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: A- ----ASN-",
-      "meanings": "todo; cada",
+      "meanings": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",
       "explanation": "Adjetivo no constituinte «πᾶν κτίσμα ὃ ἐν τῷ οὐρανῷ καὶ ἐπὶ …» — integrado ao constituinte com função de sujeito «πᾶν κτίσμα ὃ ἐν τῷ οὐρανῷ καὶ ἐπὶ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
@@ -222,7 +222,7 @@ export const apocalipse5v13 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Preposição que introduz «ἐπὶ τῆς γῆς» — integrado ao constituinte com função de predicativo «… τῷ οὐρανῷ καὶ ἐπὶ τῆς γῆς καὶ ὑποκάτω …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
@@ -270,7 +270,7 @@ export const apocalipse5v13 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: N- ----GSF-",
-      "meanings": "terra; solo",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Substantivo no constituinte «τῆς γῆς» — integrado ao constituinte com função de predicativo «… καὶ ἐπὶ τῆς γῆς καὶ ὑποκάτω τῆς γῆς …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
@@ -366,7 +366,7 @@ export const apocalipse5v13 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "MorphGNT 6.12: N- ----GSF-",
-      "meanings": "terra; solo",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Substantivo no constituinte «τῆς γῆς» — integrado ao constituinte com função de predicativo «… καὶ ὑποκάτω τῆς γῆς καὶ ἐπὶ τῆς θαλάσσης,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
@@ -414,7 +414,7 @@ export const apocalipse5v13 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Preposição que introduz «ἐπὶ τῆς θαλάσσης,» — integrado ao constituinte com função de predicativo «… καὶ ὑποκάτω τῆς γῆς καὶ ἐπὶ τῆς θαλάσσης,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
@@ -583,7 +583,7 @@ export const apocalipse5v13 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----APN-",
       "morphology": "MorphGNT 6.12: A- ----APN-",
-      "meanings": "todo; cada",
+      "meanings": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",
       "explanation": "Adjetivo no constituinte «τὰ ἐν αὐτοῖς πάντα,» — integrado ao constituinte com função de sujeito «… ἐπὶ τῆς θαλάσσης, καὶ τὰ ἐν αὐτοῖς πάντα,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
@@ -608,7 +608,7 @@ export const apocalipse5v13 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AAI-S--",
       "morphology": "MorphGNT 6.12: V- 1AAI-S--",
-      "meanings": "ouvir; escutar",
+      "meanings": "Perceber sons ou palavras; escutar, prestar atenção e, em contextos de instrução, acolher o que é ouvido.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
@@ -632,7 +632,7 @@ export const apocalipse5v13 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPAPM-",
       "morphology": "MorphGNT 6.12: V- -PAPAPM-",
-      "meanings": "dizer; declarar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
@@ -705,7 +705,7 @@ export const apocalipse5v13 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "MorphGNT 6.12: P- --------",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Preposição que introduz «ἐπὶ τῷ θρόνῳ» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
@@ -754,7 +754,7 @@ export const apocalipse5v13 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSM-",
       "morphology": "MorphGNT 6.12: N- ----DSM-",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "Substantivo no constituinte «τῷ θρόνῳ» — integrado ao constituinte com função de adjunto adverbial «ἐπὶ τῷ θρόνῳ». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
@@ -1019,7 +1019,7 @@ export const apocalipse5v13 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "MorphGNT 6.12: N- ----NSF-",
-      "meanings": "glória",
+      "meanings": "Honra, esplendor, reputação ou manifestação de majestade; em doxologias, reconhecimento da dignidade divina.",
       "explanation": "Substantivo no constituinte «ἡ δόξα» — integrado ao constituinte com função de sujeito «… ἡ τιμὴ καὶ ἡ δόξα καὶ τὸ κράτος». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"
@@ -1091,7 +1091,7 @@ export const apocalipse5v13 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSN-",
       "morphology": "MorphGNT 6.12: N- ----NSN-",
-      "meanings": "poder; domínio",
+      "meanings": "Força efetiva, domínio ou poder soberano; frequentemente empregado em fórmulas de louvor.",
       "explanation": "Substantivo no constituinte «τὸ κράτος» — integrado ao constituinte com função de sujeito «… ἡ τιμὴ καὶ ἡ δόξα καὶ τὸ κράτος». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:13"

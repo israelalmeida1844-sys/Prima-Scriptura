@@ -50,7 +50,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
-      "meanings": "ter; segurar",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "Particípio presente nominativo, retoma a figura em construção descritiva. Verbo no presente, voz ativa, particípio nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:16"
@@ -98,7 +98,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de χειρί. Artigo definido dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"
@@ -122,7 +122,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----DSF-",
       "morphology": "Adjetivo dativo singular feminino",
-      "meanings": "direita; direito",
+      "meanings": "Que pertence ao lado direito; substantivado, pode designar a mão direita ou essa posição.",
       "explanation": "Adjetivo atributivo de χειρί. Adjetivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"
@@ -146,7 +146,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
-      "meanings": "mão",
+      "meanings": "Órgão usado para segurar e agir; por extensão, meio, poder ou posse em determinadas expressões.",
       "explanation": "Complemento dativo locativo de ἐν. Substantivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"
@@ -194,7 +194,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APM-",
       "morphology": "Substantivo acusativo plural masculino",
-      "meanings": "estrela",
+      "meanings": "Corpo celeste luminoso; em textos visionários, sua identificação simbólica depende da explicação contextual.",
       "explanation": "Objeto direto de ἔχων. Substantivo acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:16"
@@ -267,7 +267,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Preposição de origem. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:16"
@@ -291,7 +291,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido genitivo singular neutro",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de στόματος. Artigo definido genitivo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:16"
@@ -315,7 +315,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo genitivo singular neutro",
-      "meanings": "boca",
+      "meanings": "Órgão da fala e alimentação; figuradamente, fonte de palavras ou proclamação.",
       "explanation": "Complemento genitivo de ἐκ. Substantivo genitivo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:16"
@@ -387,7 +387,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSF-",
       "morphology": "Adjetivo nominativo singular feminino",
-      "meanings": "de dois gumes",
+      "meanings": "Que possui dois lados cortantes; qualificativo de uma lâmina ou espada.",
       "explanation": "Adjetivo atributivo de ῥομφαία. Adjetivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"
@@ -411,7 +411,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSF-",
       "morphology": "Adjetivo nominativo singular feminino",
-      "meanings": "afiado; agudo",
+      "meanings": "Que tem ponta, gume ou qualidade intensa; em referência a lâmina, cortante.",
       "explanation": "Adjetivo atributivo de ῥομφαία. Adjetivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"
@@ -435,7 +435,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PMPNSF-",
       "morphology": "Verbo no presente, voz média, particípio nominativo singular feminino",
-      "meanings": "sair; proceder",
+      "meanings": "Mover-se para fora de um lugar ou proceder de determinada origem.",
       "explanation": "Particípio presente médio nominativo, concorda com ῥομφαία. Verbo no presente, voz média, particípio nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"
@@ -484,7 +484,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSF-",
       "morphology": "Artigo definido nominativo singular feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de ὄψις. Artigo definido nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"
@@ -508,7 +508,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
-      "meanings": "aparência; aspecto",
+      "meanings": "Aspecto visível ou semblante de alguém, conforme o referente contextual.",
       "explanation": "Sujeito da descrição nominal. Substantivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"
@@ -556,7 +556,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
-      "meanings": "como",
+      "meanings": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual.",
       "explanation": "Introduz a oração comparativa. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:16"
@@ -580,7 +580,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de ἥλιος. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:16"
@@ -604,7 +604,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
-      "meanings": "sol",
+      "meanings": "Astro que ilumina a terra; empregado também em comparações de brilho.",
       "explanation": "Sujeito de φαίνει. Substantivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:16"
@@ -628,7 +628,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa singular",
-      "meanings": "brilhar; aparecer",
+      "meanings": "Dar luz ou tornar-se visível; conforme a voz e a construção, manifestar-se ou parecer.",
       "explanation": "Predicado da oração comparativa. Verbo no presente, voz ativa, indicativo, 3ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:16"
@@ -676,7 +676,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido dativo singular feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de δυνάμει. Artigo definido dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"
@@ -700,7 +700,7 @@ export const apocalipse1v16 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
-      "meanings": "força; poder",
+      "meanings": "Capacidade de agir, força ou poder efetivo; o contexto pode indicar manifestações extraordinárias de poder.",
       "explanation": "Complemento dativo de ἐν. Substantivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:16"

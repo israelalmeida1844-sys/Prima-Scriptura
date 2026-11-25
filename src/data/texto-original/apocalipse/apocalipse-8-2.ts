@@ -104,7 +104,7 @@ export const apocalipse8v2 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----APM-",
       "morphology": "Adjetivo / numeral · acusativo · plural · masculino (MorphGNT: A- ----APM-)",
-      "meanings": "sete",
+      "meanings": "Numeral cardinal que indica sete unidades; o valor simbólico de uma enumeração depende do contexto.",
       "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:2"
@@ -354,7 +354,7 @@ export const apocalipse8v2 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo / numeral · nominativo · plural · feminino (MorphGNT: A- ----NPF-)",
-      "meanings": "sete",
+      "meanings": "Numeral cardinal que indica sete unidades; o valor simbólico de uma enumeração depende do contexto.",
       "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:2"
@@ -379,7 +379,7 @@ export const apocalipse8v2 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo · nominativo · plural · feminino (MorphGNT: N- ----NPF-)",
-      "meanings": "trombeta",
+      "meanings": "Instrumento sonoro usado para anúncios, convocações, culto ou sinais; no texto visionário, figura de proclamação.",
       "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:2"

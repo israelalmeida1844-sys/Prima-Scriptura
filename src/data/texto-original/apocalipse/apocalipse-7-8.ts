@@ -29,7 +29,7 @@ export const apocalipse7v8 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:8"
@@ -77,7 +77,7 @@ export const apocalipse7v8 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
-      "meanings": "Zebulom",
+      "meanings": "Nome próprio de um filho de Jacó e da tribo correspondente.",
       "explanation": "Sentido contextual: de Zebulom.",
       "occurrencesExamples": [
         "Ap 7:8"
@@ -101,7 +101,7 @@ export const apocalipse7v8 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo / numeral · nominativo · plural · feminino (MorphGNT: A- ----NPF-)",
-      "meanings": "doze",
+      "meanings": "Numeral cardinal que indica doze unidades.",
       "explanation": "Sentido contextual: doze.",
       "occurrencesExamples": [
         "Ap 7:8"
@@ -150,7 +150,7 @@ export const apocalipse7v8 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:8"
@@ -198,7 +198,7 @@ export const apocalipse7v8 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
-      "meanings": "José",
+      "meanings": "Nome próprio de origem hebraica; na lista tribal de Ap 7:8, designa José, filho de Jacó.",
       "explanation": "Sentido contextual: de José.",
       "occurrencesExamples": [
         "Ap 7:8"
@@ -222,7 +222,7 @@ export const apocalipse7v8 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo / numeral · nominativo · plural · feminino (MorphGNT: A- ----NPF-)",
-      "meanings": "doze",
+      "meanings": "Numeral cardinal que indica doze unidades.",
       "explanation": "Sentido contextual: doze.",
       "occurrencesExamples": [
         "Ap 7:8"
@@ -271,7 +271,7 @@ export const apocalipse7v8 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:8"
@@ -319,7 +319,7 @@ export const apocalipse7v8 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
-      "meanings": "Benjamim",
+      "meanings": "Nome próprio do filho mais novo de Jacó e da tribo correspondente.",
       "explanation": "Sentido contextual: de Benjamim.",
       "occurrencesExamples": [
         "Ap 7:8"
@@ -343,7 +343,7 @@ export const apocalipse7v8 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo / numeral · nominativo · plural · feminino (MorphGNT: A- ----NPF-)",
-      "meanings": "doze",
+      "meanings": "Numeral cardinal que indica doze unidades.",
       "explanation": "Sentido contextual: doze.",
       "occurrencesExamples": [
         "Ap 7:8"
@@ -391,7 +391,7 @@ export const apocalipse7v8 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-XPPNPM-",
       "morphology": "Verbo · perfeito · voz passiva · particípio · nominativo · plural · masculino (MorphGNT: V- -XPPNPM-)",
-      "meanings": "selar; marcar com selo",
+      "meanings": "Aplicar selo ou marca de autenticação, fechamento, propriedade ou proteção.",
       "explanation": "Marcar com selo; as formas perfeitas passivas descrevem os que foram selados.",
       "occurrencesExamples": [
         "Ap 7:8"

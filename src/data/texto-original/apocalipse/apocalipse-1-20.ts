@@ -26,7 +26,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido nominativo singular neutro",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de μυστήριον, neutro singular. Artigo definido nominativo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -74,7 +74,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido genitivo plural masculino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de ἀστέρων. Artigo definido genitivo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -122,7 +122,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo genitivo plural masculino",
-      "meanings": "estrela",
+      "meanings": "Corpo celeste luminoso; em textos visionários, sua identificação simbólica depende da explicação contextual.",
       "explanation": "Genitivo de conteúdo de μυστήριον. Substantivo genitivo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -194,7 +194,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
-      "meanings": "sobre; em",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Preposição de localização. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -218,7 +218,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido genitivo singular feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de δεξιᾶς. Artigo definido genitivo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -242,7 +242,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----GSF-",
       "morphology": "Adjetivo genitivo singular feminino",
-      "meanings": "direita; direito",
+      "meanings": "Que pertence ao lado direito; substantivado, pode designar a mão direita ou essa posição.",
       "explanation": "Adjetivo substantivado, complemento genitivo de ἐπί. Adjetivo genitivo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -266,7 +266,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
-      "meanings": "eu; mim",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Genitivo possessivo de δεξιᾶς. Pronome pessoal genitivo singular.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -315,7 +315,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APF-",
       "morphology": "Artigo definido acusativo plural feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de λυχνίας. Artigo definido acusativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -387,7 +387,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APF-",
       "morphology": "Artigo definido acusativo plural feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Artigo da posição atributiva de χρυσᾶς. Artigo definido acusativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -411,7 +411,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----APF-",
       "morphology": "Adjetivo acusativo plural feminino",
-      "meanings": "de ouro; dourado",
+      "meanings": "Adjetivo que caracteriza aquilo que é feito de ouro, revestido de ouro ou semelhante a ele.",
       "explanation": "Adjetivo atributivo de λυχνίας. Adjetivo acusativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -436,7 +436,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NPM-",
       "morphology": "Artigo definido nominativo plural masculino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de ἀστέρες. Artigo definido nominativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -484,7 +484,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo nominativo plural masculino",
-      "meanings": "estrela",
+      "meanings": "Corpo celeste luminoso; em textos visionários, sua identificação simbólica depende da explicação contextual.",
       "explanation": "Sujeito da primeira oração explicativa. Substantivo nominativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -508,7 +508,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo nominativo plural masculino",
-      "meanings": "mensageiro; anjo",
+      "meanings": "Mensageiro enviado para comunicar ou executar uma tarefa; em Apocalipse, frequentemente um ser celestial.",
       "explanation": "Predicativo de ἀστέρες. Substantivo nominativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -532,7 +532,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPF-",
       "morphology": "Artigo definido genitivo plural feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de ἐκκλησιῶν. Artigo definido genitivo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -580,7 +580,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPF-",
       "morphology": "Substantivo genitivo plural feminino",
-      "meanings": "igreja; assembleia",
+      "meanings": "Reunião ou comunidade convocada; no Novo Testamento, comunidade de seguidores de Cristo, local ou coletiva.",
       "explanation": "Genitivo de relação de ἄγγελοι. Substantivo genitivo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -604,7 +604,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural",
-      "meanings": "ser; estar",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "Cópula da primeira oração explicativa. Verbo no presente, voz ativa, indicativo, 3ª pessoa plural.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -653,7 +653,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NPF-",
       "morphology": "Artigo definido nominativo plural feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de λυχνίαι. Artigo definido nominativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -701,7 +701,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NPF-",
       "morphology": "Artigo definido nominativo plural feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Artigo da posição atributiva do numeral. Artigo definido nominativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -773,7 +773,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo nominativo plural feminino",
-      "meanings": "igreja; assembleia",
+      "meanings": "Reunião ou comunidade convocada; no Novo Testamento, comunidade de seguidores de Cristo, local ou coletiva.",
       "explanation": "Predicativo de λυχνίαι. Substantivo nominativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:20"
@@ -797,7 +797,7 @@ export const apocalipse1v20 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural",
-      "meanings": "ser; estar",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "Cópula da segunda oração explicativa. Verbo no presente, voz ativa, indicativo, 3ª pessoa plural.",
       "occurrencesExamples": [
         "Ap 1:20"

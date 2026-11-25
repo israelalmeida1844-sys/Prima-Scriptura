@@ -29,7 +29,7 @@ export const apocalipse7v1 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "com; depois de",
+      "meanings": "Preposição que, com genitivo, indica companhia ou associação e, com acusativo, normalmente sucessão temporal ou espacial.",
       "explanation": "Sentido contextual: depois.",
       "occurrencesExamples": [
         "Ap 7:1"
@@ -53,7 +53,7 @@ export const apocalipse7v1 = {
       "partOfSpeech": "Pronome demonstrativo",
       "morphologyCode": "----ASN-",
       "morphology": "Pronome demonstrativo · acusativo · singular · neutro (MorphGNT: RD ----ASN-)",
-      "meanings": "este; essas coisas",
+      "meanings": "Pronome demonstrativo que identifica referente próximo no discurso, no espaço ou no contexto.",
       "explanation": "Sentido contextual: disso.",
       "occurrencesExamples": [
         "Ap 7:1"
@@ -173,7 +173,7 @@ export const apocalipse7v1 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Sentido contextual: sobre.",
       "occurrencesExamples": [
         "Ap 7:1"
@@ -245,7 +245,7 @@ export const apocalipse7v1 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APF-",
       "morphology": "Substantivo · acusativo · plural · feminino (MorphGNT: N- ----APF-)",
-      "meanings": "canto; extremidade",
+      "meanings": "Ângulo, esquina ou extremidade; no plural pode integrar expressões de abrangência espacial.",
       "explanation": "Extremidade ou canto; aqui, parte da expressão espacial «quatro cantos da terra».",
       "occurrencesExamples": [
         "Ap 7:1"
@@ -293,7 +293,7 @@ export const apocalipse7v1 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
-      "meanings": "terra; solo",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Sentido contextual: terra.",
       "occurrencesExamples": [
         "Ap 7:1"
@@ -438,7 +438,7 @@ export const apocalipse7v1 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
-      "meanings": "terra; solo",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Sentido contextual: terra.",
       "occurrencesExamples": [
         "Ap 7:1"
@@ -511,7 +511,7 @@ export const apocalipse7v1 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAS-S--",
       "morphology": "Verbo · presente · voz ativa · subjuntivo · 3ª pessoa · singular (MorphGNT: V- 3PAS-S--)",
-      "meanings": "soprar",
+      "meanings": "Mover ar, produzir vento ou soprar; descreve a ação do vento em Ap 7:1.",
       "explanation": "Sentido contextual: sopre.",
       "occurrencesExamples": [
         "Ap 7:1"
@@ -559,7 +559,7 @@ export const apocalipse7v1 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Sentido contextual: sobre.",
       "occurrencesExamples": [
         "Ap 7:1"
@@ -607,7 +607,7 @@ export const apocalipse7v1 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
-      "meanings": "terra; solo",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Sentido contextual: terra.",
       "occurrencesExamples": [
         "Ap 7:1"
@@ -631,7 +631,7 @@ export const apocalipse7v1 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "nem",
+      "meanings": "Conjunção ou partícula negativa que coordena elementos excluídos conjuntamente.",
       "explanation": "Sentido contextual: nem.",
       "occurrencesExamples": [
         "Ap 7:1"
@@ -655,7 +655,7 @@ export const apocalipse7v1 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Sentido contextual: sobre.",
       "occurrencesExamples": [
         "Ap 7:1"
@@ -727,7 +727,7 @@ export const apocalipse7v1 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
-      "meanings": "nem",
+      "meanings": "Conjunção ou partícula negativa que coordena elementos excluídos conjuntamente.",
       "explanation": "Sentido contextual: nem.",
       "occurrencesExamples": [
         "Ap 7:1"
@@ -751,7 +751,7 @@ export const apocalipse7v1 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Sentido contextual: sobre.",
       "occurrencesExamples": [
         "Ap 7:1"
@@ -775,7 +775,7 @@ export const apocalipse7v1 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----ASN-",
       "morphology": "Adjetivo / numeral · acusativo · singular · neutro (MorphGNT: A- ----ASN-)",
-      "meanings": "todo; cada",
+      "meanings": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",
       "explanation": "Sentido contextual: qualquer.",
       "occurrencesExamples": [
         "Ap 7:1"
@@ -799,7 +799,7 @@ export const apocalipse7v1 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo · acusativo · singular · neutro (MorphGNT: N- ----ASN-)",
-      "meanings": "árvore",
+      "meanings": "Planta lenhosa de porte arbóreo; designação genérica da vegetação arbórea.",
       "explanation": "Sentido contextual: árvore.",
       "occurrencesExamples": [
         "Ap 7:1"

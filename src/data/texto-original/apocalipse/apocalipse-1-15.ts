@@ -50,7 +50,7 @@ export const apocalipse1v15 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NPM-",
       "morphology": "Artigo definido nominativo plural masculino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de πόδες. Artigo definido nominativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:15"
@@ -74,7 +74,7 @@ export const apocalipse1v15 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo nominativo plural masculino",
-      "meanings": "pé",
+      "meanings": "Extremidade inferior do membro usado para ficar em pé ou caminhar; também marca posição diante de alguém.",
       "explanation": "Sujeito da primeira oração nominal. Substantivo nominativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:15"
@@ -122,7 +122,7 @@ export const apocalipse1v15 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo nominativo plural masculino",
-      "meanings": "semelhante",
+      "meanings": "Que apresenta semelhança de forma, qualidade ou aparência com outro referente; frequentemente rege dativo.",
       "explanation": "Predicativo de πόδες. Adjetivo nominativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:15"
@@ -171,7 +171,7 @@ export const apocalipse1v15 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
-      "meanings": "como",
+      "meanings": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual.",
       "explanation": "Partícula de comparação. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:15"
@@ -219,7 +219,7 @@ export const apocalipse1v15 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo dativo singular feminino",
-      "meanings": "fornalha",
+      "meanings": "Forno ou instalação de aquecimento intenso, empregado em processos térmicos como fundição.",
       "explanation": "Complemento dativo de ἐν. Substantivo dativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:15"
@@ -292,7 +292,7 @@ export const apocalipse1v15 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSF-",
       "morphology": "Artigo definido nominativo singular feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de φωνή. Artigo definido nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:15"
@@ -316,7 +316,7 @@ export const apocalipse1v15 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
-      "meanings": "voz; som",
+      "meanings": "Som produzido ou percebido, especialmente voz humana ou celestial; pode designar uma proclamação.",
       "explanation": "Sujeito da segunda oração nominal. Substantivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:15"
@@ -364,7 +364,7 @@ export const apocalipse1v15 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
-      "meanings": "como",
+      "meanings": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual.",
       "explanation": "Partícula de comparação. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:15"
@@ -388,7 +388,7 @@ export const apocalipse1v15 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
-      "meanings": "voz; som",
+      "meanings": "Som produzido ou percebido, especialmente voz humana ou celestial; pode designar uma proclamação.",
       "explanation": "Núcleo do predicativo comparativo. Substantivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:15"
@@ -412,7 +412,7 @@ export const apocalipse1v15 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo genitivo plural neutro",
-      "meanings": "água",
+      "meanings": "Substância líquida essencial à vida; o plural pode designar massas de água ou fontes.",
       "explanation": "Genitivo de origem ou caracterização de φωνή. Substantivo genitivo plural neutro.",
       "occurrencesExamples": [
         "Ap 1:15"
@@ -436,7 +436,7 @@ export const apocalipse1v15 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----GPN-",
       "morphology": "Adjetivo genitivo plural neutro",
-      "meanings": "muito; numeroso",
+      "meanings": "Quantificador que expressa quantidade elevada, multiplicidade ou intensidade.",
       "explanation": "Adjetivo atributivo de ὑδάτων. Adjetivo genitivo plural neutro.",
       "occurrencesExamples": [
         "Ap 1:15"

@@ -79,7 +79,7 @@ export const apocalipse8v6 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo / numeral · nominativo · plural · masculino (MorphGNT: A- ----NPM-)",
-      "meanings": "sete",
+      "meanings": "Numeral cardinal que indica sete unidades; o valor simbólico de uma enumeração depende do contexto.",
       "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:6"
@@ -154,7 +154,7 @@ export const apocalipse8v6 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNPM-",
       "morphology": "Verbo · presente · voz ativa · particípio · nominativo · plural · masculino (MorphGNT: V- -PAPNPM-)",
-      "meanings": "tinha",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "Particípio atributivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:6"
@@ -204,7 +204,7 @@ export const apocalipse8v6 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----APF-",
       "morphology": "Adjetivo / numeral · acusativo · plural · feminino (MorphGNT: A- ----APF-)",
-      "meanings": "sete",
+      "meanings": "Numeral cardinal que indica sete unidades; o valor simbólico de uma enumeração depende do contexto.",
       "explanation": "Modificador nominal (conforme contexto). Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:6"
@@ -229,7 +229,7 @@ export const apocalipse8v6 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APF-",
       "morphology": "Substantivo · acusativo · plural · feminino (MorphGNT: N- ----APF-)",
-      "meanings": "trombeta",
+      "meanings": "Instrumento sonoro usado para anúncios, convocações, culto ou sinais; no texto visionário, figura de proclamação.",
       "explanation": "Objeto do particípio. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:6"
@@ -254,7 +254,7 @@ export const apocalipse8v6 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-P--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3AAI-P--)",
-      "meanings": "preparar",
+      "meanings": "Dispor algo ou alguém para uma ação ou situação futura.",
       "explanation": "Verbo principal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:6"
@@ -329,7 +329,7 @@ export const apocalipse8v6 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAS-P--",
       "morphology": "Verbo · aoristo · voz ativa · subjuntivo · 3ª pessoa · plural (MorphGNT: V- 3AAS-P--)",
-      "meanings": "tocar trombeta",
+      "meanings": "Produzir o som de uma trombeta; em Ap 8, introduz cada cena do septenário.",
       "explanation": "Verbo da oração final. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:6"

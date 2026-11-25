@@ -26,7 +26,7 @@ export const apocalipse2v24 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----DP--",
       "morphology": "Pronome pessoal dativo plural",
-      "meanings": "tu",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "Pronome no constituinte «ὑμῖν τοῖς λοιποῖς τοῖς ἐν Θυατείροις,» — integrado ao constituinte com função de objeto indireto «ὑμῖν τοῖς λοιποῖς τοῖς ἐν Θυατείροις, ὅσοι οὐκ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
@@ -50,7 +50,7 @@ export const apocalipse2v24 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção",
-      "meanings": "porém",
+      "meanings": "Conjunção pós-positiva que articula enunciados por continuidade, transição ou contraste conforme o contexto.",
       "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
@@ -74,7 +74,7 @@ export const apocalipse2v24 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
-      "meanings": "dizer",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
@@ -98,7 +98,7 @@ export const apocalipse2v24 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DPM-",
       "morphology": "Artigo definido dativo plural masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τοῖς λοιποῖς» — integrado ao constituinte com função de objeto indireto «ὑμῖν τοῖς λοιποῖς τοῖς ἐν Θυατείροις, ὅσοι οὐκ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
@@ -146,7 +146,7 @@ export const apocalipse2v24 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DPM-",
       "morphology": "Artigo definido dativo plural masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τοῖς ἐν Θυατείροις,» — integrado ao constituinte com função de objeto indireto «ὑμῖν τοῖς λοιποῖς τοῖς ἐν Θυατείροις, ὅσοι οὐκ …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
@@ -194,7 +194,7 @@ export const apocalipse2v24 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DPN-",
       "morphology": "Substantivo dativo plural neutro",
-      "meanings": "Tiatira",
+      "meanings": "Nome da cidade da Ásia Menor à qual se dirige a quarta carta de Apocalipse.",
       "explanation": "Substantivo no constituinte «ἐν Θυατείροις,» — integrado ao constituinte com função de objeto indireto «… λοιποῖς τοῖς ἐν Θυατείροις, ὅσοι οὐκ ἔχουσιν τὴν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
@@ -267,7 +267,7 @@ export const apocalipse2v24 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural",
-      "meanings": "ter",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
@@ -291,7 +291,7 @@ export const apocalipse2v24 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὴν διδαχὴν» — integrado ao constituinte com função de objeto direto «τὴν διδαχὴν ταύτην,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
@@ -339,7 +339,7 @@ export const apocalipse2v24 = {
       "partOfSpeech": "Pronome demonstrativo",
       "morphologyCode": "----ASF-",
       "morphology": "Pronome demonstrativo acusativo singular feminino",
-      "meanings": "este",
+      "meanings": "Pronome demonstrativo que identifica referente próximo no discurso, no espaço ou no contexto.",
       "explanation": "Pronome no constituinte «τὴν διδαχὴν ταύτην,» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
@@ -436,7 +436,7 @@ export const apocalipse2v24 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APN-",
       "morphology": "Artigo definido acusativo plural neutro",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὰ βαθέα τοῦ Σατανᾶ,» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
@@ -484,7 +484,7 @@ export const apocalipse2v24 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τοῦ Σατανᾶ,» — integrado ao constituinte com função de objeto direto «τὰ βαθέα τοῦ Σατανᾶ,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
@@ -533,7 +533,7 @@ export const apocalipse2v24 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção",
-      "meanings": "como",
+      "meanings": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual.",
       "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
@@ -557,7 +557,7 @@ export const apocalipse2v24 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural",
-      "meanings": "dizer",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
@@ -630,7 +630,7 @@ export const apocalipse2v24 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição",
-      "meanings": "sobre",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Preposição que introduz «ἐφ’ ὑμᾶς» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"
@@ -654,7 +654,7 @@ export const apocalipse2v24 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----AP--",
       "morphology": "Pronome pessoal acusativo plural",
-      "meanings": "tu",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "Pronome no constituinte «ἐφ’ ὑμᾶς» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:24"

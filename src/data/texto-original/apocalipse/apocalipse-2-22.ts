@@ -26,7 +26,7 @@ export const apocalipse2v22 = {
       "partOfSpeech": "Partícula",
       "morphologyCode": "--------",
       "morphology": "Partícula",
-      "meanings": "eis",
+      "meanings": "Partícula de apresentação que chama atenção para algo visto, anunciado ou relevante no discurso.",
       "explanation": "Partícula no constituinte «ἰδοὺ βάλλω αὐτὴν εἰς κλίνην, καὶ τοὺς μοιχεύοντας …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
@@ -171,7 +171,7 @@ export const apocalipse2v22 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido acusativo plural masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τοὺς μοιχεύοντας μετ’ αὐτῆς» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
@@ -219,7 +219,7 @@ export const apocalipse2v22 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição",
-      "meanings": "com",
+      "meanings": "Preposição que, com genitivo, indica companhia ou associação e, com acusativo, normalmente sucessão temporal ou espacial.",
       "explanation": "Preposição que introduz «μετ’ αὐτῆς» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
@@ -291,7 +291,7 @@ export const apocalipse2v22 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
-      "meanings": "tribulação",
+      "meanings": "Pressão, aflição, sofrimento ou circunstância adversa; pode designar provação coletiva.",
       "explanation": "Substantivo no constituinte «θλῖψιν μεγάλην,» — integrado ao constituinte com função de adjunto adverbial «εἰς θλῖψιν μεγάλην,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
@@ -315,7 +315,7 @@ export const apocalipse2v22 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
-      "meanings": "grande",
+      "meanings": "De dimensão, intensidade, importância ou quantidade elevada; com voz pode significar alta ou forte.",
       "explanation": "Adjetivo no constituinte «θλῖψιν μεγάλην,» — integrado ao constituinte com função de adjunto adverbial «εἰς θλῖψιν μεγάλην,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
@@ -412,7 +412,7 @@ export const apocalipse2v22 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição",
-      "meanings": "de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Preposição que introduz «ἐκ τῶν ἔργων αὐτῆς·» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"
@@ -436,7 +436,7 @@ export const apocalipse2v22 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido genitivo plural neutro",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τῶν ἔργων αὐτῆς·» — integrado ao constituinte com função de adjunto adverbial «ἐκ τῶν ἔργων αὐτῆς·». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:22"

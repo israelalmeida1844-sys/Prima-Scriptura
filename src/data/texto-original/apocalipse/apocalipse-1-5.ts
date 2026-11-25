@@ -143,7 +143,7 @@ export const apocalipse1v5 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
-      "meanings": "testemunha",
+      "meanings": "Pessoa que atesta fatos ou declara uma verdade; o contexto pode associar o testemunho ao sofrimento.",
       "explanation": "Título apositivo no nominativo apesar do genitivo antecedente. Substantivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:5"
@@ -240,7 +240,7 @@ export const apocalipse1v5 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
-      "meanings": "primogênito",
+      "meanings": "Primeiro nascido; pode expressar primazia, posição hereditária ou preeminência em relação a um grupo.",
       "explanation": "«Primogênito dentre os mortos» exprime primazia de Cristo na ressurreição; não prova que foi a primeira pessoa a ressuscitar cronologicamente.",
       "occurrencesExamples": [
         "Ap 1:5"
@@ -288,7 +288,7 @@ export const apocalipse1v5 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----GPM-",
       "morphology": "Adjetivo genitivo plural masculino",
-      "meanings": "morto",
+      "meanings": "Que perdeu a vida; em sentido figurado, descreve condição de inatividade ou ausência de vida espiritual.",
       "explanation": "Genitivo de relação com πρωτότοκος. Adjetivo genitivo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:5"
@@ -408,7 +408,7 @@ export const apocalipse1v5 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo genitivo plural masculino",
-      "meanings": "rei",
+      "meanings": "Governante investido de autoridade régia sobre um povo ou território.",
       "explanation": "Genitivo de domínio de ἄρχων. Substantivo genitivo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:5"
@@ -456,7 +456,7 @@ export const apocalipse1v5 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
-      "meanings": "terra; solo",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Genitivo adnominal de βασιλέων. Substantivo genitivo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:5"
@@ -505,7 +505,7 @@ export const apocalipse1v5 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPDSM-",
       "morphology": "Verbo presente ativo particípio dativo singular masculino",
-      "meanings": "amar",
+      "meanings": "Demonstrar amor, apreço ou dedicação a alguém; o caráter do amor decorre da construção e do contexto.",
       "explanation": "Particípio presente ativo dativo, destinatário da doxologia. Verbo presente ativo particípio dativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:5"
@@ -529,7 +529,7 @@ export const apocalipse1v5 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----AP--",
       "morphology": "Pronome pessoal acusativo plural",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Objeto direto de ἀγαπῶντι. Pronome pessoal acusativo plural.",
       "occurrencesExamples": [
         "Ap 1:5"
@@ -601,7 +601,7 @@ export const apocalipse1v5 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----AP--",
       "morphology": "Pronome pessoal acusativo plural",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Objeto direto de λύσαντι. Pronome pessoal acusativo plural.",
       "occurrencesExamples": [
         "Ap 1:5"
@@ -625,7 +625,7 @@ export const apocalipse1v5 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Preposição de separação, rege ἁμαρτιῶν. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:5"
@@ -673,7 +673,7 @@ export const apocalipse1v5 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPF-",
       "morphology": "Substantivo genitivo plural feminino",
-      "meanings": "pecado",
+      "meanings": "Transgressão ou desvio da vontade divina; pode designar atos pecaminosos ou a condição associada ao pecado.",
       "explanation": "Complemento genitivo de ἐκ. Substantivo genitivo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:5"
@@ -697,7 +697,7 @@ export const apocalipse1v5 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GP--",
       "morphology": "Pronome pessoal genitivo plural",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Genitivo possessivo de ἁμαρτιῶν. Pronome pessoal genitivo plural.",
       "occurrencesExamples": [
         "Ap 1:5"
@@ -769,7 +769,7 @@ export const apocalipse1v5 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSN-",
       "morphology": "Substantivo dativo singular neutro",
-      "meanings": "sangue",
+      "meanings": "Fluido vital; em contextos sacrificiais ou violentos pode representar vida entregue, morte ou responsabilidade pelo derramamento.",
       "explanation": "Complemento dativo de ἐν, meio da libertação. Substantivo dativo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:5"

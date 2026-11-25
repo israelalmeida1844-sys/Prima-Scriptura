@@ -22,7 +22,7 @@ export const apocalipse1v7 = {
       "partOfSpeech": "Partícula",
       "morphologyCode": "--------",
       "morphology": "Partícula (indeclinável)",
-      "meanings": "eis; veja",
+      "meanings": "Partícula de apresentação que chama atenção para algo visto, anunciado ou relevante no discurso.",
       "explanation": "Partícula de apresentação do anúncio. Partícula (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:7"
@@ -46,7 +46,7 @@ export const apocalipse1v7 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PMI-S--",
       "morphology": "Verbo presente médio indicativo 3ª pessoa singular",
-      "meanings": "vir; chegar",
+      "meanings": "Movimento em direção a um lugar ou pessoa, ou chegada de alguém ou de um acontecimento.",
       "explanation": "A forma ἐρχόμενος, na fórmula divina, aponta para aquele que vem; em 1:7, ἔρχεται refere-se à vinda anunciada em linguagem profética.",
       "occurrencesExamples": [
         "Ap 1:7"
@@ -70,7 +70,7 @@ export const apocalipse1v7 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
-      "meanings": "com; depois de",
+      "meanings": "Preposição que, com genitivo, indica companhia ou associação e, com acusativo, normalmente sucessão temporal ou espacial.",
       "explanation": "Preposição de acompanhamento. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:7"
@@ -118,7 +118,7 @@ export const apocalipse1v7 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPF-",
       "morphology": "Substantivo genitivo plural feminino",
-      "meanings": "nuvem",
+      "meanings": "Massa visível de vapor atmosférico; em contextos visionários pode integrar imagens da manifestação divina.",
       "explanation": "Complemento genitivo de μετά. Substantivo genitivo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:7"
@@ -215,7 +215,7 @@ export const apocalipse1v7 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
-      "meanings": "todo; cada",
+      "meanings": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",
       "explanation": "Quantificador de ὀφθαλμός. Adjetivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:7"
@@ -239,7 +239,7 @@ export const apocalipse1v7 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
-      "meanings": "olho",
+      "meanings": "Órgão da visão; figuradamente, capacidade de perceber, discernir ou observar.",
       "explanation": "Sujeito nominativo de ὄψεται. Substantivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:7"
@@ -384,7 +384,7 @@ export const apocalipse1v7 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3FMI-P--",
       "morphology": "Verbo futuro médio indicativo 3ª pessoa plural",
-      "meanings": "lamentar; golpear",
+      "meanings": "Golpear ou bater; na voz média e em contextos de lamento, bater no peito ou lamentar-se.",
       "explanation": "Predicado futuro médio de πᾶσαι αἱ φυλαί. Verbo futuro médio indicativo 3ª pessoa plural.",
       "occurrencesExamples": [
         "Ap 1:7"
@@ -408,7 +408,7 @@ export const apocalipse1v7 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Preposição causal, rege αὐτόν. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:7"
@@ -456,7 +456,7 @@ export const apocalipse1v7 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo nominativo plural feminino",
-      "meanings": "todo; cada",
+      "meanings": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",
       "explanation": "Quantificador de φυλαί. Adjetivo nominativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:7"
@@ -552,7 +552,7 @@ export const apocalipse1v7 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo genitivo singular feminino",
-      "meanings": "terra; solo",
+      "meanings": "Solo, território, região ou a terra em contraste com o céu; a extensão depende do contexto.",
       "explanation": "Genitivo que delimita φυλαί. Substantivo genitivo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:7"
@@ -577,7 +577,7 @@ export const apocalipse1v7 = {
       "partOfSpeech": "Partícula",
       "morphologyCode": "--------",
       "morphology": "Partícula (indeclinável)",
-      "meanings": "sim; certamente",
+      "meanings": "Partícula afirmativa que confirma ou aceita uma declaração.",
       "explanation": "Partícula de afirmação. Partícula (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:7"
@@ -602,7 +602,7 @@ export const apocalipse1v7 = {
       "partOfSpeech": "Partícula",
       "morphologyCode": "--------",
       "morphology": "Partícula (indeclinável)",
-      "meanings": "amém; assim seja",
+      "meanings": "Partícula de confirmação ou ratificação de origem semítica, empregada para afirmar a veracidade de uma declaração.",
       "explanation": "Partícula de ratificação. Partícula (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:7"

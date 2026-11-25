@@ -123,7 +123,7 @@ export const apocalipse2v13 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «ὁ θρόνος τοῦ Σατανᾶ,» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:13"
@@ -147,7 +147,7 @@ export const apocalipse2v13 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "Substantivo no constituinte «θρόνος τοῦ Σατανᾶ,» — integrado ao constituinte com função de sujeito «ὁ θρόνος τοῦ Σατανᾶ,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:13"
@@ -171,7 +171,7 @@ export const apocalipse2v13 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido genitivo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τοῦ Σατανᾶ,» — integrado ao constituinte com função de sujeito «ὁ θρόνος τοῦ Σατανᾶ,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:13"
@@ -268,7 +268,7 @@ export const apocalipse2v13 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido acusativo singular neutro",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὸ ὄνομά μου,» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:13"
@@ -316,7 +316,7 @@ export const apocalipse2v13 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
-      "meanings": "eu",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Pronome no constituinte «ὄνομά μου,» — integrado ao constituinte com função de objeto direto «τὸ ὄνομά μου,». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:13"
@@ -413,7 +413,7 @@ export const apocalipse2v13 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὴν πίστιν μου» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:13"
@@ -461,7 +461,7 @@ export const apocalipse2v13 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
-      "meanings": "eu",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Pronome no constituinte «πίστιν μου» — integrado ao constituinte com função de objeto direto «τὴν πίστιν μου». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:13"
@@ -533,7 +533,7 @@ export const apocalipse2v13 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DPF-",
       "morphology": "Artigo definido dativo plural feminino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «ταῖς ἡμέραις Ἀντιπᾶς, ὁ μάρτυς μου, ὁ πιστός …» — integrado ao constituinte com função de adjunto adverbial «καὶ ἐν ταῖς ἡμέραις Ἀντιπᾶς, ὁ μάρτυς μου, …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:13"
@@ -557,7 +557,7 @@ export const apocalipse2v13 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo dativo plural feminino",
-      "meanings": "dia",
+      "meanings": "Período diurno ou unidade temporal; em contextos proféticos pode indicar ocasião determinada.",
       "explanation": "Substantivo no constituinte «ἡμέραις Ἀντιπᾶς, ὁ μάρτυς μου, ὁ πιστός μου, …» — integrado ao constituinte com função de adjunto adverbial «καὶ ἐν ταῖς ἡμέραις Ἀντιπᾶς, ὁ μάρτυς μου, …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:13"
@@ -606,7 +606,7 @@ export const apocalipse2v13 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «ὁ μάρτυς μου,» — integrado ao constituinte com função de adjunto adverbial «… ταῖς ἡμέραις Ἀντιπᾶς, ὁ μάρτυς μου, ὁ πιστός …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:13"
@@ -630,7 +630,7 @@ export const apocalipse2v13 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo nominativo singular masculino",
-      "meanings": "testemunha",
+      "meanings": "Pessoa que atesta fatos ou declara uma verdade; o contexto pode associar o testemunho ao sofrimento.",
       "explanation": "Substantivo no constituinte «μάρτυς μου,» — integrado ao constituinte com função de adjunto adverbial «… ἡμέραις Ἀντιπᾶς, ὁ μάρτυς μου, ὁ πιστός μου, …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:13"
@@ -654,7 +654,7 @@ export const apocalipse2v13 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
-      "meanings": "eu",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Pronome no constituinte «μάρτυς μου,» — integrado ao constituinte com função de adjunto adverbial «… Ἀντιπᾶς, ὁ μάρτυς μου, ὁ πιστός μου, ὃς …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:13"
@@ -679,7 +679,7 @@ export const apocalipse2v13 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «ὁ πιστός μου,» — integrado ao constituinte com função de adjunto adverbial «… ὁ μάρτυς μου, ὁ πιστός μου, ὃς ἀπεκτάνθη …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:13"
@@ -727,7 +727,7 @@ export const apocalipse2v13 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
-      "meanings": "eu",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Pronome no constituinte «πιστός μου,» — integrado ao constituinte com função de adjunto adverbial «… μου, ὁ πιστός μου, ὃς ἀπεκτάνθη παρ’ ὑμῖν, …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:13"
@@ -824,7 +824,7 @@ export const apocalipse2v13 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----DP--",
       "morphology": "Pronome pessoal dativo plural",
-      "meanings": "tu",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "Pronome no constituinte «παρ’ ὑμῖν,» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:13"
@@ -873,7 +873,7 @@ export const apocalipse2v13 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «ὁ Σατανᾶς» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:13"

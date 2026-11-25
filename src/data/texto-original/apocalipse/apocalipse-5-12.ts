@@ -30,7 +30,7 @@ export const apocalipse5v12 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNPM-",
       "morphology": "MorphGNT 6.12: V- -PAPNPM-",
-      "meanings": "dizer; declarar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
@@ -54,7 +54,7 @@ export const apocalipse5v12 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSF-",
       "morphology": "MorphGNT 6.12: N- ----DSF-",
-      "meanings": "voz; som",
+      "meanings": "Som produzido ou percebido, especialmente voz humana ou celestial; pode designar uma proclamação.",
       "explanation": "Substantivo no constituinte «φωνῇ μεγάλῃ·» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
@@ -78,7 +78,7 @@ export const apocalipse5v12 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----DSF-",
       "morphology": "MorphGNT 6.12: A- ----DSF-",
-      "meanings": "grande",
+      "meanings": "De dimensão, intensidade, importância ou quantidade elevada; com voz pode significar alta ou forte.",
       "explanation": "Adjetivo no constituinte «φωνῇ μεγάλῃ·» — adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
@@ -127,7 +127,7 @@ export const apocalipse5v12 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-S--",
       "morphology": "MorphGNT 6.12: V- 3PAI-S--",
-      "meanings": "ser; estar; existir",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "Verbo de ligação da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
@@ -295,7 +295,7 @@ export const apocalipse5v12 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: N- ----ASF-",
-      "meanings": "força; poder",
+      "meanings": "Capacidade de agir, força ou poder efetivo; o contexto pode indicar manifestações extraordinárias de poder.",
       "explanation": "Substantivo no constituinte «δύναμιν καὶ πλοῦτον καὶ σοφίαν καὶ ἰσχὺν καὶ …» — integrado ao constituinte com função de objeto direto «τὴν δύναμιν καὶ πλοῦτον καὶ σοφίαν καὶ ἰσχὺν …». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"
@@ -535,7 +535,7 @@ export const apocalipse5v12 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "MorphGNT 6.12: N- ----ASF-",
-      "meanings": "glória",
+      "meanings": "Honra, esplendor, reputação ou manifestação de majestade; em doxologias, reconhecimento da dignidade divina.",
       "explanation": "Substantivo no constituinte «καὶ δόξαν» — integrado ao constituinte com função de objeto direto «… καὶ ἰσχὺν καὶ τιμὴν καὶ δόξαν καὶ εὐλογίαν.». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:12"

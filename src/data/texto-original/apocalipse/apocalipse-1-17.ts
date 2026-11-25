@@ -50,7 +50,7 @@ export const apocalipse1v17 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
-      "meanings": "quando",
+      "meanings": "Conjunção temporal que situa uma ação em relação a outra.",
       "explanation": "Conjunção subordinativa temporal. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:17"
@@ -123,7 +123,7 @@ export const apocalipse1v17 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular",
-      "meanings": "cair",
+      "meanings": "Mover-se para baixo, cair ou prostrar-se; figuradamente, perder uma posição ou condição.",
       "explanation": "Predicado principal de primeira pessoa. Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:17"
@@ -171,7 +171,7 @@ export const apocalipse1v17 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido acusativo plural masculino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de πόδας. Artigo definido acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:17"
@@ -195,7 +195,7 @@ export const apocalipse1v17 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APM-",
       "morphology": "Substantivo acusativo plural masculino",
-      "meanings": "pé",
+      "meanings": "Extremidade inferior do membro usado para ficar em pé ou caminhar; também marca posição diante de alguém.",
       "explanation": "Complemento acusativo de πρός. Substantivo acusativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:17"
@@ -243,7 +243,7 @@ export const apocalipse1v17 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
-      "meanings": "como",
+      "meanings": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual.",
       "explanation": "Partícula de comparação. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:17"
@@ -267,7 +267,7 @@ export const apocalipse1v17 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
-      "meanings": "morto",
+      "meanings": "Que perdeu a vida; em sentido figurado, descreve condição de inatividade ou ausência de vida espiritual.",
       "explanation": "Predicativo comparativo do sujeito João. Adjetivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:17"
@@ -316,7 +316,7 @@ export const apocalipse1v17 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 3ª pessoa singular",
-      "meanings": "colocar; pôr",
+      "meanings": "Colocar, estabelecer ou depositar algo em determinada posição ou relação.",
       "explanation": "Predicado verbal de terceira pessoa. Verbo no aoristo, voz ativa, indicativo, 3ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:17"
@@ -340,7 +340,7 @@ export const apocalipse1v17 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante substantivador de δεξιάν. Artigo definido acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:17"
@@ -364,7 +364,7 @@ export const apocalipse1v17 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
-      "meanings": "direita; direito",
+      "meanings": "Que pertence ao lado direito; substantivado, pode designar a mão direita ou essa posição.",
       "explanation": "Adjetivo substantivado, objeto direto de ἔθηκεν. Adjetivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:17"
@@ -412,7 +412,7 @@ export const apocalipse1v17 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
-      "meanings": "sobre; em",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Preposição de contato. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:17"
@@ -436,7 +436,7 @@ export const apocalipse1v17 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----AS--",
       "morphology": "Pronome pessoal acusativo singular",
-      "meanings": "eu; mim",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Complemento acusativo de ἐπί. Pronome pessoal acusativo singular.",
       "occurrencesExamples": [
         "Ap 1:17"
@@ -460,7 +460,7 @@ export const apocalipse1v17 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo no presente, voz ativa, particípio nominativo singular masculino",
-      "meanings": "dizer; falar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Particípio presente ativo que introduz a fala. Verbo no presente, voz ativa, particípio nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:17"
@@ -509,7 +509,7 @@ export const apocalipse1v17 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2PMD-S--",
       "morphology": "Verbo no presente, voz média, imperativo, 2ª pessoa singular",
-      "meanings": "temer; ter medo",
+      "meanings": "Sentir medo, receio ou reverência; as nuances dependem do objeto e da situação.",
       "explanation": "Imperativo presente médio de proibição. Verbo no presente, voz média, imperativo, 2ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:17"
@@ -534,7 +534,7 @@ export const apocalipse1v17 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----NS--",
       "morphology": "Pronome pessoal nominativo singular",
-      "meanings": "eu; mim",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Sujeito explícito de εἰμι. Pronome pessoal nominativo singular.",
       "occurrencesExamples": [
         "Ap 1:17"
@@ -558,7 +558,7 @@ export const apocalipse1v17 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1PAI-S--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 1ª pessoa singular",
-      "meanings": "ser; estar",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "Cópula do predicado nominal. Verbo no presente, voz ativa, indicativo, 1ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:17"
@@ -582,7 +582,7 @@ export const apocalipse1v17 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de πρῶτος. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:17"
@@ -606,7 +606,7 @@ export const apocalipse1v17 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
-      "meanings": "primeiro",
+      "meanings": "Ordinal ou qualificativo de prioridade temporal, posição ou importância.",
       "explanation": "Primeiro predicativo de ἐγώ. Adjetivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:17"
@@ -654,7 +654,7 @@ export const apocalipse1v17 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido nominativo singular masculino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de ἔσχατος. Artigo definido nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:17"
@@ -678,7 +678,7 @@ export const apocalipse1v17 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo nominativo singular masculino",
-      "meanings": "último",
+      "meanings": "Ordinal ou qualificativo da posição final em uma série, ou de sua etapa derradeira.",
       "explanation": "Segundo predicativo de ἐγώ. Adjetivo nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:17"

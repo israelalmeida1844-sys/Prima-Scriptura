@@ -129,7 +129,7 @@ export const apocalipse8v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
-      "meanings": "estrelas",
+      "meanings": "Corpo celeste luminoso; em textos visionários, sua identificação simbólica depende da explicação contextual.",
       "explanation": "Genitivo de especificação. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
@@ -154,7 +154,7 @@ export const apocalipse8v11 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PPI-S--",
       "morphology": "Verbo · presente · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3PPI-S--)",
-      "meanings": "dizer",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "Verbo passivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
@@ -204,7 +204,7 @@ export const apocalipse8v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
-      "meanings": "absinto; planta amarga",
+      "meanings": "Planta caracterizada pelo sabor amargo; em Ap 8:11, também nome dado à estrela.",
       "explanation": "Nome próprio atribuído à estrela.",
       "occurrencesExamples": [
         "Ap 8:11"
@@ -354,7 +354,7 @@ export const apocalipse8v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
-      "meanings": "águas",
+      "meanings": "Substância líquida essencial à vida; o plural pode designar massas de água ou fontes.",
       "explanation": "Genitivo partitivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
@@ -404,7 +404,7 @@ export const apocalipse8v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
-      "meanings": "absinto; planta amarga",
+      "meanings": "Planta caracterizada pelo sabor amargo; em Ap 8:11, também nome dado à estrela.",
       "explanation": "Substância amarga, distinguida do nome próprio na anotação MorphGNT.",
       "occurrencesExamples": [
         "Ap 8:11"
@@ -454,7 +454,7 @@ export const apocalipse8v11 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo / numeral · nominativo · plural · masculino (MorphGNT: A- ----NPM-)",
-      "meanings": "muitas",
+      "meanings": "Quantificador que expressa quantidade elevada, multiplicidade ou intensidade.",
       "explanation": "Sujeito. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
@@ -504,7 +504,7 @@ export const apocalipse8v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo · genitivo · plural · masculino (MorphGNT: N- ----GPM-)",
-      "meanings": "homem",
+      "meanings": "Pessoa humana, em sentido individual ou coletivo; a especificação de sexo depende do contexto.",
       "explanation": "Genitivo partitivo. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
@@ -554,7 +554,7 @@ export const apocalipse8v11 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Preposição. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
@@ -604,7 +604,7 @@ export const apocalipse8v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
-      "meanings": "águas",
+      "meanings": "Substância líquida essencial à vida; o plural pode designar massas de água ou fontes.",
       "explanation": "Causa. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"
@@ -654,7 +654,7 @@ export const apocalipse8v11 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3API-P--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · plural (MorphGNT: V- 3API-P--)",
-      "meanings": "tornar amargo",
+      "meanings": "Fazer adquirir sabor amargo ou causar amargura; na passiva, tornar-se amargo.",
       "explanation": "Verbo causal. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 8:11"

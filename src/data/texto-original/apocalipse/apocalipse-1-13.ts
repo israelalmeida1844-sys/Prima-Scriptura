@@ -74,7 +74,7 @@ export const apocalipse1v13 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----DSN-",
       "morphology": "Adjetivo dativo singular neutro",
-      "meanings": "meio; centro",
+      "meanings": "Que ocupa posição intermediária ou central; substantivado em expressões de localização.",
       "explanation": "Núcleo da locução locativa ἐν μέσῳ. Adjetivo dativo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:13"
@@ -98,7 +98,7 @@ export const apocalipse1v13 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----GPF-",
       "morphology": "Artigo definido genitivo plural feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de λυχνιῶν. Artigo definido genitivo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:13"
@@ -146,7 +146,7 @@ export const apocalipse1v13 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----ASM-",
       "morphology": "Adjetivo acusativo singular masculino",
-      "meanings": "semelhante",
+      "meanings": "Que apresenta semelhança de forma, qualidade ou aparência com outro referente; frequentemente rege dativo.",
       "explanation": "Adjetivo substantivado acusativo, objeto de εἶδον de Ap 1:12. Adjetivo acusativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:13"
@@ -170,7 +170,7 @@ export const apocalipse1v13 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo acusativo singular masculino",
-      "meanings": "filho",
+      "meanings": "Descendente masculino ou designação relacional; pode integrar títulos e expressões de pertencimento.",
       "explanation": "Acusativo de comparação associado a ὅμοιον, construção irregular. Substantivo acusativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:13"
@@ -194,7 +194,7 @@ export const apocalipse1v13 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
-      "meanings": "ser humano; homem",
+      "meanings": "Pessoa humana, em sentido individual ou coletivo; a especificação de sexo depende do contexto.",
       "explanation": "Genitivo adnominal de υἱόν. Substantivo genitivo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:13"
@@ -219,7 +219,7 @@ export const apocalipse1v13 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-XMPASM-",
       "morphology": "Verbo no perfeito, voz média, particípio acusativo singular masculino",
-      "meanings": "vestir; revestir",
+      "meanings": "Pôr vestimenta em alguém ou, na voz média, vestir-se; a forma passiva descreve a condição resultante.",
       "explanation": "Particípio perfeito médio/passivo acusativo, descreve a figura. Verbo no perfeito, voz média, particípio acusativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:13"
@@ -339,7 +339,7 @@ export const apocalipse1v13 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----DPM-",
       "morphology": "Artigo definido dativo plural masculino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de μαστοῖς. Artigo definido dativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:13"
@@ -363,7 +363,7 @@ export const apocalipse1v13 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DPM-",
       "morphology": "Substantivo dativo plural masculino",
-      "meanings": "peito; mama",
+      "meanings": "Parte anterior do tórax ou seio; o plural pode indicar a região peitoral.",
       "explanation": "Complemento dativo de πρός. Substantivo dativo plural masculino.",
       "occurrencesExamples": [
         "Ap 1:13"
@@ -387,7 +387,7 @@ export const apocalipse1v13 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
-      "meanings": "cinto; faixa",
+      "meanings": "Tira ou peça de vestuário usada para cingir o corpo.",
       "explanation": "Acusativo de vestimenta de περιεζωσμένον. Substantivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:13"
@@ -411,7 +411,7 @@ export const apocalipse1v13 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo acusativo singular feminino",
-      "meanings": "de ouro; dourado",
+      "meanings": "Adjetivo que caracteriza aquilo que é feito de ouro, revestido de ouro ou semelhante a ele.",
       "explanation": "Adjetivo atributivo de ζώνην. Adjetivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:13"

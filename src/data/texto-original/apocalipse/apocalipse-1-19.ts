@@ -26,7 +26,7 @@ export const apocalipse1v19 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2AAD-S--",
       "morphology": "Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular",
-      "meanings": "escrever",
+      "meanings": "Registrar palavras por escrito, redigir uma mensagem ou consignar um nome num documento.",
       "explanation": "Imperativo principal de escrita. Verbo no aoristo, voz ativa, imperativo, 2ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:19"
@@ -50,7 +50,7 @@ export const apocalipse1v19 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção (indeclinável)",
-      "meanings": "portanto; pois",
+      "meanings": "Conjunção pós-positiva que introduz inferência, consequência ou retomada do raciocínio.",
       "explanation": "Conjunção inferencial que retoma a revelação anterior. Conjunção (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:19"
@@ -170,7 +170,7 @@ export const apocalipse1v19 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo no presente, voz ativa, indicativo, 3ª pessoa plural",
-      "meanings": "ser; estar",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "Predicado da segunda relativa. Verbo no presente, voz ativa, indicativo, 3ª pessoa plural.",
       "occurrencesExamples": [
         "Ap 1:19"
@@ -290,7 +290,7 @@ export const apocalipse1v19 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
-      "meanings": "com; depois de",
+      "meanings": "Preposição que, com genitivo, indica companhia ou associação e, com acusativo, normalmente sucessão temporal ou espacial.",
       "explanation": "Preposição temporal. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:19"
@@ -314,7 +314,7 @@ export const apocalipse1v19 = {
       "partOfSpeech": "Pronome demonstrativo",
       "morphologyCode": "----APN-",
       "morphology": "Pronome demonstrativo acusativo plural neutro",
-      "meanings": "este; essas coisas",
+      "meanings": "Pronome demonstrativo que identifica referente próximo no discurso, no espaço ou no contexto.",
       "explanation": "Complemento acusativo de μετά. Pronome demonstrativo acusativo plural neutro.",
       "occurrencesExamples": [
         "Ap 1:19"

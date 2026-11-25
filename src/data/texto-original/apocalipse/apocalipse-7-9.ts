@@ -29,7 +29,7 @@ export const apocalipse7v9 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "com; depois de",
+      "meanings": "Preposição que, com genitivo, indica companhia ou associação e, com acusativo, normalmente sucessão temporal ou espacial.",
       "explanation": "Sentido contextual: depois.",
       "occurrencesExamples": [
         "Ap 7:9"
@@ -53,7 +53,7 @@ export const apocalipse7v9 = {
       "partOfSpeech": "Pronome demonstrativo",
       "morphologyCode": "----APN-",
       "morphology": "Pronome demonstrativo · acusativo · plural · neutro (MorphGNT: RD ----APN-)",
-      "meanings": "este; essas coisas",
+      "meanings": "Pronome demonstrativo que identifica referente próximo no discurso, no espaço ou no contexto.",
       "explanation": "Sentido contextual: dessas coisas.",
       "occurrencesExamples": [
         "Ap 7:9"
@@ -126,7 +126,7 @@ export const apocalipse7v9 = {
       "partOfSpeech": "Partícula",
       "morphologyCode": "--------",
       "morphology": "Partícula (MorphGNT: X- --------)",
-      "meanings": "eis; veja",
+      "meanings": "Partícula de apresentação que chama atenção para algo visto, anunciado ou relevante no discurso.",
       "explanation": "Sentido contextual: eis.",
       "occurrencesExamples": [
         "Ap 7:9"
@@ -150,7 +150,7 @@ export const apocalipse7v9 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
-      "meanings": "multidão",
+      "meanings": "Ajuntamento numeroso de pessoas; substantivo coletivo cujo sentido pode motivar concordância semântica plural.",
       "explanation": "Sentido contextual: multidão.",
       "occurrencesExamples": [
         "Ap 7:9"
@@ -174,7 +174,7 @@ export const apocalipse7v9 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo / numeral · nominativo · singular · masculino (MorphGNT: A- ----NSM-)",
-      "meanings": "muito; numeroso",
+      "meanings": "Quantificador que expressa quantidade elevada, multiplicidade ou intensidade.",
       "explanation": "Sentido contextual: grande.",
       "occurrencesExamples": [
         "Ap 7:9"
@@ -223,7 +223,7 @@ export const apocalipse7v9 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-AAN----",
       "morphology": "Verbo · aoristo · voz ativa · infinitivo (MorphGNT: V- -AAN----)",
-      "meanings": "contar; enumerar",
+      "meanings": "Determinar ou registrar a quantidade de pessoas ou coisas por contagem.",
       "explanation": "Sentido contextual: contar.",
       "occurrencesExamples": [
         "Ap 7:9"
@@ -320,7 +320,7 @@ export const apocalipse7v9 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "Sentido contextual: de.",
       "occurrencesExamples": [
         "Ap 7:9"
@@ -344,7 +344,7 @@ export const apocalipse7v9 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----GSN-",
       "morphology": "Adjetivo / numeral · genitivo · singular · neutro (MorphGNT: A- ----GSN-)",
-      "meanings": "todo; cada",
+      "meanings": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",
       "explanation": "Sentido contextual: toda.",
       "occurrencesExamples": [
         "Ap 7:9"
@@ -609,7 +609,7 @@ export const apocalipse7v9 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "Sentido contextual: trono.",
       "occurrencesExamples": [
         "Ap 7:9"
@@ -778,7 +778,7 @@ export const apocalipse7v9 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----APF-",
       "morphology": "Adjetivo / numeral · acusativo · plural · feminino (MorphGNT: A- ----APF-)",
-      "meanings": "branco",
+      "meanings": "De cor branca; em imagens visionárias, sua significação simbólica deve ser interpretada no contexto.",
       "explanation": "Sentido contextual: brancos.",
       "occurrencesExamples": [
         "Ap 7:9"
@@ -899,7 +899,7 @@ export const apocalipse7v9 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo · dativo · plural · feminino (MorphGNT: N- ----DPF-)",
-      "meanings": "mão",
+      "meanings": "Órgão usado para segurar e agir; por extensão, meio, poder ou posse em determinadas expressões.",
       "explanation": "Sentido contextual: mãos.",
       "occurrencesExamples": [
         "Ap 7:9"

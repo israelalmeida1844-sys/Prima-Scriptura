@@ -53,7 +53,7 @@ export const apocalipse7v11 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo / numeral · nominativo · plural · masculino (MorphGNT: A- ----NPM-)",
-      "meanings": "todo; cada",
+      "meanings": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",
       "explanation": "Sentido contextual: todos.",
       "occurrencesExamples": [
         "Ap 7:11"
@@ -197,7 +197,7 @@ export const apocalipse7v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "Sentido contextual: trono.",
       "occurrencesExamples": [
         "Ap 7:11"
@@ -414,7 +414,7 @@ export const apocalipse7v11 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-P--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3AAI-P--)",
-      "meanings": "cair",
+      "meanings": "Mover-se para baixo, cair ou prostrar-se; figuradamente, perder uma posição ou condição.",
       "explanation": "Sentido contextual: caíram.",
       "occurrencesExamples": [
         "Ap 7:11"
@@ -486,7 +486,7 @@ export const apocalipse7v11 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "Sentido contextual: trono.",
       "occurrencesExamples": [
         "Ap 7:11"
@@ -510,7 +510,7 @@ export const apocalipse7v11 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Sentido contextual: sobre.",
       "occurrencesExamples": [
         "Ap 7:11"

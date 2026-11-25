@@ -122,7 +122,7 @@ export const apocalipse4v7 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
-      "meanings": "primeiro",
+      "meanings": "Ordinal ou qualificativo de prioridade temporal, posição ou importância.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
@@ -146,7 +146,7 @@ export const apocalipse4v7 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
-      "meanings": "semelhante",
+      "meanings": "Que apresenta semelhança de forma, qualidade ou aparência com outro referente; frequentemente rege dativo.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
@@ -291,7 +291,7 @@ export const apocalipse4v7 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
-      "meanings": "semelhante",
+      "meanings": "Que apresenta semelhança de forma, qualidade ou aparência com outro referente; frequentemente rege dativo.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
@@ -436,7 +436,7 @@ export const apocalipse4v7 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo presente, voz ativa, particípio nominativo singular masculino",
-      "meanings": "ter; segurar",
+      "meanings": "Possuir, manter ou encontrar-se em determinada condição; com particípio ou complemento, descreve relação contextual.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 4:7"
@@ -508,7 +508,7 @@ export const apocalipse4v7 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção",
-      "meanings": "como",
+      "meanings": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
@@ -532,7 +532,7 @@ export const apocalipse4v7 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo genitivo singular masculino",
-      "meanings": "ser humano; homem",
+      "meanings": "Pessoa humana, em sentido individual ou coletivo; a especificação de sexo depende do contexto.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"
@@ -653,7 +653,7 @@ export const apocalipse4v7 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo nominativo singular neutro",
-      "meanings": "semelhante",
+      "meanings": "Que apresenta semelhança de forma, qualidade ou aparência com outro referente; frequentemente rege dativo.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 4:7"

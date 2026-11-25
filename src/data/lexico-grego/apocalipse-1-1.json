@@ -213,8 +213,8 @@
       "senses": [
         {
           "id": "G3588-1",
-          "label": "Artigo definido identificador e determinador",
-          "definition": "Particulariza um substantivo, individualizando pessoas, entidades ou noções específicas.",
+          "label": "artigo definido",
+          "definition": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
           "examples": [
             {
               "reference": "Ap 1:1",
@@ -337,8 +337,8 @@
       "senses": [
         {
           "id": "G1163-1",
-          "label": "Necessidade divina, decreto soberano inescapável",
-          "definition": "Expressa a compulsão teológica decorrente da vontade inalterável de Deus e das profecias inspiradas.",
+          "label": "ser necessário; dever",
+          "definition": "Verbo impessoal δεῖ, que exprime necessidade ou obrigação e rege frequentemente um infinitivo; MorphGNT o lematiza sob δέω, sem confundir esse uso com ligar ou prender.",
           "examples": [
             {
               "reference": "Ap 1:1",
@@ -561,8 +561,8 @@
       "senses": [
         {
           "id": "G32-1",
-          "label": "Anjo, mensageiro celestial de Deus",
-          "definition": "Ser espiritual e celestial criado por Deus para servir como mensageiro e ministro de seus desígnios.",
+          "label": "anjo; mensageiro",
+          "definition": "Mensageiro enviado para comunicar ou executar uma tarefa; em Apocalipse, frequentemente um ser celestial.",
           "examples": [
             {
               "reference": "Ap 1:1",

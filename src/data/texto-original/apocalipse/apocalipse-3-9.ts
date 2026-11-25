@@ -26,7 +26,7 @@ export const apocalipse3v9 = {
       "partOfSpeech": "Partícula",
       "morphologyCode": "--------",
       "morphology": "Partícula ",
-      "meanings": "eis; veja",
+      "meanings": "Partícula de apresentação que chama atenção para algo visto, anunciado ou relevante no discurso.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
@@ -74,7 +74,7 @@ export const apocalipse3v9 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição ",
-      "meanings": "de; para fora de",
+      "meanings": "Preposição com genitivo que indica origem, procedência, separação ou pertencimento a um conjunto.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
@@ -219,7 +219,7 @@ export const apocalipse3v9 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAPGPM-",
       "morphology": "Verbo presente, voz ativa, particípio genitivo plural masculino",
-      "meanings": "dizer; declarar",
+      "meanings": "Expressar palavras, comunicar, afirmar ou introduzir uma declaração ou discurso direto.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:9"
@@ -291,7 +291,7 @@ export const apocalipse3v9 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAN----",
       "morphology": "Verbo presente, voz ativa, infinitivo",
-      "meanings": "ser; estar; existir",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:9"
@@ -364,7 +364,7 @@ export const apocalipse3v9 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo presente, voz ativa, indicativo, 3ª pessoa plural",
-      "meanings": "ser; estar; existir",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:9"
@@ -437,7 +437,7 @@ export const apocalipse3v9 = {
       "partOfSpeech": "Partícula",
       "morphologyCode": "--------",
       "morphology": "Partícula ",
-      "meanings": "eis; veja",
+      "meanings": "Partícula de apresentação que chama atenção para algo visto, anunciado ou relevante no discurso.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
@@ -461,7 +461,7 @@ export const apocalipse3v9 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1FAI-S--",
       "morphology": "Verbo futuro, voz ativa, indicativo, 1ª pessoa singular",
-      "meanings": "fazer; constituir",
+      "meanings": "Realizar, produzir, constituir ou causar algo; a construção com dois acusativos pode indicar transformação do objeto.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:9"
@@ -653,7 +653,7 @@ export const apocalipse3v9 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo genitivo plural masculino",
-      "meanings": "pé",
+      "meanings": "Extremidade inferior do membro usado para ficar em pé ou caminhar; também marca posição diante de alguém.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
@@ -677,7 +677,7 @@ export const apocalipse3v9 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----GS--",
       "morphology": "Pronome genitivo singular",
-      "meanings": "tu; vós; você(s)",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
@@ -774,7 +774,7 @@ export const apocalipse3v9 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----NS--",
       "morphology": "Pronome nominativo singular",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"
@@ -798,7 +798,7 @@ export const apocalipse3v9 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo aoristo, voz ativa, indicativo, 1ª pessoa singular",
-      "meanings": "amar",
+      "meanings": "Demonstrar amor, apreço ou dedicação a alguém; o caráter do amor decorre da construção e do contexto.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:9"
@@ -822,7 +822,7 @@ export const apocalipse3v9 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----AS--",
       "morphology": "Pronome acusativo singular",
-      "meanings": "tu; vós; você(s)",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:9"

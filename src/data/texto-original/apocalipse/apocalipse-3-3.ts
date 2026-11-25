@@ -50,7 +50,7 @@ export const apocalipse3v3 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
-      "meanings": "portanto; pois",
+      "meanings": "Conjunção pós-positiva que introduz inferência, consequência ou retomada do raciocínio.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:3"
@@ -146,7 +146,7 @@ export const apocalipse3v3 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2AAI-S--",
       "morphology": "Verbo aoristo, voz ativa, indicativo, 2ª pessoa singular",
-      "meanings": "ouvir; escutar",
+      "meanings": "Perceber sons ou palavras; escutar, prestar atenção e, em contextos de instrução, acolher o que é ouvido.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:3"
@@ -292,7 +292,7 @@ export const apocalipse3v3 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
-      "meanings": "portanto; pois",
+      "meanings": "Conjunção pós-positiva que introduz inferência, consequência ou retomada do raciocínio.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:3"
@@ -389,7 +389,7 @@ export const apocalipse3v3 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
-      "meanings": "como",
+      "meanings": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:3"
@@ -606,7 +606,7 @@ export const apocalipse3v3 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição ",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:3"
@@ -630,7 +630,7 @@ export const apocalipse3v3 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----AS--",
       "morphology": "Pronome acusativo singular",
-      "meanings": "tu; vós; você(s)",
+      "meanings": "Pronome pessoal da segunda pessoa; a flexão distingue número e relação sintática.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:3"

@@ -54,7 +54,7 @@ export const apocalipse5v4 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----NS--",
       "morphology": "MorphGNT 6.12: RP ----NS--",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:4"
@@ -102,7 +102,7 @@ export const apocalipse5v4 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: A- ----ASN-",
-      "meanings": "muito; numeroso",
+      "meanings": "Quantificador que expressa quantidade elevada, multiplicidade ou intensidade.",
       "explanation": "Adjunto adverbial da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:4"
@@ -270,7 +270,7 @@ export const apocalipse5v4 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASN-",
       "morphology": "MorphGNT 6.12: N- ----ASN-",
-      "meanings": "livro; rolo",
+      "meanings": "Documento escrito ou livro em forma de rolo ou outro suporte antigo; o contexto determina a forma material.",
       "explanation": "Substantivo no constituinte «τὸ βιβλίον» — objeto direto da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:4"
@@ -318,7 +318,7 @@ export const apocalipse5v4 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAN----",
       "morphology": "MorphGNT 6.12: V- -PAN----",
-      "meanings": "ver; observar",
+      "meanings": "Perceber pela visão, dirigir o olhar ou, figuradamente, perceber e discernir.",
       "explanation": "Predicado verbal da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 5:4"

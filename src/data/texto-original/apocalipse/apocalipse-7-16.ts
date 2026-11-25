@@ -53,7 +53,7 @@ export const apocalipse7v16 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3FAI-P--",
       "morphology": "Verbo · futuro · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3FAI-P--)",
-      "meanings": "ter fome",
+      "meanings": "Experimentar necessidade de alimento; figuradamente, desejar intensamente algo.",
       "explanation": "Sentido contextual: terão fome.",
       "occurrencesExamples": [
         "Ap 7:16"
@@ -125,7 +125,7 @@ export const apocalipse7v16 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3FAI-P--",
       "morphology": "Verbo · futuro · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3FAI-P--)",
-      "meanings": "ter sede",
+      "meanings": "Experimentar necessidade de beber; figuradamente, desejar ou buscar intensamente.",
       "explanation": "Sentido contextual: terão sede.",
       "occurrencesExamples": [
         "Ap 7:16"
@@ -222,7 +222,7 @@ export const apocalipse7v16 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAS-S--",
       "morphology": "Verbo · aoristo · voz ativa · subjuntivo · 3ª pessoa · singular (MorphGNT: V- 3AAS-S--)",
-      "meanings": "cair",
+      "meanings": "Mover-se para baixo, cair ou prostrar-se; figuradamente, perder uma posição ou condição.",
       "explanation": "Sentido contextual: caia (subjuntivo).",
       "occurrencesExamples": [
         "Ap 7:16"
@@ -246,7 +246,7 @@ export const apocalipse7v16 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Sentido contextual: sobre.",
       "occurrencesExamples": [
         "Ap 7:16"
@@ -318,7 +318,7 @@ export const apocalipse7v16 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
-      "meanings": "sol",
+      "meanings": "Astro que ilumina a terra; empregado também em comparações de brilho.",
       "explanation": "Sentido contextual: sol.",
       "occurrencesExamples": [
         "Ap 7:16"
@@ -366,7 +366,7 @@ export const apocalipse7v16 = {
       "partOfSpeech": "Adjetivo / numeral",
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
-      "meanings": "todo; cada",
+      "meanings": "Quantificador que pode indicar totalidade de um conjunto ou distribuição por seus membros.",
       "explanation": "Sentido contextual: qualquer.",
       "occurrencesExamples": [
         "Ap 7:16"
@@ -390,7 +390,7 @@ export const apocalipse7v16 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo · nominativo · singular · neutro (MorphGNT: N- ----NSN-)",
-      "meanings": "calor intenso",
+      "meanings": "Calor intenso ou efeito de uma fonte de calor que causa aflição.",
       "explanation": "Sentido contextual: calor.",
       "occurrencesExamples": [
         "Ap 7:16"

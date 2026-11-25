@@ -26,7 +26,7 @@ export const apocalipse3v19 = {
       "partOfSpeech": "Pronome",
       "morphologyCode": "----NS--",
       "morphology": "Pronome nominativo singular",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:19"
@@ -195,7 +195,7 @@ export const apocalipse3v19 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "2PAD-S--",
       "morphology": "Verbo presente, voz ativa, imperativo, 2ª pessoa singular",
-      "meanings": "ser zeloso",
+      "meanings": "Ter zelo, ardor ou desejo intenso; inclui ζηλόω e a variante ζηλεύω, usada no imperativo ζήλευε de Ap 3:19.",
       "explanation": "O valor temporal e aspectual desta forma deve ser interpretado no contexto da oração, sem inferir cronologia apenas da flexão.",
       "occurrencesExamples": [
         "Ap 3:19"
@@ -219,7 +219,7 @@ export const apocalipse3v19 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção ",
-      "meanings": "portanto; pois",
+      "meanings": "Conjunção pós-positiva que introduz inferência, consequência ou retomada do raciocínio.",
       "explanation": "A função deste vocábulo na construção está identificada no campo sintático, separada dos comentários exegéticos.",
       "occurrencesExamples": [
         "Ap 3:19"

@@ -53,7 +53,7 @@ export const apocalipse7v15 = {
       "partOfSpeech": "Pronome demonstrativo",
       "morphologyCode": "----ASN-",
       "morphology": "Pronome demonstrativo · acusativo · singular · neutro (MorphGNT: RD ----ASN-)",
-      "meanings": "este; essas coisas",
+      "meanings": "Pronome demonstrativo que identifica referente próximo no discurso, no espaço ou no contexto.",
       "explanation": "Sentido contextual: isso.",
       "occurrencesExamples": [
         "Ap 7:15"
@@ -77,7 +77,7 @@ export const apocalipse7v15 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo · presente · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3PAI-P--)",
-      "meanings": "ser; estar; existir",
+      "meanings": "Verbo de existência, identidade ou estado; pode funcionar como cópula entre sujeito e predicativo.",
       "explanation": "Sentido contextual: estão.",
       "occurrencesExamples": [
         "Ap 7:15"
@@ -149,7 +149,7 @@ export const apocalipse7v15 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "Sentido contextual: trono.",
       "occurrencesExamples": [
         "Ap 7:15"
@@ -246,7 +246,7 @@ export const apocalipse7v15 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3PAI-P--",
       "morphology": "Verbo · presente · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3PAI-P--)",
-      "meanings": "servir; prestar culto",
+      "meanings": "Prestar serviço, especialmente serviço cultual ou religioso dirigido a Deus no uso neotestamentário.",
       "explanation": "Sentido contextual: servem.",
       "occurrencesExamples": [
         "Ap 7:15"
@@ -294,7 +294,7 @@ export const apocalipse7v15 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
-      "meanings": "dia",
+      "meanings": "Período diurno ou unidade temporal; em contextos proféticos pode indicar ocasião determinada.",
       "explanation": "Sentido contextual: de dia.",
       "occurrencesExamples": [
         "Ap 7:15"
@@ -535,7 +535,7 @@ export const apocalipse7v15 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Sentido contextual: sobre.",
       "occurrencesExamples": [
         "Ap 7:15"
@@ -583,7 +583,7 @@ export const apocalipse7v15 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
-      "meanings": "trono",
+      "meanings": "Assento de soberania ou posição de governo; por extensão, imagem da autoridade exercida.",
       "explanation": "Sentido contextual: trono.",
       "occurrencesExamples": [
         "Ap 7:15"
@@ -607,7 +607,7 @@ export const apocalipse7v15 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3FAI-S--",
       "morphology": "Verbo · futuro · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3FAI-S--)",
-      "meanings": "habitar; armar tenda",
+      "meanings": "Estabelecer habitação como quem arma uma tenda; também expressa presença ou habitação divina.",
       "explanation": "Sentido contextual: estenderá sua tenda.",
       "occurrencesExamples": [
         "Ap 7:15"
@@ -631,7 +631,7 @@ export const apocalipse7v15 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
-      "meanings": "sobre; por causa de",
+      "meanings": "Preposição de relação espacial, temporal ou causal, cujo valor varia conforme o caso regido e o contexto.",
       "explanation": "Sentido contextual: sobre.",
       "occurrencesExamples": [
         "Ap 7:15"

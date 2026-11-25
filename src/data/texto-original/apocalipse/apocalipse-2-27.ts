@@ -170,7 +170,7 @@ export const apocalipse2v27 = {
       "partOfSpeech": "Conjunção",
       "morphologyCode": "--------",
       "morphology": "Conjunção",
-      "meanings": "como",
+      "meanings": "Partícula comparativa ou subordinativa que introduz semelhança, modo, circunstância ou relação contextual.",
       "explanation": "Conector da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:27"
@@ -194,7 +194,7 @@ export const apocalipse2v27 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NPN-",
       "morphology": "Artigo definido nominativo plural neutro",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὰ σκεύη τὰ κεραμικὰ» — sujeito da oração. Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:27"
@@ -242,7 +242,7 @@ export const apocalipse2v27 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----NPN-",
       "morphology": "Artigo definido nominativo plural neutro",
-      "meanings": "o",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante do sintagma «τὰ κεραμικὰ» — integrado ao constituinte com função de sujeito «τὰ σκεύη τὰ κεραμικὰ». Análise contextual baseada nas árvores sintáticas MACULA Greek (SBLGNT); a morfologia da forma é apresentada no campo próprio.",
       "occurrencesExamples": [
         "Ap 2:27"

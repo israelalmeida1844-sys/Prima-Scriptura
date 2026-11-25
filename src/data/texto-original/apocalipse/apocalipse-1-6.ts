@@ -46,7 +46,7 @@ export const apocalipse1v6 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo aoristo ativo indicativo 3ª pessoa singular",
-      "meanings": "fazer; constituir",
+      "meanings": "Realizar, produzir, constituir ou causar algo; a construção com dois acusativos pode indicar transformação do objeto.",
       "explanation": "Predicado verbal de constituição. Verbo aoristo ativo indicativo 3ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:6"
@@ -70,7 +70,7 @@ export const apocalipse1v6 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----AP--",
       "morphology": "Pronome pessoal acusativo plural",
-      "meanings": "eu; nós",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Objeto direto de ἐποίησεν. Pronome pessoal acusativo plural.",
       "occurrencesExamples": [
         "Ap 1:6"
@@ -94,7 +94,7 @@ export const apocalipse1v6 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
-      "meanings": "reino; realeza",
+      "meanings": "Reinado, autoridade régia ou domínio sobre o qual se exerce governo; o contexto distingue essas nuances.",
       "explanation": "O acusativo βασιλείαν constitui predicativo de resultado relacionado a ἐποίησεν: Cristo nos fez «um reino», não «reis» neste texto-base.",
       "occurrencesExamples": [
         "Ap 1:6"
@@ -119,7 +119,7 @@ export const apocalipse1v6 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----APM-",
       "morphology": "Substantivo acusativo plural masculino",
-      "meanings": "sacerdote",
+      "meanings": "Pessoa que exerce funções sacerdotais de culto e serviço religioso diante de uma divindade.",
       "explanation": "O acusativo plural ἱερεῖς acompanha βασιλείαν e atribui ao povo redimido identidade sacerdotal.",
       "occurrencesExamples": [
         "Ap 1:6"
@@ -215,7 +215,7 @@ export const apocalipse1v6 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo dativo singular masculino",
-      "meanings": "pai",
+      "meanings": "Progenitor ou figura paterna; em sentido relacional e teológico, designação de Deus como Pai.",
       "explanation": "Aposto coordenado a θεῷ. Substantivo dativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:6"
@@ -312,7 +312,7 @@ export const apocalipse1v6 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo nominativo singular feminino",
-      "meanings": "glória",
+      "meanings": "Honra, esplendor, reputação ou manifestação de majestade; em doxologias, reconhecimento da dignidade divina.",
       "explanation": "Primeiro núcleo da oração doxológica nominal. Substantivo nominativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:6"
@@ -384,7 +384,7 @@ export const apocalipse1v6 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo nominativo singular neutro",
-      "meanings": "poder; domínio",
+      "meanings": "Força efetiva, domínio ou poder soberano; frequentemente empregado em fórmulas de louvor.",
       "explanation": "Segundo núcleo da oração doxológica. Substantivo nominativo singular neutro.",
       "occurrencesExamples": [
         "Ap 1:6"
@@ -529,7 +529,7 @@ export const apocalipse1v6 = {
       "partOfSpeech": "Partícula",
       "morphologyCode": "--------",
       "morphology": "Partícula (indeclinável)",
-      "meanings": "amém; assim seja",
+      "meanings": "Partícula de confirmação ou ratificação de origem semítica, empregada para afirmar a veracidade de uma declaração.",
       "explanation": "Partícula de ratificação da doxologia. Partícula (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:6"

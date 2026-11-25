@@ -50,7 +50,7 @@ export const apocalipse1v12 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular",
-      "meanings": "voltar-se; retornar",
+      "meanings": "Mudar de direção ou retornar; em sentido figurado, voltar-se para Deus ou para determinada conduta.",
       "explanation": "Predicado verbal principal. Verbo no aoristo, voz ativa, indicativo, 1ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:12"
@@ -74,7 +74,7 @@ export const apocalipse1v12 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-PAN----",
       "morphology": "Verbo no presente, voz ativa, infinitivo",
-      "meanings": "ver; observar",
+      "meanings": "Perceber pela visão, dirigir o olhar ou, figuradamente, perceber e discernir.",
       "explanation": "Infinitivo final dependente de ἐπέστρεψα. Verbo no presente, voz ativa, infinitivo.",
       "occurrencesExamples": [
         "Ap 1:12"
@@ -98,7 +98,7 @@ export const apocalipse1v12 = {
       "partOfSpeech": "Artigo definido",
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido acusativo singular feminino",
-      "meanings": "artigo definido",
+      "meanings": "Determinante que identifica ou particulariza um constituinte nominal e pode substantivar outras formas.",
       "explanation": "Determinante de φωνήν. Artigo definido acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:12"
@@ -122,7 +122,7 @@ export const apocalipse1v12 = {
       "partOfSpeech": "Substantivo",
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo acusativo singular feminino",
-      "meanings": "voz; som",
+      "meanings": "Som produzido ou percebido, especialmente voz humana ou celestial; pode designar uma proclamação.",
       "explanation": "Objeto direto de βλέπειν. Substantivo acusativo singular feminino.",
       "occurrencesExamples": [
         "Ap 1:12"
@@ -170,7 +170,7 @@ export const apocalipse1v12 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "3IAI-S--",
       "morphology": "Verbo no imperfeito, voz ativa, indicativo, 3ª pessoa singular",
-      "meanings": "falar",
+      "meanings": "Pronunciar palavras ou comunicar uma mensagem por meio da fala.",
       "explanation": "Predicado imperfeito da relativa. Verbo no imperfeito, voz ativa, indicativo, 3ª pessoa singular.",
       "occurrencesExamples": [
         "Ap 1:12"
@@ -194,7 +194,7 @@ export const apocalipse1v12 = {
       "partOfSpeech": "Preposição",
       "morphologyCode": "--------",
       "morphology": "Preposição (indeclinável)",
-      "meanings": "com; depois de",
+      "meanings": "Preposição que, com genitivo, indica companhia ou associação e, com acusativo, normalmente sucessão temporal ou espacial.",
       "explanation": "Preposição de associação. Preposição (indeclinável).",
       "occurrencesExamples": [
         "Ap 1:12"
@@ -218,7 +218,7 @@ export const apocalipse1v12 = {
       "partOfSpeech": "Pronome pessoal",
       "morphologyCode": "----GS--",
       "morphology": "Pronome pessoal genitivo singular",
-      "meanings": "eu; mim",
+      "meanings": "Pronome pessoal de primeira pessoa, com formas de singular e plural e casos flexionados.",
       "explanation": "Complemento genitivo de μετά. Pronome pessoal genitivo singular.",
       "occurrencesExamples": [
         "Ap 1:12"
@@ -267,7 +267,7 @@ export const apocalipse1v12 = {
       "partOfSpeech": "Verbo",
       "morphologyCode": "-AAPNSM-",
       "morphology": "Verbo no aoristo, voz ativa, particípio nominativo singular masculino",
-      "meanings": "voltar-se; retornar",
+      "meanings": "Mudar de direção ou retornar; em sentido figurado, voltar-se para Deus ou para determinada conduta.",
       "explanation": "Particípio aoristo circunstancial de anterioridade, sujeito João. Verbo no aoristo, voz ativa, particípio nominativo singular masculino.",
       "occurrencesExamples": [
         "Ap 1:12"
@@ -363,7 +363,7 @@ export const apocalipse1v12 = {
       "partOfSpeech": "Adjetivo",
       "morphologyCode": "----APF-",
       "morphology": "Adjetivo acusativo plural feminino",
-      "meanings": "de ouro; dourado",
+      "meanings": "Adjetivo que caracteriza aquilo que é feito de ouro, revestido de ouro ou semelhante a ele.",
       "explanation": "Adjetivo atributivo de λυχνίας. Adjetivo acusativo plural feminino.",
       "occurrencesExamples": [
         "Ap 1:12"
