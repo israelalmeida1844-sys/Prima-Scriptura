@@ -1,0 +1,398 @@
+{
+  "Matt": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "95b360228bedd1c2d06655469111d3f028a4ce1d46939d440ed549feee8b73ec",
+    "verses": 1068,
+    "tokens": 18329
+  },
+  "Mark": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "4a2d2365cfe3e8d6c20b7c130c2c46363fa4459c3a6004992eba0a18231b183e",
+    "verses": 673,
+    "tokens": 11286
+  },
+  "Luke": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "a6f10ccf27a905f21ecbec96c3c01f220c39dd37aae118022113a52dfeb7528e",
+    "verses": 1149,
+    "tokens": 19446
+  },
+  "John": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "1b1de3e48e3f3d212ba19c76e5b2f1749833f888f5b52513099ec13cc01b619c",
+    "verses": 866,
+    "tokens": 15438
+  },
+  "Acts": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "04349afeba263d667698b37d39465d746530434b455fb6ac2941ec5c59fb85ca",
+    "verses": 1002,
+    "tokens": 18412
+  },
+  "Rom": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "364b3b57c70e731920c7fa8a61f09ecd53eed858f7f3590596066484d0638cc6",
+    "verses": 430,
+    "tokens": 7055
+  },
+  "1Cor": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "5233a5b099e2499baed34ec2d6f53ae44545d532a7e2fb12acafcf39ff6fdbf3",
+    "verses": 437,
+    "tokens": 6812
+  },
+  "2Cor": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "1742d5076780a5338a858f2d83e615c87b2412cbefa56a4b8e14aa2c0ce326c4",
+    "verses": 256,
+    "tokens": 4473
+  },
+  "Gal": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "ec249897464e8e8992e4869645471d6f3372e7373ba3a5d429516946d8cffada",
+    "verses": 149,
+    "tokens": 2226
+  },
+  "Eph": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "9f6444d3aff9791817c2ad84d8ff5b1c229d18a4e9ab07e5066ceb0068dee397",
+    "verses": 155,
+    "tokens": 2416
+  },
+  "Phil": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "6e6133fba46c164c16264c4d9563b30d5634effba5792419f8ed5d5ec08961a4",
+    "verses": 104,
+    "tokens": 1626
+  },
+  "Col": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "21e18b4310ce953cd786f8466824f24795cb46ef149dc501a330d55a05f7346a",
+    "verses": 95,
+    "tokens": 1580
+  },
+  "1Thess": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "e322ec075748e81897dc0a2b87a821ee78e200f6ba833bbba07607e55a3c68d5",
+    "verses": 89,
+    "tokens": 1473
+  },
+  "2Thess": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "309ba3338e0ccf2219bea7ee49f1e63bbefc1edcceedc5527c79395fd6b0bc19",
+    "verses": 47,
+    "tokens": 820
+  },
+  "1Tim": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "b4a6a446d163b8b651ba11119bbc211b4e14cb12871b48df175adb88d4f9db97",
+    "verses": 113,
+    "tokens": 1591
+  },
+  "2Tim": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "8af532322a0693ecb8d34b75c544c3b6a57e76e266be750d62d42bc07385376e",
+    "verses": 83,
+    "tokens": 1235
+  },
+  "Titus": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "16e9204306d616795f53f8627ff6ea05a80f572d7a21ed23ac7df99c6e00324d",
+    "verses": 46,
+    "tokens": 659
+  },
+  "Phlm": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "e302779406b5405e8ff82a0dc2ded5ab49951f0d6245fe86894100bd83c51e33",
+    "verses": 25,
+    "tokens": 334
+  },
+  "Heb": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "de7d5c7efe4cdb5e9023c8571c322c3b1a5a817de1d97c3275aef5e154b2756b",
+    "verses": 303,
+    "tokens": 4935
+  },
+  "Jas": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "205d4cdbb4c89aabd51ebf599fcfa622001af6e64dcd4e5ad487298ee4b7a204",
+    "verses": 108,
+    "tokens": 1739
+  },
+  "1Pet": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "7eeeecddae91a5d103576f629e4fa536fa2217381f4a83eaa904b63d81ffc0b8",
+    "verses": 105,
+    "tokens": 1678
+  },
+  "2Pet": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "41c1bb93726bf66e46653bb369850f2e319869375f31746d120276dff73a310a",
+    "verses": 61,
+    "tokens": 1098
+  },
+  "1John": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "99fb0d33100f9df25697e9b9ecaa04c599a277b5f2f65f8ed28e97902fed4df9",
+    "verses": 105,
+    "tokens": 2137
+  },
+  "2John": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "bb90002d6b9bbbc43977a59c85ad04de873750b5e24187da064a319c2acd7fec",
+    "verses": 13,
+    "tokens": 245
+  },
+  "3John": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "a75df82d9007bb673e7d27bcb86681e011befc24cbaef1c658965803d7ae490a",
+    "verses": 15,
+    "tokens": 219
+  },
+  "Jude": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "93c64857b492812544f1c5903bb63b5ec63ee5f32f69dd4c02d9d9c84b84624d",
+    "verses": 25,
+    "tokens": 459
+  },
+  "Rev": {
+    "source": "MorphGNT/SBLGNT",
+    "sha256": "5386b17ab6e3a8a68478cb0f4644009f6ad5322f379327629407ffd46a0e6dd3",
+    "verses": 405,
+    "tokens": 9833
+  },
+  "Gen": {
+    "source": "OSHB/WLC",
+    "sha256": "0526e5c9a5fb4d907847645f954ed3d1268fa69decbd872056cedd2668d86449",
+    "verses": 1533,
+    "tokens": 20612
+  },
+  "Exod": {
+    "source": "OSHB/WLC",
+    "sha256": "04868367cdacb6ccdc61488e923e20f918172042e6437842a0621f63ac5b847f",
+    "verses": 1213,
+    "tokens": 16713
+  },
+  "Lev": {
+    "source": "OSHB/WLC",
+    "sha256": "e21e70265c9ef500182f8ccb4f4e1186e5a79e1169d24cef23cc479baf07b191",
+    "verses": 859,
+    "tokens": 11950
+  },
+  "Num": {
+    "source": "OSHB/WLC",
+    "sha256": "02e4febfcc027d10b3e35e4f091eae67a40d26f37b6254faac6b4af053fe4896",
+    "verses": 1289,
+    "tokens": 16413
+  },
+  "Deut": {
+    "source": "OSHB/WLC",
+    "sha256": "04f8087442a1e67a631cd70f2ac4e42fe0a780ae132edb165a3a29f3f290358f",
+    "verses": 959,
+    "tokens": 14294
+  },
+  "Josh": {
+    "source": "OSHB/WLC",
+    "sha256": "a066200ab2269c0a86a2e9ba119a3d0fce8c5f7ecc44bb53ec134b83dffc6006",
+    "verses": 658,
+    "tokens": 10051
+  },
+  "Judg": {
+    "source": "OSHB/WLC",
+    "sha256": "3b3a909f04041dbd52dc6b7293a96ce75d94db8a90fdeda878943db7b8fac57f",
+    "verses": 618,
+    "tokens": 9885
+  },
+  "Ruth": {
+    "source": "OSHB/WLC",
+    "sha256": "fb6a2660383c7176941cb87b2be182ef634b66d49d057635869f4d9cb1f0a11e",
+    "verses": 85,
+    "tokens": 1294
+  },
+  "1Sam": {
+    "source": "OSHB/WLC",
+    "sha256": "960432732c22286b82d80b6b25af8d10dc5f2e82a4e5e48b2e3a1b1eea17f3cb",
+    "verses": 811,
+    "tokens": 13264
+  },
+  "2Sam": {
+    "source": "OSHB/WLC",
+    "sha256": "e7793e141ed94eadbd2dfb23936abbb4062e81a7dcd41114a6e36644f50b8333",
+    "verses": 695,
+    "tokens": 11039
+  },
+  "1Kgs": {
+    "source": "OSHB/WLC",
+    "sha256": "832ba10f605dce34c4888ee0a795d91edc2b293391d6ae9c36c36c6350761a3e",
+    "verses": 817,
+    "tokens": 13140
+  },
+  "2Kgs": {
+    "source": "OSHB/WLC",
+    "sha256": "056db5393beaef0a1159d9bcaac7dfd865df9bab2eb240ea90e9fa3f0c0e7449",
+    "verses": 719,
+    "tokens": 12281
+  },
+  "1Chr": {
+    "source": "OSHB/WLC",
+    "sha256": "8b59992b6607c6ca0fc423813be8cc244f011c1da32bc8485c0c0f581a897ed4",
+    "verses": 943,
+    "tokens": 10747
+  },
+  "2Chr": {
+    "source": "OSHB/WLC",
+    "sha256": "507294e8ca0fcf31ec25fe62fa24a7f2581f53116519bf08cfe96ff85e9c99fb",
+    "verses": 822,
+    "tokens": 13316
+  },
+  "Ezra": {
+    "source": "OSHB/WLC",
+    "sha256": "fb28ff697d0ee17eba5b4db47fb7261ee1870cea0d5701bfc77c9e28d4138129",
+    "verses": 280,
+    "tokens": 3754
+  },
+  "Neh": {
+    "source": "OSHB/WLC",
+    "sha256": "be082e95c206469122455b9849d4dd08da50c817732d8198c1beece90402801a",
+    "verses": 405,
+    "tokens": 5312
+  },
+  "Esth": {
+    "source": "OSHB/WLC",
+    "sha256": "f9b5b8adaf504dcac409bb6a27c9328967f47eeb4e920070cd53ef5301299019",
+    "verses": 167,
+    "tokens": 3045
+  },
+  "Job": {
+    "source": "OSHB/WLC",
+    "sha256": "7db3311184122f37a8fd52f3c7c0c4a6d2da7b77ee82f4fdb26bcba9171d297f",
+    "verses": 1070,
+    "tokens": 8343
+  },
+  "Ps": {
+    "source": "OSHB/WLC",
+    "sha256": "f8ca52eb40aff5bbcc69f5d9a4e6a668d93a5756d616e233986fa6602abec334",
+    "verses": 2527,
+    "tokens": 19587
+  },
+  "Prov": {
+    "source": "OSHB/WLC",
+    "sha256": "964f99c00239b53b854c4686c99490c8d1ac7664784a30afdfc23781a3abb161",
+    "verses": 915,
+    "tokens": 6915
+  },
+  "Eccl": {
+    "source": "OSHB/WLC",
+    "sha256": "2dfc858d19048f6479eca33b9fe781c2d7e9059e9ae3ab0b37b802d3afec02bb",
+    "verses": 222,
+    "tokens": 2987
+  },
+  "Song": {
+    "source": "OSHB/WLC",
+    "sha256": "5cd6ae36d32c059aaf794af5a5eaed914ac643486db3e412eb0b969760db82ca",
+    "verses": 117,
+    "tokens": 1251
+  },
+  "Isa": {
+    "source": "OSHB/WLC",
+    "sha256": "0807678de609bdef284bed5400b94ddab570d101b593c7f59ae1939015572fa2",
+    "verses": 1291,
+    "tokens": 16932
+  },
+  "Jer": {
+    "source": "OSHB/WLC",
+    "sha256": "1a7ad7bc26a2cae1d3964230e8eb73043bc1f32505cb86cd69a25261dc39f493",
+    "verses": 1364,
+    "tokens": 21836
+  },
+  "Lam": {
+    "source": "OSHB/WLC",
+    "sha256": "be68fc6a913313367280c2596e28733ee8cf877c12a65227237733b40d0248c4",
+    "verses": 154,
+    "tokens": 1542
+  },
+  "Ezek": {
+    "source": "OSHB/WLC",
+    "sha256": "90bf8adfa66b2f6695c702263fe668755c99c6afc386202c12de4f704f5d4e46",
+    "verses": 1273,
+    "tokens": 18730
+  },
+  "Dan": {
+    "source": "OSHB/WLC",
+    "sha256": "bc69d0fa9708dacb11ea6d587509250bf1bcc1b4343eac2d6e97f8b41518fc0d",
+    "verses": 357,
+    "tokens": 5919
+  },
+  "Hos": {
+    "source": "OSHB/WLC",
+    "sha256": "f38ae44a3a97d142768bd5f4d40e77b69265184f9a5aec9e6af1b9b226e8daae",
+    "verses": 197,
+    "tokens": 2381
+  },
+  "Joel": {
+    "source": "OSHB/WLC",
+    "sha256": "c0fefc6881afe949b023968106cdccc05a690734b8bb6e9aa48914d77e5369af",
+    "verses": 73,
+    "tokens": 957
+  },
+  "Amos": {
+    "source": "OSHB/WLC",
+    "sha256": "6ad94c6a18076762f1a458720c62156d354e5111ee25719b7792b70792d0084d",
+    "verses": 146,
+    "tokens": 2042
+  },
+  "Obad": {
+    "source": "OSHB/WLC",
+    "sha256": "1e893e552a7ed7e2e6d4048637ff5da8a2853a9e4432f4095cede80b959d850c",
+    "verses": 21,
+    "tokens": 291
+  },
+  "Jonah": {
+    "source": "OSHB/WLC",
+    "sha256": "1e1afcc3aaba1399d5c884ee106894c6bfca87c8c81fa57783ab75a923eee17d",
+    "verses": 48,
+    "tokens": 688
+  },
+  "Mic": {
+    "source": "OSHB/WLC",
+    "sha256": "267e111adc1b941e32444816af07aa136ecde02cb315cd42597f78b393e67a01",
+    "verses": 105,
+    "tokens": 1396
+  },
+  "Nah": {
+    "source": "OSHB/WLC",
+    "sha256": "5993b28bdbee3c922e3e93002d343a655493e8bd45e3472f3b62d77beadcb62c",
+    "verses": 47,
+    "tokens": 558
+  },
+  "Hab": {
+    "source": "OSHB/WLC",
+    "sha256": "2592b212d816775adc8dac46bd0c46263982c308a186dde64dfb8239c57bd2d1",
+    "verses": 56,
+    "tokens": 671
+  },
+  "Zeph": {
+    "source": "OSHB/WLC",
+    "sha256": "eb5bd2a745fba1ffeed31dfafd834ce7c290929c992390be1a2b9451d22dea2e",
+    "verses": 53,
+    "tokens": 767
+  },
+  "Hag": {
+    "source": "OSHB/WLC",
+    "sha256": "26ebbae4fe491cf89ce70e1264cbcbf66a562b497cb214b677e67a9a43ad545c",
+    "verses": 38,
+    "tokens": 600
+  },
+  "Zech": {
+    "source": "OSHB/WLC",
+    "sha256": "2e287c8d0e0abd3bf601eb8ef9b4ee6ca3ae12cf36c0ed1612a7dcca54a2e777",
+    "verses": 211,
+    "tokens": 3128
+  },
+  "Mal": {
+    "source": "OSHB/WLC",
+    "sha256": "1583e6a701406dce7b8c2bf85e3522ec31383756de130685fc7c2eb6df8964b2",
+    "verses": 55,
+    "tokens": 876
+  }
+}
