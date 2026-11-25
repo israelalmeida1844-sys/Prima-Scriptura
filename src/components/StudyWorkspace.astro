@@ -37,7 +37,7 @@ import { books, names } from "../data/livros";
     <aside class="study-aside" aria-label="Ferramentas acadêmicas">
       <details id="verse-tools"><summary>Ferramentas</summary><div class="verse-tools-menu">
         <button id="tool-sermon" type="button">Adicionar ao sermão</button>
-        <button id="view-sermon" type="button">Abrir esboço</button>
+        <a id="view-sermon" href="/sermoes/">Abrir editor de sermões</a>
         <button id="tool-compare" type="button">Comparação de traduções</button>
         <button id="tool-comment" type="button">Comentários bíblicos</button>
         <button id="tool-exegesis" type="button">Exegese</button>
@@ -50,6 +50,7 @@ import { books, names } from "../data/livros";
 <p>Fontes: <a href="https://github.com/morphgnt/sblgnt">MorphGNT / SBLGNT</a>; <a href="https://github.com/openscriptures/morphhb">Original work of the Open Scriptures Hebrew Bible</a>. Consulte as licenças originais.</p></div>
 <script>
 import { marcos } from "../data/cronologia";
+import { addCitation, loadSermons, newSermon, saveSermon } from "../data/sermoes";
 import { books as canon, helloAoBooks } from "../data/livros";
 type Token={text:string;lemma?:string;morph?:string;gloss_pt?:string;pos?:string};
 const book=document.querySelector<HTMLSelectElement>("#book")!,chapter=document.querySelector<HTMLSelectElement>("#chapter")!,verse=document.querySelector<HTMLSelectElement>("#verse")!,status=document.querySelector<HTMLElement>("#status")!,words=document.querySelector<HTMLElement>("#words")!;
@@ -536,17 +537,47 @@ function currentReading(){
   return {book:book.value,name:book.selectedOptions[0]?.textContent||book.value,ref,sourceRef,text:sourceRef?pt[sourceRef]||"":"",original:(data[key]||[]).map(w=>w.text).join(" "),rtl:book.selectedOptions[0]?.dataset.rtl==="yes"};
 }
 function openTool(title:string){toolMenu.open=false;toolTitle.textContent=title;toolContent.replaceChildren();if(!toolDialog.open)toolDialog.showModal();}
-const sermonKey="prima-scriptura-sermon-v1";
-type SermonVerse={book:string;name:string;ref:string;sourceRef:string|null;text:string;original:string;rtl:boolean};
-function savedSermon():SermonVerse[]{try{const x=JSON.parse(localStorage.getItem(sermonKey)||"[]");return Array.isArray(x)?x.filter(z=>z&&typeof z.book==="string"&&typeof z.ref==="string"&&typeof z.text==="string"&&typeof z.name==="string"):[];}catch{return [];}}
-function sermonView(message:string){
- toolContent.replaceChildren();appendText(toolContent,"p",message);appendText(toolContent,"p","Esboço salvo neste navegador, sem sincronização entre dispositivos.");
- const entries=savedSermon();
- for(const [i,r] of entries.entries()){const a=document.createElement("article");appendText(a,"h3",r.name+" "+r.ref);appendText(a,"p","Bíblia Livre "+r.sourceRef+": "+r.text);const remove=document.createElement("button");remove.type="button";remove.textContent="Remover";remove.onclick=()=>{try{localStorage.setItem(sermonKey,JSON.stringify(entries.filter((_,j)=>j!==i)));sermonView("Versículo removido.");}catch{sermonView("Não foi possível alterar o armazenamento local.");}};a.append(remove);toolContent.append(a);}
- const output=document.createElement("textarea");output.rows=5;output.readOnly=true;output.value=entries.map(r=>r.name+" "+r.ref+" (Bíblia Livre "+r.sourceRef+")\n"+r.text).join("\n\n");output.setAttribute("aria-label","Texto do sermão para copiar");toolContent.append(output);
- const copy=document.createElement("button");copy.type="button";copy.textContent="Copiar referências e textos";copy.onclick=async()=>{try{await navigator.clipboard.writeText(output.value);copy.textContent="Copiado";}catch{output.select();copy.textContent="Selecione e copie o texto";}};toolContent.append(copy);
-}
-document.querySelector<HTMLButtonElement>("#tool-sermon")!.onclick=()=>{const r=currentReading();openTool("Adicionar ao sermão");if(!r.text){sermonView("Texto da Bíblia Livre indisponível nesta referência; nada foi adicionado.");return;}const entries=savedSermon();if(entries.some(x=>x.book===r.book&&x.ref===r.ref&&x.sourceRef===r.sourceRef)){sermonView("Este versículo já está no esboço.");return;}try{localStorage.setItem(sermonKey,JSON.stringify([...entries,r]));sermonView("Versículo adicionado ao esboço.");}catch{sermonView("Não foi possível salvar neste navegador.");}};
+const activeSermon=initial.get("esboco");
+const editorUrl=(id?:string|null)=>"/sermoes/"+(id?"?"+new URLSearchParams({esboco:id}):"");
+document.querySelector<HTMLAnchorElement>("#view-sermon")!.href=editorUrl(activeSermon);
+document.querySelector<HTMLButtonElement>("#tool-sermon")!.onclick=()=>{
+  const passage=currentReading();
+  openTool("Adicionar ao sermão");
+  if(!passage.text){appendText(toolContent,"p","Texto da Bíblia Livre indisponível nesta referência.");return;}
+  try{
+    const drafts=loadSermons();
+    const caption=document.createElement("label");
+    caption.textContent="Esboço ";
+    const selection=document.createElement("select");
+    selection.add(new Option("Novo esboço",""));
+    for(const draft of drafts)selection.add(new Option(draft.title.trim() || "Esboço sem título",draft.id));
+    if(activeSermon && drafts.some(draft=>draft.id===activeSermon))selection.value=activeSermon;
+    caption.append(selection);
+    toolContent.append(caption);
+    const feedback=appendText(toolContent,"p","");
+    feedback.setAttribute("role","status");
+    const add=document.createElement("button");
+    add.type="button";
+    add.textContent="Salvar no esboço";
+    add.onclick=()=>{
+      try{
+        const existing=selection.value?loadSermons().find(draft=>draft.id===selection.value):undefined;
+        if(selection.value && !existing){feedback.textContent="O esboço selecionado está indisponível.";return;}
+        const draft=existing || newSermon(passage);
+        const added=existing?addCitation(draft,passage):true;
+        if(added)saveSermon(draft);
+        toolContent.replaceChildren();
+        appendText(toolContent,"p",added?"Versículo adicionado ao esboço.":"Este versículo já está no esboço.");
+        const link=document.createElement("a");
+        link.href=editorUrl(draft.id);
+        link.textContent="Abrir esboço no editor →";
+        toolContent.append(link);
+        link.focus();
+      }catch{feedback.textContent="Não foi possível salvar neste navegador.";}
+    };
+    toolContent.append(add);
+  }catch{appendText(toolContent,"p","O armazenamento local está indisponível.");}
+};
 type ComparisonVerse = { type:string; number:number; content:(string|{text?:string;type?:string})[] };
 document.querySelector<HTMLButtonElement>("#tool-compare")!.onclick=async()=>{
   const r=currentReading();
@@ -578,8 +609,8 @@ document.querySelector<HTMLButtonElement>("#tool-comment")!.onclick=()=>{toolMen
 document.querySelector<HTMLButtonElement>("#tool-exegesis")!.onclick=()=>{toolMenu.open=false;openPanel("exegesis");document.querySelector<HTMLButtonElement>("#exegesis-open")!.click();document.querySelector<HTMLElement>("#exegesis-panel")!.scrollIntoView({block:"start"});};
 
 document.querySelector<HTMLButtonElement>("#tool-criticism")!.onclick=()=>{openPanel("criticism");toolMenu.open=false;document.querySelector<HTMLButtonElement>("#criticism-open")!.click();};
-function showSermon(){openTool("Preparação de sermões");sermonView("Passagens do esboço");}
-document.querySelector<HTMLButtonElement>("#view-sermon")!.onclick=showSermon;
-if(initial.has("sermao"))showSermon();
+if(initial.has("sermao"))location.replace(editorUrl(activeSermon));
+const initialTerm=initial.get("termo");
+if(initialTerm && initialMode){field("query").value=initialTerm;searchForm.requestSubmit();}
 </script>
 </Base>

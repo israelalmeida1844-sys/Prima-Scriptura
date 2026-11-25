@@ -1,0 +1,70 @@
+---
+import Base from "../layouts/Base.astro";
+import {books,names} from "../data/livros";
+import {formats,stages,sections} from "../data/sermoes";
+import "../styles/sermoes.css";
+---
+<Base title="Editor de sermões e estudos">
+  <div class="wrap section sermons">
+    <p class="kicker">Preparação bíblica</p>
+    <h1>Editor de sermões e estudos</h1>
+    <p class="sermon-intro">Estruture sua exposição, reúna citações e prepare a leitura no púlpito.</p>
+    <div class="sermon-actions">
+      <button type="button" class="btn" id="sermon-new">Novo esboço</button>
+      <button type="button" class="ps-control" id="sermon-outline" aria-expanded="false" aria-controls="outline-links">Estrutura</button>
+      <button type="button" class="ps-control" id="sermon-copy">Copiar</button>
+      <button type="button" class="ps-control" id="sermon-export">Baixar Markdown</button>
+      <button type="button" class="ps-control" id="sermon-pulpit">Modo púlpito</button>
+    </div>
+    <nav id="outline-links" aria-label="Estrutura do sermão" hidden>
+      {sections.map(([id,label])=><a href={"#section-"+id}>{label}</a>)}
+    </nav>
+    <p id="sermon-status" role="status">Os esboços são salvos neste navegador.</p>
+    <div class="sermon-layout">
+      <section class="card sermon-library" aria-labelledby="library-title">
+        <h2 id="library-title">Meus esboços</h2>
+        <label>Buscar esboços<input class="ps-control" type="search" id="sermon-search" placeholder="Título, texto ou série" /></label>
+        <label>Formato<select class="ps-control" id="sermon-filter"><option value="">Todos</option>{formats.map(format=><option>{format}</option>)}</select></label>
+        <div id="sermon-list"></div>
+      </section>
+      <section class="card sermon-paper" aria-label="Editar esboço">
+        <p id="sermon-empty">Crie um esboço ou adicione uma passagem pelo leitor bíblico.</p>
+        <form id="sermon-form" hidden>
+          <label>Título <input name="title" class="ps-control sermon-title" placeholder="Título do esboço" /></label>
+          <label>Subtítulo <input name="subtitle" class="ps-control" placeholder="Tema secundário (opcional)" /></label>
+          <div class="sermon-meta">
+            <label>Formato <select name="format" class="ps-control">{formats.map(format=><option>{format}</option>)}</select></label>
+            <label>Estágio <select name="stage" class="ps-control">{stages.map(stage=><option>{stage}</option>)}</select></label>
+            <label>Série ou ocasião <input name="series" class="ps-control" /></label>
+            <label>Data prevista <input name="date" type="date" class="ps-control" /></label>
+            <label>Duração prevista (min) <input name="minutes" type="number" min="1" class="ps-control" /></label>
+          </div>
+          <fieldset class="passage-field">
+            <legend>Texto base da perícope</legend>
+            <div class="passage-grid">
+              <label>Livro <select name="book" class="ps-control">{books.map((book,i)=><option value={book}>{names[i]}</option>)}</select></label>
+              <label>Capítulo <input name="chapter" type="number" min="1" required class="ps-control" /></label>
+              <label>Versículo inicial <input name="start" type="number" min="1" required class="ps-control" /></label>
+              <label>Versículo final <input name="end" type="number" min="1" class="ps-control" /></label>
+            </div>
+            <div class="sermon-actions"><a id="sermon-reader" class="ps-control" href="/biblia/">Abrir no leitor →</a><button id="sermon-quote" type="button" class="ps-control">Inserir citações da Bíblia Livre</button></div>
+          </fieldset>
+          <p id="sermon-words"></p>
+          {sections.map(([id,label,placeholder])=><label class="sermon-section" id={"section-"+id}>{label}<textarea name={id} rows="4" class="ps-control" placeholder={placeholder}></textarea></label>)}
+          <h2>Citações bíblicas</h2>
+          <div id="sermon-citations"></div>
+          <label>Índices Strong <input name="strong" class="ps-control" placeholder="Ex.: H7225, G3056" /></label>
+          <div id="sermon-strong" class="sermon-actions"></div>
+          <div class="sermon-actions"><button type="button" class="ps-control" id="sermon-duplicate">Duplicar esboço</button></div>
+        </form>
+      </section>
+    </div>
+    <dialog id="pulpit" aria-labelledby="pulpit-title">
+      <form method="dialog" class="pulpit-controls"><button class="ps-control">Sair do modo púlpito</button></form>
+      <h2 id="pulpit-title"></h2><div id="pulpit-content"></div>
+    </dialog>
+  </div>
+</Base>
+<script>
+import "../scripts/sermoes-editor";
+</script>

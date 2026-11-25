@@ -63,3 +63,6 @@ a, button, summary, input, select, textarea { -webkit-tap-highlight-color: trans
   .site-header nav { gap: 0 .55rem; }
 }
 .site-header .brand > span:last-child { color: #fff8e9; }
+@media (max-width: 420px) {
+  .site-header nav { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 0 .5rem; }
+}
