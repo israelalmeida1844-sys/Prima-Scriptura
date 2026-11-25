@@ -15,7 +15,7 @@ concurrency:
 jobs:
   audit:
     if: github.ref == 'refs/heads/rascunho/interlinear-completo'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
@@ -34,7 +34,7 @@ jobs:
       - run: npm run build
       - name: Testar navegador Chromium
         run: |
-          npm install --no-save --package-lock=false playwright@1.52.0
+          npm install --no-save --package-lock=false playwright@1.58.2
           npx playwright install --with-deps chromium
           npm run preview -- --host 127.0.0.1 --port 4321 > /tmp/astro-preview.log 2>&1 &
           server=$!
