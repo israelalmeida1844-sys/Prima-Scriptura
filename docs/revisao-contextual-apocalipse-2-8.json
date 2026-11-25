@@ -1,0 +1,1360 @@
+{
+  "scope": "Ap 2:1–8:13",
+  "source": "SBLGNT via MorphGNT 6.12, aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "method": "Tradução editorial original e notas específicas preparadas sobre as formas gregas da edição fixada. Conserva o cotejo textual e as fichas sintáticas do projeto.",
+  "entries": {
+    "2:1": {
+      "translation": "Ao anjo da igreja em Éfeso, escreva: \"Assim diz aquele que segura as sete estrelas em sua mão direita, aquele que anda no meio dos sete candelabros de ouro:\"",
+      "syntacticNotes": [
+        "Τῷ ἀγγέλῳ é dativo de destinatário de γράψον; τῆς ἐν Ἐφέσῳ ἐκκλησίας é genitivo com expressão locativa atributiva.",
+        "Os particípios substantivados ὁ κρατῶν e ὁ περιπατῶν identificam o sujeito de λέγει e apresentam ações características."
+      ],
+      "exegeticalNotes": [
+        "Os símbolos retomam Ap 1:12–20, onde as estrelas e os candelabros são interpretados.",
+        "A presença de Cristo entre as igrejas fundamenta sua avaliação da comunidade de Éfeso."
+      ]
+    },
+    "2:2": {
+      "translation": "\"Conheço as suas obras, o seu trabalho árduo e a sua perseverança, e sei que você não pode suportar os maus, que pôs à prova os que dizem ser apóstolos, mas não são, e os achou mentirosos.\"",
+      "syntacticNotes": [
+        "Οἶδα rege objetos acusativos e a oração introduzida por ὅτι, que explicita o conhecimento de Cristo.",
+        "τοὺς λέγοντας é particípio substantivado; ἑαυτούς e ἀποστόλους compõem a afirmação atribuída aos pretensos apóstolos, enquanto ψευδεῖς é predicativo de αὐτούς após εὗρες."
+      ],
+      "exegeticalNotes": [
+        "O discernimento da igreja é elogiado, não a aceitação irrestrita de reivindicações de autoridade.",
+        "A perseverança e o exame de pretensões apostólicas formam o contexto da censura de Ap 2:4."
+      ]
+    },
+    "2:3": {
+      "translation": "\"Você tem perseverança, suportou dificuldades por causa do meu nome e não se cansou.\"",
+      "syntacticNotes": [
+        "ὑπομονήν é objeto antecipado de ἔχεις; διὰ τὸ ὄνομά μου indica a causa de ἐβάστασας.",
+        "οὐ κεκοπίακες é perfeito ativo, negando um estado de fadiga resultante; contrasta com o κόπος do versículo anterior."
+      ],
+      "exegeticalNotes": [
+        "O nome de Cristo designa sua autoridade e a lealdade a ele.",
+        "A perseverança demonstrada em sofrimento não elimina a necessidade do amor mencionado a seguir."
+      ]
+    },
+    "2:4": {
+      "translation": "\"Tenho, porém, contra você o fato de ter abandonado o seu primeiro amor.\"",
+      "syntacticNotes": [
+        "ἔχω κατά σου introduz a acusação; ὅτι explicita seu conteúdo.",
+        "O artigo repetido τὴν πρώτην caracteriza ἀγάπην; ἀφῆκες é aoristo de abandono."
+      ],
+      "exegeticalNotes": [
+        "A avaliação distingue fidelidade doutrinária e perseverança da qualidade do amor que as deve acompanhar.",
+        "O texto não especifica um único objeto do amor; o chamado subsequente envolve a prática comunitária."
+      ]
+    },
+    "2:5": {
+      "translation": "\"Lembre-se, portanto, de onde caiu, arrependa-se e pratique as primeiras obras. Caso contrário, virei a você e removerei seu candelabro de seu lugar, se não se arrepender.\"",
+      "syntacticNotes": [
+        "μνημόνευε é imperativo presente; μετανόησον e ποίησον são imperativos aoristos, convocando resposta decisiva.",
+        "εἰ δὲ μή introduz a consequência negativa, retomada pela condição ἐὰν μὴ μετανοήσῃς; κινήσω é futuro."
+      ],
+      "exegeticalNotes": [
+        "O chamado ao arrependimento vincula amor e obras concretas.",
+        "O candelabro representa a igreja (Ap 1:20); sua remoção exprime uma ameaça à condição da comunidade."
+      ]
+    },
+    "2:6": {
+      "translation": "\"Você tem, contudo, isto: odeia as obras dos nicolaítas, as quais eu também odeio.\"",
+      "syntacticNotes": [
+        "τοῦτο é antecipação do conteúdo introduzido por ὅτι; ἃ retoma τὰ ἔργα.",
+        "κἀγώ é crase de καὶ ἐγώ, enfatizando a concordância de Cristo com a rejeição dessas práticas."
+      ],
+      "exegeticalNotes": [
+        "O elogio se dirige à rejeição das obras, não autoriza hostilidade indiscriminada contra pessoas.",
+        "A identidade e as práticas dos nicolaítas são discutidas; Ap 2:14–15 oferece a conexão literária mais próxima."
+      ]
+    },
+    "2:7": {
+      "translation": "\"Quem tem ouvidos ouça o que o Espírito diz às igrejas. Ao vencedor darei de comer da árvore da vida, que está no paraíso de Deus.\"",
+      "syntacticNotes": [
+        "ὁ ἔχων e τῷ νικῶντι são particípios substantivados; ἀκουσάτω é imperativo de terceira pessoa.",
+        "τί introduz pergunta indireta dependente de ἀκουσάτω; o dativo τῷ νικῶντι é retomado por αὐτῷ, e φαγεῖν complementa δώσω."
+      ],
+      "exegeticalNotes": [
+        "A fórmula estende a mensagem particular a todas as igrejas.",
+        "A árvore da vida evoca Gn 2:9; 3:22–24 e antecipa Ap 22:2,14, associando vitória e restauração."
+      ]
+    },
+    "2:8": {
+      "translation": "E ao anjo da igreja em Esmirna, escreva: \"Assim diz o Primeiro e o Último, que esteve morto e voltou à vida:\"",
+      "syntacticNotes": [
+        "Τάδε é demonstrativo acusativo na fórmula introdutória de λέγει; os títulos articulados constituem seu sujeito.",
+        "ὃς introduz a relativa que identifica o Primeiro e o Último por ἐγένετο νεκρός e ἔζησεν."
+      ],
+      "exegeticalNotes": [
+        "Os títulos retomam Ap 1:17–18 e a linguagem de Is 44:6.",
+        "A identificação daquele que venceu a morte prepara a promessa à comunidade ameaçada."
+      ]
+    },
+    "2:9": {
+      "translation": "\"Conheço a sua tribulação e a sua pobreza — mas você é rico — e a difamação dos que dizem ser judeus, mas não são; são, antes, uma sinagoga de Satanás.\"",
+      "syntacticNotes": [
+        "θλῖψιν, πτωχείαν e βλασφημίαν dependem de Οἶδα; ἀλλὰ πλούσιος εἶ interrompe a série com contraste nominal.",
+        "τῶν λεγόντων introduz o grupo de onde procede a difamação; Ἰουδαίους εἶναι ἑαυτούς é construção de acusativo com infinitivo."
+      ],
+      "exegeticalNotes": [
+        "A riqueza espiritual é contraposta à privação material.",
+        "A acusação descreve um conflito específico da comunidade; não deve ser convertida em generalização étnica sobre todos os judeus."
+      ]
+    },
+    "2:10": {
+      "translation": "\"Não tema nada do que está para sofrer. Eis que o diabo está para lançar alguns de vocês na prisão, para que sejam provados, e vocês terão tribulação por dez dias. Seja fiel até a morte, e eu lhe darei a coroa da vida.\"",
+      "syntacticNotes": [
+        "μηδὲν φοβοῦ é proibição no imperativo presente; ἃ μέλλεις πάσχειν delimita o sofrimento previsto.",
+        "ἵνα πειρασθῆτε expressa finalidade ou resultado da prisão; ἡμερῶν δέκα especifica duração, e ἄχρι θανάτου indica limite da fidelidade."
+      ],
+      "exegeticalNotes": [
+        "A provação é apresentada como limitada, em contraste com a vida prometida.",
+        "στέφανος designa coroa ou grinalda; a recompensa é a própria vida, sem impor pelo léxico uma cronologia profética específica."
+      ]
+    },
+    "2:11": {
+      "translation": "\"Quem tem ouvidos ouça o que o Espírito diz às igrejas. O vencedor de modo algum será atingido pela segunda morte.\"",
+      "syntacticNotes": [
+        "ὁ νικῶν é sujeito substantivado; οὐ μή com ἀδικηθῇ intensifica a negação prospectiva.",
+        "ἐκ τοῦ θανάτου τοῦ δευτέρου indica a fonte do dano que se nega."
+      ],
+      "exegeticalNotes": [
+        "A promessa responde à ameaça de morte de Ap 2:10.",
+        "A segunda morte recebe explicitação em Ap 20:6,14 e 21:8."
+      ]
+    },
+    "2:12": {
+      "translation": "E ao anjo da igreja em Pérgamo, escreva: \"Assim diz aquele que tem a espada afiada de dois gumes:\"",
+      "syntacticNotes": [
+        "ὁ ἔχων é sujeito substantivado de λέγει; ῥομφαίαν é seu objeto direto.",
+        "A repetição dos artigos τὴν δίστομον τὴν ὀξεῖαν coloca os dois adjetivos em posição atributiva."
+      ],
+      "exegeticalNotes": [
+        "A espada retoma a imagem de Ap 1:16.",
+        "Seu sentido é esclarecido pela ameaça de Ap 2:16: a palavra judicial do Cristo exaltado."
+      ]
+    },
+    "2:13": {
+      "translation": "\"Sei onde você mora, onde está o trono de Satanás. Você mantém o meu nome e não negou a minha fé, nem mesmo nos dias de Antipas, minha testemunha, meu fiel, que foi morto entre vocês, onde Satanás habita.\"",
+      "syntacticNotes": [
+        "ποῦ κατοικεῖς é interrogativa indireta dependente de Οἶδα; ὅπου introduz uma oração locativa.",
+        "Ἀντιπᾶς e os títulos ὁ μάρτυς μου, ὁ πιστός μου aparecem em nominativo depois de ἐν ταῖς ἡμέραις; a irregularidade preserva a identificação solene da testemunha."
+      ],
+      "exegeticalNotes": [
+        "O trono de Satanás representa a oposição vivida em Pérgamo; uma identificação histórica exclusiva requer evidência adicional.",
+        "Antipas é apresentado como exemplo concreto de testemunho fiel, evocando o título de Cristo em Ap 1:5."
+      ]
+    },
+    "2:14": {
+      "translation": "\"Tenho, porém, algumas coisas contra você, porque há aí pessoas que sustentam o ensino de Balaão, que ensinava Balaque a pôr uma armadilha diante dos filhos de Israel, para comerem alimentos sacrificados aos ídolos e praticarem imoralidade sexual.\"",
+      "syntacticNotes": [
+        "ὅτι introduz o conteúdo da acusação; κρατοῦντας é particípio acusativo dependente de ἔχεις.",
+        "ἐδίδασκεν rege o dativo τῷ Βαλάκ e o infinitivo βαλεῖν; φαγεῖν e πορνεῦσαι especificam o tropeço."
+      ],
+      "exegeticalNotes": [
+        "A referência combina Nm 25:1–3 e 31:16, associando Balaão à infidelidade de Israel.",
+        "A analogia denuncia a acomodação a práticas idolátricas, não apenas erro intelectual."
+      ]
+    },
+    "2:15": {
+      "translation": "\"Assim também você tem pessoas que sustentam, de modo semelhante, o ensino dos nicolaítas.\"",
+      "syntacticNotes": [
+        "οὕτως e ὁμοίως vinculam a situação à analogia anterior; καὶ σύ destaca o destinatário.",
+        "κρατοῦντας é complemento participial de ἔχεις e rege τὴν διδαχήν."
+      ],
+      "exegeticalNotes": [
+        "O paralelismo com Balaão esclarece a função polêmica do nome nicolaítas.",
+        "O texto não fornece biografia independente do grupo; a crítica concentra-se no ensino sustentado."
+      ]
+    },
+    "2:16": {
+      "translation": "\"Arrependa-se, portanto. Caso contrário, virei a você em breve e combaterei contra eles com a espada da minha boca.\"",
+      "syntacticNotes": [
+        "μετανόησον é imperativo aoristo; εἰ δὲ μή introduz a consequência da recusa.",
+        "μετ’ αὐτῶν tem valor de confronto com πολεμήσω; ἐν τῇ ῥομφαίᾳ indica meio."
+      ],
+      "exegeticalNotes": [
+        "A ameaça distingue a comunidade destinatária dos que sustentam o ensino censurado.",
+        "A espada da boca retoma Ap 1:16 e 2:12, imagem de julgamento por Cristo."
+      ]
+    },
+    "2:17": {
+      "translation": "\"Quem tem ouvidos ouça o que o Espírito diz às igrejas. Ao vencedor darei do maná escondido e lhe darei uma pedra branca, e sobre a pedra um novo nome escrito, que ninguém conhece senão aquele que o recebe.\"",
+      "syntacticNotes": [
+        "τοῦ μάννα τοῦ κεκρυμμένου é genitivo partitivo com particípio perfeito passivo atributivo.",
+        "ὄνομα καινὸν γεγραμμένον integra a segunda promessa; ὃ introduz relativa cujo objeto é o novo nome."
+      ],
+      "exegeticalNotes": [
+        "O maná evoca Êx 16:32–34 e o alimento preservado diante de Deus.",
+        "A pedra branca e o novo nome comunicam acolhimento e identidade; o texto não fixa uma única prática cultural como referente."
+      ]
+    },
+    "2:18": {
+      "translation": "E ao anjo da igreja em Tiatira, escreva: \"Assim diz o Filho de Deus, aquele que tem os olhos como chama de fogo e cujos pés são semelhantes a metal brilhante:\"",
+      "syntacticNotes": [
+        "ὁ υἱὸς τοῦ θεοῦ é sujeito de λέγει; ὁ ἔχων é designação apositiva.",
+        "Na última oração, οἱ πόδες é sujeito nominativo e ὅμοιοι predicativo, com χαλκολιβάνῳ em dativo de comparação."
+      ],
+      "exegeticalNotes": [
+        "As imagens retomam Ap 1:14–15; o título Filho de Deus identifica explicitamente a figura.",
+        "Os olhos e os pés preparam a declaração de conhecimento e julgamento de Ap 2:23."
+      ]
+    },
+    "2:19": {
+      "translation": "\"Conheço as suas obras, o seu amor, a sua fé, o seu serviço e a sua perseverança, e sei que as suas últimas obras são mais numerosas que as primeiras.\"",
+      "syntacticNotes": [
+        "A série de acusativos depende de Οἶδα; os genitivos σου qualificam o destinatário das obras e virtudes.",
+        "πλείονα é comparativo com genitivo de comparação τῶν πρώτων; a predicação final tem cópula elíptica."
+      ],
+      "exegeticalNotes": [
+        "A igreja é elogiada por amor, serviço e crescimento, em contraste com Éfeso.",
+        "O elogio não neutraliza a crítica à tolerância do ensino enganoso no versículo seguinte."
+      ]
+    },
+    "2:20": {
+      "translation": "\"Tenho, porém, contra você o fato de tolerar a mulher Jezabel, que se diz profetisa, ensina e engana os meus servos, levando-os a praticar imoralidade sexual e comer alimentos sacrificados aos ídolos.\"",
+      "syntacticNotes": [
+        "ὅτι explicita a acusação, e ἀφεῖς rege τὴν γυναῖκα Ἰεζάβελ.",
+        "ἡ λέγουσα é nominativo apositivo após um objeto acusativo, retomando a mulher como sujeito de διδάσκει e πλανᾷ; os infinitivos especificam a conduta induzida."
+      ],
+      "exegeticalNotes": [
+        "Jezabel evoca 1Rs 16:31–33; 21, paradigma de infidelidade e idolatria.",
+        "A denúncia se concentra na influência atribuída à profetisa; não exige identificar seu nome histórico."
+      ]
+    },
+    "2:21": {
+      "translation": "\"Dei-lhe tempo para que se arrependesse, mas ela não quer arrepender-se de sua imoralidade sexual.\"",
+      "syntacticNotes": [
+        "χρόνον é objeto de ἔδωκα; αὐτῇ é dativo de destinatário.",
+        "ἵνα μετανοήσῃ expressa finalidade; οὐ θέλει com infinitivo nega disposição para arrepender-se."
+      ],
+      "exegeticalNotes": [
+        "A iniciativa de conceder tempo precede o anúncio do julgamento.",
+        "O contraste entre oportunidade e recusa situa a responsabilidade na resposta à advertência."
+      ]
+    },
+    "2:22": {
+      "translation": "\"Eis que a lanço num leito, e os que adulteram com ela em grande tribulação, se não se arrependerem das obras dela.\"",
+      "syntacticNotes": [
+        "βάλλω rege αὐτήν e τοὺς μοιχεύοντας, com complementos de destino distintos.",
+        "ἐὰν μὴ μετανοήσωσιν estabelece a condição sob a qual a tribulação recai sobre os participantes."
+      ],
+      "exegeticalNotes": [
+        "O leito associado à conduta ilícita torna-se imagem de aflição.",
+        "A condição de arrependimento preserva a possibilidade de mudança antes do juízo."
+      ]
+    },
+    "2:23": {
+      "translation": "\"Matarei os filhos dela com a morte, e todas as igrejas saberão que eu sou aquele que sonda rins e corações. Darei a cada um de vocês segundo as suas obras.\"",
+      "syntacticNotes": [
+        "ἐν θανάτῳ é expressão instrumental ou intensificadora com ἀποκτενῶ; ὅτι introduz o conteúdo de γνώσονται.",
+        "ὁ ἐραυνῶν é particípio substantivado predicativo de ἐγώ; ἑκάστῳ individualiza os destinatários da retribuição."
+      ],
+      "exegeticalNotes": [
+        "Sondar rins e corações evoca Jr 17:10 e Sl 7:9, linguagem de conhecimento das disposições interiores.",
+        "O julgamento serve de advertência às igrejas e estabelece responsabilidade individual."
+      ]
+    },
+    "2:24": {
+      "translation": "\"A vocês, porém, os demais em Tiatira, todos os que não têm esse ensino e não conheceram as profundezas de Satanás, como dizem, declaro: não imponho sobre vocês outro peso.\"",
+      "syntacticNotes": [
+        "ὑμῖν é dativo antecipado de λέγω, especificado pelas expressões apositivas e relativas.",
+        "ὡς λέγουσιν é comentário parentético; ἄλλο βάρος é objeto de βάλλω com ἐφ’ ὑμᾶς."
+      ],
+      "exegeticalNotes": [
+        "A declaração distingue os que resistem ao ensino censurado.",
+        "A expressão profundezas de Satanás inverte a pretensão de conhecimento elevado; o texto não descreve seu sistema em detalhe."
+      ]
+    },
+    "2:25": {
+      "translation": "\"Apenas conservem o que vocês têm até que eu venha.\"",
+      "syntacticNotes": [
+        "πλήν restringe a ordem ao essencial; ὃ ἔχετε é relativa livre, objeto de κρατήσατε.",
+        "ἄχρι οὗ ἂν ἥξω introduz o limite temporal da perseverança."
+      ],
+      "exegeticalNotes": [
+        "A fidelidade presente é exigida em vista da vinda de Cristo.",
+        "A ordem prepara a promessa ao vencedor nos versículos seguintes."
+      ]
+    },
+    "2:26": {
+      "translation": "\"Ao vencedor, àquele que guarda até o fim as minhas obras, darei autoridade sobre as nações.\"",
+      "syntacticNotes": [
+        "ὁ νικῶν e ὁ τηρῶν são nominativos temáticos coordenados, retomados pelo dativo αὐτῷ.",
+        "ἄχρι τέλους delimita τηρῶν; ἐξουσίαν é objeto de δώσω, e ἐπὶ τῶν ἐθνῶν delimita seu âmbito."
+      ],
+      "exegeticalNotes": [
+        "A vitória inclui perseverança nas obras de Cristo até o fim.",
+        "A participação na autoridade messiânica prepara a citação do Sl 2:9."
+      ]
+    },
+    "2:27": {
+      "translation": "\"Ele as regerá com vara de ferro, como se quebram os vasos de barro,\"",
+      "syntacticNotes": [
+        "ποιμανεῖ é futuro de ποιμαίνω com objeto αὐτούς; ἐν ῥάβδῳ σιδηρᾷ indica meio.",
+        "ὡς introduz comparação; τὰ σκεύη, neutro plural, recebe συντρίβεται no singular."
+      ],
+      "exegeticalNotes": [
+        "A linguagem retoma Sl 2:9 na tradição grega, onde a figura do pastoreio se associa à autoridade régia.",
+        "A fragilidade dos vasos contrasta com a força da autoridade concedida."
+      ]
+    },
+    "2:28": {
+      "translation": "\"Assim como também eu recebi de meu Pai; e lhe darei a estrela da manhã.\"",
+      "syntacticNotes": [
+        "ὡς introduz comparação que fundamenta a autoridade anterior; εἴληφα é perfeito de λαμβάνω.",
+        "τὸν ἀστέρα τὸν πρωϊνόν é objeto de δώσω com adjetivo em posição atributiva."
+      ],
+      "exegeticalNotes": [
+        "A autoridade do vencedor é derivada daquela recebida por Cristo.",
+        "A estrela da manhã antecipa a autodesignação de Jesus em Ap 22:16, embora a promessa possa incluir participação em sua vitória."
+      ]
+    },
+    "2:29": {
+      "translation": "\"Quem tem ouvidos ouça o que o Espírito diz às igrejas.\"",
+      "syntacticNotes": [
+        "ὁ ἔχων οὖς é particípio substantivado com objeto acusativo; ἀκουσάτω é imperativo de terceira pessoa.",
+        "τί introduz interrogativa indireta; ταῖς ἐκκλησίαις é dativo de destinatário de λέγει."
+      ],
+      "exegeticalNotes": [
+        "A fórmula universaliza a mensagem particular a Tiatira.",
+        "Nas últimas quatro cartas, o chamado à escuta segue a promessa ao vencedor."
+      ]
+    },
+    "3:1": {
+      "translation": "E ao anjo da igreja em Sardes, escreva: \"Assim diz aquele que tem os sete espíritos de Deus e as sete estrelas: Conheço as suas obras; você tem fama de estar vivo, mas está morto.\"",
+      "syntacticNotes": [
+        "ὁ ἔχων é sujeito substantivado de λέγει e rege dois objetos coordenados.",
+        "ὄνομα ἔχεις com ὅτι ζῇς descreve reputação; νεκρὸς εἶ contradiz essa aparência."
+      ],
+      "exegeticalNotes": [
+        "Os sete espíritos e as estrelas retomam Ap 1:4,16,20.",
+        "A tensão entre reputação e realidade organiza a mensagem a Sardes."
+      ]
+    },
+    "3:2": {
+      "translation": "\"Torne-se vigilante e fortaleça o que resta, que estava prestes a morrer, pois não achei as suas obras completas diante do meu Deus.\"",
+      "syntacticNotes": [
+        "γίνου γρηγορῶν combina imperativo e particípio predicativo; στήρισον ordena o fortalecimento.",
+        "τὰ λοιπά é objeto substantivado; πεπληρωμένα é particípio perfeito passivo predicativo de τὰ ἔργα após εὕρηκα."
+      ],
+      "exegeticalNotes": [
+        "A advertência supõe que ainda existe algo a ser preservado.",
+        "O critério é a avaliação diante de Deus, não o prestígio diante da comunidade."
+      ]
+    },
+    "3:3": {
+      "translation": "\"Lembre-se, portanto, de como recebeu e ouviu, guarde isso e arrependa-se. Se não vigiar, virei como ladrão, e de modo algum saberá a que hora virei sobre você.\"",
+      "syntacticNotes": [
+        "πῶς introduz interrogativa indireta após μνημόνευε; εἴληφας é perfeito, e ἤκουσας é aoristo.",
+        "ἐὰν μὴ γρηγορήσῃς introduz condição; οὐ μὴ γνῷς enfatiza a impossibilidade de prever a hora."
+      ],
+      "exegeticalNotes": [
+        "A memória do que foi recebido deve produzir obediência e arrependimento.",
+        "A imagem do ladrão expressa surpresa e necessidade de vigilância, cf. Mt 24:43 e Ap 16:15."
+      ]
+    },
+    "3:4": {
+      "translation": "\"Você tem, contudo, alguns nomes em Sardes que não contaminaram suas vestes; eles andarão comigo vestidos de branco, porque são dignos.\"",
+      "syntacticNotes": [
+        "ὀλίγα ὀνόματα funciona metonimicamente como pessoas, retomadas por ἃ.",
+        "ἐν λευκοῖς é expressão elíptica de vestimenta; ὅτι ἄξιοί εἰσιν fundamenta a promessa."
+      ],
+      "exegeticalNotes": [
+        "As vestes distinguem os fiéis da condição geral da comunidade.",
+        "A cor branca retorna em Ap 7:9,14 e 19:8, associada à condição dos redimidos."
+      ]
+    },
+    "3:5": {
+      "translation": "\"O vencedor será assim vestido de roupas brancas. De modo algum apagarei seu nome do livro da vida e confessarei seu nome diante de meu Pai e diante dos seus anjos.\"",
+      "syntacticNotes": [
+        "ὁ νικῶν é sujeito de περιβαλεῖται; οὐ μὴ ἐξαλείψω constitui promessa enfática.",
+        "ἐνώπιον rege dois genitivos coordenados que situam a confissão pública do nome."
+      ],
+      "exegeticalNotes": [
+        "O livro da vida evoca Êx 32:32–33 e Dn 12:1.",
+        "A promessa associa vestes, permanência do nome e reconhecimento diante da corte divina."
+      ]
+    },
+    "3:6": {
+      "translation": "\"Quem tem ouvidos ouça o que o Espírito diz às igrejas.\"",
+      "syntacticNotes": [
+        "ὁ ἔχων é sujeito substantivado de ἀκουσάτω.",
+        "τί introduz interrogativa indireta e ταῖς ἐκκλησίαις indica os destinatários."
+      ],
+      "exegeticalNotes": [
+        "O chamado final se dirige a todas as comunidades, não apenas a Sardes.",
+        "O Espírito transmite a avaliação e a promessa comunicadas por Cristo."
+      ]
+    },
+    "3:7": {
+      "translation": "E ao anjo da igreja em Filadélfia, escreva: \"Assim diz o Santo, o Verdadeiro, aquele que tem a chave de Davi, que abre e ninguém fechará, e fecha e ninguém abre:\"",
+      "syntacticNotes": [
+        "As designações articuladas ὁ ἅγιος, ὁ ἀληθινός e ὁ ἔχων são apositivas ao sujeito de λέγει.",
+        "ὁ ἀνοίγων e κλείων introduzem ações contrastadas com os predicados de οὐδείς."
+      ],
+      "exegeticalNotes": [
+        "A chave de Davi evoca Is 22:22, imagem da autoridade de abrir e fechar.",
+        "O título fundamenta a porta aberta mencionada em Ap 3:8."
+      ]
+    },
+    "3:8": {
+      "translation": "\"Conheço as suas obras — eis que pus diante de você uma porta aberta, que ninguém pode fechar — porque você tem pouca força, guardou a minha palavra e não negou o meu nome.\"",
+      "syntacticNotes": [
+        "δέδωκα e ἠνεῳγμένην são perfeito finito e particípio perfeito, salientando a condição resultante da porta.",
+        "ἣν é objeto relativo retomado redundantemente por αὐτήν, construção resumptiva; ὅτι retoma a avaliação inicial após o parêntese."
+      ],
+      "exegeticalNotes": [
+        "A autoridade de Cristo garante a porta aberta apesar da pouca força da igreja.",
+        "A fidelidade à palavra e ao nome é o foco; o referente histórico exato da porta exige argumentação adicional."
+      ]
+    },
+    "3:9": {
+      "translation": "\"Eis que farei vir alguns da sinagoga de Satanás, dos que dizem ser judeus e não são, mas mentem. Eis que farei com que venham e se prostrem diante dos seus pés, e saibam que eu o amei.\"",
+      "syntacticNotes": [
+        "ἐκ τῆς συναγωγῆς introduz origem partitiva; τῶν λεγόντων especifica o grupo.",
+        "ποιήσω αὐτούς ἵνα introduz a consequência com futuros ἥξουσιν e προσκυνήσουσιν, seguidos de γνῶσιν no subjuntivo."
+      ],
+      "exegeticalNotes": [
+        "A imagem de reconhecimento evoca Is 45:14; 49:23; 60:14.",
+        "A polêmica pertence ao conflito local e não legitima generalizações antijudaicas; o reconhecimento aponta para o amor de Cristo pela comunidade."
+      ]
+    },
+    "3:10": {
+      "translation": "\"Porque você guardou a palavra da minha perseverança, eu também o guardarei da hora da provação que está para vir sobre todo o mundo habitado, para provar os habitantes da terra.\"",
+      "syntacticNotes": [
+        "ὅτι estabelece a razão da promessa; κἀγώ coordena reciprocamente ἐτήρησας e τηρήσω.",
+        "ἐκ τῆς ὥρας indica a relação de proteção com a provação; πειράσαι é infinitivo que expressa finalidade."
+      ],
+      "exegeticalNotes": [
+        "A promessa liga proteção e perseverança na palavra de Cristo.",
+        "A extensão da prova é universal no horizonte do texto; a preposição ἐκ, isoladamente, não determina o modo da proteção."
+      ]
+    },
+    "3:11": {
+      "translation": "\"Venho em breve. Conserve o que você tem, para que ninguém tome a sua coroa.\"",
+      "syntacticNotes": [
+        "ἔρχομαι tem valor prospectivo com ταχύ; κράτει é imperativo presente.",
+        "ὃ ἔχεις é relativa livre, objeto de κράτει; ἵνα μηδεὶς λάβῃ indica finalidade preventiva."
+      ],
+      "exegeticalNotes": [
+        "A promessa da vinda fundamenta a perseverança.",
+        "A coroa retoma a recompensa do vencedor, cf. Ap 2:10."
+      ]
+    },
+    "3:12": {
+      "translation": "\"Ao vencedor farei coluna no santuário do meu Deus, e de modo algum sairá dali. Escreverei sobre ele o nome do meu Deus, o nome da cidade do meu Deus, a nova Jerusalém, que desce do céu da parte do meu Deus, e o meu novo nome.\"",
+      "syntacticNotes": [
+        "ὁ νικῶν é tópico nominativo retomado por αὐτόν; στῦλον é predicativo do objeto de ποιήσω.",
+        "ἡ καταβαίνουσα permanece nominativo após a expressão genitiva da cidade; a aposição irregular destaca a nova Jerusalém, e οὐ μή intensifica a promessa de permanência."
+      ],
+      "exegeticalNotes": [
+        "A coluna no santuário representa estabilidade e pertencimento à presença divina.",
+        "Os três nomes unem identidade, cidade e Cristo; a descida da nova Jerusalém reaparece em Ap 21:2,10."
+      ]
+    },
+    "3:13": {
+      "translation": "\"Quem tem ouvidos ouça o que o Espírito diz às igrejas.\"",
+      "syntacticNotes": [
+        "ὁ ἔχων é particípio substantivado; οὖς é seu objeto.",
+        "O imperativo ἀκουσάτω rege a interrogativa indireta τί τὸ πνεῦμα λέγει."
+      ],
+      "exegeticalNotes": [
+        "A mensagem de Filadélfia é incorporada à instrução de todas as igrejas.",
+        "A escuta exigida inclui a confiança na autoridade e nas promessas de Cristo."
+      ]
+    },
+    "3:14": {
+      "translation": "E ao anjo da igreja em Laodiceia, escreva: \"Assim diz o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus:\"",
+      "syntacticNotes": [
+        "ὁ Ἀμήν, ὁ μάρτυς e ἡ ἀρχή são títulos apositivos; a diferença de gênero decorre dos substantivos.",
+        "τῆς κτίσεως τοῦ θεοῦ é genitivo dependente de ἀρχή; a construção não decide isoladamente entre sentidos de começo, origem ou primazia."
+      ],
+      "exegeticalNotes": [
+        "Os títulos retomam a fidelidade da testemunha de Ap 1:5 e a linguagem de Is 65:16.",
+        "O sentido cristológico de ἀρχή deve ser avaliado no conjunto do livro e da teologia da criação, não deduzido apenas de uma glosa."
+      ]
+    },
+    "3:15": {
+      "translation": "\"Conheço as suas obras: você não é frio nem quente. Quem dera fosse frio ou quente!\"",
+      "syntacticNotes": [
+        "ὅτι explicita o conteúdo do conhecimento de Cristo; οὔτε… οὔτε nega as duas alternativas.",
+        "ὄφελον com o imperfeito ἦς exprime desejo não realizado no presente."
+      ],
+      "exegeticalNotes": [
+        "A temperatura caracteriza a condição espiritual diagnosticada.",
+        "A preferência por frio ou quente contrasta com a condição intermediária, sem determinar pelo léxico o referente exato de cada polo."
+      ]
+    },
+    "3:16": {
+      "translation": "\"Assim, porque você é morno e não é quente nem frio, estou para vomitá-lo da minha boca.\"",
+      "syntacticNotes": [
+        "ὅτι introduz a causa; χλιαρός, ζεστός e ψυχρός são predicativos com εἶ.",
+        "μέλλω rege o infinitivo aoristo ἐμέσαι; σε é seu objeto direto."
+      ],
+      "exegeticalNotes": [
+        "A imagem forte exprime rejeição iminente da condição morna.",
+        "O conselho e o convite dos versículos seguintes mostram que a advertência visa mudança."
+      ]
+    },
+    "3:17": {
+      "translation": "\"Porque você diz: 'Sou rico, enriqueci e não preciso de nada', mas não sabe que você é o miserável, digno de compaixão, pobre, cego e nu,\"",
+      "syntacticNotes": [
+        "O segundo ὅτι introduz discurso direto após λέγεις; πεπλούτηκα é perfeito que expressa estado resultante.",
+        "οὐκ οἶδας rege outra oração de ὅτι, cujo sujeito σὺ é enfático e recebe a série de predicativos."
+      ],
+      "exegeticalNotes": [
+        "A autopercepção de riqueza é desmentida pelo diagnóstico de Cristo.",
+        "Pobreza, cegueira e nudez preparam os três remédios figurados de Ap 3:18."
+      ]
+    },
+    "3:18": {
+      "translation": "\"aconselho você a comprar de mim ouro refinado pelo fogo, para que enriqueça; roupas brancas, para que se vista e não se manifeste a vergonha da sua nudez; e colírio para ungir os olhos, para que veja.\"",
+      "syntacticNotes": [
+        "συμβουλεύω rege σοι e ἀγοράσαι; os três objetos coordenados especificam o conselho.",
+        "As orações com ἵνα indicam a finalidade das aquisições; πεπυρωμένον é particípio perfeito passivo atributivo do ouro."
+      ],
+      "exegeticalNotes": [
+        "Os três recursos respondem, respectivamente, à pobreza, nudez e cegueira de Ap 3:17.",
+        "O ouro refinado e as vestes brancas são imagens de valor e restauração oferecidos por Cristo; cf. Ap 7:14."
+      ]
+    },
+    "3:19": {
+      "translation": "\"A todos os que amo, repreendo e disciplino. Seja, portanto, zeloso e arrependa-se.\"",
+      "syntacticNotes": [
+        "ὅσους ἐὰν φιλῶ é relativa indefinida, objeto dos verbos coordenados ἐλέγχω e παιδεύω.",
+        "ζήλευε é imperativo presente de ζηλεύω, e μετανόησον imperativo aoristo."
+      ],
+      "exegeticalNotes": [
+        "A repreensão é apresentada como expressão de amor, em consonância com Pv 3:11–12.",
+        "O chamado ao zelo e ao arrependimento responde à mornidão diagnosticada."
+      ]
+    },
+    "3:20": {
+      "translation": "\"Eis que estou à porta e bato. Se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa e cearei com ele, e ele comigo.\"",
+      "syntacticNotes": [
+        "ἕστηκα é perfeito com valor de estado presente; κρούω é presente ativo.",
+        "ἐάν rege dois subjuntivos coordenados; a consequência é expressa por futuros, e a última oração tem verbo elíptico."
+      ],
+      "exegeticalNotes": [
+        "A imagem da porta expressa convite e resposta pessoal dentro da mensagem à igreja.",
+        "A refeição compartilhada comunica comunhão, em contraste com a rejeição iminente de Ap 3:16."
+      ]
+    },
+    "3:21": {
+      "translation": "\"Ao vencedor concederei sentar-se comigo no meu trono, assim como eu venci e me sentei com meu Pai no trono dele.\"",
+      "syntacticNotes": [
+        "ὁ νικῶν é tópico nominativo retomado por αὐτῷ; καθίσαι complementa δώσω.",
+        "ὡς introduz comparação fundada nos aoristos ἐνίκησα e ἐκάθισα."
+      ],
+      "exegeticalNotes": [
+        "A vitória dos fiéis deriva da vitória de Cristo, não de autoridade autônoma.",
+        "A promessa de compartilhar o trono prepara a visão do governo divino em Ap 4–5."
+      ]
+    },
+    "3:22": {
+      "translation": "\"Quem tem ouvidos ouça o que o Espírito diz às igrejas.\"",
+      "syntacticNotes": [
+        "ὁ ἔχων é particípio substantivado, com οὖς como objeto; οὖν tem valor conclusivo.",
+        "ἀκουσάτω é imperativo aoristo de terceira pessoa, seguido de interrogativa indireta."
+      ],
+      "exegeticalNotes": [
+        "A fórmula conclui a série de sete cartas e estende a mensagem a todas as igrejas.",
+        "O Espírito chama os leitores a acolher tanto o diagnóstico quanto a promessa de Cristo."
+      ]
+    },
+    "4:1": {
+      "translation": "Depois dessas coisas, vi, e eis uma porta aberta no céu; e a primeira voz que ouvi, como trombeta que falava comigo, dizia: \"Suba aqui, e eu lhe mostrarei o que deve acontecer.\" Depois dessas coisas,",
+      "syntacticNotes": [
+        "ἠνεῳγμένη é particípio perfeito passivo que descreve a porta já aberta; ἣν retoma φωνή.",
+        "λαλούσης concorda formalmente com σάλπιγγος; λέγων, masculino, introduz a fala em construção irregular. ἃ δεῖ γενέσθαι é relativa livre."
+      ],
+      "exegeticalNotes": [
+        "A voz retoma Ap 1:10–11 e o anúncio de acontecimentos de Ap 1:1, com eco de Dn 2:28.",
+        "A porta permite a transição da cena das igrejas à visão do trono celestial; a divisão dos versículos não encerra necessariamente a frase."
+      ]
+    },
+    "4:2": {
+      "translation": "imediatamente estive no Espírito. E eis que havia um trono no céu, e sobre o trono, alguém sentado.",
+      "syntacticNotes": [
+        "ἐγενόμην ἐν πνεύματι expressa a condição visionária; εὐθέως liga a experiência à convocação anterior.",
+        "θρόνος é sujeito de ἔκειτο; καθήμενος é particípio substantivado em descrição elíptica após ἐπὶ τὸν θρόνον."
+      ],
+      "exegeticalNotes": [
+        "O trono torna-se o centro organizador da visão de Ap 4–5.",
+        "A figura sentada não é descrita por anatomia humana, mas por imagens de esplendor no versículo seguinte."
+      ]
+    },
+    "4:3": {
+      "translation": "E aquele que estava sentado era semelhante, na aparência, à pedra de jaspe e à sardônica; e ao redor do trono havia um arco-íris semelhante, na aparência, à esmeralda.",
+      "syntacticNotes": [
+        "ὁ καθήμενος é sujeito substantivado; ὅμοιος rege os dativos de comparação λίθῳ ἰάσπιδι καὶ σαρδίῳ.",
+        "A segunda descrição emprega ἶρις, feminino, com ὅμοιος em forma masculina; preserva-se a irregularidade do texto."
+      ],
+      "exegeticalNotes": [
+        "As pedras e o arco-íris evocam Ez 1:26–28 e a majestade divina.",
+        "As comparações comunicam esplendor visionário, não uma descrição literal da composição de Deus."
+      ]
+    },
+    "4:4": {
+      "translation": "E ao redor do trono havia vinte e quatro tronos, e sobre os tronos, vinte e quatro anciãos sentados, vestidos de roupas brancas, e sobre suas cabeças, coroas de ouro.",
+      "syntacticNotes": [
+        "θρόνοι aparece em nominativo, enquanto πρεσβυτέρους e os particípios concordantes estão no acusativo; a construção descritiva é elíptica e muda de caso.",
+        "περιβεβλημένους é particípio perfeito médio/passivo; ἐν ἱματίοις λευκοῖς especifica a vestimenta."
+      ],
+      "exegeticalNotes": [
+        "Os tronos, vestes e coroas apresentam os anciãos em posição honorífica e litúrgica.",
+        "A identidade do grupo deve ser interpretada pelo desenvolvimento de Ap 4–5 e não apenas pelo número vinte e quatro."
+      ]
+    },
+    "4:5": {
+      "translation": "E do trono saem relâmpagos, vozes e trovões; e diante do trono ardiam sete tochas de fogo, que são os sete espíritos de Deus.",
+      "syntacticNotes": [
+        "ἐκ τοῦ θρόνου indica origem; ἀστραπαί, φωναί e βρονταί são sujeitos coordenados de ἐκπορεύονται.",
+        "A relativa ἅ é neutro plural, embora λαμπάδες seja feminino; a identificação predicativa com τὰ ἑπτὰ πνεύματα explica a atração de gênero possível."
+      ],
+      "exegeticalNotes": [
+        "Relâmpagos e trovões evocam a teofania do Sinai, Êx 19:16.",
+        "As tochas recebem interpretação intratextual explícita, retomando Ap 1:4 e 3:1."
+      ]
+    },
+    "4:6": {
+      "translation": "E diante do trono havia algo como um mar de vidro, semelhante ao cristal. E no meio do trono e ao redor do trono havia quatro seres viventes, cheios de olhos à frente e atrás.",
+      "syntacticNotes": [
+        "ὡς e ὁμοία introduzem comparações; κρυστάλλῳ é dativo dependente de ὁμοία.",
+        "γέμοντα concorda com τέσσαρα ζῷα e rege o genitivo ὀφθαλμῶν."
+      ],
+      "exegeticalNotes": [
+        "O mar cristalino evoca imagens do firmamento em Ez 1:22 e da presença divina em Êx 24:10.",
+        "Os seres viventes remetem à visão de Ezequiel, sem exigir correspondência literal de todos os pormenores."
+      ]
+    },
+    "4:7": {
+      "translation": "E o primeiro ser vivente era semelhante a um leão, o segundo, a um bezerro; o terceiro tinha o rosto como de um ser humano, e o quarto era semelhante a uma águia em voo.",
+      "syntacticNotes": [
+        "Os adjetivos ὅμοιον regem dativos de comparação: λέοντι, μόσχῳ e ἀετῷ.",
+        "ἔχων, masculino nominativo, não concorda regularmente com τὸ τρίτον ζῷον, neutro; é uma irregularidade descritiva preservada."
+      ],
+      "exegeticalNotes": [
+        "As quatro figuras retomam Ez 1:10, mas a distribuição das faces difere da visão de Ezequiel.",
+        "O texto descreve seres da corte celestial; associações com impérios ou evangelistas requerem argumento adicional."
+      ]
+    },
+    "4:8": {
+      "translation": "E os quatro seres viventes, cada um deles tendo seis asas, estão cheios de olhos por fora e por dentro. Não têm descanso de dia nem de noite, dizendo: \"Santo, santo, santo é o Senhor Deus, o Todo-Poderoso, aquele que era, que é e que vem.\"",
+      "syntacticNotes": [
+        "ἓν καθ’ ἓν é expressão distributiva; ἔχων, masculino singular, é irregular diante do neutro distributivo e do plural ζῷα.",
+        "λέγοντες introduz o triságio; a fórmula nominal contém a cópula subentendida e três títulos temporais coordenados."
+      ],
+      "exegeticalNotes": [
+        "As seis asas e o triságio evocam Is 6:2–3, em diálogo com Ez 1.",
+        "A adoração contínua identifica o trono como centro da santidade e da soberania divinas."
+      ]
+    },
+    "4:9": {
+      "translation": "E quando os seres viventes derem glória, honra e gratidão àquele que está sentado no trono, àquele que vive pelos séculos dos séculos,",
+      "syntacticNotes": [
+        "ὅταν introduz oração temporal, mas δώσουσιν é futuro indicativo em vez do subjuntivo esperado.",
+        "τῷ καθημένῳ e τῷ ζῶντι são particípios substantivados em dativo de destinatário; a oração principal aparece em Ap 4:10."
+      ],
+      "exegeticalNotes": [
+        "A adoração dos seres viventes desencadeia a resposta dos anciãos.",
+        "O título do Vivente salienta a eternidade daquele que ocupa o trono."
+      ]
+    },
+    "4:10": {
+      "translation": "os vinte e quatro anciãos se prostrarão diante daquele que está sentado no trono, adorarão aquele que vive pelos séculos dos séculos e lançarão suas coroas diante do trono, dizendo:",
+      "syntacticNotes": [
+        "πεσοῦνται, προσκυνήσουσιν e βαλοῦσιν são futuros coordenados que respondem à condição temporal de Ap 4:9.",
+        "λέγοντες é particípio presente que introduz o discurso seguinte; τοὺς στεφάνους é objeto de βαλοῦσιν."
+      ],
+      "exegeticalNotes": [
+        "O gesto de depositar as coroas expressa reconhecimento da autoridade divina.",
+        "A dignidade dos anciãos é subordinada àquele que recebe a adoração."
+      ]
+    },
+    "4:11": {
+      "translation": "\"Digno és, nosso Senhor e Deus, de receber a glória, a honra e o poder, porque tu criaste todas as coisas, e por tua vontade existiam e foram criadas.\"",
+      "syntacticNotes": [
+        "Ἄξιος εἶ é predicação nominal; λαβεῖν complementa ἄξιος e rege os três objetos.",
+        "ὅτι introduz a fundamentação; διὰ τὸ θέλημά σου indica causa, e ἦσαν e ἐκτίσθησαν distinguem existência e criação."
+      ],
+      "exegeticalNotes": [
+        "A dignidade do ocupante do trono é fundamentada em sua condição de Criador.",
+        "A aclamação prepara a declaração de dignidade do Cordeiro em Ap 5:9–12."
+      ]
+    },
+    "5:1": {
+      "translation": "E vi sobre a mão direita daquele que estava sentado no trono um rolo escrito por dentro e por trás, selado com sete selos.",
+      "syntacticNotes": [
+        "βιβλίον é objeto direto de εἶδον; γεγραμμένον e κατεσφραγισμένον são particípios perfeitos passivos que descrevem seu estado.",
+        "ἐπὶ τὴν δεξιάν é expressão de localização; σφραγῖσιν ἑπτά é dativo instrumental."
+      ],
+      "exegeticalNotes": [
+        "A escrita em ambas as faces evoca o rolo de Ez 2:9–10.",
+        "Os sete selos indicam fechamento e inacessibilidade, criando a questão narrativa da abertura."
+      ]
+    },
+    "5:2": {
+      "translation": "E vi um anjo forte que proclamava em alta voz: \"Quem é digno de abrir o rolo e romper os seus selos?\"",
+      "syntacticNotes": [
+        "κηρύσσοντα é particípio predicativo de ἄγγελον, dependente do verbo de percepção εἶδον; ἐν φωνῇ μεγάλῃ expressa modo.",
+        "Τίς ἄξιος é interrogativa nominal com cópula elíptica; ἀνοῖξαι e λῦσαι são infinitivos complementares coordenados, e αὐτοῦ retoma βιβλίον."
+      ],
+      "exegeticalNotes": [
+        "A pergunta introduz a questão da dignidade necessária para abrir o rolo de Ap 5:1, cuja imagem remete a Ez 2:9–10.",
+        "O anjo forte, também expressão de Ap 10:1 e 18:21, proclama a questão; sua força não lhe confere a autoridade buscada. A resposta é desenvolvida em Ap 5:3–10."
+      ]
+    },
+    "5:3": {
+      "translation": "E ninguém podia, no céu, nem sobre a terra, nem debaixo da terra, abrir o rolo ou mesmo olhar para ele.",
+      "syntacticNotes": [
+        "οὐδείς é sujeito de ἐδύνατο, que rege ἀνοῖξαι e βλέπειν.",
+        "As expressões locativas coordenadas por οὐδέ abrangem os três domínios; οὔτε amplia a negação da capacidade."
+      ],
+      "exegeticalNotes": [
+        "A enumeração estabelece a incapacidade das criaturas em todos os domínios da visão.",
+        "A ausência de alguém digno prepara a reação de João e a revelação do vencedor."
+      ]
+    },
+    "5:4": {
+      "translation": "E eu chorava muito, porque ninguém foi achado digno de abrir o rolo ou de olhar para ele.",
+      "syntacticNotes": [
+        "ἔκλαιον é imperfeito de ação em curso; πολὺ tem valor adverbial.",
+        "ὅτι introduz a causa do choro; ἄξιος é predicativo de οὐδείς com εὑρέθη, e os infinitivos complementam o adjetivo."
+      ],
+      "exegeticalNotes": [
+        "O choro manifesta a gravidade narrativa da impossibilidade de abertura.",
+        "A resposta do ancião em Ap 5:5 transforma o lamento em anúncio de vitória."
+      ]
+    },
+    "5:5": {
+      "translation": "E um dos anciãos me diz: \"Não chore. Eis que venceu o Leão da tribo de Judá, a Raiz de Davi, para abrir o rolo e seus sete selos.\"",
+      "syntacticNotes": [
+        "εἷς ἐκ τῶν πρεσβυτέρων é sujeito partitivo de λέγει; μή com imperativo presente κλαῖε constitui proibição.",
+        "ὁ λέων e ἡ ῥίζα são títulos apositivos; ἀνοῖξαι especifica a ação possibilitada pela vitória."
+      ],
+      "exegeticalNotes": [
+        "Leão de Judá e Raiz de Davi evocam Gn 49:9–10 e Is 11:1,10.",
+        "O que João ouve como vitória leonina é apresentado visualmente como Cordeiro imolado em Ap 5:6."
+      ]
+    },
+    "5:6": {
+      "translation": "E vi, no meio do trono e dos quatro seres viventes e no meio dos anciãos, um Cordeiro em pé, como imolado, tendo sete chifres e sete olhos, que são os sete espíritos de Deus, enviados por toda a terra.",
+      "syntacticNotes": [
+        "ἀρνίον é objeto de εἶδον; ἑστηκός e ἐσφαγμένον são particípios perfeitos que contrastam posição viva e estado de imolação.",
+        "ἔχων é masculino nominativo em construção irregular com ἀρνίον; οἵ e ἀπεσταλμένοι retomam os olhos, identificados com os espíritos."
+      ],
+      "exegeticalNotes": [
+        "O Cordeiro associa vitória e morte sacrificial, evocando a tradição do cordeiro em Êx 12 e Is 53:7.",
+        "Chifres e olhos simbolizam poder e percepção; a identificação dos olhos com os sete espíritos remete a Zc 4:10 e Ap 4:5."
+      ]
+    },
+    "5:7": {
+      "translation": "E veio e tomou o rolo da mão direita daquele que estava sentado no trono.",
+      "syntacticNotes": [
+        "ἦλθεν é aoristo; εἴληφεν é perfeito ativo, salientando a ação de tomar e sua condição resultante.",
+        "ἐκ τῆς δεξιᾶς indica origem da transferência; o objeto do segundo verbo é recuperado pelo contexto."
+      ],
+      "exegeticalNotes": [
+        "A tomada do rolo responde à questão de Ap 5:2.",
+        "O ato distingue o Cordeiro das criaturas incapazes de abrir o documento."
+      ]
+    },
+    "5:8": {
+      "translation": "E quando tomou o rolo, os quatro seres viventes e os vinte e quatro anciãos se prostraram diante do Cordeiro, tendo cada um uma harpa e taças de ouro cheias de incenso, que são as orações dos santos.",
+      "syntacticNotes": [
+        "ὅτε introduz oração temporal; os dois grupos coordenados constituem o sujeito de ἔπεσαν.",
+        "ἔχοντες é particípio circunstancial; αἵ concorda com φιάλας, e a predicação identifica as taças com as orações."
+      ],
+      "exegeticalNotes": [
+        "A tomada do rolo suscita adoração do Cordeiro na corte celestial.",
+        "A identificação do incenso e das orações prepara a cena de Ap 8:3–4, evocando Sl 141:2."
+      ]
+    },
+    "5:9": {
+      "translation": "E cantam um novo cântico, dizendo: \"Digno és de tomar o rolo e abrir os seus selos, porque foste imolado e compraste para Deus, com teu sangue, pessoas de toda tribo, língua, povo e nação,\"",
+      "syntacticNotes": [
+        "ᾄδουσιν é presente de vivacidade narrativa; Ἄξιος εἶ recebe os infinitivos λαβεῖν e ἀνοῖξαι.",
+        "ὅτι introduz a causa da dignidade; ἠγόρασας não tem objeto expresso no SBLGNT, e ἐκ πάσης… identifica a procedência daqueles adquiridos."
+      ],
+      "exegeticalNotes": [
+        "O cântico fundamenta a dignidade do Cordeiro na sua morte e redenção, em contraste com a força isolada.",
+        "A enumeração universal antecipa a multidão de Ap 7:9; a aquisição para Deus prepara a identidade sacerdotal de Ap 5:10."
+      ]
+    },
+    "5:10": {
+      "translation": "\"e fizeste deles, para o nosso Deus, um reino e sacerdotes, e eles reinam sobre a terra.\"",
+      "syntacticNotes": [
+        "ἐποίησας rege αὐτούς e os predicativos βασιλείαν e ἱερεῖς; τῷ θεῷ ἡμῶν indica destinatário.",
+        "βασιλεύουσιν é presente indicativo ativo de terceira pessoa plural; a etiqueta futura do MorphGNT 6.12 diverge da forma escrita e é corrigida editorialmente."
+      ],
+      "exegeticalNotes": [
+        "A condição de reino e sacerdotes retoma Êx 19:6 e Ap 1:6.",
+        "O reinado dos redimidos é apresentado no cântico como consequência da ação do Cordeiro; a relação temporal com outras cenas deve ser examinada intratextualmente."
+      ]
+    },
+    "5:11": {
+      "translation": "E vi, e ouvi a voz de muitos anjos ao redor do trono, dos seres viventes e dos anciãos; e o número deles era miríades de miríades e milhares de milhares,",
+      "syntacticNotes": [
+        "εἶδον e ἤκουσα coordenam percepção visual e auditiva; φωνήν é objeto de ἤκουσα, qualificado por genitivo.",
+        "μυριάδες μυριάδων e χιλιάδες χιλιάδων são predicativos numerais intensificados pelo genitivo."
+      ],
+      "exegeticalNotes": [
+        "A ampliação da corte celestial evoca Dn 7:10.",
+        "A sequência de adoração passa dos seres viventes e anciãos à multidão de anjos."
+      ]
+    },
+    "5:12": {
+      "translation": "dizendo em alta voz: \"Digno é o Cordeiro que foi imolado de receber poder, riqueza, sabedoria, força, honra, glória e louvor.\"",
+      "syntacticNotes": [
+        "λέγοντες retoma os anjos por concordância semântica; φωνῇ μεγάλῃ é dativo de modo.",
+        "Ἄξιόν ἐστιν é predicação com sujeito neutro τὸ ἀρνίον; λαβεῖν rege sete objetos coordenados."
+      ],
+      "exegeticalNotes": [
+        "O Cordeiro recebe uma aclamação de sete atributos, ampliando o cântico anterior.",
+        "A dignidade é relacionada à imolação, em continuidade com Ap 5:9."
+      ]
+    },
+    "5:13": {
+      "translation": "E ouvi toda criatura que está no céu, sobre a terra, debaixo da terra e sobre o mar, e tudo o que neles há, dizendo: \"Àquele que está sentado no trono e ao Cordeiro sejam o louvor, a honra, a glória e o domínio pelos séculos dos séculos.\"",
+      "syntacticNotes": [
+        "πᾶν κτίσμα e τὰ ἐν αὐτοῖς πάντα são objetos antecipados de ἤκουσα; λέγοντας apresenta concordância semântica masculina plural.",
+        "Os dativos τῷ καθημένῳ e τῷ ἀρνίῳ designam os dois destinatários da doxologia nominal."
+      ],
+      "exegeticalNotes": [
+        "A adoração torna-se cósmica, retomando os domínios de Ap 5:3 e acrescentando o mar.",
+        "O ocupante do trono e o Cordeiro recebem conjuntamente louvor e domínio."
+      ]
+    },
+    "5:14": {
+      "translation": "E os quatro seres viventes diziam: \"Amém.\" E os anciãos se prostraram e adoraram.",
+      "syntacticNotes": [
+        "ἔλεγον é imperfeito de ação em curso; Ἀμήν é partícula de ratificação.",
+        "ἔπεσαν e προσεκύνησαν são aoristos coordenados que encerram a cena."
+      ],
+      "exegeticalNotes": [
+        "A resposta dos seres viventes ratifica a doxologia universal.",
+        "A prostração dos anciãos encerra a visão de entronização e prepara a abertura dos selos."
+      ]
+    },
+    "6:1": {
+      "translation": "E vi quando o Cordeiro abriu um dos sete selos, e ouvi um dos quatro seres viventes dizer como voz de trovão: \"Venha!\"",
+      "syntacticNotes": [
+        "ὅτε introduz a oração temporal de abertura; μίαν ἐκ τῶν ἑπτὰ σφραγίδων é objeto com expressão partitiva.",
+        "ἤκουσα rege o genitivo ἑνός e o particípio λέγοντος; Ἔρχου é imperativo presente médio."
+      ],
+      "exegeticalNotes": [
+        "A abertura do rolo realiza a autoridade revelada em Ap 5.",
+        "A voz de trovão vincula a cena ao ambiente do trono; os quatro seres viventes introduzem os primeiros quatro selos."
+      ]
+    },
+    "6:2": {
+      "translation": "E vi, e eis um cavalo branco. Aquele que estava montado nele tinha um arco; foi-lhe dada uma coroa, e saiu vencendo e para vencer.",
+      "syntacticNotes": [
+        "ὁ καθήμενος é particípio substantivado; ἔχων descreve o cavaleiro, e ἐδόθη é passivo que apresenta uma concessão.",
+        "νικῶν é particípio circunstancial, e ἵνα νικήσῃ exprime finalidade da saída."
+      ],
+      "exegeticalNotes": [
+        "A série de cavalos evoca Zc 1:8–11 e 6:1–8.",
+        "A coroa e a linguagem de vitória caracterizam o cavaleiro; sua identificação histórica precisa depende da interpretação do conjunto dos selos."
+      ]
+    },
+    "6:3": {
+      "translation": "E quando abriu o segundo selo, ouvi o segundo ser vivente dizer: \"Venha!\"",
+      "syntacticNotes": [
+        "ὅτε estabelece a sequência temporal; τὴν σφραγῖδα τὴν δευτέραν é objeto com adjetivo atributivo.",
+        "τοῦ δευτέρου ζῴου e λέγοντος estão no genitivo dependente da audição."
+      ],
+      "exegeticalNotes": [
+        "A repetição da convocação estrutura os quatro primeiros selos.",
+        "O segundo ser vivente introduz uma nova cena, sem acrescentar um referente histórico por si mesmo."
+      ]
+    },
+    "6:4": {
+      "translation": "E saiu outro cavalo, vermelho como fogo. Ao que estava montado nele foi concedido retirar a paz da terra, para que matassem uns aos outros; e foi-lhe dada uma grande espada.",
+      "syntacticNotes": [
+        "τῷ καθημένῳ é dativo temático retomado por αὐτῷ; λαβεῖν complementa ἐδόθη.",
+        "ἵνα ἀλλήλους σφάξουσιν contém futuro indicativo em construção de finalidade ou resultado, em vez do subjuntivo usual."
+      ],
+      "exegeticalNotes": [
+        "O cavalo vermelho é interpretado pela perda da paz e pela violência descrita na própria visão.",
+        "A concessão de autoridade limita o papel do cavaleiro; a imagem dialoga com a série de juízos de Ap 6:8."
+      ]
+    },
+    "6:5": {
+      "translation": "E quando abriu o terceiro selo, ouvi o terceiro ser vivente dizer: \"Venha!\" E vi, e eis um cavalo negro; aquele que estava montado nele tinha uma balança na mão.",
+      "syntacticNotes": [
+        "A abertura temporal é seguida do genitivo de audição τοῦ τρίτου ζῴου e do particípio λέγοντος.",
+        "ζυγόν é objeto de ἔχων; ἐν τῇ χειρὶ αὐτοῦ indica localização."
+      ],
+      "exegeticalNotes": [
+        "A balança prepara a determinação de preços de alimentos em Ap 6:6.",
+        "A imagem aponta para medição e escassez; a identificação histórica deve considerar o conjunto da visão."
+      ]
+    },
+    "6:6": {
+      "translation": "E ouvi algo como uma voz no meio dos quatro seres viventes, dizendo: \"Uma medida de trigo por um denário, e três medidas de cevada por um denário; não danifique o azeite nem o vinho.\"",
+      "syntacticNotes": [
+        "λέγουσαν concorda com φωνήν; Χοῖνιξ σίτου e τρεῖς χοίνικες κριθῶν formam enunciados nominais de preço, com genitivo δηναρίου.",
+        "μή com subjuntivo aoristo ἀδικήσῃς constitui proibição; azeite e vinho são objetos coordenados."
+      ],
+      "exegeticalNotes": [
+        "A χοῖνιξ é medida de cereal; o denário era uma unidade monetária romana, cf. Mt 20:2.",
+        "A relação entre preço elevado e preservação de azeite e vinho caracteriza uma escassez seletiva, sem fixar sua aplicação histórica apenas pelo léxico."
+      ]
+    },
+    "6:7": {
+      "translation": "E quando abriu o quarto selo, ouvi a voz do quarto ser vivente dizer: \"Venha!\"",
+      "syntacticNotes": [
+        "ὅτε introduz a oração temporal; a posição atributiva do ordinal especifica o quarto selo.",
+        "φωνήν é objeto de ἤκουσα, e λέγοντος concorda com τοῦ τετάρτου ζῴου."
+      ],
+      "exegeticalNotes": [
+        "O quarto chamado completa o conjunto de convocações dos seres viventes.",
+        "A cena seguinte reúne imagens de mortalidade e juízo."
+      ]
+    },
+    "6:8": {
+      "translation": "E vi, e eis um cavalo verde-pálido. O nome daquele que estava montado nele era Morte, e o Hades o seguia. Foi-lhes dada autoridade sobre a quarta parte da terra, para matar pela espada, pela fome, pela morte e pelas feras da terra.",
+      "syntacticNotes": [
+        "χλωρός é predicativo descritivo; ὄνομα αὐτῷ ὁ Θάνατος forma expressão nominal de nomeação.",
+        "ἀποκτεῖναι especifica a autoridade concedida; os complementos com ἐν e ὑπό enumeram meios ou agentes."
+      ],
+      "exegeticalNotes": [
+        "Os quatro meios de juízo evocam Ez 14:21.",
+        "A Morte e o Hades são personificados; a fração de um quarto expressa a limitação da autoridade na visão."
+      ]
+    },
+    "6:9": {
+      "translation": "E quando abriu o quinto selo, vi debaixo do altar as vidas dos que haviam sido mortos por causa da palavra de Deus e do testemunho que tinham.",
+      "syntacticNotes": [
+        "τὰς ψυχάς é objeto de εἶδον, qualificado pelo genitivo participial τῶν ἐσφαγμένων.",
+        "As duas expressões com διά e acusativo indicam a causa da morte; ἣν retoma μαρτυρίαν."
+      ],
+      "exegeticalNotes": [
+        "A localização sob o altar evoca a linguagem sacrificial do sangue derramado, cf. Lv 4:7.",
+        "A imagem visionária dos mártires concentra-se em seu testemunho e na demanda por justiça, não resolve isoladamente a antropologia bíblica."
+      ]
+    },
+    "6:10": {
+      "translation": "E clamaram em alta voz, dizendo: \"Até quando, Soberano, santo e verdadeiro, não julgas e não vindicas nosso sangue contra os habitantes da terra?\"",
+      "syntacticNotes": [
+        "φωνῇ μεγάλῃ é dativo de modo; Ἕως πότε introduz a pergunta temporal do clamor.",
+        "κρίνεις e ἐκδικεῖς são predicados coordenados; τὸ αἷμα ἡμῶν designa a causa que demanda vindicação."
+      ],
+      "exegeticalNotes": [
+        "O clamor retoma a tradição dos lamentos por justiça, cf. Sl 79:5,10.",
+        "A pergunta dirige-se à santidade e veracidade de Deus, em vez de autorizar vingança privada."
+      ]
+    },
+    "6:11": {
+      "translation": "E foi dada a cada um deles uma veste branca, e foi-lhes dito que descansassem ainda por breve tempo, até que se completassem também seus conservos e irmãos, que estavam para ser mortos assim como eles.",
+      "syntacticNotes": [
+        "αὐτοῖς ἑκάστῳ individualiza os destinatários da veste; ἐρρέθη introduz o conteúdo da resposta.",
+        "ἵνα ἀναπαύσονται emprega futuro indicativo; ἕως πληρωθῶσιν delimita o descanso, e οἱ μέλλοντες ἀποκτέννεσθαι caracteriza os irmãos."
+      ],
+      "exegeticalNotes": [
+        "A veste branca comunica reconhecimento dos mártires, antecipando Ap 7:9,14.",
+        "A resposta combina vindicação prometida e espera; o texto não explicita um número a ser calculado."
+      ]
+    },
+    "6:12": {
+      "translation": "E vi quando abriu o sexto selo. Houve um grande terremoto, o sol ficou negro como pano de crina, e toda a lua tornou-se como sangue,",
+      "syntacticNotes": [
+        "ὅτε introduz a abertura; os três aoristos de γίνομαι descrevem as transformações sucessivas.",
+        "ὡς introduz as comparações do sol e da lua; τρίχινος qualifica σάκκος."
+      ],
+      "exegeticalNotes": [
+        "As imagens evocam Jl 2:10,31 e Is 13:10, linguagem profética de crise cósmica.",
+        "O sexto selo passa das aflições e do clamor por justiça à manifestação do dia da ira."
+      ]
+    },
+    "6:13": {
+      "translation": "e as estrelas do céu caíram na terra, como a figueira lança seus figos temporãos quando sacudida por um vento forte,",
+      "syntacticNotes": [
+        "οἱ ἀστέρες é sujeito de ἔπεσαν; εἰς τὴν γῆν indica direção.",
+        "ὡς introduz oração comparativa com συκῆ como sujeito; σειομένη concorda com a figueira e ὑπὸ ἀνέμου indica agente."
+      ],
+      "exegeticalNotes": [
+        "A queda das estrelas evoca a linguagem de Is 34:4.",
+        "A comparação com figos sacudidos destaca a intensidade da desordem celeste."
+      ]
+    },
+    "6:14": {
+      "translation": "e o céu foi recolhido como um rolo que se enrola, e todo monte e ilha foram removidos de seus lugares.",
+      "syntacticNotes": [
+        "ἀπεχωρίσθη é aoristo passivo; ἑλισσόμενον caracteriza o rolo na comparação.",
+        "πᾶν ὄρος καὶ νῆσος são sujeitos coordenados de ἐκινήθησαν; ἐκ τῶν τόπων indica deslocamento."
+      ],
+      "exegeticalNotes": [
+        "O céu enrolado retoma diretamente Is 34:4.",
+        "A remoção de montes e ilhas estende a imagem de crise à ordem terrestre."
+      ]
+    },
+    "6:15": {
+      "translation": "E os reis da terra, os dignitários, os comandantes militares, os ricos, os poderosos, todo escravo e livre esconderam-se nas cavernas e nas rochas dos montes,",
+      "syntacticNotes": [
+        "A longa série de sujeitos nominativos converge em ἔκρυψαν; ἑαυτούς é objeto reflexivo.",
+        "As expressões coordenadas com εἰς indicam os locais do esconderijo."
+      ],
+      "exegeticalNotes": [
+        "A enumeração inclui autoridades, ricos e pessoas de diferentes condições sociais.",
+        "O motivo de esconder-se nas rochas evoca Is 2:10,19–21 diante da manifestação divina."
+      ]
+    },
+    "6:16": {
+      "translation": "e dizem aos montes e às rochas: \"Caiam sobre nós e escondam-nos da face daquele que está sentado no trono e da ira do Cordeiro,\"",
+      "syntacticNotes": [
+        "λέγουσιν é presente histórico; os dativos τοῖς ὄρεσιν e ταῖς πέτραις são destinatários.",
+        "Πέσετε e κρύψατε são imperativos aoristos; as expressões com ἀπό indicam aquilo de que se busca escapar."
+      ],
+      "exegeticalNotes": [
+        "A súplica aos montes evoca Os 10:8 e Lc 23:30.",
+        "A ira do Cordeiro reúne a figura sacrificial e a função judicial de Cristo."
+      ]
+    },
+    "6:17": {
+      "translation": "\"pois chegou o grande dia da ira deles, e quem pode permanecer de pé?\"",
+      "syntacticNotes": [
+        "ὅτι introduz a razão do pedido; ἦλθεν é aoristo de chegada.",
+        "τίς é sujeito interrogativo de δύναται, que rege o infinitivo aoristo passivo σταθῆναι."
+      ],
+      "exegeticalNotes": [
+        "O grande dia evoca a tradição profética do dia do Senhor, cf. Jl 2:11 e Sf 1:14–18.",
+        "A pergunta sobre quem pode permanecer em pé prepara a resposta narrativa de Ap 7."
+      ]
+    },
+    "7:1": {
+      "translation": "Depois disso, vi quatro anjos em pé nos quatro cantos da terra, segurando os quatro ventos da terra, para que nenhum vento soprasse sobre a terra, nem sobre o mar, nem sobre árvore alguma.",
+      "syntacticNotes": [
+        "ἑστῶτας e κρατοῦντας concordam com τέσσαρας ἀγγέλους, objeto de εἶδον.",
+        "ἵνα μὴ πνέῃ indica finalidade; as expressões com ἐπί enumeram os domínios protegidos."
+      ],
+      "exegeticalNotes": [
+        "Os quatro cantos e ventos expressam abrangência da terra na linguagem visionária, cf. Zc 6:5.",
+        "A contenção dos ventos introduz a proteção que antecede os juízos."
+      ]
+    },
+    "7:2": {
+      "translation": "E vi outro anjo que subia do nascente do sol, tendo o selo do Deus vivo. Ele clamou em alta voz aos quatro anjos aos quais fora concedido danificar a terra e o mar,",
+      "syntacticNotes": [
+        "ἀναβαίνοντα e ἔχοντα concordam com ἄλλον ἄγγελον, objeto de εἶδον.",
+        "οἷς é dativo relativo retomado por αὐτοῖς; ἀδικῆσαι especifica a autoridade concedida."
+      ],
+      "exegeticalNotes": [
+        "O selo do Deus vivo é o elemento que distingue a missão do novo mensageiro.",
+        "A contenção do dano é explicitada pela ordem do versículo seguinte."
+      ]
+    },
+    "7:3": {
+      "translation": "dizendo: \"Não danifiquem a terra, nem o mar, nem as árvores, até que tenhamos selado os servos do nosso Deus em suas testas.\"",
+      "syntacticNotes": [
+        "μή com ἀδικήσητε constitui proibição; μήτε coordena os objetos negados.",
+        "ἄχρι com σφραγίσωμεν delimita o período da contenção; ἐπὶ τῶν μετώπων indica o lugar do selo."
+      ],
+      "exegeticalNotes": [
+        "O selo na testa evoca a marca protetora de Ez 9:4–6.",
+        "O texto associa a proteção à identificação dos servos de Deus, antes do dano anunciado."
+      ]
+    },
+    "7:4": {
+      "translation": "E ouvi o número dos selados: cento e quarenta e quatro mil, selados de todas as tribos dos filhos de Israel.",
+      "syntacticNotes": [
+        "τὸν ἀριθμόν é objeto de ἤκουσα; τῶν ἐσφραγισμένων é genitivo substantivado.",
+        "O numeral e ἐσφραγισμένοι apresentam mudança para nominativo na especificação do número ouvido."
+      ],
+      "exegeticalNotes": [
+        "O número 144 mil é organizado na lista de doze tribos, doze mil por tribo.",
+        "O caráter simbólico ou literal do número deve ser avaliado com a estrutura da lista e a multidão de Ap 7:9."
+      ]
+    },
+    "7:5": {
+      "translation": "Da tribo de Judá, doze mil selados; da tribo de Rúben, doze mil; da tribo de Gade, doze mil,",
+      "syntacticNotes": [
+        "As expressões ἐκ φυλῆς são fórmulas partitivas de procedência, repetidas em paralelo.",
+        "ἐσφραγισμένοι é particípio perfeito passivo masculino plural que qualifica as pessoas contadas."
+      ],
+      "exegeticalNotes": [
+        "Judá abre a lista, diferentemente de listas que começam por Rúben; cf. Gn 49 e Ap 5:5.",
+        "A distribuição regular de doze mil estabelece a estrutura do total ouvido."
+      ]
+    },
+    "7:6": {
+      "translation": "da tribo de Aser, doze mil; da tribo de Naftali, doze mil; da tribo de Manassés, doze mil,",
+      "syntacticNotes": [
+        "As três expressões com ἐκ repetem a estrutura partitiva de Ap 7:5.",
+        "O particípio selados está elíptico na enumeração, recuperável a partir da abertura e do encerramento da lista."
+      ],
+      "exegeticalNotes": [
+        "A lista inclui Manassés, descendente de José, cf. Gn 48:5.",
+        "A composição das tribos deve ser comparada com diferentes listas veterotestamentárias, sem harmonização automática."
+      ]
+    },
+    "7:7": {
+      "translation": "da tribo de Simeão, doze mil; da tribo de Levi, doze mil; da tribo de Issacar, doze mil,",
+      "syntacticNotes": [
+        "ἐκ rege φυλῆς em cada expressão; os nomes próprios especificam a tribo.",
+        "δώδεκα χιλιάδες é fórmula nominal repetida, com referência às pessoas seladas."
+      ],
+      "exegeticalNotes": [
+        "A presença de Levi distingue esta enumeração das listas de distribuição territorial, cf. Nm 1:47–49.",
+        "A regularidade numérica continua a apresentar o povo de Deus em organização tribal."
+      ]
+    },
+    "7:8": {
+      "translation": "da tribo de Zebulom, doze mil; da tribo de José, doze mil; da tribo de Benjamim, doze mil selados.",
+      "syntacticNotes": [
+        "As expressões partitivas concluem a série de doze tribos.",
+        "ἐσφραγισμένοι no final retoma a caracterização inicial, enquadrando a lista."
+      ],
+      "exegeticalNotes": [
+        "José aparece juntamente com Manassés; Dã não é nomeado na enumeração.",
+        "A configuração teológica da lista é significativa, mas o texto não fornece uma explicação explícita para cada alteração."
+      ]
+    },
+    "7:9": {
+      "translation": "Depois dessas coisas, vi, e eis uma grande multidão que ninguém podia contar, de toda nação, tribos, povos e línguas, em pé diante do trono e diante do Cordeiro, vestida de roupas brancas, com palmas nas mãos.",
+      "syntacticNotes": [
+        "ὃν é objeto relativo retomado por αὐτόν, construção resumptiva; ἀριθμῆσαι complementa ἐδύνατο.",
+        "ἑστῶτες, nominativo plural, e περιβεβλημένους, acusativo plural, mudam a concordância em relação ao coletivo singular ὄχλος, refletindo suas pessoas componentes."
+      ],
+      "exegeticalNotes": [
+        "A multidão incontável retoma a universalidade da redenção de Ap 5:9.",
+        "Vestes brancas e palmas comunicam vitória e celebração; cf. Lv 23:40. A relação entre a multidão e os 144 mil demanda análise literária."
+      ]
+    },
+    "7:10": {
+      "translation": "E clamam em alta voz, dizendo: \"A salvação pertence ao nosso Deus, que está sentado no trono, e ao Cordeiro.\"",
+      "syntacticNotes": [
+        "κράζουσι é presente de vivacidade; φωνῇ μεγάλῃ é dativo de modo.",
+        "A oração nominal ἡ σωτηρία τῷ θεῷ… καὶ τῷ ἀρνίῳ tem cópula elíptica e dativos de atribuição."
+      ],
+      "exegeticalNotes": [
+        "A multidão atribui a salvação conjuntamente a Deus e ao Cordeiro.",
+        "A aclamação desenvolve a adoração conjunta de Ap 5:13."
+      ]
+    },
+    "7:11": {
+      "translation": "E todos os anjos estavam em pé ao redor do trono, dos anciãos e dos quatro seres viventes; prostraram-se diante do trono sobre seus rostos e adoraram a Deus,",
+      "syntacticNotes": [
+        "εἱστήκεισαν é mais-que-perfeito com valor de estado; κύκλῳ rege a série de genitivos.",
+        "ἔπεσαν e προσεκύνησαν são aoristos coordenados; τῷ θεῷ indica o destinatário da adoração."
+      ],
+      "exegeticalNotes": [
+        "A cena reúne os participantes celestiais de Ap 4–5.",
+        "A adoração dos anjos responde à aclamação da multidão."
+      ]
+    },
+    "7:12": {
+      "translation": "dizendo: \"Amém! O louvor, a glória, a sabedoria, a gratidão, a honra, o poder e a força sejam ao nosso Deus pelos séculos dos séculos. Amém.\"",
+      "syntacticNotes": [
+        "λέγοντες retoma os anjos; a doxologia contém sete núcleos nominativos articulados.",
+        "τῷ θεῷ ἡμῶν é dativo de atribuição em oração nominal; εἰς τοὺς αἰῶνας expressa duração."
+      ],
+      "exegeticalNotes": [
+        "A doxologia de sete termos ecoa Ap 5:12.",
+        "O duplo amém emoldura a ratificação celestial da salvação atribuída a Deus."
+      ]
+    },
+    "7:13": {
+      "translation": "E um dos anciãos tomou a palavra, dizendo-me: \"Estes que estão vestidos de roupas brancas, quem são e de onde vieram?\"",
+      "syntacticNotes": [
+        "εἷς ἐκ τῶν πρεσβυτέρων é sujeito partitivo de ἀπεκρίθη; λέγων introduz a pergunta.",
+        "Οὗτοι οἱ περιβεβλημένοι é tópico da interrogativa; τίνες e πόθεν solicitam identidade e procedência."
+      ],
+      "exegeticalNotes": [
+        "A pergunta conduz João à interpretação da visão, em vez de pressupor que ela seja autoexplicativa.",
+        "As vestes brancas retomam a identificação visual de Ap 7:9."
+      ]
+    },
+    "7:14": {
+      "translation": "E eu lhe disse: \"Meu senhor, tu sabes.\" E ele me disse: \"Estes são os que vêm da grande tribulação; lavaram suas vestes e as branquearam no sangue do Cordeiro.\"",
+      "syntacticNotes": [
+        "εἴρηκα é perfeito de λέγω; οἱ ἐρχόμενοι é particípio presente substantivado predicativo de Οὗτοι.",
+        "ἔπλυναν e ἐλεύκαναν são aoristos coordenados; ἐν τῷ αἵματι indica o meio da purificação figurada."
+      ],
+      "exegeticalNotes": [
+        "A grande tribulação identifica a procedência da multidão, retomando o tema da provação de Ap 2:10.",
+        "O paradoxo de tornar vestes brancas pelo sangue relaciona a pureza dos redimidos à morte do Cordeiro."
+      ]
+    },
+    "7:15": {
+      "translation": "\"Por isso estão diante do trono de Deus e o servem de dia e de noite no seu santuário; e aquele que está sentado no trono estenderá sobre eles sua tenda.\"",
+      "syntacticNotes": [
+        "διὰ τοῦτο introduz a consequência da purificação; λατρεύουσιν rege o dativo αὐτῷ.",
+        "ἡμέρας καὶ νυκτός expressa duração temporal; σκηνώσει é futuro de σκηνόω, com ἐπ’ αὐτούς."
+      ],
+      "exegeticalNotes": [
+        "O serviço no ναός e a tenda divina exprimem acesso e proteção na presença de Deus.",
+        "A linguagem de habitação evoca a tradição do santuário e antecipa Ap 21:3."
+      ]
+    },
+    "7:16": {
+      "translation": "\"Não terão mais fome nem sede, e de modo algum cairá sobre eles o sol ou qualquer calor abrasador,\"",
+      "syntacticNotes": [
+        "Os futuros πεινάσουσιν e διψήσουσιν são negados por οὐ e οὐδέ.",
+        "οὐδὲ μή com πέσῃ intensifica a promessa de ausência de exposição ao calor."
+      ],
+      "exegeticalNotes": [
+        "A promessa retoma Is 49:10, onde os restaurados não padecem fome, sede ou calor.",
+        "A ausência das aflições contrasta com a grande tribulação de que procede a multidão."
+      ]
+    },
+    "7:17": {
+      "translation": "\"porque o Cordeiro que está no meio do trono os pastoreará e os conduzirá às fontes de águas da vida; e Deus enxugará toda lágrima de seus olhos.\"",
+      "syntacticNotes": [
+        "ὅτι fundamenta as promessas anteriores; ποιμανεῖ e ὁδηγήσει são futuros com αὐτούς como objeto.",
+        "ζωῆς qualifica as fontes de águas; ἐξαλείψει tem ὁ θεός como sujeito e πᾶν δάκρυον como objeto."
+      ],
+      "exegeticalNotes": [
+        "O Cordeiro torna-se pastor, evocando Sl 23 e Is 49:10.",
+        "A remoção das lágrimas ecoa Is 25:8 e antecipa a restauração de Ap 21:4."
+      ]
+    },
+    "8:1": {
+      "translation": "E quando abriu o sétimo selo, houve silêncio no céu por cerca de meia hora.",
+      "syntacticNotes": [
+        "ὅταν introduz oração temporal, mas ἤνοιξεν é aoristo indicativo; a combinação é irregular frente à regência usual com subjuntivo.",
+        "σιγή é sujeito de ἐγένετο; ὡς ἡμιώριον indica duração aproximada."
+      ],
+      "exegeticalNotes": [
+        "O silêncio contrasta com a liturgia e os clamores dos capítulos anteriores.",
+        "A meia hora é expressamente aproximada; uma conversão profética em unidade histórica exige argumentação independente."
+      ]
+    },
+    "8:2": {
+      "translation": "E vi os sete anjos que estão em pé diante de Deus, e foram-lhes dadas sete trombetas.",
+      "syntacticNotes": [
+        "τοὺς ἑπτὰ ἀγγέλους é objeto de εἶδον; οἳ introduz relativa cujo verbo ἑστήκασιν é perfeito de estado.",
+        "ἐδόθησαν é passivo plural, tendo ἑπτὰ σάλπιγγες como sujeito; αὐτοῖς é dativo de destinatário."
+      ],
+      "exegeticalNotes": [
+        "Os sete anjos introduzem o novo ciclo de trombetas.",
+        "A associação de trombetas e intervenção divina evoca Nm 10:9 e Js 6, sem reduzir o ciclo a uma única alusão."
+      ]
+    },
+    "8:3": {
+      "translation": "E veio outro anjo e ficou junto ao altar, tendo um incensário de ouro. Foi-lhe dado muito incenso para que o oferecesse com as orações de todos os santos sobre o altar de ouro que está diante do trono.",
+      "syntacticNotes": [
+        "ἔχων caracteriza o anjo; θυμιάματα πολλά é sujeito neutro plural de ἐδόθη no singular.",
+        "ἵνα δώσει contém futuro indicativo na oração de finalidade; ταῖς προσευχαῖς expressa associação com as orações."
+      ],
+      "exegeticalNotes": [
+        "A cena retoma as taças de incenso de Ap 5:8 e a linguagem cultual de Êx 30:1–10.",
+        "O altar diante do trono vincula as orações dos santos ao cenário celestial; o texto não identifica explicitamente o anjo como Cristo."
+      ]
+    },
+    "8:4": {
+      "translation": "E a fumaça do incenso subiu, com as orações dos santos, da mão do anjo diante de Deus.",
+      "syntacticNotes": [
+        "ὁ καπνός é sujeito de ἀνέβη, qualificado pelo genitivo τῶν θυμιαμάτων.",
+        "O dativo ταῖς προσευχαῖς indica associação; ἐκ χειρός expressa origem e ἐνώπιον τοῦ θεοῦ, direção ou posição."
+      ],
+      "exegeticalNotes": [
+        "A subida do incenso representa as orações apresentadas diante de Deus, cf. Sl 141:2.",
+        "A cena conecta o culto celestial à situação dos santos antes do início das trombetas."
+      ]
+    },
+    "8:5": {
+      "translation": "E o anjo tomou o incensário, encheu-o do fogo do altar e o lançou à terra; e houve trovões, vozes, relâmpagos e terremoto.",
+      "syntacticNotes": [
+        "εἴληφεν é perfeito, seguido dos aoristos ἐγέμισεν e ἔβαλεν; αὐτόν retoma λιβανωτόν no enchimento.",
+        "ἐκ τοῦ πυρός indica o conteúdo retirado do altar; εἰς τὴν γῆν indica destino do lançamento."
+      ],
+      "exegeticalNotes": [
+        "A imagem de fogo lançado evoca Ez 10:2 e a manifestação judicial de Deus.",
+        "Trovões, vozes e relâmpagos retomam Ap 4:5; o terremoto acompanha a transição para os juízos."
+      ]
+    },
+    "8:6": {
+      "translation": "E os sete anjos que tinham as sete trombetas prepararam-se para tocar as trombetas.",
+      "syntacticNotes": [
+        "οἱ ἔχοντες é particípio atributivo de οἱ ἑπτὰ ἄγγελοι.",
+        "αὑτούς é objeto reflexivo de ἡτοίμασαν; ἵνα σαλπίσωσιν exprime a finalidade da preparação."
+      ],
+      "exegeticalNotes": [
+        "O versículo encerra a preparação iniciada em Ap 8:2.",
+        "A organização explícita do septenário enquadra as cenas sucessivas, iniciadas no versículo seguinte."
+      ]
+    },
+    "8:7": {
+      "translation": "E o primeiro tocou a trombeta. Houve granizo e fogo misturados com sangue, e foram lançados à terra; queimou-se a terça parte da terra, a terça parte das árvores, e toda erva verde foi queimada.",
+      "syntacticNotes": [
+        "ὁ πρῶτος é ordinal substantivado; χάλαζα e πῦρ são sujeitos da ocorrência, qualificados por μεμιγμένα no neutro plural.",
+        "τὸ τρίτον com genitivo delimita a fração afetada; a repetição de κατεκάη estrutura a devastação."
+      ],
+      "exegeticalNotes": [
+        "Granizo e fogo evocam a sétima praga do Egito, Êx 9:23–25.",
+        "A terça parte expressa limitação do dano em contraste com a totalidade da erva verde descrita; o texto apresenta imagens, não identifica diretamente um evento histórico."
+      ]
+    },
+    "8:8": {
+      "translation": "E o segundo anjo tocou a trombeta. Algo como uma grande montanha ardendo em fogo foi lançado ao mar, e a terça parte do mar tornou-se sangue,",
+      "syntacticNotes": [
+        "ὡς ὄρος μέγα introduz comparação; καιόμενον é particípio presente que caracteriza a montanha, com πυρί indicando meio ou condição.",
+        "τὸ τρίτον τῆς θαλάσσης é sujeito de ἐγένετο, e αἷμα é predicativo."
+      ],
+      "exegeticalNotes": [
+        "A transformação das águas em sangue evoca Êx 7:20–21.",
+        "A montanha incendiada é introduzida por comparação; a imagem não deve ser convertida automaticamente em objeto físico ou identificação histórica única."
+      ]
+    },
+    "8:9": {
+      "translation": "e morreu a terça parte das criaturas que estavam no mar, as que tinham vida, e a terça parte dos navios foi destruída.",
+      "syntacticNotes": [
+        "τὸ τρίτον é sujeito singular de ἀπέθανε; τὰ ἔχοντα ψυχάς especifica os seres vivos.",
+        "τὸ τρίτον τῶν πλοίων recebe o verbo plural διεφθάρησαν, concordância semântica com os navios."
+      ],
+      "exegeticalNotes": [
+        "O dano se estende da água aos seres vivos e à navegação.",
+        "O motivo da morte aquática desenvolve a alusão à praga do Egito, mantendo o caráter parcial do juízo."
+      ]
+    },
+    "8:10": {
+      "translation": "E o terceiro anjo tocou a trombeta. Caiu do céu uma grande estrela, ardendo como tocha, e caiu sobre a terça parte dos rios e sobre as fontes das águas.",
+      "syntacticNotes": [
+        "ἀστὴρ μέγας é sujeito de ἔπεσεν, e καιόμενος é particípio circunstancial; ὡς λαμπάς introduz comparação.",
+        "As duas expressões com ἐπί delimitam os alvos da queda: rios e fontes."
+      ],
+      "exegeticalNotes": [
+        "A imagem da estrela caída liga o cenário celeste aos recursos terrestres.",
+        "O foco passa da água marítima às fontes de água doce, cujo efeito será esclarecido em Ap 8:11."
+      ]
+    },
+    "8:11": {
+      "translation": "E o nome da estrela é chamado Absinto. A terça parte das águas tornou-se absinto, e muitas pessoas morreram por causa das águas, porque se tornaram amargas.",
+      "syntacticNotes": [
+        "λέγεται introduz a nomeação; ὁ Ἄψινθος está em nominativo de designação.",
+        "ἐγένετο εἰς ἄψινθον exprime transformação; ὅτι ἐπικράνθησαν explica a causa das mortes."
+      ],
+      "exegeticalNotes": [
+        "O absinto é imagem de amargura e juízo, cf. Jr 9:15 e 23:15.",
+        "A repetição do nome como substância liga a identidade simbólica da estrela ao efeito nas águas."
+      ]
+    },
+    "8:12": {
+      "translation": "E o quarto anjo tocou a trombeta. Foi atingida a terça parte do sol, da lua e das estrelas, para que a terça parte deles fosse escurecida, e o dia não brilhasse durante sua terça parte, e semelhantemente a noite.",
+      "syntacticNotes": [
+        "ἐπλήγη é passivo singular com a primeira expressão fracionária; as frações seguintes coordenam os domínios atingidos.",
+        "ἵνα introduz o resultado ou finalidade do escurecimento; μὴ φάνῃ é subjuntivo aoristo na oração dependente."
+      ],
+      "exegeticalNotes": [
+        "A perda de luz evoca Êx 10:21–23 e a linguagem profética de escurecimento dos astros.",
+        "A repetição da terça parte preserva a limitação característica das primeiras quatro trombetas."
+      ]
+    },
+    "8:13": {
+      "translation": "E vi, e ouvi uma águia que voava no meio do céu e dizia em alta voz: \"Ai, ai, ai dos habitantes da terra, por causa dos restantes sons da trombeta dos três anjos que estão para tocar!\"",
+      "syntacticNotes": [
+        "ἑνὸς ἀετοῦ e os particípios πετομένου e λέγοντος estão no genitivo dependente de ἤκουσα; φωνῇ μεγάλῃ é dativo de modo.",
+        "οὐαί é interjeição repetida seguida do acusativo τοὺς κατοικοῦντας, construção irregular; τῶν μελλόντων rege σαλπίζειν."
+      ],
+      "exegeticalNotes": [
+        "A tríplice proclamação anuncia os três juízos restantes, distinguindo-os das primeiras quatro trombetas.",
+        "A águia em pleno céu torna o aviso público; a expressão habitantes da terra identifica um grupo recorrente na narrativa, cf. Ap 6:10."
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+name: Revisão contextual Apocalipse 2–8
+on:
+  push:
+    branches: [rascunho/apocalipse]
+    paths:
+      - '.github/workflows/revisao-contextual-apocalipse-2-8.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: revisao-contextual-apocalipse-2-8
+  cancel-in-progress: false
+jobs:
+  revisar:
+    if: github.ref == 'refs/heads/rascunho/apocalipse'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rascunho/apocalipse
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Aplicar revisão contextual específica dos 123 versículos
+        run: node scripts/aplicar-revisao-contextual-apocalipse-2-8.mjs
+      - name: Validar transliteração e compilar as 143 páginas
+        run: |
+          node scripts/testar-transliteracao-apocalipse.mjs
+          node scripts/normalizar-transliteracao-apocalipse.mjs --check
+          npm install --no-audit --no-fund
+          npm run build
+          counts=(20 29 22 11 14 17 17 13)
+          for c in $(seq 1 8); do
+            for v in $(seq 1 "${counts[$((c-1))]}"); do
+              test -s "dist/comentarios/apocalipse/capitulo-$c/versiculo-$v/index.html"
+            done
+          done
+      - name: Registrar revisão no rascunho
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add src/data/texto-original/apocalipse/apocalipse-[2-8]-*.ts
+          if ! git diff --cached --quiet; then
+            git commit -m 'fix(apocalipse): tradução e notas contextuais de 2:1–8:13'
+            git push origin HEAD:rascunho/apocalipse
+          fi
