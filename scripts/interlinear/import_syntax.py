@@ -47,21 +47,49 @@ def load_book(files,code,ot):
                     versegroups[key][ordn].append(n);sentences[sid].add(key)
             walk(sentence)
     return nodes,versegroups,sentences,issues
-def match_pairs(a,b):
-    if a==b:return list(enumerate(range(len(b)))),"versiculo_integral"
+def legacy_pairs(a,b):
+    if a==b:return list(enumerate(range(len(b))))
     ca=collections.Counter(a);cb=collections.Counter(b);pairs=[]
-    # Only unique forms within monotonic blocks of at least two words. No single-word guesses.
     for block in difflib.SequenceMatcher(None,a,b,autojunk=False).get_matching_blocks():
         if block.size>=2:
             for d in range(block.size):
                 i,j=block.a+d,block.b+d
                 if a[i] and ca[a[i]]==cb[b[j]]==1:pairs.append((i,j))
-    return pairs,"alinhamento_parcial_conservador"
+    return pairs
+def forced_pairs(a,b):
+    # A match is mandatory iff it is the sole possible pair at its rank among all
+    # maximum-length monotone alignments. No arbitrary selection among repeated words.
+    n,m=len(a),len(b)
+    pre=[[0]*(m+1) for _ in range(n+1)]
+    post=[[0]*(m+1) for _ in range(n+1)]
+    for i in range(n):
+        for j in range(m):
+            pre[i+1][j+1]=max(pre[i][j+1],pre[i+1][j],pre[i][j]+1 if a[i] and a[i]==b[j] else 0)
+    for i in range(n-1,-1,-1):
+        for j in range(m-1,-1,-1):
+            post[i][j]=max(post[i+1][j],post[i][j+1],post[i+1][j+1]+1 if a[i] and a[i]==b[j] else 0)
+    length=pre[n][m];ranks=collections.defaultdict(list)
+    for i in range(n):
+        for j in range(m):
+            if a[i] and a[i]==b[j] and pre[i][j]+1+post[i+1][j+1]==length:ranks[pre[i][j]+1].append((i,j))
+    return sorted(v[0] for v in ranks.values() if len(v)==1)
+def anchored_pairs(a,b,anchors):
+    result=list(anchors)
+    for (i,j),(k,l) in zip([(-1,-1)]+anchors,anchors+[(len(a),len(b))]):
+        result.extend((i+1+x,j+1+y) for x,y in forced_pairs(a[i+1:k],b[j+1:l]))
+    return sorted(result)
+def match_pairs(a,b):
+    if a==b:return list(enumerate(range(len(b)))),"versiculo_integral"
+    return anchored_pairs(a,b,legacy_pairs(a,b)),"alinhamento_ancorado_obrigatorio"
 def process_verse(ref,words,groups,nodes,sentences,ot):
     groups=[sorted(g,key=lambda n:nodes[n]["source_id"]) for _,g in sorted(groups.items())]
     actual=[form(w.get("word") or w["text"]) for w in words]
     source=["".join(nodes[n]["form"] for n in g) for g in groups]
     pairs,method=match_pairs(actual,source)
+    legacy=set(legacy_pairs(actual,source))
+    candidates={i:j for i,j in pairs}
+    source_by_form=collections.defaultdict(list)
+    for j,f in enumerate(source):source_by_form[f].append(j)
     out={"method":method,"source_word_count":len(groups),"words":[{"status":"pendente","nodes":[]} for _ in words],"nodes":[]}
     mapping={};used=set()
     def project(n):
@@ -81,11 +109,24 @@ def process_verse(ref,words,groups,nodes,sentences,ot):
         ids=[project(n) for n in g];assert not used.intersection(ids);used.update(ids)
         parts=segs(w["text"]) if ot else [actual[i]]
         component_match=parts==[nodes[n]["form"] for n in g]
-        rec={"status":"alinhado_integral" if method=="versiculo_integral" else "alinhado_parcial","nodes":ids,"component_match":component_match,"form_sha256":digest(source[j])}
+        rec={"status":"alinhado_integral" if method=="versiculo_integral" else "alinhado_parcial","alignment_evidence":"sequencia_integral" if method=="versiculo_integral" else "ancora_legada" if (i,j) in legacy else "par_obrigatorio_no_intervalo","nodes":ids,"component_match":component_match,"form_sha256":digest(source[j])}
         for k,n in enumerate(ids):
             out["nodes"][n]["token"]=i
             if component_match:out["nodes"][n]["component"]=k
         out["words"][i]=rec
+    for i,r in enumerate(out["words"]):
+        if r["nodes"]:continue
+        w=words[i];f=actual[i];lang=("A" if w["morph"].startswith("A") else "H") if ot else "G"
+        if not groups:reason="referencia_ausente_na_fonte"
+        elif i in candidates:
+            j=candidates[i]
+            reason="idioma_divergente" if any(nodes[n]["language"]!=lang for n in groups[j]) else "lema_grego_divergente"
+        elif source_by_form.get(f):reason="correspondencia_posicional_ambigua"
+        else:
+            bare=lambda x:"".join(z for z in unicodedata.normalize("NFD",x) if not unicodedata.category(z).startswith("M"))
+            reason="vocalizacao_ou_diacriticos_divergentes" if any(bare(f)==bare(v) for v in source) else "forma_ausente_na_fonte"
+        r["reason"]=reason
+        r["source_candidate_refs"]=[nodes[groups[j][0]]["source_ref"] for j in source_by_form.get(f,[])]
     out["sentences"]={sid:sorted(sentences[sid],key=lambda r:tuple(map(int,r.split(":")))) for sid in sorted({e["sentence"] for e in out["nodes"]})}
     out["matched"]=sum(bool(x["nodes"]) for x in out["words"])
     return out
@@ -93,7 +134,10 @@ def selftest():
     assert form("בְּ/רֵאשִׁ֖ית")==form("בְּרֵאשִׁית")
     assert form("λόγος,")==form("λόγος") and form("ὅρος")!=form("ὄρος")
     assert match_pairs(["a","b"],["a","b"])[0]==[(0,0),(1,1)]
-    assert not match_pairs(["a"],["a","b"])[0]
+    assert match_pairs(["a"],["a","b"])[0]==[(0,0)]
+    assert forced_pairs(["a"],["a","a"])==[]
+    assert forced_pairs(["a","a"],["a","a"])==[(0,0),(1,1)]
+    assert forced_pairs(["a","b"],["b","a"])==[]
     assert match_pairs(["a","b","c"],["a","b","d"])[0]==[(0,0),(1,1)]
 def main():
     selftest();p=argparse.ArgumentParser()
@@ -117,13 +161,16 @@ def main():
                 stats["tokens"]+=1;stats[lang]+=1
                 if r["nodes"]:
                     stats["linked"]+=1;stats[lang+"_linked"]+=1;stats[r["status"]]+=1
+                    if r["alignment_evidence"]=="par_obrigatorio_no_intervalo":stats["new_forced_pairs"]+=1
                     if not r["component_match"]:stats["different_segmentation"]+=1
                     if lang not in examples:examples[lang]={"book":b,"ref":ref,"token":i,"source_ids":[x["nodes"][n]["source_id"] for n in r["nodes"]]}
                 else:
                     stats["pending"]+=1;stats[lang+"_pending"]+=1
-                    pending.setdefault(ref,[]).append({"token":i,"reason":"sem alinhamento seguro"})
+                    stats["reason_"+r["reason"]]+=1
+                    pending.setdefault(ref,[]).append({"token":i,"original":w["text"],"morph":w["morph"],"reason":r["reason"],"source_candidate_refs":r["source_candidate_refs"]})
             for n in x["nodes"]:
                 if n["attrs"].get("role"):roles[n["attrs"]["role"]]+=1
+                if n["attrs"].get("role","").startswith("err_"):stats["source_diagnostic_projected"]+=1
                 if n["attrs"].get("class"):classes[n["attrs"]["class"]]+=1
             assert x["matched"]==sum(bool(z["nodes"]) for z in x["words"])
         for ch,v in chapters.items():write(a.out/b/(ch+".json"),v)
@@ -134,6 +181,6 @@ def main():
     assert totals["linked"]+totals["pending"]==totals["tokens"]
     assert all(totals[k+"_linked"]>0 for k in ("grc","hbo","arc"))
     write(a.out/"rotulos.json",{"roles":ROLES,"classes":CLASSES})
-    write(a.report,{"stage":8,"status":"constituency_alignment","books":66,"totals":dict(totals),"books_detail":books,"roles_projected":dict(roles),"classes_projected":dict(classes),"examples":examples,"sources":{"MACULA Greek SBLGNT":{"revision":G_REV,"license":"CC BY 4.0","url":"https://github.com/Clear-Bible/macula-greek"},"MACULA Hebrew WLC":{"revision":H_REV,"license":"CC BY 4.0","url":"https://github.com/Clear-Bible/macula-hebrew"}},"scope":"Verse-local projection of source constituency trees, retaining source IDs, roles, rule and parent relationships. Cross-verse sentence membership is preserved, but displayed trees are projections, not full sentences. No fabricated dependency heads, semantic roles, textual variants or contextual syntax. Conservative word alignment; component alignment only when source segmentation agrees. No independent philological review."})
+    write(a.report,{"stage":"8.1","status":"constituency_alignment","books":66,"totals":dict(totals),"books_detail":books,"roles_projected":dict(roles),"classes_projected":dict(classes),"examples":examples,"sources":{"MACULA Greek SBLGNT":{"revision":G_REV,"license":"CC BY 4.0","url":"https://github.com/Clear-Bible/macula-greek"},"MACULA Hebrew WLC":{"revision":H_REV,"license":"CC BY 4.0","url":"https://github.com/Clear-Bible/macula-hebrew"}},"scope":"Verse-local projection of source constituency trees, retaining source IDs, roles, rule and parent relationships. Cross-verse sentence membership is preserved, but displayed trees are projections, not full sentences. No fabricated dependency heads, semantic roles, textual variants or contextual syntax. Legacy anchors preserved; new matches mandatory among all maximal monotone alignments in each interval, exact form and language, Greek lemma on partial verses. Remaining tokens classified by reason. Component alignment only when source segmentation agrees. No independent philological review."})
     print(json.dumps(dict(totals),ensure_ascii=False))
 if __name__=="__main__":main()
