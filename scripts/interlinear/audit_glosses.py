@@ -7,10 +7,16 @@ REV="2f53eafc80a98f1f3dab0e7d838f93ad451c5ff0"
 def refkey(k): return tuple(map(int,k.split(":")))
 def morph_base(w,ot): return w.get("morph") or "" if ot else (w.get("pos") or "")+(w.get("morph") or "")
 def sig_base(w,ot): return (form(w["text"]),morph_base(w,ot))
-def sig_ext(row): return (form(row[0]),row[4] if len(row)>4 else "")
+def external_morph(row):
+    raw=row[4] if len(row)>4 else ""
+    # The external dataset inserts a delimiter after two-letter pronoun/article POS.
+    if len(raw)==11 and raw[:2] in {"RA","RD","RI","RP","RR"} and raw[2]=="-":
+        return raw[:2]+raw[3:]
+    return raw
+def sig_ext(row): return (form(row[0]),external_morph(row))
 def checks(w,row,ot):
     if not row or form(w["text"])!=form(row[0]): return "forma_divergente"
-    if len(row)<5 or not row[4] or row[4]!=morph_base(w,ot): return "morfologia_divergente"
+    if len(row)<5 or not row[4] or external_morph(row)!=morph_base(w,ot): return "morfologia_divergente"
     if not ot:
         if len(row)<6 or not row[5] or form(w.get("lemma") or "")!=form(row[5]):return "lema_divergente"
     else:
@@ -40,6 +46,8 @@ def selftest():
     w={"text":"Ἀρχίππῳ","pos":"N-","morph":"----DSM-","lemma":"Ἄρχιππος"}
     row=["Ἀρχίππῳ","G751","Ápia","","N-----DSM-","Ἄρχιππος"]
     assert checks(w,row,False) is None
+    assert checks({"text":"ὁ","pos":"RA","morph":"----NSM-","lemma":"ὁ"},["ὁ","G3588","o","","RA-----NSM-","ὁ"],False) is None
+    assert checks({"text":"ὁ","pos":"RA","morph":"----NSM-","lemma":"ὁ"},["ὁ","G3588","o","","RA-----DSM-","ὁ"],False)=="morfologia_divergente"
     assert correction("Phlm","1:2",w,row,{"b":"e a Arquipo"})=="Arquipo"
     assert checks(w,[*row[:4],"N-----DSF-",row[5]],False)=="morfologia_divergente"
     assert checks(w,[*row[:5],"Ἀπφία"],False)=="lema_divergente"
