@@ -13,7 +13,40 @@
       "license": "Public Domain",
       "license_url": "https://crosswire.org/sword/modules/ModInfo.jsp?modName=MHC",
       "download": "https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/MHC.zip",
-      "status": "license_verified_pending_binary"
+      "status": "archive_and_license_verified",
+      "sha256": "6bcb936873ca144e317805e5c1677940fd86e2403f7c14517752e44f25c8882b",
+      "archive_bytes": 15195123,
+      "config_sha256": "889f178712b8bcc1794284f0c2dec042a0680e501587a553cdb6ed4bc6beb537",
+      "driver": "zCom4",
+      "encoding": "UTF-8",
+      "source_type": "OSIS",
+      "versification": "KJV",
+      "payload_files": [
+        {
+          "name": "modules/comments/zcom4/mhc/nt.bzs",
+          "bytes": 336
+        },
+        {
+          "name": "modules/comments/zcom4/mhc/ot.bzs",
+          "bytes": 480
+        },
+        {
+          "name": "modules/comments/zcom4/mhc/ot.bzv",
+          "bytes": 289380
+        },
+        {
+          "name": "modules/comments/zcom4/mhc/nt.bzv",
+          "bytes": 98952
+        },
+        {
+          "name": "modules/comments/zcom4/mhc/ot.bzz",
+          "bytes": 9964748
+        },
+        {
+          "name": "modules/comments/zcom4/mhc/nt.bzz",
+          "bytes": 5250578
+        }
+      ]
     },
     {
       "id": "JFB",
@@ -25,7 +58,40 @@
       "license": "Public Domain",
       "license_url": "https://crosswire.org/sword/modules/ModInfo.jsp?modName=JFB",
       "download": "https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/JFB.zip",
-      "status": "license_verified_pending_binary"
+      "status": "archive_and_license_verified",
+      "sha256": "f1e31fdf3281d7e69956341c8a3aa28f65dca77deb6853038f27c3a8e1085d9e",
+      "archive_bytes": 5687742,
+      "config_sha256": "7587b0d4f3dbfd60bd1cbfc53ebb2bf40e36ac2bb9e712093205b7e5f6f87219",
+      "driver": "zCom4",
+      "encoding": "UTF-8",
+      "source_type": "OSIS",
+      "versification": "KJV",
+      "payload_files": [
+        {
+          "name": "modules/comments/zcom/jfb/nt.bzs",
+          "bytes": 336
+        },
+        {
+          "name": "modules/comments/zcom/jfb/ot.bzs",
+          "bytes": 480
+        },
+        {
+          "name": "modules/comments/zcom/jfb/ot.bzv",
+          "bytes": 289380
+        },
+        {
+          "name": "modules/comments/zcom/jfb/nt.bzv",
+          "bytes": 98952
+        },
+        {
+          "name": "modules/comments/zcom/jfb/ot.bzz",
+          "bytes": 3191787
+        },
+        {
+          "name": "modules/comments/zcom/jfb/nt.bzz",
+          "bytes": 2441962
+        }
+      ]
     },
     {
       "id": "Clarke",
@@ -37,7 +103,40 @@
       "license": "Public Domain",
       "license_url": "https://crosswire.org/sword/modules/ModInfo.jsp?modName=Clarke",
       "download": "https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/Clarke.zip",
-      "status": "license_verified_pending_binary"
+      "status": "archive_and_license_verified",
+      "sha256": "56bb33d3bf0f50c1609f4dd10ac81e7450bb0e8aae93bf340074ccb5e207a44f",
+      "archive_bytes": 8627265,
+      "config_sha256": "64fdb0aed5abf24c57263867612ab0168d19bbd2479e73a512b8984dd382750e",
+      "driver": "zCom",
+      "encoding": "UTF-8",
+      "source_type": "OSIS",
+      "versification": "KJV",
+      "payload_files": [
+        {
+          "name": "modules/comments/zcom/clarke/nt.bzs",
+          "bytes": 336
+        },
+        {
+          "name": "modules/comments/zcom/clarke/ot.bzs",
+          "bytes": 480
+        },
+        {
+          "name": "modules/comments/zcom/clarke/ot.bzv",
+          "bytes": 241150
+        },
+        {
+          "name": "modules/comments/zcom/clarke/nt.bzv",
+          "bytes": 82460
+        },
+        {
+          "name": "modules/comments/zcom/clarke/ot.bzz",
+          "bytes": 5036154
+        },
+        {
+          "name": "modules/comments/zcom/clarke/nt.bzz",
+          "bytes": 3512777
+        }
+      ]
     },
     {
       "id": "Barnes",
@@ -49,7 +148,28 @@
       "license": "Public Domain",
       "license_url": "https://crosswire.org/sword/modules/ModInfo.jsp?modName=Barnes",
       "download": "https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/Barnes.zip",
-      "status": "license_verified_pending_binary"
+      "status": "archive_and_license_verified",
+      "sha256": "9e8edc0333875c214124371b3862df118ad3a76ade7753cb2faeed3484615baf",
+      "archive_bytes": 5812827,
+      "config_sha256": "6895f7186042c5624117973892bc22dc27fa31a21e9f4fbb217793e8b5df9a5f",
+      "driver": "zCom",
+      "encoding": "UTF-8",
+      "source_type": "ThML",
+      "versification": "KJV default",
+      "payload_files": [
+        {
+          "name": "modules/comments/zcom/barnes/nt.czv",
+          "bytes": 82460
+        },
+        {
+          "name": "modules/comments/zcom/barnes/nt.czz",
+          "bytes": 6018995
+        },
+        {
+          "name": "modules/comments/zcom/barnes/nt.czs",
+          "bytes": 3120
+        }
+      ]
     },
     {
       "id": "KD",
@@ -61,7 +181,32 @@
       "license": "Public Domain",
       "license_url": "https://crosswire.org/sword/modules/ModInfo.jsp?modName=KD",
       "download": "https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/KD.zip",
-      "status": "license_verified_pending_binary"
+      "status": "archive_and_license_verified",
+      "sha256": "ca3bdb6a04c0b717ee2faed71b432d58195db96f217f490ce6f7d9c36a2876f7",
+      "archive_bytes": 11170353,
+      "config_sha256": "667cbe39b3d2f9b75a35429bee6ef6d3f7c4b453d5a9b097fe97996d68f8b39b",
+      "driver": "zCom4",
+      "encoding": "UTF-8",
+      "source_type": "OSIS",
+      "versification": "KJV",
+      "payload_files": [
+        {
+          "name": "modules/comments/zcom4/kd/ot.bzs",
+          "bytes": 576
+        },
+        {
+          "name": "modules/comments/zcom4/kd/ot.bzv",
+          "bytes": 289380
+        },
+        {
+          "name": "modules/comments/zcom4/kd/nt.bzv",
+          "bytes": 98952
+        },
+        {
+          "name": "modules/comments/zcom4/kd/ot.bzz",
+          "bytes": 11145784
+        }
+      ]
     },
     {
       "id": "CalvinCommentaries",
@@ -73,7 +218,40 @@
       "license": "Public Domain",
       "license_url": "https://crosswire.org/sword/modules/ModInfo.jsp?modName=CalvinCommentaries",
       "download": "https://crosswire.org/ftpmirror/pub/sword/packages/rawzip/CalvinCommentaries.zip",
-      "status": "license_verified_pending_binary"
+      "status": "archive_and_license_verified",
+      "sha256": "df66fc8c03537499ad006d069481d2c95b600887cdbd6ce75ec5d264b573192a",
+      "archive_bytes": 20897508,
+      "config_sha256": "9fec2e4a9fc6c722926d44e8abe3c77c5ceb0c8d3cbd70e7f13229f240155d51",
+      "driver": "zCom",
+      "encoding": "UTF-8",
+      "source_type": "OSIS",
+      "versification": "KJV",
+      "payload_files": [
+        {
+          "name": "modules/comments/zcom/calvincommentaries/nt.bzs",
+          "bytes": 3180
+        },
+        {
+          "name": "modules/comments/zcom/calvincommentaries/ot.bzs",
+          "bytes": 2748
+        },
+        {
+          "name": "modules/comments/zcom/calvincommentaries/ot.bzv",
+          "bytes": 241150
+        },
+        {
+          "name": "modules/comments/zcom/calvincommentaries/nt.bzv",
+          "bytes": 82460
+        },
+        {
+          "name": "modules/comments/zcom/calvincommentaries/ot.bzz",
+          "bytes": 14354655
+        },
+        {
+          "name": "modules/comments/zcom/calvincommentaries/nt.bzz",
+          "bytes": 6946573
+        }
+      ]
     }
   ],
   "blocked": [
@@ -110,5 +288,6 @@
       "status": "not_approved"
     }
   ],
-  "policy_evidence": "https://www.sermonindex.net/md/copying-permissions/"
+  "policy_evidence": "https://www.sermonindex.net/md/copying-permissions/",
+  "scope": "ZIP CRC, configuration, module identity, version, public-domain declaration, driver, nonempty payload and SHA256. Not a verse-level completeness or textual fidelity audit."
 }
