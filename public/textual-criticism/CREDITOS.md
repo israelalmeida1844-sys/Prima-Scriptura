@@ -1,0 +1,3 @@
+# Crítica textual — fontes
+The SBL Greek New Testament © 2010 Society of Biblical Literature and Logos Bible Software, CC BY 4.0, https://github.com/Faithlife/SBLGNT, revisão d7f35adca9ec410e1d1499c63b4dd989d76c8d4d. Aparato comparativo das edições (SBLGNTApp), transcrito sem acrescentar testemunhos. Formato adaptado para JSON. https://creativecommons.org/licenses/by/4.0/
+Original work of the Open Scriptures Hebrew Bible, https://github.com/openscriptures/morphhb, revisão db6c5c9b46b8f39346f10915ddb1a70dcd429901, CC BY 4.0. Notas da fonte original preservadas em JSON. Não é um aparato crítico completo de manuscritos.
