@@ -6,13 +6,12 @@ export const apocalipse4v8 = {
   "verse": 8,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Os quatro seres viventes, cada um com seis asas, estavam cheios de olhos ao redor e por dentro; não tinham descanso nem de dia nem de noite, dizendo: \"Santo, santo, santo é o Senhor Deus, o Todo-Poderoso, aquele que era, que é e que vem.\"",
-  "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
+  "translation": "E os quatro seres viventes, cada um deles tendo seis asas, estão cheios de olhos por fora e por dentro. Não têm descanso de dia nem de noite, dizendo: \"Santo, santo, santo é o Senhor Deus, o Todo-Poderoso, aquele que era, que é e que vem.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): καθʼ ἓν WH NA28 RP ] ἕκαστον Treg; αὐτῶν WH Treg NA28 ] – RP; ἔχων WH Treg NA28 ] ἔχον RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «τὰ»; «ἓν αὐτῶν ἔχων» → «ἑαυτὸ εἶχον»; «γέμουσιν» → «γέμοντα»; «λέγοντες» → «λέγοντα».",
   "exegeticalNotes": [
-    "O hino evoca Is 6:2–3. ὁ ἦν καὶ ὁ ὢν καὶ ὁ ἐρχόμενος é fórmula teológica com uso substantivado de formas verbais, inclusive ὁ ἦν com artigo antes de forma finita. A adoração é contínua.",
-    "As seis asas por vivente aproximam a visão dos serafins de Is 6:2–3; os múltiplos olhos retomam elementos associados aos querubins em Ez 1 e 10.",
-    "A tripla repetição de ἅγιος é a aclamação conhecida como Triságion; o rótulo litúrgico não constitui um token adicional da passagem."
+    "As seis asas e o triságio evocam Is 6:2–3, em diálogo com Ez 1.",
+    "A adoração contínua identifica o trono como centro da santidade e da soberania divinas."
   ],
   "words": [
     {
@@ -1009,7 +1008,7 @@ export const apocalipse4v8 = {
     }
   ],
   "syntacticNotes": [
-    "ἓν καθ’ ἓν descreve cada ser individualmente. ἔχων é masc. nom. sing. onde se poderia esperar ἔχον para ζῷον neutro; preservar a leitura-base e assinalar a incongruência. ἀνὰ πτέρυγας ἕξ: seis asas por ser. γέμουσιν é presente ativo plural. Triságion são as três ocorrências de ἅγιος, não um vocábulo grego independente deste versículo.",
-    "O artigo ὁ antes do imperfeito finito ἦν constitui construção titulativa não usual; a fórmula completa evoca Ap 1:4 e não deve ser simplificada como se o grego tivesse três particípios."
+    "ἓν καθ’ ἓν é expressão distributiva; ἔχων, masculino singular, é irregular diante do neutro distributivo e do plural ζῷα.",
+    "λέγοντες introduz o triságio; a fórmula nominal contém a cópula subentendida e três títulos temporais coordenados."
   ]
 } as const;

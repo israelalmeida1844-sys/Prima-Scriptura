@@ -5,15 +5,16 @@ export const apocalipse8v12 = {
   "verse": 12,
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados",
-  "translation": "O quarto anjo tocou a trombeta, e foi atingido um terço do sol, da lua e das estrelas, para que um terço deles escurecesse e o dia não brilhasse durante um terço dele, e igualmente a noite.",
-  "translationNote": "Tradução editorial contextual.",
+  "translation": "E o quarto anjo tocou a trombeta. Foi atingida a terça parte do sol, da lua e das estrelas, para que a terça parte deles fosse escurecida, e o dia não brilhasse durante sua terça parte, e semelhantemente a noite.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἡ ἡμέρα μὴ φάνῃ τὸ τρίτον αὐτῆς WH Treg NA28 ] τὸ τρίτον αὐτῆς ἡ ἡμέρα μὴ φάνῃ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐσάλπισεν» → «ἐσάλπισε»; «φάνῃ» → «φαίνῃ».",
   "syntacticNotes": [
-    "ἐπλήγη é aoristo passivo; ἵνα σκοτισθῇ expressa finalidade ou resultado; φάνῃ é subjuntivo.",
-    "A repetição de τὸ τρίτον delimita a extensão do golpe; em μὴ φάνῃ τὸ τρίτον αὐτῆς, o acusativo indica extensão temporal."
+    "ἐπλήγη é passivo singular com a primeira expressão fracionária; as frações seguintes coordenam os domínios atingidos.",
+    "ἵνα introduz o resultado ou finalidade do escurecimento; μὴ φάνῃ é subjuntivo aoristo na oração dependente."
   ],
   "exegeticalNotes": [
-    "O escurecimento evoca imagens proféticas de juízo (Is 13:10); a fração limita a extensão narrada."
+    "A perda de luz evoca Êx 10:21–23 e a linguagem profética de escurecimento dos astros.",
+    "A repetição da terça parte preserva a limitação característica das primeiras quatro trombetas."
   ],
   "words": [
     {

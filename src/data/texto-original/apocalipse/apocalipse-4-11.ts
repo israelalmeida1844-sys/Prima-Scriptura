@@ -6,13 +6,12 @@ export const apocalipse4v11 = {
   "verse": 11,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Digno és, Senhor e Deus nosso, de receber a glória, a honra e o poder, porque tu criaste todas as coisas; por tua vontade elas existiam e foram criadas.",
-  "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
+  "translation": "\"Digno és, nosso Senhor e Deus, de receber a glória, a honra e o poder, porque tu criaste todas as coisas, e por tua vontade existiam e foram criadas.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἡμῶν WH Treg NA28 ] + ὁ ἅγιος RP; τὰ WH Treg NA28 ] – RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ὁ κύριος καὶ ὁ θεὸς ἡμῶν» → «Κύριε»; «ἦσαν» → «εἰσὶ».",
   "exegeticalNotes": [
-    "O hino atribui a Deus a criação de todas as coisas e liga existência à vontade divina. A sequência ἦσαν καὶ ἐκτίσθησαν deve ser preservada, sem transformá-la em cronologia filosófica rígida.",
-    "διὰ τὸ θέλημά σου é construção causal (διά + acusativo), «por causa de tua vontade»; não se deve converter ἦσαν καὶ ἐκτίσθησαν em cronologia filosófica da criação.",
-    "O texto SBLGNT apresenta ἦσαν («existiam») antes de ἐκτίσθησαν («foram criadas»), sequência preservada pela tradução; qualquer variante textual específica exigiria citação de aparato e testemunhos."
+    "A dignidade do ocupante do trono é fundamentada em sua condição de Criador.",
+    "A aclamação prepara a declaração de dignidade do Cordeiro em Ap 5:9–12."
   ],
   "words": [
     {
@@ -742,7 +741,7 @@ export const apocalipse4v11 = {
     }
   ],
   "syntacticNotes": [
-    "Ἄξιος εἶ introduz predicativo de dignidade com verbo presente. λαβεῖν é infinitivo aoristo ativo completando o elogio; ἔκτισας é aoristo ativo 2ª singular; διὰ τὸ θέλημά σου indica motivo/causa em construção com acusativo. ἦσαν é imperfeito indicativo 3ª plural; ἐκτίσθησαν é aoristo passivo 3ª plural.",
-    "O predicativo ἄξιος com o infinitivo λαβεῖν exprime dignidade para receber aclamação; a sequência glória–honra–poder está fundamentada no ato criador de Deus."
+    "Ἄξιος εἶ é predicação nominal; λαβεῖν complementa ἄξιος e rege os três objetos.",
+    "ὅτι introduz a fundamentação; διὰ τὸ θέλημά σου indica causa, e ἦσαν e ἐκτίσθησαν distinguem existência e criação."
   ]
 } as const;

@@ -6,11 +6,12 @@ export const apocalipse3v15 = {
   "verse": 15,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Conheço tuas obras: não és frio nem quente. Quem dera fosses frio ou quente!",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "\"Conheço as suas obras: você não é frio nem quente. Quem dera fosse frio ou quente!\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἦς» → «εἴης».",
   "exegeticalNotes": [
-    "A reconstrução das águas regionais é hipótese histórico-arqueológica, não o significado lexical necessário das imagens. A lógica retórica é de desaprovação da mornidão."
+    "A temperatura caracteriza a condição espiritual diagnosticada.",
+    "A preferência por frio ou quente contrasta com a condição intermediária, sem determinar pelo léxico o referente exato de cada polo."
   ],
   "words": [
     {
@@ -378,6 +379,7 @@ export const apocalipse3v15 = {
     }
   ],
   "syntacticNotes": [
-    "οὔτε ... οὔτε coordena dois qualificativos negados; ὄφελον introduz desejo contrafactual com ἦς («quem dera fosses»). ψυχρός e ζεστός são adjetivos predicativos."
+    "ὅτι explicita o conteúdo do conhecimento de Cristo; οὔτε… οὔτε nega as duas alternativas.",
+    "ὄφελον com o imperfeito ἦς exprime desejo não realizado no presente."
   ]
 } as const;

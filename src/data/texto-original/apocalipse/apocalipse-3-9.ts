@@ -6,11 +6,12 @@ export const apocalipse3v9 = {
   "verse": 9,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Eis que darei alguns da sinagoga de Satanás — daqueles que dizem ser judeus e não são, mas mentem. Farei que venham e se prostrem diante de teus pés, e reconheçam que eu te amei.",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "\"Eis que farei vir alguns da sinagoga de Satanás, dos que dizem ser judeus e não são, mas mentem. Eis que farei com que venham e se prostrem diante dos seus pés, e saibam que eu o amei.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): διδῶ WH Treg NA28 ] δίδωμι RP; ἥξουσιν καὶ προσκυνήσουσιν WH Treg NA28 ] ἥξωσιν καὶ προσκυνήσωσιν RP; ἐγὼ WH Treg NA28 ] – RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «διδῶ» → «δίδωμι»; «ἥξουσιν» → «ἥξωσι»; «προσκυνήσουσιν» → «προσκυνήσωσιν».",
   "exegeticalNotes": [
-    "A linguagem polêmica refere-se a adversários do contexto, jamais autoriza hostilidade genérica contra judeus. Os ecos de Isaías 45:14; 49:23; 60:14 são pertinentes e demandam comparação."
+    "A imagem de reconhecimento evoca Is 45:14; 49:23; 60:14.",
+    "A polêmica pertence ao conflito local e não legitima generalizações antijudaicas; o reconhecimento aponta para o amor de Cristo pela comunidade."
   ],
   "words": [
     {
@@ -836,6 +837,7 @@ export const apocalipse3v9 = {
     }
   ],
   "syntacticNotes": [
-    "ἰδοὺ διδῶ introduz ação ou promessa presente. ποιήσω ... ἵνα ἥξουσιν ... apresenta verbo indicativo futuro depois de ἵνα, construção irregular que deve ser preservada no texto crítico. προσκυνέω exige exame semântico contextual."
+    "ἐκ τῆς συναγωγῆς introduz origem partitiva; τῶν λεγόντων especifica o grupo.",
+    "ποιήσω αὐτούς ἵνα introduz a consequência com futuros ἥξουσιν e προσκυνήσουσιν, seguidos de γνῶσιν no subjuntivo."
   ]
 } as const;

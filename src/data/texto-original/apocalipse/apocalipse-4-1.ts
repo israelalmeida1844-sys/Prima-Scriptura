@@ -6,11 +6,12 @@ export const apocalipse4v1 = {
   "verse": 1,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Depois destas coisas, vi uma porta aberta no céu; e a primeira voz que eu ouvira, falando comigo como trombeta, disse: \"Sobe aqui, e te mostrarei o que deve acontecer depois destas coisas.\"",
-  "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
+  "translation": "Depois dessas coisas, vi, e eis uma porta aberta no céu; e a primeira voz que ouvi, como trombeta que falava comigo, dizia: \"Suba aqui, e eu lhe mostrarei o que deve acontecer.\" Depois dessas coisas,",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «λέγων» → «λέγουσα».",
   "exegeticalNotes": [
-    "O paralelismo com Ap 1:10,19 associa voz de trombeta, revelação e desenvolvimento futuro; a visão do trono inicia nova seção sem impor isoladamente uma data escatológica."
+    "A voz retoma Ap 1:10–11 e o anúncio de acontecimentos de Ap 1:1, com eco de Dn 2:28.",
+    "A porta permite a transição da cena das igrejas à visão do trono celestial; a divisão dos versículos não encerra necessariamente a frase."
   ],
   "words": [
     {
@@ -813,7 +814,7 @@ export const apocalipse4v1 = {
     }
   ],
   "syntacticNotes": [
-    "ἀνάβα é imperativo aoristo ativo de ἀναβαίνω, 2ª pessoa singular, com radical de aoristo; não é infinitivo. λέγων é particípio nominativo masculino singular embora a referência discursiva imediata seja φωνή (feminino); concordância ad sensum, provavelmente com o locutor pressuposto. O MorphGNT atribui δεῖ ao lema δέω; a forma impessoal é indexada separadamente como Strong G1163 (não G1210). A oração ἃ δεῖ γενέσθαι expressa necessidade com δεῖ + infinitivo aoristo médio.",
-    "O advérbio ὧδε indica o lugar de destino da ordem Ἀνάβα; δεῖ + infinitivo exprime necessidade, mas não especifica por si só um cronograma histórico."
+    "ἠνεῳγμένη é particípio perfeito passivo que descreve a porta já aberta; ἣν retoma φωνή.",
+    "λαλούσης concorda formalmente com σάλπιγγος; λέγων, masculino, introduz a fala em construção irregular. ἃ δεῖ γενέσθαι é relativa livre."
   ]
 } as const;

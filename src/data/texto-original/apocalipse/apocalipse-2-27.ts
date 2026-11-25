@@ -6,12 +6,12 @@ export const apocalipse2v27 = {
   "verse": 27,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "e ele as pastoreará com cetro de ferro, como são despedaçados os vasos de cerâmica,",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Ele as regerá com vara de ferro, como se quebram os vasos de barro,\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): συντρίβεται WH Treg NA28 ] συντριβήσεται RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «ὡς κἀγὼ εἴληφα παρὰ τοῦ πατρός μου» após «συντρίβεται».",
   "exegeticalNotes": [
-    "O governo com cetro de ferro dialoga diretamente com o Salmo 2.",
-    "A metáfora de pastoreio e a imagem de vasos quebrados devem ser examinadas conjuntamente."
+    "A linguagem retoma Sl 2:9 na tradição grega, onde a figura do pastoreio se associa à autoridade régia.",
+    "A fragilidade dos vasos contrasta com a força da autoridade concedida."
   ],
   "words": [
     {
@@ -305,7 +305,7 @@ export const apocalipse2v27 = {
     }
   ],
   "syntacticNotes": [
-    "ποιμανεῖ, futuro ativo indicativo, terceira pessoa singular de ποιμαίνω, pode ter sentido de pastorear e governar. ἐν ῥάβδῳ σιδηρᾷ e vasos de barro evocam Sl 2:8–9. A forma συντρίβεται é presente médio/passivo indicativo singular; preservar a sua configuração real e discutir a combinação sintática, sem adaptar à forma esperada.",
-    "ποιμανεῖ é futuro de ποιμαίνω, 'pastorear/governar'; συντρίβεται é presente médio/passivo singular, apesar de τὰ σκεύη ser neutro plural, concordância verbal possível em grego. Não reescrever para plural nem impor exclusivamente 'despedaçará' ao sujeito do primeiro verbo."
+    "ποιμανεῖ é futuro de ποιμαίνω com objeto αὐτούς; ἐν ῥάβδῳ σιδηρᾷ indica meio.",
+    "ὡς introduz comparação; τὰ σκεύη, neutro plural, recebe συντρίβεται no singular."
   ]
 } as const;

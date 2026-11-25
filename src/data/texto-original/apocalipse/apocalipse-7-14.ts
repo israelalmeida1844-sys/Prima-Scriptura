@@ -5,14 +5,16 @@ export const apocalipse7v14 = {
   "verse": 14,
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
-  "translation": "Eu lhe disse: \"Meu senhor, tu sabes. Ele me disse: Estes são os que vêm da grande tribulação; lavaram seus mantos e os tornaram brancos no sangue do Cordeiro.\"",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "E eu lhe disse: \"Meu senhor, tu sabes.\" E ele me disse: \"Estes são os que vêm da grande tribulação; lavaram suas vestes e as branquearam no sangue do Cordeiro.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): εἴρηκα WH Treg NA28 ] εἶπον RP; αὐτὰς WH Treg NA28 ] – RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «μου»; «εἶπέν» → «εἶπέ».",
   "syntacticNotes": [
-    "εἴρηκα é perfeito; οἶδας é perfeito com sentido presente. οἱ ἐρχόμενοι é particípio presente substantivado; ἔπλυναν e ἐλεύκαναν são aoristos."
+    "εἴρηκα é perfeito de λέγω; οἱ ἐρχόμενοι é particípio presente substantivado predicativo de Οὗτοι.",
+    "ἔπλυναν e ἐλεύκαναν são aoristos coordenados; ἐν τῷ αἵματι indica o meio da purificação figurada."
   ],
   "exegeticalNotes": [
-    "A imagem paradoxal de branquear vestes em sangue aponta à eficácia da morte do Cordeiro. A grande tribulação admite diferentes delimitações interpretativas; compare Dn 12:1."
+    "A grande tribulação identifica a procedência da multidão, retomando o tema da provação de Ap 2:10.",
+    "O paradoxo de tornar vestes brancas pelo sangue relaciona a pureza dos redimidos à morte do Cordeiro."
   ],
   "words": [
     {

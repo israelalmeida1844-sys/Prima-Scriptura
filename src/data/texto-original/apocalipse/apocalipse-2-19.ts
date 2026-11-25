@@ -6,12 +6,12 @@ export const apocalipse2v19 = {
   "verse": 19,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Conheço tuas obras, teu amor, tua fé, teu serviço e tua perseverança, e sei que tuas últimas obras são mais numerosas que as primeiras.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Conheço as suas obras, o seu amor, a sua fé, o seu serviço e a sua perseverança, e sei que as suas últimas obras são mais numerosas que as primeiras.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἀγάπην καὶ τὴν πίστιν WH NA28 RP ] πίστιν καὶ τὴν ἀγάπην Treg. Cotejo lexical com o Textus Receptus de Scrivener (1894): «πίστιν» → «διακονίαν»; «διακονίαν» → «πίστιν»; acrescenta «καὶ» após «σου».",
   "exegeticalNotes": [
-    "O elogio destaca progresso nas obras, em contraste com a acusação que segue.",
-    "Fé e serviço coexistem com o problema de tolerância ao ensino descrito."
+    "A igreja é elogiada por amor, serviço e crescimento, em contraste com Éfeso.",
+    "O elogio não neutraliza a crítica à tolerância do ensino enganoso no versículo seguinte."
   ],
   "words": [
     {
@@ -643,7 +643,7 @@ export const apocalipse2v19 = {
     }
   ],
   "syntacticNotes": [
-    "πλείονα é comparativo acusativo neutro plural, relacionado a τὰ ἔργα, e τῶν πρώτων oferece o padrão comparativo genitivo; amor, fé, serviço e perseverança são qualidades elogiadas.",
-    "πλείονα, comparativo neutro plural, concorda com τὰ ἔργα; τῶν πρώτων é genitivo de comparação. A tradução pode suplementar 'sei', mas deve marcar que não há segundo Οἶδα expresso."
+    "A série de acusativos depende de Οἶδα; os genitivos σου qualificam o destinatário das obras e virtudes.",
+    "πλείονα é comparativo com genitivo de comparação τῶν πρώτων; a predicação final tem cópula elíptica."
   ]
 } as const;

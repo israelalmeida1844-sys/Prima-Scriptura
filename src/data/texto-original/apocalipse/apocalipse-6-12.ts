@@ -6,14 +6,16 @@ export const apocalipse6v12 = {
   "verse": 12,
   "source": "SBL Greek New Testament (SBLGNT) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "E vi quando abriu o sexto selo: houve um grande terremoto; o sol tornou-se negro como pano de saco de crina e a lua inteira tornou-se como sangue.",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "E vi quando abriu o sexto selo. Houve um grande terremoto, o sol ficou negro como pano de crina, e toda a lua tornou-se como sangue,",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἐγένετο μέλας WH Treg NA28 ] μέλας ἐγένετο RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἤνοιξεν» → «ἤνοιξε»; acrescenta «ἰδού» após «καὶ»; omite «ὅλη».",
   "syntacticNotes": [
-    "σεισμὸς μέγας é sujeito de ἐγένετο; σάκκος τρίχινος participa da comparação."
+    "ὅτε introduz a abertura; os três aoristos de γίνομαι descrevem as transformações sucessivas.",
+    "ὡς introduz as comparações do sol e da lua; τρίχινος qualifica σάκκος."
   ],
   "exegeticalNotes": [
-    "Os abalos cósmicos ecoam Is 13:10 e Jl 2:31. A leitura historicista adventista associa a esta sequência eventos como Lisboa (1755) e o Dia Escuro (1780), em diálogo com perspectivas escatológicas alternativas."
+    "As imagens evocam Jl 2:10,31 e Is 13:10, linguagem profética de crise cósmica.",
+    "O sexto selo passa das aflições e do clamor por justiça à manifestação do dia da ira."
   ],
   "words": [
     {

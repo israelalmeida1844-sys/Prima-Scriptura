@@ -5,15 +5,16 @@ export const apocalipse8v8 = {
   "verse": 8,
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados",
-  "translation": "O segundo anjo tocou a trombeta, e algo como uma grande montanha ardendo em fogo foi lançado ao mar; um terço do mar tornou-se sangue.",
-  "translationNote": "Tradução editorial contextual.",
+  "translation": "E o segundo anjo tocou a trombeta. Algo como uma grande montanha ardendo em fogo foi lançado ao mar, e a terça parte do mar tornou-se sangue,",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): πυρὶ WH Treg NA28 ] – RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐσάλπισεν» → «ἐσάλπισε».",
   "syntacticNotes": [
-    "ὡς introduz comparação, não identidade; καιόμενον concorda com ὄρος; αἷμα é predicativo.",
-    "πυρί é dativo associado a καιόμενον; τὸ τρίτον τῆς θαλάσσης é sujeito da oração com ἐγένετο."
+    "ὡς ὄρος μέγα introduz comparação; καιόμενον é particípio presente que caracteriza a montanha, com πυρί indicando meio ou condição.",
+    "τὸ τρίτον τῆς θαλάσσης é sujeito de ἐγένετο, e αἷμα é predicativo."
   ],
   "exegeticalNotes": [
-    "A imagem da montanha em chamas pode evocar Jr 51:25; não identifica explicitamente um poder histórico."
+    "A transformação das águas em sangue evoca Êx 7:20–21.",
+    "A montanha incendiada é introduzida por comparação; a imagem não deve ser convertida automaticamente em objeto físico ou identificação histórica única."
   ],
   "words": [
     {

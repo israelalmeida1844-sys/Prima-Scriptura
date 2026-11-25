@@ -5,14 +5,16 @@ export const apocalipse7v4 = {
   "verse": 4,
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
-  "translation": "E ouvi o número dos selados: cento e quarenta e quatro mil, selados de todas as tribos dos filhos de Israel:",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "E ouvi o número dos selados: cento e quarenta e quatro mil, selados de todas as tribos dos filhos de Israel.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἑκατὸν WH Treg NA28 ] + καὶ RP; ἐσφραγισμένοι WH Treg NA28 ] ἐσφραγισμένων RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἑκατὸν τεσσεράκοντα τέσσαρες» → «ρμδ».",
   "syntacticNotes": [
-    "τῶν ἐσφραγισμένων é particípio perfeito passivo substantivado; ἐσφραγισμένοι retoma os indivíduos enumerados."
+    "τὸν ἀριθμόν é objeto de ἤκουσα; τῶν ἐσφραγισμένων é genitivo substantivado.",
+    "O numeral e ἐσφραγισμένοι apresentam mudança para nominativo na especificação do número ouvido."
   ],
   "exegeticalNotes": [
-    "O número é ouvido, ao passo que a multidão é vista em 7:9. A relação entre os grupos e o caráter literal ou simbólico do número são questões interpretativas."
+    "O número 144 mil é organizado na lista de doze tribos, doze mil por tribo.",
+    "O caráter simbólico ou literal do número deve ser avaliado com a estrutura da lista e a multidão de Ap 7:9."
   ],
   "words": [
     {

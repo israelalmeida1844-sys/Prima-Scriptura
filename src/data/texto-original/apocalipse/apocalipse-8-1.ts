@@ -5,15 +5,16 @@ export const apocalipse8v1 = {
   "verse": 1,
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados",
-  "translation": "Quando abriu o sétimo selo, houve silêncio no céu por cerca de meia hora.",
-  "translationNote": "Tradução editorial contextual.",
+  "translation": "E quando abriu o sétimo selo, houve silêncio no céu por cerca de meia hora.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ὅταν WH Treg NA28 ] ὅτε RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ὅταν ἤνοιξεν» → «ὅτε ἤνοιξε».",
   "syntacticNotes": [
-    "ὅταν com ἤνοιξεν (aoristo indicativo) é construção temporal incomum; ὡς indica aproximação de duração.",
-    "τὴν σφραγῖδα τὴν ἑβδόμην é objeto direto com adjetivo atributivo na segunda posição; σιγή é sujeito de ἐγένετο; ἡμιώριον é acusativo de duração."
+    "ὅταν introduz oração temporal, mas ἤνοιξεν é aoristo indicativo; a combinação é irregular frente à regência usual com subjuntivo.",
+    "σιγή é sujeito de ἐγένετο; ὡς ἡμιώριον indica duração aproximada."
   ],
   "exegeticalNotes": [
-    "O silêncio sucede à abertura do selo; a duração aproximada não estabelece por si só uma cronologia profética."
+    "O silêncio contrasta com a liturgia e os clamores dos capítulos anteriores.",
+    "A meia hora é expressamente aproximada; uma conversão profética em unidade histórica exige argumentação independente."
   ],
   "words": [
     {

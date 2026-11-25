@@ -5,14 +5,16 @@ export const apocalipse7v11 = {
   "verse": 11,
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
-  "translation": "Todos os anjos estavam de pé ao redor do trono, dos anciãos e dos quatro seres viventes. Prostraram-se diante do trono, sobre seus rostos, e adoraram a Deus,",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "E todos os anjos estavam em pé ao redor do trono, dos anciãos e dos quatro seres viventes; prostraram-se diante do trono sobre seus rostos e adoraram a Deus,",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «εἱστήκεισαν» → «ἑστήκεσαν»; «ἔπεσαν» → «ἔπεσον»; «τὰ πρόσωπα» → «πρόσωπον».",
   "syntacticNotes": [
-    "εἱστήκεισαν é mais-que-perfeito com valor estativo; ἔπεσαν e προσεκύνησαν são aoristos narrativos."
+    "εἱστήκεισαν é mais-que-perfeito com valor de estado; κύκλῳ rege a série de genitivos.",
+    "ἔπεσαν e προσεκύνησαν são aoristos coordenados; τῷ θεῷ indica o destinatário da adoração."
   ],
   "exegeticalNotes": [
-    "A adoração amplia a cena de 7:10 e retoma a liturgia celestial de Ap 4–5."
+    "A cena reúne os participantes celestiais de Ap 4–5.",
+    "A adoração dos anjos responde à aclamação da multidão."
   ],
   "words": [
     {

@@ -6,11 +6,12 @@ export const apocalipse3v22 = {
   "verse": 22,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Quem tem ouvido, ouça o que o Espírito diz às igrejas.",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "\"Quem tem ouvidos ouça o que o Espírito diz às igrejas.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "exegeticalNotes": [
-    "Conclui o ciclo das sete cartas. A forma plural das igrejas estabelece alcance mais amplo das mensagens."
+    "A fórmula conclui a série de sete cartas e estende a mensagem a todas as igrejas.",
+    "O Espírito chama os leitores a acolher tanto o diagnóstico quanto a promessa de Cristo."
   ],
   "words": [
     {
@@ -256,6 +257,7 @@ export const apocalipse3v22 = {
     }
   ],
   "syntacticNotes": [
-    "ὁ ἔχων: particípio substantivado; ἀκουσάτω: imperativo aoristo 3ª singular; τί: interrogativa indireta; ταῖς ἐκκλησίαις: dativo plural."
+    "ὁ ἔχων é particípio substantivado, com οὖς como objeto; οὖν tem valor conclusivo.",
+    "ἀκουσάτω é imperativo aoristo de terceira pessoa, seguido de interrogativa indireta."
   ]
 } as const;

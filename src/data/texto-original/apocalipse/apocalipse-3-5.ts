@@ -6,11 +6,12 @@ export const apocalipse3v5 = {
   "verse": 5,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Assim, o vencedor será vestido com vestes brancas; de modo algum apagarei seu nome do livro da vida e confessarei seu nome diante de meu Pai e diante de seus anjos.",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "\"O vencedor será assim vestido de roupas brancas. De modo algum apagarei seu nome do livro da vida e confessarei seu nome diante de meu Pai e diante dos seus anjos.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): οὕτως WH Treg NA28 ] οὗτος RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «οὕτως» → «οὗτος»; «ὁμολογήσω» → «ἐξομολογήσομαι».",
   "exegeticalNotes": [
-    "A afirmação de que o nome não será apagado é promessa positiva. Não deduzir somente dela solução definitiva de controvérsias soteriológicas. «Livro da vida»: Ap 13:8; 17:8; 20:12,15; 21:27."
+    "O livro da vida evoca Êx 32:32–33 e Dn 12:1.",
+    "A promessa associa vestes, permanência do nome e reconhecimento diante da corte divina."
   ],
   "words": [
     {
@@ -810,6 +811,7 @@ export const apocalipse3v5 = {
     }
   ],
   "syntacticNotes": [
-    "ὁ νικῶν é particípio presente substantivado. οὐ μὴ ἐξαλείψω exprime negação enfática; a forma ἐξαλείψω merece discussão morfológica pela identidade formal possível entre futuro indicativo e aoristo subjuntivo 1ª singular. ὁμολογήσω é futuro."
+    "ὁ νικῶν é sujeito de περιβαλεῖται; οὐ μὴ ἐξαλείψω constitui promessa enfática.",
+    "ἐνώπιον rege dois genitivos coordenados que situam a confissão pública do nome."
   ]
 } as const;

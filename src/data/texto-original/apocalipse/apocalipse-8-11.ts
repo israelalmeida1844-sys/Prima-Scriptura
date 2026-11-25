@@ -5,15 +5,16 @@ export const apocalipse8v11 = {
   "verse": 11,
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados",
-  "translation": "O nome da estrela é Absinto. Um terço das águas tornou-se absinto, e muitos homens morreram por causa das águas, porque se tornaram amargas.",
-  "translationNote": "Tradução editorial contextual.",
+  "translation": "E o nome da estrela é chamado Absinto. A terça parte das águas tornou-se absinto, e muitas pessoas morreram por causa das águas, porque se tornaram amargas.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ὁ WH NA28 RP ] – Treg. Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «ὁ»; «ἐγένετο» → «γίνεται»; omite «τῶν».",
   "syntacticNotes": [
-    "λέγεται é presente passivo; ὅτι introduz causa; ἐπικράνθησαν é aoristo passivo.",
-    "εἰς ἄψινθον expressa o resultado da transformação; πολλοὶ τῶν ἀνθρώπων contém genitivo partitivo."
+    "λέγεται introduz a nomeação; ὁ Ἄψινθος está em nominativo de designação.",
+    "ἐγένετο εἰς ἄψινθον exprime transformação; ὅτι ἐπικράνθησαν explica a causa das mortes."
   ],
   "exegeticalNotes": [
-    "Absinto simboliza amargura; compare Jr 23:15. O texto distingue nome próprio e substância."
+    "O absinto é imagem de amargura e juízo, cf. Jr 9:15 e 23:15.",
+    "A repetição do nome como substância liga a identidade simbólica da estrela ao efeito nas águas."
   ],
   "words": [
     {

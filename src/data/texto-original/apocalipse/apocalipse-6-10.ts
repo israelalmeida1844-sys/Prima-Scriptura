@@ -6,14 +6,16 @@ export const apocalipse6v10 = {
   "verse": 10,
   "source": "SBL Greek New Testament (SBLGNT) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "E clamaram em alta voz: Até quando, ó Soberano santo e verdadeiro, não julgas e não fazes justiça pelo nosso sangue contra os habitantes da terra?",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "E clamaram em alta voz, dizendo: \"Até quando, Soberano, santo e verdadeiro, não julgas e não vindicas nosso sangue contra os habitantes da terra?\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἔκραξαν» → «ἔκραζον»; acrescenta «ὁ» após «καὶ»; «ἐκ» → «ἀπὸ».",
   "syntacticNotes": [
-    "ἔκραξαν é aoristo plural; Ἕως πότε introduz interrogação temporal; κρίνεις e ἐκδικεῖς são presentes."
+    "φωνῇ μεγάλῃ é dativo de modo; Ἕως πότε introduz a pergunta temporal do clamor.",
+    "κρίνεις e ἐκδικεῖς são predicados coordenados; τὸ αἷμα ἡμῶν designa a causa que demanda vindicação."
   ],
   "exegeticalNotes": [
-    "Ἕως πότε recupera a fórmula de apelo judicial do Antigo Testamento (Sl 79:5; Hc 1:2). δεσπότης exprime autoridade soberana."
+    "O clamor retoma a tradição dos lamentos por justiça, cf. Sl 79:5,10.",
+    "A pergunta dirige-se à santidade e veracidade de Deus, em vez de autorizar vingança privada."
   ],
   "words": [
     {

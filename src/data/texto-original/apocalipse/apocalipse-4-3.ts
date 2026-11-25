@@ -6,13 +6,12 @@ export const apocalipse4v3 = {
   "verse": 3,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Aquele que estava sentado tinha aparência semelhante ao brilho de jaspe e sárdio; e um arco-íris circundava o trono, semelhante, em aparência, à esmeralda.",
-  "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
+  "translation": "E aquele que estava sentado era semelhante, na aparência, à pedra de jaspe e à sardônica; e ao redor do trono havia um arco-íris semelhante, na aparência, à esmeralda.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): καὶ ὁ καθήμενος WH Treg NA28 ] – RP; ὅμοιος ὁράσει σμαραγδίνῳ WH Treg NA28 ] ὁμοίως ὅρασις σμαραγδίνων RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «ἦν» após «καθήμενος»; «σαρδίῳ» → «σαρδίνῳ»; «ὅμοιος» → «ὁμοία».",
   "exegeticalNotes": [
-    "Jaspe, sardônio e esmeralda formam linguagem simbólica de esplendor. Não é possível definir a identidade mineral moderna de cada pedra só pelo texto; comparar Ez 1:26–28 e Ap 21:11,19–20.",
-    "O termo σάρδιον designa o sárdio/cornalina; é distinto de σαρδόνυξ, o sardônio. A tradução editorial evita confundir duas pedras referidas de modo distinto em Ap 21:20.",
-    "As comparações de aparência (ὅμοιος ὁράσει) não autorizam fixar com precisão moderna as propriedades mineralógicas do jaspe ou do sárdio."
+    "As pedras e o arco-íris evocam Ez 1:26–28 e a majestade divina.",
+    "As comparações comunicam esplendor visionário, não uma descrição literal da composição de Deus."
   ],
   "words": [
     {
@@ -427,6 +426,7 @@ export const apocalipse4v3 = {
     }
   ],
   "syntacticNotes": [
-    "ὁ καθήμενος é particípio articular nominativo; ὅμοιος ὁράσει indica semelhança visual, não identidade material. λίθῳ ἰάσπιδι καὶ σαρδίῳ contêm dativos de comparação; ἶρις é nominativo feminino, enquanto ὅμοιος (masculino) manifesta concordância não regular da descrição; σμαραγδίνῳ é dativo."
+    "ὁ καθήμενος é sujeito substantivado; ὅμοιος rege os dativos de comparação λίθῳ ἰάσπιδι καὶ σαρδίῳ.",
+    "A segunda descrição emprega ἶρις, feminino, com ὅμοιος em forma masculina; preserva-se a irregularidade do texto."
   ]
 } as const;

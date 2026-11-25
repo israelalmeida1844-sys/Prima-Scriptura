@@ -6,12 +6,12 @@ export const apocalipse2v22 = {
   "verse": 22,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Eis que a lanço em um leito, e aos que adulteram com ela, em grande tribulação, se não se arrependerem das obras dela.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Eis que a lanço num leito, e os que adulteram com ela em grande tribulação, se não se arrependerem das obras dela.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): μετανοήσωσιν Treg NA28 RP ] μετανοήσουσιν WH. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «ἐγὼ» após «ἰδοὺ»; «αὐτῆς» → «αὐτῶν».",
   "exegeticalNotes": [
-    "O leito funciona como imagem de julgamento e possível ironia retórica.",
-    "A responsabilidade dos participantes é tratada juntamente com a condição de arrependimento."
+    "O leito associado à conduta ilícita torna-se imagem de aflição.",
+    "A condição de arrependimento preserva a possibilidade de mudança antes do juízo."
   ],
   "words": [
     {
@@ -499,7 +499,7 @@ export const apocalipse2v22 = {
     }
   ],
   "syntacticNotes": [
-    "βάλλω αὐτὴν εἰς κλίνην: 'lanço-a em um leito'. O leito pode funcionar ironicamente como imagem de enfermidade/juízo contraposta ao adultério; o texto não identifica clinicamente qualquer doença. ἐὰν μή introduz condicional de arrependimento.",
-    "βάλλω ... εἰς κλίνην estabelece imagem judicial de leito, não diagnóstico de doença. τοὺς μοιχεύοντας é particípio presente substantivado no acusativo."
+    "βάλλω rege αὐτήν e τοὺς μοιχεύοντας, com complementos de destino distintos.",
+    "ἐὰν μὴ μετανοήσωσιν estabelece a condição sob a qual a tribulação recai sobre os participantes."
   ]
 } as const;

@@ -6,11 +6,12 @@ export const apocalipse3v12 = {
   "verse": 12,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Ao vencedor farei coluna no templo do meu Deus, e ele jamais sairá de lá. Escreverei sobre ele o nome do meu Deus e o nome da cidade do meu Deus, a nova Jerusalém, que desce do céu da parte do meu Deus, e também meu novo nome.",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "\"Ao vencedor farei coluna no santuário do meu Deus, e de modo algum sairá dali. Escreverei sobre ele o nome do meu Deus, o nome da cidade do meu Deus, a nova Jerusalém, que desce do céu da parte do meu Deus, e o meu novo nome.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): καταβαίνουσα WH Treg NA28 ] καταβαίνει RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «καταβαίνουσα» → «καταβαίνει».",
   "exegeticalNotes": [
-    "A coluna é metáfora de estabilidade e pertença. A Nova Jerusalém descendo de Deus deve ser estudada com Ap 21:2,10; não inferir um templo material eterno, pois Ap 21:22 informa ausência de templo na cidade."
+    "A coluna no santuário representa estabilidade e pertencimento à presença divina.",
+    "Os três nomes unem identidade, cidade e Cristo; a descida da nova Jerusalém reaparece em Ap 21:2,10."
   ],
   "words": [
     {
@@ -1269,6 +1270,7 @@ export const apocalipse3v12 = {
     }
   ],
   "syntacticNotes": [
-    "ὁ νικῶν topicaliza o destinatário; ποιήσω αὐτὸν στῦλον contém objeto e predicativo. οὐ μὴ ἐξέλθῃ ἔτι é negação enfática; τῆς καινῆς Ἰερουσαλήμ qualifica a cidade. A repetição «meu Deus» estrutura a promessa."
+    "ὁ νικῶν é tópico nominativo retomado por αὐτόν; στῦλον é predicativo do objeto de ποιήσω.",
+    "ἡ καταβαίνουσα permanece nominativo após a expressão genitiva da cidade; a aposição irregular destaca a nova Jerusalém, e οὐ μή intensifica a promessa de permanência."
   ]
 } as const;

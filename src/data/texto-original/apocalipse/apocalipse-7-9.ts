@@ -5,14 +5,16 @@ export const apocalipse7v9 = {
   "verse": 9,
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
-  "translation": "Depois dessas coisas, vi uma grande multidão que ninguém podia contar, de toda nação, tribos, povos e línguas, de pé diante do trono e do Cordeiro, vestida de mantos brancos, com ramos de palmeira nas mãos.",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "Depois dessas coisas, vi, e eis uma grande multidão que ninguém podia contar, de toda nação, tribos, povos e línguas, em pé diante do trono e diante do Cordeiro, vestida de roupas brancas, com palmas nas mãos.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): αὐτὸν WH Treg NA28 ] – RP; ἑστῶτες WH Treg NA28 ] ἑστώτας RP; φοίνικες WH Treg NA28 ] φοίνικας RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐδύνατο» → «ἠδύνατο»; «περιβεβλημένους» → «περιβεβλημένοι».",
   "syntacticNotes": [
-    "ὃν ... αὐτόν é retomada pronominal na relativa; ἀριθμῆσαι complementa ἐδύνατο. O texto alterna ἑστῶτες nominativo e περιβεβλημένους acusativo, preservando a construção irregular."
+    "ὃν é objeto relativo retomado por αὐτόν, construção resumptiva; ἀριθμῆσαι complementa ἐδύνατο.",
+    "ἑστῶτες, nominativo plural, e περιβεβλημένους, acusativo plural, mudam a concordância em relação ao coletivo singular ὄχλος, refletindo suas pessoas componentes."
   ],
   "exegeticalNotes": [
-    "A universalidade da multidão ecoa Ap 5:9; as vestes brancas remetem a 6:11. As palmas evocam celebração e vitória; compare Lv 23:40 e Jo 12:13."
+    "A multidão incontável retoma a universalidade da redenção de Ap 5:9.",
+    "Vestes brancas e palmas comunicam vitória e celebração; cf. Lv 23:40. A relação entre a multidão e os 144 mil demanda análise literária."
   ],
   "words": [
     {

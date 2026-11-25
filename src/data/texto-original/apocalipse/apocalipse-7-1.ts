@@ -5,14 +5,16 @@ export const apocalipse7v1 = {
   "verse": 1,
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
-  "translation": "Depois disso, vi quatro anjos de pé nos quatro cantos da terra, retendo os quatro ventos da terra, para que nenhum vento soprasse sobre a terra, nem sobre o mar, nem sobre árvore alguma.",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "Depois disso, vi quatro anjos em pé nos quatro cantos da terra, segurando os quatro ventos da terra, para que nenhum vento soprasse sobre a terra, nem sobre o mar, nem sobre árvore alguma.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): Μετὰ WH NA28 ] Καὶ μετὰ Treg RP; πᾶν WH NA28 ] τι Treg RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «Καὶ» no início; «τοῦτο» → «ταῦτα».",
   "syntacticNotes": [
-    "Μετὰ τοῦτο introduz a sequência visionária. ἑστῶτας e κρατοῦντας concordam com ἀγγέλους; ἵνα μή com subjuntivo πνέῃ indica finalidade negativa."
+    "ἑστῶτας e κρατοῦντας concordam com τέσσαρας ἀγγέλους, objeto de εἶδον.",
+    "ἵνα μὴ πνέῃ indica finalidade; as expressões com ἐπί enumeram os domínios protegidos."
   ],
   "exegeticalNotes": [
-    "A retenção dos ventos precede o selamento (7:3); os quatro cantos expressam abrangência terrestre. Compare Jr 49:36 e Dn 7:2, sem equiparar automaticamente todos os símbolos."
+    "Os quatro cantos e ventos expressam abrangência da terra na linguagem visionária, cf. Zc 6:5.",
+    "A contenção dos ventos introduz a proteção que antecede os juízos."
   ],
   "words": [
     {

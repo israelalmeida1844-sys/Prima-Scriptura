@@ -6,15 +6,16 @@ export const apocalipse5v3 = {
   "verse": 3,
   "source": "SBL Greek New Testament via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Mas ninguém, nem no céu, nem sobre a terra, nem debaixo da terra, podia abrir o rolo ou olhar para ele.",
-  "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
+  "translation": "E ninguém podia, no céu, nem sobre a terra, nem debaixo da terra, abrir o rolo ou mesmo olhar para ele.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): οὐρανῷ WH Treg NA28 ] + ἄνω RP; οὐδὲ ἐπὶ τῆς γῆς οὐδὲ WH Treg NA28 ] οὔτε ἐπὶ τῆς γῆς οὔτε RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐδύνατο» → «ἠδύνατο»; «οὔτε» → «οὐδὲ».",
   "syntacticNotes": [
-    "οὐδεὶς é sujeito da forma verbal ἐδύνατο; os infinitivos ἀνοῖξαι e βλέπειν completam a noção de capacidade.",
-    "As locuções espaciais ligadas por οὐδέ apresentam sequência de localizações abrangentes."
+    "οὐδείς é sujeito de ἐδύνατο, que rege ἀνοῖξαι e βλέπειν.",
+    "As expressões locativas coordenadas por οὐδέ abrangem os três domínios; οὔτε amplia a negação da capacidade."
   ],
   "exegeticalNotes": [
-    "A tríplice enumeração espacial dramatiza a incapacidade universal de criaturas de abrir o livro."
+    "A enumeração estabelece a incapacidade das criaturas em todos os domínios da visão.",
+    "A ausência de alguém digno prepara a reação de João e a revelação do vencedor."
   ],
   "words": [
     {

@@ -5,15 +5,16 @@ export const apocalipse8v6 = {
   "verse": 6,
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados",
-  "translation": "Os sete anjos que tinham as sete trombetas prepararam-se para tocá-las.",
-  "translationNote": "Tradução editorial contextual.",
+  "translation": "E os sete anjos que tinham as sete trombetas prepararam-se para tocar as trombetas.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): αὑτοὺς WH ] αὐτοὺς Treg NA28; ἑαυτοὺς RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «αὑτοὺς» → «ἑαυτοὺς»; «σαλπίσωσιν» → «σαλπίσωσι».",
   "syntacticNotes": [
-    "αὑτούς é pronome reflexivo; ἵνα com σαλπίσωσιν expressa finalidade.",
-    "οἱ ἔχοντες é particípio atributivo em aposição aos anjos; τὰς ἑπτὰ σάλπιγγας é seu objeto."
+    "οἱ ἔχοντες é particípio atributivo de οἱ ἑπτὰ ἄγγελοι.",
+    "αὑτούς é objeto reflexivo de ἡτοίμασαν; ἵνα σαλπίσωσιν exprime a finalidade da preparação."
   ],
   "exegeticalNotes": [
-    "A preparação liga a cena do altar à série das trombetas."
+    "O versículo encerra a preparação iniciada em Ap 8:2.",
+    "A organização explícita do septenário enquadra as cenas sucessivas, iniciadas no versículo seguinte."
   ],
   "words": [
     {

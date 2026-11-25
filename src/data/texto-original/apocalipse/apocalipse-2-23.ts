@@ -6,12 +6,12 @@ export const apocalipse2v23 = {
   "verse": 23,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "E matarei seus filhos com morte; todas as igrejas saberão que eu sou aquele que sonda rins e corações, e darei a cada um de vós segundo as vossas obras.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Matarei os filhos dela com a morte, e todas as igrejas saberão que eu sou aquele que sonda rins e corações. Darei a cada um de vocês segundo as suas obras.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐραυνῶν» → «ἐρευνῶν».",
   "exegeticalNotes": [
-    "O julgamento afirma o conhecimento divino da interioridade e das obras.",
-    "Rins e coração representam dimensões da vida interior em linguagem semítica."
+    "Sondar rins e corações evoca Jr 17:10 e Sl 7:9, linguagem de conhecimento das disposições interiores.",
+    "O julgamento serve de advertência às igrejas e estabelece responsabilidade individual."
   ],
   "words": [
     {
@@ -691,7 +691,7 @@ export const apocalipse2v23 = {
     }
   ],
   "syntacticNotes": [
-    "ὁ ἐραυνῶν νεφροὺς καὶ καρδίας: 'aquele que sonda rins e corações'. A linguagem hebraica de interioridade e juízo ecoa Jr 11:20; 17:10 e Sl 7:9, sem exigir identidade verbal absoluta entre versões. ἀποκτενῶ ἐν θανάτῳ expressa sanção judicial em formulação enfática.",
-    "ἀποκτενῶ ἐν θανάτῳ é expressão enfática; νεφρούς e καρδίας representam o foro interior em linguagem antropológica bíblica. Aplicação histórica concreta requer evidências independentes."
+    "ἐν θανάτῳ é expressão instrumental ou intensificadora com ἀποκτενῶ; ὅτι introduz o conteúdo de γνώσονται.",
+    "ὁ ἐραυνῶν é particípio substantivado predicativo de ἐγώ; ἑκάστῳ individualiza os destinatários da retribuição."
   ]
 } as const;

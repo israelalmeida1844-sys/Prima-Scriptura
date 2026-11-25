@@ -6,16 +6,16 @@ export const apocalipse5v1 = {
   "verse": 1,
   "source": "SBL Greek New Testament via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "E vi na mão direita daquele que estava sentado no trono um rolo escrito por dentro e por trás, completamente selado com sete selos.",
-  "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
+  "translation": "E vi sobre a mão direita daquele que estava sentado no trono um rolo escrito por dentro e por trás, selado com sete selos.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ὄπισθεν WH Treg NA28 ] ἔξωθεν RP. O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "syntacticNotes": [
-    "ἐπὶ τὴν δεξιάν forma um sintagma preposicional no acusativo associado à localização do livro.",
-    "γεγραμμένον e κατεσφραγισμένον são particípios perfeitos passivos, acusativo singular neutro, concordando com βιβλίον.",
-    "σφραγῖσιν ἑπτά expressa o instrumento ou meio do selamento, com substantivo no dativo plural."
+    "βιβλίον é objeto direto de εἶδον; γεγραμμένον e κατεσφραγισμένον são particípios perfeitos passivos que descrevem seu estado.",
+    "ἐπὶ τὴν δεξιάν é expressão de localização; σφραγῖσιν ἑπτά é dativo instrumental."
   ],
   "exegeticalNotes": [
-    "O livro escrito em ambas as faces recorda Ez 2:9–10; a visão se relaciona com a cena do trono de Apocalipse 4."
+    "A escrita em ambas as faces evoca o rolo de Ez 2:9–10.",
+    "Os sete selos indicam fechamento e inacessibilidade, criando a questão narrativa da abertura."
   ],
   "words": [
     {

@@ -5,14 +5,16 @@ export const apocalipse7v5 = {
   "verse": 5,
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
-  "translation": "da tribo de Judá, doze mil selados; da tribo de Rúben, doze mil; da tribo de Gade, doze mil;",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "Da tribo de Judá, doze mil selados; da tribo de Rúben, doze mil; da tribo de Gade, doze mil,",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἐσφραγισμένοι WH Treg NA28 ] ἐσφραγισμέναι RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «δώδεκα» → «ιβ»; «δώδεκα» → «ιβ»; acrescenta «ἐσφραγισμένοι» após «χιλιάδες»; «δώδεκα» → «ιβ»; acrescenta «ἐσφραγισμένοι» após «χιλιάδες».",
   "syntacticNotes": [
-    "ἐκ rege genitivo; δώδεκα χιλιάδες é expressão numeral; o particípio perfeito passivo explicita o estado de selados."
+    "As expressões ἐκ φυλῆς são fórmulas partitivas de procedência, repetidas em paralelo.",
+    "ἐσφραγισμένοι é particípio perfeito passivo masculino plural que qualifica as pessoas contadas."
   ],
   "exegeticalNotes": [
-    "Judá abre a lista, diferentemente da ordem de nascimento em Gn 29. Ap 5:5 fornece contexto cristológico possível, sem afirmar a razão da ordem."
+    "Judá abre a lista, diferentemente de listas que começam por Rúben; cf. Gn 49 e Ap 5:5.",
+    "A distribuição regular de doze mil estabelece a estrutura do total ouvido."
   ],
   "words": [
     {

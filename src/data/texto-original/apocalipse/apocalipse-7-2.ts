@@ -5,14 +5,16 @@ export const apocalipse7v2 = {
   "verse": 2,
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
-  "translation": "E vi outro anjo subindo do nascente do sol, tendo o selo do Deus vivo. Ele clamou em alta voz aos quatro anjos aos quais fora concedido causar dano à terra e ao mar,",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "E vi outro anjo que subia do nascente do sol, tendo o selo do Deus vivo. Ele clamou em alta voz aos quatro anjos aos quais fora concedido danificar a terra e o mar,",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἔκραξεν» → «ἔκραξε».",
   "syntacticNotes": [
-    "ἀναβαίνοντα e ἔχοντα modificam ἄγγελον; οἷς introduz relativa, com dativo retomado por αὐτοῖς; ἀδικῆσαι completa ἐδόθη."
+    "ἀναβαίνοντα e ἔχοντα concordam com ἄλλον ἄγγελον, objeto de εἶδον.",
+    "οἷς é dativo relativo retomado por αὐτοῖς; ἀδικῆσαι especifica a autoridade concedida."
   ],
   "exegeticalNotes": [
-    "O selo pertence ao Deus vivo; a direção do nascente não identifica por si só o anjo com Cristo. A autoridade dos quatro anjos é limitada pelo mandamento seguinte."
+    "O selo do Deus vivo é o elemento que distingue a missão do novo mensageiro.",
+    "A contenção do dano é explicitada pela ordem do versículo seguinte."
   ],
   "words": [
     {

@@ -6,14 +6,16 @@ export const apocalipse6v13 = {
   "verse": 13,
   "source": "SBL Greek New Testament (SBLGNT) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "E as estrelas do céu caíram sobre a terra como a figueira lança os figos temporãos quando sacudida por vento forte.",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "e as estrelas do céu caíram na terra, como a figueira lança seus figos temporãos quando sacudida por um vento forte,",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): βάλλει WH Treg NA28 ] βαλοῦσα RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «μεγάλου» após «ὑπὸ»; omite «μεγάλου».",
   "syntacticNotes": [
-    "οἱ ἀστέρες é sujeito de ἔπεσαν; σειομένη é particípio presente passivo feminino referente à figueira."
+    "οἱ ἀστέρες é sujeito de ἔπεσαν; εἰς τὴν γῆν indica direção.",
+    "ὡς introduz oração comparativa com συκῆ como sujeito; σειομένη concorda com a figueira e ὑπὸ ἀνέμου indica agente."
   ],
   "exegeticalNotes": [
-    "A figueira e seus figos temporãos formam comparação para a queda das estrelas. A associação à chuva de meteoros de 1833 é aplicação historicista, não tradução lexical."
+    "A queda das estrelas evoca a linguagem de Is 34:4.",
+    "A comparação com figos sacudidos destaca a intensidade da desordem celeste."
   ],
   "words": [
     {

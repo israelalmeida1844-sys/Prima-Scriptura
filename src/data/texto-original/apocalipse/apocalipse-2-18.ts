@@ -6,12 +6,12 @@ export const apocalipse2v18 = {
   "verse": 18,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "E ao anjo da igreja em Tiatira escreve: Assim diz o Filho de Deus, aquele que tem olhos como chama de fogo, e cujos pés são semelhantes a metal brilhante:",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "E ao anjo da igreja em Tiatira, escreva: \"Assim diz o Filho de Deus, aquele que tem os olhos como chama de fogo e cujos pés são semelhantes a metal brilhante:\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): τῆς Treg NA28 RP ] τῷ WH. O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "exegeticalNotes": [
-    "A imagem de Cristo com olhos como fogo e pés brilhantes fundamenta a avaliação de Tiatira.",
-    "O título Filho de Deus liga a carta à cristologia do Apocalipse."
+    "As imagens retomam Ap 1:14–15; o título Filho de Deus identifica explicitamente a figura.",
+    "Os olhos e os pés preparam a declaração de conhecimento e julgamento de Ap 2:23."
   ],
   "words": [
     {
@@ -692,7 +692,7 @@ export const apocalipse2v18 = {
     }
   ],
   "syntacticNotes": [
-    "ὁ υἱὸς τοῦ θεοῦ é título cristológico explícito singular nesta formulação no Apocalipse. O texto apresenta ὡς φλόγα πυρός (como chama de fogo), e χαλκολιβάνῳ, termo metalúrgico raro que também ocorre em 1:15; não é hapax do Novo Testamento.",
-    "ὁ υἱὸς τοῦ θεοῦ identifica o sujeito da mensagem; o dativo χαλκολιβάνῳ depende de ὅμοιοι. Evitar definir composição metalúrgica incerta como fato."
+    "ὁ υἱὸς τοῦ θεοῦ é sujeito de λέγει; ὁ ἔχων é designação apositiva.",
+    "Na última oração, οἱ πόδες é sujeito nominativo e ὅμοιοι predicativo, com χαλκολιβάνῳ em dativo de comparação."
   ]
 } as const;

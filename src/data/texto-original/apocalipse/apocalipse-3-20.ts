@@ -6,11 +6,12 @@ export const apocalipse3v20 = {
   "verse": 20,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Eis que estou à porta e bato. Se alguém ouvir minha voz e abrir a porta, entrarei para estar com ele e cearei com ele, e ele comigo.",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "\"Eis que estou à porta e bato. Se alguém ouvir a minha voz e abrir a porta, entrarei em sua casa e cearei com ele, e ele comigo.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): καὶ NA28 RP ] – WH Treg. Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «καὶ».",
   "exegeticalNotes": [
-    "O convite retórico à comunhão de mesa é dirigido inicialmente ao âmbito de uma comunidade cristã; a aplicação evangelística a indivíduos é possível, mas secundária em relação ao endereço literário."
+    "A imagem da porta expressa convite e resposta pessoal dentro da mensagem à igreja.",
+    "A refeição compartilhada comunica comunhão, em contraste com a rejeição iminente de Ap 3:16."
   ],
   "words": [
     {
@@ -714,6 +715,7 @@ export const apocalipse3v20 = {
     }
   ],
   "syntacticNotes": [
-    "ἕστηκα é perfeito ativo de ἵστημι com sentido estativo: «estou de pé»; κρούω é presente: «bato». ἐάν ... ἀκούσῃ ... ἀνοίξῃ estabelece condição; δειπνήσω é futuro."
+    "ἕστηκα é perfeito com valor de estado presente; κρούω é presente ativo.",
+    "ἐάν rege dois subjuntivos coordenados; a consequência é expressa por futuros, e a última oração tem verbo elíptico."
   ]
 } as const;

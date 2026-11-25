@@ -6,11 +6,12 @@ export const apocalipse3v2 = {
   "verse": 2,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Sê vigilante e fortalece o que resta e estava prestes a morrer, pois não encontrei tuas obras completas diante de meu Deus.",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "\"Torne-se vigilante e fortaleça o que resta, que estava prestes a morrer, pois não achei as suas obras completas diante do meu Deus.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἔμελλον ἀποθανεῖν WH Treg NA28 ] ἔμελλες ἀποβάλλειν RP; τὰ Treg NA28 RP ] – WH. Cotejo lexical com o Textus Receptus de Scrivener (1894): «στήρισον» → «στήριξον»; «ἔμελλον» → «μέλλει»; omite «μου».",
   "exegeticalNotes": [
-    "A passagem exige distinguir «restante» de «outras pessoas» sem impor referente fechado. πεπληρωμένα é particípio perfeito passivo predicativo das obras, descrevendo sua insuficiência perante Deus."
+    "A advertência supõe que ainda existe algo a ser preservado.",
+    "O critério é a avaliação diante de Deus, não o prestígio diante da comunidade."
   ],
   "words": [
     {
@@ -498,6 +499,7 @@ export const apocalipse3v2 = {
     }
   ],
   "syntacticNotes": [
-    "γίνου γρηγορῶν combina imperativo e particípio: «torna-te vigilante/permanece vigilante». στήρισον é imperativo aoristo. τὰ λοιπά é neutro plural; ἔμελλον é plural imperfeito e ἀποθανεῖν infinitivo."
+    "γίνου γρηγορῶν combina imperativo e particípio predicativo; στήρισον ordena o fortalecimento.",
+    "τὰ λοιπά é objeto substantivado; πεπληρωμένα é particípio perfeito passivo predicativo de τὰ ἔργα após εὕρηκα."
   ]
 } as const;

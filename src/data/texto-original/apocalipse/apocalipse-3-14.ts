@@ -6,11 +6,12 @@ export const apocalipse3v14 = {
   "verse": 14,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Ao anjo da igreja em Laodiceia escreve: Assim diz o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus:",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "E ao anjo da igreja em Laodiceia, escreva: \"Assim diz o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus:\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): καὶ Treg NA28 RP ] + ὁ WH. Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «ἐν Λαοδικείᾳ»; acrescenta «Λαοδικέων» após «ἐκκλησίας».",
   "exegeticalNotes": [
-    "Não afirmar que o texto diz literalmente «primeira criatura» nem excluir a priori debates cristológicos históricos. Comparar Jo 1:1–3; Cl 1:15–18; Ap 21:6; 22:13 para avaliação intertextual."
+    "Os títulos retomam a fidelidade da testemunha de Ap 1:5 e a linguagem de Is 65:16.",
+    "O sentido cristológico de ἀρχή deve ser avaliado no conjunto do livro e da teologia da criação, não deduzido apenas de uma glosa."
   ],
   "words": [
     {
@@ -595,6 +596,7 @@ export const apocalipse3v14 = {
     }
   ],
   "syntacticNotes": [
-    "ὁ Ἀμήν funciona como título; ὁ μάρτυς ὁ πιστός ... ἀληθινός retoma 1:5. ἡ ἀρχὴ τῆς κτίσεως τοῦ θεοῦ contém genitivo; ἀρχή abrange início, origem e primazia, com escolha exegética dependente do contexto."
+    "ὁ Ἀμήν, ὁ μάρτυς e ἡ ἀρχή são títulos apositivos; a diferença de gênero decorre dos substantivos.",
+    "τῆς κτίσεως τοῦ θεοῦ é genitivo dependente de ἀρχή; a construção não decide isoladamente entre sentidos de começo, origem ou primazia."
   ]
 } as const;

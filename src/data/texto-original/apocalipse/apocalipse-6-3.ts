@@ -6,14 +6,16 @@ export const apocalipse6v3 = {
   "verse": 3,
   "source": "SBL Greek New Testament (SBLGNT) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Quando abriu o segundo selo, ouvi o segundo ser vivente dizer: Vem!",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "E quando abriu o segundo selo, ouvi o segundo ser vivente dizer: \"Venha!\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): σφραγῖδα τὴν δευτέραν WH Treg NA28 ] δευτέραν σφραγῖδα RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἤνοιξεν τὴν σφραγῖδα» → «ἤνοιξε»; acrescenta «σφραγῖδα» após «δευτέραν»; acrescenta «καὶ βλέπε» após «Ἔρχου».",
   "syntacticNotes": [
-    "τὴν σφραγῖδα τὴν δευτέραν contém adjetivo em posição atributiva; λέγοντος é particípio genitivo."
+    "ὅτε estabelece a sequência temporal; τὴν σφραγῖδα τὴν δευτέραν é objeto com adjetivo atributivo.",
+    "τοῦ δευτέρου ζῴου e λέγοντος estão no genitivo dependente da audição."
   ],
   "exegeticalNotes": [
-    "A convocação pelo segundo ser vivente é paralela à do primeiro e deve preservar a leitura textual adotada."
+    "A repetição da convocação estrutura os quatro primeiros selos.",
+    "O segundo ser vivente introduz uma nova cena, sem acrescentar um referente histórico por si mesmo."
   ],
   "words": [
     {

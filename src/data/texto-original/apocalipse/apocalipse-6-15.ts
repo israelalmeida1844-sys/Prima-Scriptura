@@ -6,14 +6,16 @@ export const apocalipse6v15 = {
   "verse": 15,
   "source": "SBL Greek New Testament (SBLGNT) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Os reis da terra, os grandes, os comandantes, os ricos, os poderosos e todo escravo e livre esconderam-se nas cavernas e rochas dos montes.",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "E os reis da terra, os dignitários, os comandantes militares, os ricos, os poderosos, todo escravo e livre esconderam-se nas cavernas e nas rochas dos montes,",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «πλούσιοι καὶ οἱ» após «οἱ»; «πλούσιοι καὶ οἱ ἰσχυροὶ» → «δυνατοί»; acrescenta «πᾶς» após «καὶ».",
   "syntacticNotes": [
-    "Os grupos coordenados são sujeito de ἔκρυψαν; ἑαυτούς é pronome reflexivo."
+    "A longa série de sujeitos nominativos converge em ἔκρυψαν; ἑαυτούς é objeto reflexivo.",
+    "As expressões coordenadas com εἰς indicam os locais do esconderijo."
   ],
   "exegeticalNotes": [
-    "A lista alcança elites políticas, militares e econômicas, e inclui escravos e livres; a universalidade impede sua redução a uma única classe."
+    "A enumeração inclui autoridades, ricos e pessoas de diferentes condições sociais.",
+    "O motivo de esconder-se nas rochas evoca Is 2:10,19–21 diante da manifestação divina."
   ],
   "words": [
     {

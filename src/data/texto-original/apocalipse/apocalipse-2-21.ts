@@ -6,12 +6,12 @@ export const apocalipse2v21 = {
   "verse": 21,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Dei-lhe tempo para arrepender-se, mas ela não quer arrepender-se de sua imoralidade sexual.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Dei-lhe tempo para que se arrependesse, mas ela não quer arrepender-se de sua imoralidade sexual.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «καὶ οὐ θέλει μετανοῆσαι»; acrescenta «καὶ οὐ μετενόησεν» após «αὐτῆς».",
   "exegeticalNotes": [
-    "A oferta de tempo para arrependimento antecede a sentença.",
-    "O texto distingue a oportunidade oferecida da resistência da personagem."
+    "A iniciativa de conceder tempo precede o anúncio do julgamento.",
+    "O contraste entre oportunidade e recusa situa a responsabilidade na resposta à advertência."
   ],
   "words": [
     {
@@ -354,7 +354,7 @@ export const apocalipse2v21 = {
     }
   ],
   "syntacticNotes": [
-    "ἔδωκα é aoristo ativo indicativo, primeira pessoa singular. A sequência ἵνα μετανοήσῃ e οὐ θέλει μετανοῆσαι distingue oportunidade concedida e recusa persistente.",
-    "ἵνα μετανοήσῃ apresenta a finalidade do tempo concedido; οὐ θέλει μετανοῆσαι indica recusa. A referência à πορνεία deve permanecer contextual, sem reconstrução histórica inventada."
+    "χρόνον é objeto de ἔδωκα; αὐτῇ é dativo de destinatário.",
+    "ἵνα μετανοήσῃ expressa finalidade; οὐ θέλει com infinitivo nega disposição para arrepender-se."
   ]
 } as const;

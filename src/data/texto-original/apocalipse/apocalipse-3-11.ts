@@ -6,11 +6,12 @@ export const apocalipse3v11 = {
   "verse": 11,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Venho sem demora. Conserva o que tens, para que ninguém tome tua coroa.",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "\"Venho em breve. Conserve o que você tem, para que ninguém tome a sua coroa.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «ἰδού» no início.",
   "exegeticalNotes": [
-    "στέφανος designa coroa de honra/vitória e não deve ser confundido com διάδημα; a exortação concentra-se na perseverança."
+    "A promessa da vinda fundamenta a perseverança.",
+    "A coroa retoma a recompensa do vencedor, cf. Ap 2:10."
   ],
   "words": [
     {
@@ -282,6 +283,7 @@ export const apocalipse3v11 = {
     }
   ],
   "syntacticNotes": [
-    "ἔρχομαι ταχύ é presente com advérbio de prontidão; κράτει é imperativo presente ativo 2ª singular; ἵνα μηδεὶς λάβῃ apresenta subjuntivo aoristo em cláusula de finalidade."
+    "ἔρχομαι tem valor prospectivo com ταχύ; κράτει é imperativo presente.",
+    "ὃ ἔχεις é relativa livre, objeto de κράτει; ἵνα μηδεὶς λάβῃ indica finalidade preventiva."
   ]
 } as const;

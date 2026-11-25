@@ -6,11 +6,12 @@ export const apocalipse3v7 = {
   "verse": 7,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Ao anjo da igreja em Filadélfia escreve: Assim diz o Santo, o Verdadeiro, aquele que tem a chave de Davi, que abre e ninguém fechará, que fecha e ninguém abre:",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "E ao anjo da igreja em Filadélfia, escreva: \"Assim diz o Santo, o Verdadeiro, aquele que tem a chave de Davi, que abre e ninguém fechará, e fecha e ninguém abre:\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): Δαυίδ WH Treg NA28 ] τοῦ Δαυίδ RP; καὶ κλείων WH Treg NA28 ] αὐτήν εἴ μὴ ὁ ἀνοίγων RP; ἀνοίγει WH Treg NA28 ] ἀνοίξει RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «κλεῖν Δαυίδ» → «κλεῖδα τοῦ Δαβίδ»; «κλείσει» → «κλείει»; «κλείων» → «κλείει».",
   "exegeticalNotes": [
-    "A chave de Davi evoca Isaías 22:22; interpretar tipologicamente a autoridade de Cristo sem identificar automaticamente cada abertura com atividade missionária."
+    "A chave de Davi evoca Is 22:22, imagem da autoridade de abrir e fechar.",
+    "O título fundamenta a porta aberta mencionada em Ap 3:8."
   ],
   "words": [
     {
@@ -717,6 +718,7 @@ export const apocalipse3v7 = {
     }
   ],
   "syntacticNotes": [
-    "ὁ ἅγιος, ὁ ἀληθινός e ὁ ἔχων são designações substantivadas coordenadas. τὴν κλεῖν Δαυίδ é objeto de ἔχων; ὁ ἀνοίγων e κλείων descrevem autoridade."
+    "As designações articuladas ὁ ἅγιος, ὁ ἀληθινός e ὁ ἔχων são apositivas ao sujeito de λέγει.",
+    "ὁ ἀνοίγων e κλείων introduzem ações contrastadas com os predicados de οὐδείς."
   ]
 } as const;

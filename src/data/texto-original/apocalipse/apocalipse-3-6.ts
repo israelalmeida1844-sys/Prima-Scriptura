@@ -6,11 +6,12 @@ export const apocalipse3v6 = {
   "verse": 6,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Quem tem ouvido, ouça o que o Espírito diz às igrejas.",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "\"Quem tem ouvidos ouça o que o Espírito diz às igrejas.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "exegeticalNotes": [
-    "O plural «igrejas» generaliza a exortação, embora a mensagem local se dirija à comunidade de Sardes."
+    "O chamado final se dirige a todas as comunidades, não apenas a Sardes.",
+    "O Espírito transmite a avaliação e a promessa comunicadas por Cristo."
   ],
   "words": [
     {
@@ -256,6 +257,7 @@ export const apocalipse3v6 = {
     }
   ],
   "syntacticNotes": [
-    "ὁ ἔχων é sujeito do imperativo de terceira pessoa ἀκουσάτω; τί introduz interrogativa indireta («o que»), τὸ πνεῦμα é sujeito de λέγει; ταῖς ἐκκλησίαις dativo de destinatário."
+    "ὁ ἔχων é sujeito substantivado de ἀκουσάτω.",
+    "τί introduz interrogativa indireta e ταῖς ἐκκλησίαις indica os destinatários."
   ]
 } as const;

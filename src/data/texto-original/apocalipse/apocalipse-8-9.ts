@@ -5,15 +5,16 @@ export const apocalipse8v9 = {
   "verse": 9,
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados",
-  "translation": "Morreu um terço das criaturas vivas do mar, e um terço dos navios foi destruído.",
-  "translationNote": "Tradução editorial contextual.",
+  "translation": "e morreu a terça parte das criaturas que estavam no mar, as que tinham vida, e a terça parte dos navios foi destruída.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): τῶν WH Treg NA28 ] – RP; διεφθάρησαν WH Treg NA28 ] διεφθάρη RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «διεφθάρησαν» → «διεφθάρη».",
   "syntacticNotes": [
-    "τὰ ἔχοντα ψυχάς caracteriza as criaturas; διεφθάρησαν é plural com referência aos navios.",
-    "O singular ἀπέθανε concorda com τὸ τρίτον; o nominativo neutro plural τὰ ἔχοντα retoma semanticamente κτισμάτων, apesar do genitivo anterior."
+    "τὸ τρίτον é sujeito singular de ἀπέθανε; τὰ ἔχοντα ψυχάς especifica os seres vivos.",
+    "τὸ τρίτον τῶν πλοίων recebe o verbo plural διεφθάρησαν, concordância semântica com os navios."
   ],
   "exegeticalNotes": [
-    "O alcance parcial do juízo é enfatizado pela repetição da fração."
+    "O dano se estende da água aos seres vivos e à navegação.",
+    "O motivo da morte aquática desenvolve a alusão à praga do Egito, mantendo o caráter parcial do juízo."
   ],
   "words": [
     {

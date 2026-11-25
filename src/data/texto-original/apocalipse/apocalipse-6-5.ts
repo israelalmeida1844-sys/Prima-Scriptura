@@ -6,14 +6,16 @@ export const apocalipse6v5 = {
   "verse": 5,
   "source": "SBL Greek New Testament (SBLGNT) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Quando abriu o terceiro selo, ouvi o terceiro ser vivente dizer: Vem! E vi um cavalo negro, cujo cavaleiro tinha uma balança na mão.",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "E quando abriu o terceiro selo, ouvi o terceiro ser vivente dizer: \"Venha!\" E vi, e eis um cavalo negro; aquele que estava montado nele tinha uma balança na mão.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): εἶδον WH Treg NA28 ] ἴδε RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «τρίτην» após «τὴν»; omite «τὴν τρίτην»; acrescenta «καὶ βλέπε» após «Ἔρχου»; «αὐτὸν» → «αὐτῷ».",
   "syntacticNotes": [
-    "ἔχων é particípio presente ativo, nominativo singular masculino; ζυγόν é seu objeto."
+    "A abertura temporal é seguida do genitivo de audição τοῦ τρίτου ζῴου e do particípio λέγοντος.",
+    "ζυγόν é objeto de ἔχων; ἐν τῇ χειρὶ αὐτοῦ indica localização."
   ],
   "exegeticalNotes": [
-    "ζυγός descreve um instrumento de pesagem que, associado à economia dos cereais, sugere escassez."
+    "A balança prepara a determinação de preços de alimentos em Ap 6:6.",
+    "A imagem aponta para medição e escassez; a identificação histórica deve considerar o conjunto da visão."
   ],
   "words": [
     {

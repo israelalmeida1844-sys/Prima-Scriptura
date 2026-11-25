@@ -5,15 +5,16 @@ export const apocalipse8v4 = {
   "verse": 4,
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados",
-  "translation": "E a fumaça dos incensos subiu, com as orações dos santos, da mão do anjo diante de Deus.",
-  "translationNote": "Tradução editorial contextual.",
+  "translation": "E a fumaça do incenso subiu, com as orações dos santos, da mão do anjo diante de Deus.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "syntacticNotes": [
-    "ταῖς προσευχαῖς é dativo de associação no contexto; ἐκ indica origem.",
-    "ὁ καπνός é sujeito; τῶν θυμιαμάτων é genitivo de origem; ἐνώπιον τοῦ θεοῦ indica presença."
+    "ὁ καπνός é sujeito de ἀνέβη, qualificado pelo genitivo τῶν θυμιαμάτων.",
+    "O dativo ταῖς προσευχαῖς indica associação; ἐκ χειρός expressa origem e ἐνώπιον τοῦ θεοῦ, direção ou posição."
   ],
   "exegeticalNotes": [
-    "A subida da fumaça associa a cena às orações dos santos; compare Sl 141:2."
+    "A subida do incenso representa as orações apresentadas diante de Deus, cf. Sl 141:2.",
+    "A cena conecta o culto celestial à situação dos santos antes do início das trombetas."
   ],
   "words": [
     {

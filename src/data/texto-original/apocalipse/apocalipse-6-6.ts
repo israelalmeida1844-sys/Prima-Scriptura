@@ -6,14 +6,16 @@ export const apocalipse6v6 = {
   "verse": 6,
   "source": "SBL Greek New Testament (SBLGNT) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "E ouvi como uma voz no meio dos quatro seres viventes: Uma medida de trigo por um denário e três medidas de cevada por um denário! Não prejudiques o azeite nem o vinho.",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "E ouvi algo como uma voz no meio dos quatro seres viventes, dizendo: \"Uma medida de trigo por um denário, e três medidas de cevada por um denário; não danifique o azeite nem o vinho.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ὡς WH Treg NA28 ] – RP; κριθῶν WH Treg NA28 ] κριθῆς RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «ὡς»; «κριθῶν» → «κριθῆς».",
   "syntacticNotes": [
-    "χοῖνιξ designa medida de cereal e o genitivo δηναρίου o preço; μὴ ἀδικήσῃς é proibição com aoristo subjuntivo."
+    "λέγουσαν concorda com φωνήν; Χοῖνιξ σίτου e τρεῖς χοίνικες κριθῶν formam enunciados nominais de preço, com genitivo δηναρίου.",
+    "μή com subjuntivo aoristo ἀδικήσῃς constitui proibição; azeite e vinho são objetos coordenados."
   ],
   "exegeticalNotes": [
-    "χοῖνιξ era medida de cereal; o denário pode funcionar como salário de um dia (Mt 20:2). A explicação por um édito de Domiciano sobre videiras é hipótese histórica debatida, não identificação afirmada pelo texto."
+    "A χοῖνιξ é medida de cereal; o denário era uma unidade monetária romana, cf. Mt 20:2.",
+    "A relação entre preço elevado e preservação de azeite e vinho caracteriza uma escassez seletiva, sem fixar sua aplicação histórica apenas pelo léxico."
   ],
   "words": [
     {

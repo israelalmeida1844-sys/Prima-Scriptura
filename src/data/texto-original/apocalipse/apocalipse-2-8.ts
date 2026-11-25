@@ -6,12 +6,12 @@ export const apocalipse2v8 = {
   "verse": 8,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Ao anjo da igreja em Esmirna escreve: Assim diz o Primeiro e o Último, que esteve morto e voltou a viver:",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "E ao anjo da igreja em Esmirna, escreva: \"Assim diz o Primeiro e o Último, que esteve morto e voltou à vida:\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): τῆς Treg NA28 RP ] τῷ WH. Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «ἐν Σμύρνῃ»; acrescenta «Σμυρναίων» após «ἐκκλησίας».",
   "exegeticalNotes": [
-    "O Cristo que morreu e voltou a viver dirige-se à igreja de Esmirna.",
-    "O título Primeiro e Último retoma Ap 1:17."
+    "Os títulos retomam Ap 1:17–18 e a linguagem de Is 44:6.",
+    "A identificação daquele que venceu a morte prepara a promessa à comunidade ameaçada."
   ],
   "words": [
     {
@@ -499,7 +499,7 @@ export const apocalipse2v8 = {
     }
   ],
   "syntacticNotes": [
-    "ἔζησεν é aoristo ativo indicativo, 3ª pessoa singular, de ζάω; a morte precedente dá valor ingressivo à expressão «voltou a viver».",
-    "ὁ πρῶτος καὶ ὁ ἔσχατος estabelece título cristológico; ἔζησεν pode traduzir a retomada da vida após tornar-se morto, sem forçar valor semântico exclusivo do aoristo."
+    "Τάδε é demonstrativo acusativo na fórmula introdutória de λέγει; os títulos articulados constituem seu sujeito.",
+    "ὃς introduz a relativa que identifica o Primeiro e o Último por ἐγένετο νεκρός e ἔζησεν."
   ]
 } as const;

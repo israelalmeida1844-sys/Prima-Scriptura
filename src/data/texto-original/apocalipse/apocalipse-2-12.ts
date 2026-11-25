@@ -6,12 +6,12 @@ export const apocalipse2v12 = {
   "verse": 12,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Ao anjo da igreja em Pérgamo escreve: Assim diz aquele que tem a espada longa de dois gumes, afiada:",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "E ao anjo da igreja em Pérgamo, escreva: \"Assim diz aquele que tem a espada afiada de dois gumes:\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "exegeticalNotes": [
-    "A abertura da carta a Pérgamo destaca a espada de Cristo.",
-    "O símbolo já aparece na visão de Ap 1:16."
+    "A espada retoma a imagem de Ap 1:16.",
+    "Seu sentido é esclarecido pela ameaça de Ap 2:16: a palavra judicial do Cristo exaltado."
   ],
   "words": [
     {
@@ -450,7 +450,7 @@ export const apocalipse2v12 = {
     }
   ],
   "syntacticNotes": [
-    "ὁ ἔχων é particípio presente ativo nominativo masculino singular; os adjetivos τὴν δίστομον e τὴν ὀξεῖαν, ambos acusativos femininos singulares, qualificam ῥομφαίαν e retomam Ap 1:16.",
-    "ὁ ἔχων está substantivado; τὴν δίστομον e τὴν ὀξεῖαν são modificadores adjetivais de ῥομφαίαν, não objetos independentes."
+    "ὁ ἔχων é sujeito substantivado de λέγει; ῥομφαίαν é seu objeto direto.",
+    "A repetição dos artigos τὴν δίστομον τὴν ὀξεῖαν coloca os dois adjetivos em posição atributiva."
   ]
 } as const;

@@ -6,11 +6,12 @@ export const apocalipse3v8 = {
   "verse": 8,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Conheço tuas obras. Eis que coloquei diante de ti uma porta aberta, que ninguém pode fechar, porque tens pouca força, guardaste minha palavra e não negaste meu nome.",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "\"Conheço as suas obras — eis que pus diante de você uma porta aberta, que ninguém pode fechar — porque você tem pouca força, guardou a minha palavra e não negou o meu nome.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἠνεῳγμένην ἣν» → «ἀνεῳγμένην καὶ».",
   "exegeticalNotes": [
-    "A porta aberta pode representar acesso ou oportunidade; definir precisamente depende do conjunto de imagens e da alusão de 3:7. Não converter a pouca força em pouca fé."
+    "A autoridade de Cristo garante a porta aberta apesar da pouca força da igreja.",
+    "A fidelidade à palavra e ao nome é o foco; o referente histórico exato da porta exige argumentação adicional."
   ],
   "words": [
     {
@@ -741,6 +742,7 @@ export const apocalipse3v8 = {
     }
   ],
   "syntacticNotes": [
-    "δέδωκα é perfeito ativo, «tenho colocado/dado». θύραν ἠνεῳγμένην é acusativo com particípio perfeito passivo modificador; relativa ἣν ... αὐτήν contém retomada pronominal. μικρὰν ἔχεις δύναμιν é construção de grau limitado."
+    "δέδωκα e ἠνεῳγμένην são perfeito finito e particípio perfeito, salientando a condição resultante da porta.",
+    "ἣν é objeto relativo retomado redundantemente por αὐτήν, construção resumptiva; ὅτι retoma a avaliação inicial após o parêntese."
   ]
 } as const;

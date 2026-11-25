@@ -6,16 +6,16 @@ export const apocalipse5v6 = {
   "verse": 6,
   "source": "SBL Greek New Testament via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Então vi, no meio do trono, dos quatro seres viventes e dos anciãos, um Cordeiro em pé, como tendo sido imolado. Tinha sete chifres e sete olhos, que são os sete espíritos de Deus enviados por toda a terra.",
-  "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
+  "translation": "E vi, no meio do trono e dos quatro seres viventes e no meio dos anciãos, um Cordeiro em pé, como imolado, tendo sete chifres e sete olhos, que são os sete espíritos de Deus, enviados por toda a terra.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἑστηκὸς WH NA28 RP ] ἑστηκὼς Treg; ἔχων WH Treg NA28 ] ἔχον RP; οἵ WH Treg NA28 ] ἃ RP; ἀπεσταλμένοι WH Treg NA28 ] ἀποστελλόμενα RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «καὶ ἰδού» após «εἶδον»; «ἔχων» → «ἔχον»; «εἰσιν» → «εἰσι»; omite «πνεύματα»; «ἀπεσταλμένοι» → «πνεύματα τὰ ἀπεσταλμένα».",
   "syntacticNotes": [
-    "ἑστηκὸς é particípio perfeito ativo, acusativo singular neutro, relacionado a ἀρνίον.",
-    "ἐσφαγμένον é particípio perfeito passivo, acusativo singular neutro, em construção comparativa com ὡς.",
-    "A relação entre οἵ, πνεύματα e ἀπεσταλμένοι exige atenção à discordância formal de gênero na estrutura relativa, preservando a morfologia textual."
+    "ἀρνίον é objeto de εἶδον; ἑστηκός e ἐσφαγμένον são particípios perfeitos que contrastam posição viva e estado de imolação.",
+    "ἔχων é masculino nominativo em construção irregular com ἀρνίον; οἵ e ἀπεσταλμένοι retomam os olhos, identificados com os espíritos."
   ],
   "exegeticalNotes": [
-    "O contraste narrativo é significativo: João ouve a identificação como Leão, mas vê um Cordeiro com marcas de imolação. As imagens dos olhos e espíritos se relacionam com Zc 4:10."
+    "O Cordeiro associa vitória e morte sacrificial, evocando a tradição do cordeiro em Êx 12 e Is 53:7.",
+    "Chifres e olhos simbolizam poder e percepção; a identificação dos olhos com os sete espíritos remete a Zc 4:10 e Ap 4:5."
   ],
   "words": [
     {

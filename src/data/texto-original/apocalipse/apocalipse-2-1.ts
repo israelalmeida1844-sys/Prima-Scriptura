@@ -6,12 +6,12 @@ export const apocalipse2v1 = {
   "verse": 1,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Ao anjo da igreja em Éfeso escreve: Assim diz aquele que segura firmemente as sete estrelas em sua mão direita, aquele que anda entre os sete candelabros de ouro:",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "Ao anjo da igreja em Éfeso, escreva: \"Assim diz aquele que segura as sete estrelas em sua mão direita, aquele que anda no meio dos sete candelabros de ouro:\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): τῆς Treg NA28 RP ] τῷ WH. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐν Ἐφέσῳ» → «Ἐφεσίνης».",
   "exegeticalNotes": [
-    "Cristo identifica-se como aquele que segura as estrelas e anda entre as igrejas.",
-    "O papel exato de «anjo» nas sete mensagens é discutido."
+    "Os símbolos retomam Ap 1:12–20, onde as estrelas e os candelabros são interpretados.",
+    "A presença de Cristo entre as igrejas fundamenta sua avaliação da comunidade de Éfeso."
   ],
   "words": [
     {
@@ -667,7 +667,7 @@ export const apocalipse2v1 = {
     }
   ],
   "syntacticNotes": [
-    "Τάδε é demonstrativo neutro plural na fórmula 'estas coisas diz'; ἐν μέσῳ rege o genitivo τῶν ... λυχνιῶν. κρατῶν e περιπατῶν funcionam como particípios substantivados que identificam Cristo.",
-    "τῆς é artigo no genitivo feminino singular e determina ἐκκλησίας; ἐν Ἐφέσῳ intercala um sintagma preposicional de localização no mesmo grupo nominal."
+    "Τῷ ἀγγέλῳ é dativo de destinatário de γράψον; τῆς ἐν Ἐφέσῳ ἐκκλησίας é genitivo com expressão locativa atributiva.",
+    "Os particípios substantivados ὁ κρατῶν e ὁ περιπατῶν identificam o sujeito de λέγει e apresentam ações características."
   ]
 } as const;

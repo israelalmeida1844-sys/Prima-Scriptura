@@ -6,12 +6,12 @@ export const apocalipse2v10 = {
   "verse": 10,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Não temas o que estás para sofrer. Eis que o diabo lançará alguns de vós na prisão, para que sejais provados, e tereis tribulação por dez dias. Sê fiel até a morte, e dar-te-ei a coroa da vida.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Não tema nada do que está para sofrer. Eis que o diabo está para lançar alguns de vocês na prisão, para que sejam provados, e vocês terão tribulação por dez dias. Seja fiel até a morte, e eu lhe darei a coroa da vida.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): μηδὲν NA28 RP ] μὴ WH Treg; πάσχειν WH Treg NA28 ] παθεῖν RP; ἰδοὺ WH Treg NA28 ] + δή RP; βάλλειν WH Treg NA28 ] βαλεῖν RP; ἕξετε Treg NA28 RP ] ἔχητε WH. Cotejo lexical com o Textus Receptus de Scrivener (1894): «βάλλειν» → «βαλεῖν ἐξ ὑμῶν»; omite «ἐξ ὑμῶν».",
   "exegeticalNotes": [
-    "O texto anuncia sofrimento e exige fidelidade.",
-    "A coroa da vida é promessa; o sentido temporal de dez dias é debatido."
+    "A provação é apresentada como limitada, em contraste com a vida prometida.",
+    "στέφανος designa coroa ou grinalda; a recompensa é a própria vida, sem impor pelo léxico uma cronologia profética específica."
   ],
   "words": [
     {
@@ -789,7 +789,7 @@ export const apocalipse2v10 = {
     }
   ],
   "syntacticNotes": [
-    "στέφανος, coroa de honra/vitória, difere lexicalmente de διάδημα, diadema; «dez dias» é expressão de provação cuja relação proposta com Dn 1:12–14 é interpretativa, sem impor cronologia.",
-    "μηδὲν φοβοῦ exprime ordem de não temer; ἵνα πειρασθῆτε indica finalidade ou resultado pretendido da prova. Os dez dias não fixam cronologia histórica sem argumento externo."
+    "μηδὲν φοβοῦ é proibição no imperativo presente; ἃ μέλλεις πάσχειν delimita o sofrimento previsto.",
+    "ἵνα πειρασθῆτε expressa finalidade ou resultado da prisão; ἡμερῶν δέκα especifica duração, e ἄχρι θανάτου indica limite da fidelidade."
   ]
 } as const;

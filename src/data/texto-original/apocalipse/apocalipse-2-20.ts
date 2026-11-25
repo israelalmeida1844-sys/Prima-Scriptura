@@ -6,12 +6,12 @@ export const apocalipse2v20 = {
   "verse": 20,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Tenho, porém, contra ti que toleras a mulher Jezabel, que se declara profetisa, ensina e desvia meus servos para que pratiquem imoralidade sexual e comam alimentos sacrificados aos ídolos.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Tenho, porém, contra você o fato de tolerar a mulher Jezabel, que se diz profetisa, ensina e engana os meus servos, levando-os a praticar imoralidade sexual e comer alimentos sacrificados aos ídolos.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): γυναῖκα WH Treg NA28 ] + σοῦ RP; λέγουσα WH Treg NA28 ] λέγει RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἀλλὰ» → «ἀλλ᾽»; acrescenta «ὀλίγα» após «σοῦ»; «ἀφεῖς» → «ἐᾷς»; «Ἰεζάβελ ἡ λέγουσα» → «Ἰεζαβήλ τὴν λέγουσαν»; acrescenta «διδάσκειν» após «προφῆτιν»; «διδάσκει καὶ πλανᾷ τοὺς» → «πλανᾶσθαι»; acrescenta «εἰδωλόθυτα» após «καὶ»; omite «εἰδωλόθυτα».",
   "exegeticalNotes": [
-    "Jezabel funciona como figura de ensino enganoso e sedução idólatra.",
-    "A conexão com a rainha do Antigo Testamento é literária e teológica; sua historicidade local não é confirmada pelo nome."
+    "Jezabel evoca 1Rs 16:31–33; 21, paradigma de infidelidade e idolatria.",
+    "A denúncia se concentra na influência atribuída à profetisa; não exige identificar seu nome histórico."
   ],
   "words": [
     {
@@ -595,7 +595,7 @@ export const apocalipse2v20 = {
     }
   ],
   "syntacticNotes": [
-    "ἀφεῖς é presente ativo indicativo de ἀφίημι, segunda pessoa singular na análise MorphGNT; o sentido contextual é 'toleras/permitas'. O nome Ἰεζάβελ evoca a rainha de 1Rs 16–21 e 2Rs 9, mas não prova que a pessoa citada seja chamada literalmente Jezabel; pode ser pseudônimo tipológico.",
-    "ἡ λέγουσα é nominativo feminino singular apesar do acusativo τὴν γυναῖκα Ἰεζάβελ; é construção sintaticamente irregular, frequentemente tratada como nominativo pendente/anacoluto. Não ajustar a forma para acusativo na transcrição. O nome Jezabel pode funcionar tipologicamente; identidade civil não demonstrada."
+    "ὅτι explicita a acusação, e ἀφεῖς rege τὴν γυναῖκα Ἰεζάβελ.",
+    "ἡ λέγουσα é nominativo apositivo após um objeto acusativo, retomando a mulher como sujeito de διδάσκει e πλανᾷ; os infinitivos especificam a conduta induzida."
   ]
 } as const;

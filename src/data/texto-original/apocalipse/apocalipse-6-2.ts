@@ -6,14 +6,16 @@ export const apocalipse6v2 = {
   "verse": 2,
   "source": "SBL Greek New Testament (SBLGNT) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "E vi, e eis um cavalo branco! O cavaleiro tinha um arco; foi-lhe dada uma coroa, e saiu vencendo e para vencer.",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "E vi, e eis um cavalo branco. Aquele que estava montado nele tinha um arco; foi-lhe dada uma coroa, e saiu vencendo e para vencer.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): εἶδον καὶ WH Treg NA28 ] – RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «αὐτὸν» → «αὐτῷ»; «ἐξῆλθεν» → «ἐξῆλθε».",
   "syntacticNotes": [
-    "ἐδόθη é aoristo passivo; νικῶν é particípio presente e ἵνα νικήσῃ expressa finalidade com subjuntivo."
+    "ὁ καθήμενος é particípio substantivado; ἔχων descreve o cavaleiro, e ἐδόθη é passivo que apresenta uma concessão.",
+    "νικῶν é particípio circunstancial, e ἵνα νικήσῃ exprime finalidade da saída."
   ],
   "exegeticalNotes": [
-    "O arco e a coroa não identificam explicitamente o cavaleiro. A associação à cavalaria parta é hipótese histórica. A interpretação historicista adventista tradicional relaciona o cavalo à expansão inicial do evangelho; outras leituras enfatizam conquista ou engano."
+    "A série de cavalos evoca Zc 1:8–11 e 6:1–8.",
+    "A coroa e a linguagem de vitória caracterizam o cavaleiro; sua identificação histórica precisa depende da interpretação do conjunto dos selos."
   ],
   "words": [
     {

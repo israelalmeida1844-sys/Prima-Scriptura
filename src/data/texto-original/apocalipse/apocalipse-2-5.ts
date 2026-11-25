@@ -6,12 +6,12 @@ export const apocalipse2v5 = {
   "verse": 5,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Lembra-te, portanto, de onde caíste; arrepende-te e pratica as primeiras obras. Caso contrário, venho a ti e removerei o teu candelabro de seu lugar, se não te arrependeres.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Lembre-se, portanto, de onde caiu, arrependa-se e pratique as primeiras obras. Caso contrário, virei a você e removerei seu candelabro de seu lugar, se não se arrepender.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): πέπτωκας Treg NA28 RP ] πέπτωκες WH; σοι WH Treg NA28 ] + ταχύ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «πέπτωκας» → «ἐκπέπτωκας»; acrescenta «ταχύ» após «σοι».",
   "exegeticalNotes": [
-    "Arrependimento e obras retomadas constituem a resposta exigida.",
-    "A remoção do candelabro é imagem de juízo comunitário."
+    "O chamado ao arrependimento vincula amor e obras concretas.",
+    "O candelabro representa a igreja (Ap 1:20); sua remoção exprime uma ameaça à condição da comunidade."
   ],
   "words": [
     {
@@ -694,7 +694,7 @@ export const apocalipse2v5 = {
     }
   ],
   "syntacticNotes": [
-    "πέπτωκας é perfeito ativo indicativo de πίπτω (queda com resultado presente). μετανοήσῃς é subjuntivo aoristo ativo em condição com ἐὰν μή.",
-    "μνημόνευε é imperativo presente; μετανόησον e ποίησον são imperativos aoristos. A consequência da remoção da λυχνία depende da condição ἐὰν μὴ μετανοήσῃς."
+    "μνημόνευε é imperativo presente; μετανόησον e ποίησον são imperativos aoristos, convocando resposta decisiva.",
+    "εἰ δὲ μή introduz a consequência negativa, retomada pela condição ἐὰν μὴ μετανοήσῃς; κινήσω é futuro."
   ]
 } as const;

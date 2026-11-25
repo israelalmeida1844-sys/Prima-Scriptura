@@ -6,14 +6,16 @@ export const apocalipse6v8 = {
   "verse": 8,
   "source": "SBL Greek New Testament (SBLGNT) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "E vi um cavalo esverdeado; o nome de quem o montava era Morte, e o Hades o seguia. Foi-lhes dada autoridade sobre a quarta parte da terra para matar por espada, fome, morte e feras.",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "E vi, e eis um cavalo verde-pálido. O nome daquele que estava montado nele era Morte, e o Hades o seguia. Foi-lhes dada autoridade sobre a quarta parte da terra, para matar pela espada, pela fome, pela morte e pelas feras da terra.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): εἶδον καὶ WH Treg NA28 ] – RP; μετʼ αὐτοῦ WH Treg NA28 ] αὐτῷ RP; αὐτοῖς WH Treg NA28 ] αὐτῷ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἠκολούθει» → «ἀκολουθεῖ»; acrescenta «ἀποκτεῖναι» após «ἐξουσία»; omite «ἀποκτεῖναι».",
   "syntacticNotes": [
-    "ὁ Θάνατος identifica o cavaleiro; ὁ ᾅδης é sujeito de ἠκολούθει; ἀποκτεῖναι é infinitivo de ação autorizada."
+    "χλωρός é predicativo descritivo; ὄνομα αὐτῷ ὁ Θάνατος forma expressão nominal de nomeação.",
+    "ἀποκτεῖναι especifica a autoridade concedida; os complementos com ἐν e ὑπό enumeram meios ou agentes."
   ],
   "exegeticalNotes": [
-    "χλωρός é verde ou amarelo-esverdeado; no contexto de Morte pode sugerir palidez cadavérica. A série de flagelos ecoa Ez 14:21 e a quarta parte delimita a autoridade."
+    "Os quatro meios de juízo evocam Ez 14:21.",
+    "A Morte e o Hades são personificados; a fração de um quarto expressa a limitação da autoridade na visão."
   ],
   "words": [
     {

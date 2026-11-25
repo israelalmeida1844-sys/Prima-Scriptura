@@ -5,15 +5,16 @@ export const apocalipse8v7 = {
   "verse": 7,
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados",
-  "translation": "O primeiro tocou a trombeta, e houve granizo e fogo misturados com sangue, lançados à terra. Um terço da terra foi queimado, um terço das árvores foi queimado e toda a erva verde foi queimada.",
-  "translationNote": "Tradução editorial contextual.",
+  "translation": "E o primeiro tocou a trombeta. Houve granizo e fogo misturados com sangue, e foram lançados à terra; queimou-se a terça parte da terra, a terça parte das árvores, e toda erva verde foi queimada.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐσάλπισεν» → «ἄγγελος ἐσάλπισε»; omite «ἐν»; omite «καὶ τὸ τρίτον τῆς γῆς κατεκάη».",
   "syntacticNotes": [
-    "μεμιγμένα é particípio perfeito passivo neutro plural na classificação MorphGNT; κατεκάη é aoristo passivo; τὸ τρίτον indica fração.",
-    "πᾶς χόρτος χλωρός é sujeito da última oração. O perfeito passivo μεμιγμένα descreve o estado resultante da mistura."
+    "ὁ πρῶτος é ordinal substantivado; χάλαζα e πῦρ são sujeitos da ocorrência, qualificados por μεμιγμένα no neutro plural.",
+    "τὸ τρίτον com genitivo delimita a fração afetada; a repetição de κατεκάη estrutura a devastação."
   ],
   "exegeticalNotes": [
-    "Granizo e fogo evocam Êx 9:23–25; a identificação historicista de eventos históricos exige argumentação independente."
+    "Granizo e fogo evocam a sétima praga do Egito, Êx 9:23–25.",
+    "A terça parte expressa limitação do dano em contraste com a totalidade da erva verde descrita; o texto apresenta imagens, não identifica diretamente um evento histórico."
   ],
   "words": [
     {

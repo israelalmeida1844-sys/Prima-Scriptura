@@ -6,14 +6,16 @@ export const apocalipse6v4 = {
   "verse": 4,
   "source": "SBL Greek New Testament (SBLGNT) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "E saiu outro cavalo, vermelho-fogo. Ao cavaleiro foi concedido retirar a paz da terra, para que matassem uns aos outros; e foi-lhe dada uma grande espada.",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "E saiu outro cavalo, vermelho como fogo. Ao que estava montado nele foi concedido retirar a paz da terra, para que matassem uns aos outros; e foi-lhe dada uma grande espada.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): καὶ WH Treg NA28 ] – RP; σφάξουσιν WH Treg NA28 ] σφάξωσιν RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «αὐτὸν» → «αὐτῷ»; «ἐκ» → «ἀπὸ»; «σφάξουσιν» → «σφάξωσι».",
   "syntacticNotes": [
-    "ἐδόθη ... λαβεῖν combina concessão passiva e infinitivo; ἵνα ἀλλήλους σφάξουσιν usa futuro indicativo após ἵνα, sem correção silenciosa."
+    "τῷ καθημένῳ é dativo temático retomado por αὐτῷ; λαβεῖν complementa ἐδόθη.",
+    "ἵνα ἀλλήλους σφάξουσιν contém futuro indicativo em construção de finalidade ou resultado, em vez do subjuntivo usual."
   ],
   "exegeticalNotes": [
-    "A retirada da paz anuncia violência recíproca. μάχαιρα é arma cortante distinta, em muitos contextos, da ῥομφαία. A associação historicista a conflitos históricos é aplicação interpretativa."
+    "O cavalo vermelho é interpretado pela perda da paz e pela violência descrita na própria visão.",
+    "A concessão de autoridade limita o papel do cavaleiro; a imagem dialoga com a série de juízos de Ap 6:8."
   ],
   "words": [
     {

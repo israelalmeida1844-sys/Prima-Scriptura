@@ -5,14 +5,16 @@ export const apocalipse7v13 = {
   "verse": 13,
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
-  "translation": "Um dos anciãos tomou a palavra e me perguntou: Estes que estão vestidos de mantos brancos, quem são e de onde vieram?",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "E um dos anciãos tomou a palavra, dizendo-me: \"Estes que estão vestidos de roupas brancas, quem são e de onde vieram?\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «εἰσὶν» → «εἰσί».",
   "syntacticNotes": [
-    "ἀπεκρίθη tem forma aorista passiva e sentido ativo; περιβεβλημένοι é perfeito médio; τίνες e πόθεν introduzem perguntas."
+    "εἷς ἐκ τῶν πρεσβυτέρων é sujeito partitivo de ἀπεκρίθη; λέγων introduz a pergunta.",
+    "Οὗτοι οἱ περιβεβλημένοι é tópico da interrogativa; τίνες e πόθεν solicitam identidade e procedência."
   ],
   "exegeticalNotes": [
-    "A pergunta do ancião conduz João e o leitor à interpretação das vestes e da origem da multidão."
+    "A pergunta conduz João à interpretação da visão, em vez de pressupor que ela seja autoexplicativa.",
+    "As vestes brancas retomam a identificação visual de Ap 7:9."
   ],
   "words": [
     {

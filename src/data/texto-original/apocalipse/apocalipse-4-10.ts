@@ -6,12 +6,12 @@ export const apocalipse4v10 = {
   "verse": 10,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "os vinte e quatro anciãos se prostram diante daquele que está sentado sobre o trono, adoram aquele que vive pelos séculos dos séculos e lançam suas coroas diante do trono, dizendo:",
-  "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
+  "translation": "os vinte e quatro anciãos se prostrarão diante daquele que está sentado no trono, adorarão aquele que vive pelos séculos dos séculos e lançarão suas coroas diante do trono, dizendo:",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «καὶ» após «εἴκοσι»; «προσκυνήσουσιν» → «προσκυνοῦσι»; «βαλοῦσιν» → «βάλλουσι».",
   "exegeticalNotes": [
-    "O lançamento das coroas diante do trono representa reconhecimento da soberania do Criador; não demonstra necessariamente renúncia a todo papel delegado dos anciãos.",
-    "O gesto de depositar os στεφάνοι diante do trono comunica homenagem e reconhecimento de autoridade; a distinção entre στέφανος e διάδημα não basta, isoladamente, para identificar a origem dos anciãos."
+    "O gesto de depositar as coroas expressa reconhecimento da autoridade divina.",
+    "A dignidade dos anciãos é subordinada àquele que recebe a adoração."
   ],
   "words": [
     {
@@ -716,7 +716,7 @@ export const apocalipse4v10 = {
     }
   ],
   "syntacticNotes": [
-    "πεσοῦνται, προσκυνήσουσιν e βαλοῦσιν são futuros, formando a resposta litúrgica dos vinte e quatro anciãos. λέγοντες é particípio presente masculino plural e introduz o cântico; στεφάνους é objeto de βαλοῦσιν.",
-    "Os três futuros (πεσοῦνται, προσκυνήσουσιν, βαλοῦσιν) dependem do enquadramento temporal iniciado por ὅταν no versículo anterior; a tradução pode recorrer ao presente habitual, mas a morfologia continua futura."
+    "πεσοῦνται, προσκυνήσουσιν e βαλοῦσιν são futuros coordenados que respondem à condição temporal de Ap 4:9.",
+    "λέγοντες é particípio presente que introduz o discurso seguinte; τοὺς στεφάνους é objeto de βαλοῦσιν."
   ]
 } as const;

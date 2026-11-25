@@ -6,14 +6,16 @@ export const apocalipse6v1 = {
   "verse": 1,
   "source": "SBL Greek New Testament (SBLGNT) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "E vi quando o Cordeiro abriu um dos sete selos; e ouvi um dos quatro seres viventes dizer, como voz de trovão: Vem!",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "E vi quando o Cordeiro abriu um dos sete selos, e ouvi um dos quatro seres viventes dizer como voz de trovão: \"Venha!\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ὅτε WH Treg NA28 ] ὅτι RP; Ἔρχου WH Treg NA28 ] + καὶ ἴδε RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἤνοιξεν» → «ἤνοιξε»; omite «ἑπτὰ»; «φωνῇ» → «φωνῆς»; acrescenta «καὶ βλέπε» após «Ἔρχου».",
   "syntacticNotes": [
-    "ὅτε introduz oração temporal; Ἔρχου é imperativo presente, segunda pessoa singular."
+    "ὅτε introduz a oração temporal de abertura; μίαν ἐκ τῶν ἑπτὰ σφραγίδων é objeto com expressão partitiva.",
+    "ἤκουσα rege o genitivo ἑνός e o particípio λέγοντος; Ἔρχου é imperativo presente médio."
   ],
   "exegeticalNotes": [
-    "O Cordeiro abre o selo; o chamado Ἔρχου introduz o primeiro cavaleiro. A destinação da ordem é interpretação sintática e contextual."
+    "A abertura do rolo realiza a autoridade revelada em Ap 5.",
+    "A voz de trovão vincula a cena ao ambiente do trono; os quatro seres viventes introduzem os primeiros quatro selos."
   ],
   "words": [
     {

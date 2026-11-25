@@ -6,12 +6,12 @@ export const apocalipse2v9 = {
   "verse": 9,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Conheço a tua tribulação e pobreza — mas és rico — e a difamação daqueles que se dizem judeus e não são, mas são sinagoga de Satanás.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Conheço a sua tribulação e a sua pobreza — mas você é rico — e a difamação dos que dizem ser judeus, mas não são; são, antes, uma sinagoga de Satanás.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): σου WH Treg NA28 ] + τὰ ἔργα καὶ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «τὰ ἔργα καὶ» após «σου»; omite «ἀλλὰ»; acrescenta «δὲ» após «πλούσιος»; omite «ἐκ».",
   "exegeticalNotes": [
-    "A avaliação divina contrasta com pobreza externa.",
-    "A polêmica religiosa deve ser contextualizada, nunca generalizada contra um povo."
+    "A riqueza espiritual é contraposta à privação material.",
+    "A acusação descreve um conflito específico da comunidade; não deve ser convertida em generalização étnica sobre todos os judeus."
   ],
   "words": [
     {
@@ -645,7 +645,7 @@ export const apocalipse2v9 = {
     }
   ],
   "syntacticNotes": [
-    "πτωχεία e πλούσιος εἶ compõem contraste entre pobreza material e riqueza de outra ordem. «Sinagoga de Satanás» é linguagem polêmica situada em tensões históricas particulares; não deve ser aplicada genericamente a judeus.",
-    "οἶδά σου τὴν θλῖψιν é construção com genitivo pronominal e objeto acusativo; a linguagem polêmica 'sinagoga de Satanás' deve ser contextualizada e jamais generalizada contra o povo judeu."
+    "θλῖψιν, πτωχείαν e βλασφημίαν dependem de Οἶδα; ἀλλὰ πλούσιος εἶ interrompe a série com contraste nominal.",
+    "τῶν λεγόντων introduz o grupo de onde procede a difamação; Ἰουδαίους εἶναι ἑαυτούς é construção de acusativo com infinitivo."
   ]
 } as const;

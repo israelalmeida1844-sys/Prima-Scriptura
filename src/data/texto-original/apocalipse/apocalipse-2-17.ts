@@ -6,12 +6,12 @@ export const apocalipse2v17 = {
   "verse": 17,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas. Ao vencedor darei do maná escondido; também lhe darei uma pedrinha branca e, sobre a pedrinha, um nome novo escrito, que ninguém conhece, exceto quem o recebe.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Quem tem ouvidos ouça o que o Espírito diz às igrejas. Ao vencedor darei do maná escondido e lhe darei uma pedra branca, e sobre a pedra um novo nome escrito, que ninguém conhece senão aquele que o recebe.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): αὐτῷ WH Treg NA28 ] + φαγεῖν RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «φαγεῖν ἀπὸ» após «αὐτῷ»; «οἶδεν» → «ἔγνω».",
   "exegeticalNotes": [
-    "O maná escondido, a pedra branca e o nome novo formam uma promessa composta.",
-    "As interpretações judiciais e sociais para a pedra são propostas, não fatos demonstrados."
+    "O maná evoca Êx 16:32–34 e o alimento preservado diante de Deus.",
+    "A pedra branca e o novo nome comunicam acolhimento e identidade; o texto não fixa uma única prática cultural como referente."
   ],
   "words": [
     {
@@ -908,7 +908,7 @@ export const apocalipse2v17 = {
     }
   ],
   "syntacticNotes": [
-    "Três elementos articulam a promessa ao vencedor: τοῦ μάννα τοῦ κεκρυμμένου (genitivo partitivo do maná escondido); ψῆφον λευκήν (pedrinha branca, possivelmente sinal de absolvição, admissão ou identificação; interpretação incerta); ὄνομα καινὸν γεγραμμένον (novo nome escrito). Não apresentar um único simbolismo histórico como certeza textual.",
-    "τοῦ μάννα τοῦ κεκρυμμένου é genitivo partitivo; ψῆφος λευκή oferece simbolismo interpretativamente aberto. ὄνομα καινὸν γεγραμμένον associa qualidade e particípio perfeito ao nome."
+    "τοῦ μάννα τοῦ κεκρυμμένου é genitivo partitivo com particípio perfeito passivo atributivo.",
+    "ὄνομα καινὸν γεγραμμένον integra a segunda promessa; ὃ introduz relativa cujo objeto é o novo nome."
   ]
 } as const;

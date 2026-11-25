@@ -5,15 +5,16 @@ export const apocalipse8v13 = {
   "verse": 13,
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados",
-  "translation": "E vi e ouvi uma águia voando no meio do céu, dizendo em alta voz: Ai, ai, ai dos habitantes da terra, por causa dos restantes sons da trombeta dos três anjos que ainda vão tocá-la!",
-  "translationNote": "Tradução editorial contextual.",
+  "translation": "E vi, e ouvi uma águia que voava no meio do céu e dizia em alta voz: \"Ai, ai, ai dos habitantes da terra, por causa dos restantes sons da trombeta dos três anjos que estão para tocar!\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): τοὺς κατοικοῦντας WH Treg NA28 ] τοῖς κατοικοῦσιν RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἀετοῦ πετομένου» → «ἀγγέλου πετωμένου»; «τοὺς κατοικοῦντας» → «τοῖς κατοικοῦσιν».",
   "syntacticNotes": [
-    "ἑνὸς ἀετοῦ depende de ἤκουσα; πετομένου e λέγοντος concordam com ἀετοῦ; μελλόντων rege infinitivo.",
-    "φωνῇ μεγάλῃ é dativo de modo; τοὺς κατοικοῦντας é particípio substantivado em acusativo após a interjeição."
+    "ἑνὸς ἀετοῦ e os particípios πετομένου e λέγοντος estão no genitivo dependente de ἤκουσα; φωνῇ μεγάλῃ é dativo de modo.",
+    "οὐαί é interjeição repetida seguida do acusativo τοὺς κατοικοῦντας, construção irregular; τῶν μελλόντων rege σαλπίζειν."
   ],
   "exegeticalNotes": [
-    "Os três ais anunciam as trombetas restantes; compare Ap 9:12 e 11:14."
+    "A tríplice proclamação anuncia os três juízos restantes, distinguindo-os das primeiras quatro trombetas.",
+    "A águia em pleno céu torna o aviso público; a expressão habitantes da terra identifica um grupo recorrente na narrativa, cf. Ap 6:10."
   ],
   "words": [
     {

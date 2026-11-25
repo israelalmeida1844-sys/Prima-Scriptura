@@ -6,11 +6,12 @@ export const apocalipse3v18 = {
   "verse": 18,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "aconselho-te a comprar de mim ouro refinado pelo fogo, para te tornares rico, e vestes brancas para te vestires, para que não seja exposta a vergonha de tua nudez, e colírio para ungir teus olhos, a fim de que vejas.",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "\"aconselho você a comprar de mim ouro refinado pelo fogo, para que enriqueça; roupas brancas, para que se vista e não se manifeste a vergonha da sua nudez; e colírio para ungir os olhos, para que veja.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): παρʼ ἐμοῦ χρυσίον WH Treg NA28 ] χρυσίον παρʼ ἐμοῦ RP; ἐγχρῖσαι WH Treg NA28 ] ἵνα ἐγχρίσῃ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐγχρῖσαι» → «ἔγχρισον».",
   "exegeticalNotes": [
-    "A interpretação de bens locais (riqueza bancária, indústria têxtil e medicina) requer comprovação arqueológica e histórica. Os símbolos são coerentes com a denúncia de 3:17."
+    "Os três recursos respondem, respectivamente, à pobreza, nudez e cegueira de Ap 3:17.",
+    "O ouro refinado e as vestes brancas são imagens de valor e restauração oferecidos por Cristo; cf. Ap 7:14."
   ],
   "words": [
     {
@@ -786,6 +787,7 @@ export const apocalipse3v18 = {
     }
   ],
   "syntacticNotes": [
-    "συμβουλεύω + infinitivo ἀγοράσαι rege a orientação; χρυσίον πεπυρωμένον é ouro refinado pelo fogo; κολλούριον ... ἐγχρῖσαι exprime aplicação do colírio. As cláusulas ἵνα definem finalidade."
+    "συμβουλεύω rege σοι e ἀγοράσαι; os três objetos coordenados especificam o conselho.",
+    "As orações com ἵνα indicam a finalidade das aquisições; πεπυρωμένον é particípio perfeito passivo atributivo do ouro."
   ]
 } as const;

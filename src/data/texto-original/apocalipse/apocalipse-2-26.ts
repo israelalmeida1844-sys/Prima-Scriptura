@@ -6,12 +6,12 @@ export const apocalipse2v26 = {
   "verse": 26,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Ao vencedor, aquele que guardar até o fim as minhas obras, darei autoridade sobre as nações,",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Ao vencedor, àquele que guarda até o fim as minhas obras, darei autoridade sobre as nações.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "exegeticalNotes": [
-    "A autoridade prometida ao vencedor participa da linguagem régia e messiânica.",
-    "A obediência perseverante e as obras de Cristo aparecem ligadas."
+    "A vitória inclui perseverança nas obras de Cristo até o fim.",
+    "A participação na autoridade messiânica prepara a citação do Sl 2:9."
   ],
   "words": [
     {
@@ -426,7 +426,7 @@ export const apocalipse2v26 = {
     }
   ],
   "syntacticNotes": [
-    "ὁ νικῶν e ὁ τηρῶν são particípios presentes ativos substantivados; ἄχρι τέλους estabelece continuidade até o fim. ἐξουσίαν ἐπὶ τῶν ἐθνῶν prepara a aplicação messiânica do Salmo 2.",
-    "ὁ νικῶν e ὁ τηρῶν são particípios substantivados com sentido de perseverança; τὰ ἔργα μου é objeto de τηρῶν, não referência automática a mérito salvífico."
+    "ὁ νικῶν e ὁ τηρῶν são nominativos temáticos coordenados, retomados pelo dativo αὐτῷ.",
+    "ἄχρι τέλους delimita τηρῶν; ἐξουσίαν é objeto de δώσω, e ἐπὶ τῶν ἐθνῶν delimita seu âmbito."
   ]
 } as const;

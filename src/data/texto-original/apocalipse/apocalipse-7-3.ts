@@ -5,14 +5,16 @@ export const apocalipse7v3 = {
   "verse": 3,
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
-  "translation": "dizendo: \"Não causeis dano à terra, nem ao mar, nem às árvores, até selarmos os servos do nosso Deus em suas testas.\"",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "dizendo: \"Não danifiquem a terra, nem o mar, nem as árvores, até que tenhamos selado os servos do nosso Deus em suas testas.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἄχρι WH Treg NA28 ] + οὗ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἄχρι» → «ἄχρις οὗ».",
   "syntacticNotes": [
-    "μή com aoristo subjuntivo ἀδικήσητε exprime proibição; ἄχρι com σφραγίσωμεν delimita a ação; ἐπί com genitivo indica localização."
+    "μή com ἀδικήσητε constitui proibição; μήτε coordena os objetos negados.",
+    "ἄχρι com σφραγίσωμεν delimita o período da contenção; ἐπὶ τῶν μετώπων indica o lugar do selo."
   ],
   "exegeticalNotes": [
-    "A marca na fronte evoca Ez 9:4–6 e antecipa Ap 14:1. Na leitura adventista, o selamento envolve lealdade a Deus; a ligação com o sábado é uma síntese teológica, não uma glosa de σφραγίζω."
+    "O selo na testa evoca a marca protetora de Ez 9:4–6.",
+    "O texto associa a proteção à identificação dos servos de Deus, antes do dano anunciado."
   ],
   "words": [
     {

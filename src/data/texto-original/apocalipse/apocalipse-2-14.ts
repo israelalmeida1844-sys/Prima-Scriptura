@@ -6,12 +6,12 @@ export const apocalipse2v14 = {
   "verse": 14,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Tenho, porém, algumas coisas contra ti: tens aí os que seguem o ensino de Balaão, que ensinava Balaque a colocar tropeço diante dos filhos de Israel, para comerem alimentos sacrificados a ídolos e praticarem imoralidade sexual.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Tenho, porém, algumas coisas contra você, porque há aí pessoas que sustentam o ensino de Balaão, que ensinava Balaque a pôr uma armadilha diante dos filhos de Israel, para comerem alimentos sacrificados aos ídolos e praticarem imoralidade sexual.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἐδίδασκεν τῷ WH Treg NA28 ] ἐδίδαξεν τὸν RP; φαγεῖν WH Treg NA28 ] καὶ φαγεῖν RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἀλλὰ» → «ἀλλ᾽»; «ἐδίδασκεν τῷ» → «ἐδίδασκε τὸν».",
   "exegeticalNotes": [
-    "A figura de Balaão funciona como modelo narrativo de indução à idolatria e imoralidade.",
-    "O escândalo representa tropeço espiritual diante de Israel, com ecos do Pentateuco."
+    "A referência combina Nm 25:1–3 e 31:16, associando Balaão à infidelidade de Israel.",
+    "A analogia denuncia a acomodação a práticas idolátricas, não apenas erro intelectual."
   ],
   "words": [
     {
@@ -644,7 +644,7 @@ export const apocalipse2v14 = {
     }
   ],
   "syntacticNotes": [
-    "διδαχὴν Βαλαάμ retoma Balaão (Nm 25:1–2; 31:16). σκάνδαλον denota armadilha ou ocasião de tropeço; φαγεῖν e πορνεῦσαι são infinitivos aoristos ativos que explicam a transgressão induzida. A forma de Βαλαάμ é indeclinável no uso grego.",
-    "Βαλαάμ é forma indeclinável, mas sua função depende de διδαχήν. Os infinitivos φαγεῖν e πορνεῦσαι especificam condutas induzidas pela armadilha."
+    "ὅτι introduz o conteúdo da acusação; κρατοῦντας é particípio acusativo dependente de ἔχεις.",
+    "ἐδίδασκεν rege o dativo τῷ Βαλάκ e o infinitivo βαλεῖν; φαγεῖν e πορνεῦσαι especificam o tropeço."
   ]
 } as const;

@@ -6,15 +6,16 @@ export const apocalipse5v4 = {
   "verse": 4,
   "source": "SBL Greek New Testament via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "E eu chorava muito, porque não se encontrou ninguém digno de abrir o rolo ou de olhar para ele.",
-  "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
+  "translation": "E eu chorava muito, porque ninguém foi achado digno de abrir o rolo ou de olhar para ele.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἐγὼ WH Treg RP ] – NA28. Cotejo lexical com o Textus Receptus de Scrivener (1894): «πολὺ» → «πολλά»; acrescenta «καὶ ἀναγνῶναι» após «ἀνοῖξαι».",
   "syntacticNotes": [
-    "ἔκλαιον é imperfeito indicativo ativo, primeira pessoa singular, indicando o pranto na progressão da cena.",
-    "ὅτι introduz a razão do pranto; εὑρέθη é aoristo indicativo passivo."
+    "ἔκλαιον é imperfeito de ação em curso; πολὺ tem valor adverbial.",
+    "ὅτι introduz a causa do choro; ἄξιος é predicativo de οὐδείς com εὑρέθη, e os infinitivos complementam o adjetivo."
   ],
   "exegeticalNotes": [
-    "ἔκλαιον é imperfeito do indicativo; descreve o pranto de João no desenrolar da visão, não apenas um ato pontual."
+    "O choro manifesta a gravidade narrativa da impossibilidade de abertura.",
+    "A resposta do ancião em Ap 5:5 transforma o lamento em anúncio de vitória."
   ],
   "words": [
     {

@@ -6,15 +6,16 @@ export const apocalipse5v11 = {
   "verse": 11,
   "source": "SBL Greek New Testament via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Então vi e ouvi a voz de muitos anjos ao redor do trono, dos seres viventes e dos anciãos; seu número era miríades de miríades e milhares de milhares.",
-  "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
+  "translation": "E vi, e ouvi a voz de muitos anjos ao redor do trono, dos seres viventes e dos anciãos; e o número deles era miríades de miríades e milhares de milhares,",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἤκουσα WH Treg NA28 ] + ὡς RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «κύκλῳ» → «κυκλόθεν».",
   "syntacticNotes": [
-    "ἤκουσα é aoristo indicativo ativo, primeira pessoa singular, regendo φωνήν.",
-    "ἦν introduz a descrição quantitativa; μυριάδες μυριάδων e χιλιάδες χιλιάδων empregam genitivos de quantidade."
+    "εἶδον e ἤκουσα coordenam percepção visual e auditiva; φωνήν é objeto de ἤκουσα, qualificado por genitivo.",
+    "μυριάδες μυριάδων e χιλιάδες χιλιάδων são predicativos numerais intensificados pelo genitivo."
   ],
   "exegeticalNotes": [
-    "A expressão miríades de miríades alude à linguagem da corte celestial em Dn 7:10 e comunica uma assembleia vasta."
+    "A ampliação da corte celestial evoca Dn 7:10.",
+    "A sequência de adoração passa dos seres viventes e anciãos à multidão de anjos."
   ],
   "words": [
     {

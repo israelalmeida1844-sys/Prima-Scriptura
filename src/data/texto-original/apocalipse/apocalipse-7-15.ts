@@ -5,14 +5,16 @@ export const apocalipse7v15 = {
   "verse": 15,
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
-  "translation": "Por isso estão diante do trono de Deus e o servem dia e noite em seu santuário; aquele que está sentado no trono estenderá sua tenda sobre eles.",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "\"Por isso estão diante do trono de Deus e o servem de dia e de noite no seu santuário; e aquele que está sentado no trono estenderá sobre eles sua tenda.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): τοῦ θρόνου WH Treg NA28 ] τῷ θρόνῳ RP. O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "syntacticNotes": [
-    "διὰ τοῦτο introduz consequência; ἡμέρας καὶ νυκτός são genitivos temporais; σκηνώσει é futuro."
+    "διὰ τοῦτο introduz a consequência da purificação; λατρεύουσιν rege o dativo αὐτῷ.",
+    "ἡμέρας καὶ νυκτός expressa duração temporal; σκηνώσει é futuro de σκηνόω, com ἐπ’ αὐτούς."
   ],
   "exegeticalNotes": [
-    "A presença diante do trono e o serviço no santuário respondem à pergunta de 6:17. O verbo σκηνόω evoca habitação e proteção divinas; compare Ap 21:3."
+    "O serviço no ναός e a tenda divina exprimem acesso e proteção na presença de Deus.",
+    "A linguagem de habitação evoca a tradição do santuário e antecipa Ap 21:3."
   ],
   "words": [
     {

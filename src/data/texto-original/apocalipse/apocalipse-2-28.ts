@@ -6,12 +6,12 @@ export const apocalipse2v28 = {
   "verse": 28,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "assim como eu também recebi de meu Pai; e lhe darei a estrela da manhã.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Assim como também eu recebi de meu Pai; e lhe darei a estrela da manhã.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «ὡς κἀγὼ εἴληφα παρὰ τοῦ πατρός μου».",
   "exegeticalNotes": [
-    "A estrela da manhã constitui promessa de proximidade com o Cristo exaltado.",
-    "Apocalipse 22:16 fornece um paralelo intratextual importante."
+    "A autoridade do vencedor é derivada daquela recebida por Cristo.",
+    "A estrela da manhã antecipa a autodesignação de Jesus em Ap 22:16, embora a promessa possa incluir participação em sua vitória."
   ],
   "words": [
     {
@@ -354,7 +354,7 @@ export const apocalipse2v28 = {
     }
   ],
   "syntacticNotes": [
-    "τὸν ἀστέρα τὸν πρωϊνόν promete a estrela da manhã; Ap 22:16 identifica Jesus com a estrela resplandecente da manhã. Nm 24:17 é um possível antecedente messiânico. A promessa é escatológica; sua natureza exata merece interpretação contextual.",
-    "εἴληφα é perfeito ativo de λαμβάνω; a referência ao Pai sustenta a imagem de autoridade recebida. A estrela matutina é interpretada à luz de Ap 22:16, sem apagar a dimensão prometida ao vencedor."
+    "ὡς introduz comparação que fundamenta a autoridade anterior; εἴληφα é perfeito de λαμβάνω.",
+    "τὸν ἀστέρα τὸν πρωϊνόν é objeto de δώσω com adjetivo em posição atributiva."
   ]
 } as const;

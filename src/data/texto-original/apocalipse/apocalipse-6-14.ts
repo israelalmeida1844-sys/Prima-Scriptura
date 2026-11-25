@@ -6,14 +6,16 @@ export const apocalipse6v14 = {
   "verse": 14,
   "source": "SBL Greek New Testament (SBLGNT) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "E o céu se retirou como um rolo que se enrola; todo monte e ilha foram removidos de seus lugares.",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "e o céu foi recolhido como um rolo que se enrola, e todo monte e ilha foram removidos de seus lugares.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «ὁ»; «ἑλισσόμενον» → «εἱλισσόμενον».",
   "syntacticNotes": [
-    "ὁ οὐρανός é sujeito de ἀπεχωρίσθη; ἑλισσόμενον modifica βιβλίον."
+    "ἀπεχωρίσθη é aoristo passivo; ἑλισσόμενον caracteriza o rolo na comparação.",
+    "πᾶν ὄρος καὶ νῆσος são sujeitos coordenados de ἐκινήθησαν; ἐκ τῶν τόπων indica deslocamento."
   ],
   "exegeticalNotes": [
-    "A retirada do céu como rolo remete a Is 34:4; a linguagem é apocalíptica e não requer mecanismo astronômico literal."
+    "O céu enrolado retoma diretamente Is 34:4.",
+    "A remoção de montes e ilhas estende a imagem de crise à ordem terrestre."
   ],
   "words": [
     {

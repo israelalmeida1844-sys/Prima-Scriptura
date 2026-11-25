@@ -6,16 +6,16 @@ export const apocalipse5v12 = {
   "verse": 12,
   "source": "SBL Greek New Testament via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Diziam em alta voz: Digno é o Cordeiro que foi imolado de receber poder, riqueza, sabedoria, força, honra, glória e louvor.",
-  "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
+  "translation": "dizendo em alta voz: \"Digno é o Cordeiro que foi imolado de receber poder, riqueza, sabedoria, força, honra, glória e louvor.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): καὶ WH Treg NA28 ] + τὸν RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐστιν» → «ἐστι».",
   "syntacticNotes": [
-    "λέγοντες é particípio presente ativo nominativo plural masculino, retomando os seres que entoam o louvor.",
-    "ἄξιον é predicativo neutro associado a τὸ ἀρνίον; λαβεῖν introduz o conteúdo da dignidade.",
-    "A enumeração coordenada contém sete substantivos acusativos ligados ao infinitivo λαβεῖν."
+    "λέγοντες retoma os anjos por concordância semântica; φωνῇ μεγάλῃ é dativo de modo.",
+    "Ἄξιόν ἐστιν é predicação com sujeito neutro τὸ ἀρνίον; λαβεῖν rege sete objetos coordenados."
   ],
   "exegeticalNotes": [
-    "A aclamação contém sete substantivos de louvor; a enumeração enfatiza a dignidade do Cordeiro imolado."
+    "O Cordeiro recebe uma aclamação de sete atributos, ampliando o cântico anterior.",
+    "A dignidade é relacionada à imolação, em continuidade com Ap 5:9."
   ],
   "words": [
     {

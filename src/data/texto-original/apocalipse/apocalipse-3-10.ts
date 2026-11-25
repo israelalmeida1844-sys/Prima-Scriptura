@@ -6,11 +6,12 @@ export const apocalipse3v10 = {
   "verse": 10,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Porque guardaste a palavra de minha perseverança, também eu te guardarei da hora da provação que está para vir sobre todo o mundo habitado, para pôr à prova os que habitam sobre a terra.",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "\"Porque você guardou a palavra da minha perseverança, eu também o guardarei da hora da provação que está para vir sobre todo o mundo habitado, para provar os habitantes da terra.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "exegeticalNotes": [
-    "A interpretação historicista adventista e leituras futuristas, preteristas ou idealistas devem distinguir argumentos contextuais e hipóteses de cumprimento. οἰκουμένη é mundo habitado, não necessariamente todo o planeta em acepção geográfica moderna."
+    "A promessa liga proteção e perseverança na palavra de Cristo.",
+    "A extensão da prova é universal no horizonte do texto; a preposição ἐκ, isoladamente, não determina o modo da proteção."
   ],
   "words": [
     {
@@ -690,6 +691,7 @@ export const apocalipse3v10 = {
     }
   ],
   "syntacticNotes": [
-    "ἐτήρησας ... τηρήσω forma paralelismo lexical; ἐκ τῆς ὥρας marca separação da hora da provação, mas sua implicação escatológica não é decidida somente pela preposição. τῆς μελλούσης ἔρχεσθαι modifica ὥρας."
+    "ὅτι estabelece a razão da promessa; κἀγώ coordena reciprocamente ἐτήρησας e τηρήσω.",
+    "ἐκ τῆς ὥρας indica a relação de proteção com a provação; πειράσαι é infinitivo que expressa finalidade."
   ]
 } as const;

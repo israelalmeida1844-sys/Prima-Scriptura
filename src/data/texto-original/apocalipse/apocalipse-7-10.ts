@@ -5,14 +5,16 @@ export const apocalipse7v10 = {
   "verse": 10,
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
-  "translation": "E clamam em alta voz: A salvação pertence ao nosso Deus, que está sentado no trono, e ao Cordeiro!",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "E clamam em alta voz, dizendo: \"A salvação pertence ao nosso Deus, que está sentado no trono, e ao Cordeiro.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «κράζουσι» → «κράζοντες»; «τῷ θρόνῳ» → «τοῦ θρόνου».",
   "syntacticNotes": [
-    "κράζουσι é presente; λέγοντες introduz discurso direto; os dativos τῷ θεῷ e τῷ ἀρνίῳ exprimem atribuição numa oração nominal."
+    "κράζουσι é presente de vivacidade; φωνῇ μεγάλῃ é dativo de modo.",
+    "A oração nominal ἡ σωτηρία τῷ θεῷ… καὶ τῷ ἀρνίῳ tem cópula elíptica e dativos de atribuição."
   ],
   "exegeticalNotes": [
-    "A salvação é atribuída conjuntamente a Deus e ao Cordeiro, não ao mérito da multidão."
+    "A multidão atribui a salvação conjuntamente a Deus e ao Cordeiro.",
+    "A aclamação desenvolve a adoração conjunta de Ap 5:13."
   ],
   "words": [
     {

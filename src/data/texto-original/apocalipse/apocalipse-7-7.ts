@@ -5,14 +5,16 @@ export const apocalipse7v7 = {
   "verse": 7,
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
-  "translation": "da tribo de Simeão, doze mil; da tribo de Levi, doze mil; da tribo de Issacar, doze mil;",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "da tribo de Simeão, doze mil; da tribo de Levi, doze mil; da tribo de Issacar, doze mil,",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «δώδεκα» → «ιβ»; acrescenta «ἐσφραγισμένοι» após «χιλιάδες»; «δώδεκα» → «ιβ»; acrescenta «ἐσφραγισμένοι» após «χιλιάδες»; «Ἰσσαχὰρ δώδεκα» → «Ἰσαχάρ ιβ»; acrescenta «ἐσφραγισμένοι» após «χιλιάδες».",
   "syntacticNotes": [
-    "Os três sintagmas seguem a mesma estrutura enumerativa, com ἐκ e genitivo."
+    "ἐκ rege φυλῆς em cada expressão; os nomes próprios especificam a tribo.",
+    "δώδεκα χιλιάδες é fórmula nominal repetida, com referência às pessoas seladas."
   ],
   "exegeticalNotes": [
-    "Levi figura na enumeração; sua inclusão não permite deduzir por si só uma distribuição territorial literal."
+    "A presença de Levi distingue esta enumeração das listas de distribuição territorial, cf. Nm 1:47–49.",
+    "A regularidade numérica continua a apresentar o povo de Deus em organização tribal."
   ],
   "words": [
     {

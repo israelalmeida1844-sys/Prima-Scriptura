@@ -6,11 +6,12 @@ export const apocalipse3v1 = {
   "verse": 1,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Ao anjo da igreja em Sardes escreve: Assim diz aquele que tem os sete espíritos de Deus e as sete estrelas: Conheço tuas obras. Tens reputação de viver, mas estás morto.",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "E ao anjo da igreja em Sardes, escreva: \"Assim diz aquele que tem os sete espíritos de Deus e as sete estrelas: Conheço as suas obras; você tem fama de estar vivo, mas está morto.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «τὸ» após «ὅτι».",
   "exegeticalNotes": [
-    "Nome/reputação não é o sentido obrigatório de ὄνομα em todo contexto; a antítese aqui fundamenta a tradução. Os «sete espíritos» devem ser comparados com Ap 1:4; 4:5; 5:6."
+    "Os sete espíritos e as estrelas retomam Ap 1:4,16,20.",
+    "A tensão entre reputação e realidade organiza a mensagem a Sardes."
   ],
   "words": [
     {
@@ -812,6 +813,7 @@ export const apocalipse3v1 = {
     }
   ],
   "syntacticNotes": [
-    "Τάδε: acusativo neutro plural da fórmula de proclamação; ὁ ἔχων: particípio presente substantivado; Οἶδα: perfeito com valor presente; ὄνομα ἔχεις ὅτι ζῇς contrasta com νεκρὸς εἶ."
+    "ὁ ἔχων é sujeito substantivado de λέγει e rege dois objetos coordenados.",
+    "ὄνομα ἔχεις com ὅτι ζῇς descreve reputação; νεκρὸς εἶ contradiz essa aparência."
   ]
 } as const;

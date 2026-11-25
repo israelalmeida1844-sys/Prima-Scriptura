@@ -6,12 +6,12 @@ export const apocalipse4v7 = {
   "verse": 7,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "O primeiro ser vivente era semelhante a leão; o segundo, a novilho; o terceiro tinha rosto como de homem; e o quarto era semelhante a águia em voo.",
-  "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
+  "translation": "E o primeiro ser vivente era semelhante a um leão, o segundo, a um bezerro; o terceiro tinha o rosto como de um ser humano, e o quarto era semelhante a uma águia em voo.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἔχων WH Treg NA28 ] ἔχον RP; τὸ πρόσωπον ὡς WH Treg NA28 ] πρόσωπον RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἔχων» → «ἔχον»; «ἀνθρώπου» → «ἄνθρωπος»; «πετομένῳ» → «πετωμένῳ».",
   "exegeticalNotes": [
-    "As imagens remetem a Ez 1 e 10, mas Apocalipse distribui as quatro figuras entre seres distintos. Não impor significados alegóricos individuais sem argumentação textual.",
-    "Os quatro símbolos evocam Ez 1:10 e 10:14, mas aqui as figuras são distribuídas entre quatro seres; a associação tipológica não demonstra, isoladamente, uma identidade histórica dos seres."
+    "As quatro figuras retomam Ez 1:10, mas a distribuição das faces difere da visão de Ezequiel.",
+    "O texto descreve seres da corte celestial; associações com impérios ou evangelistas requerem argumento adicional."
   ],
   "words": [
     {
@@ -716,7 +716,7 @@ export const apocalipse4v7 = {
     }
   ],
   "syntacticNotes": [
-    "As quatro figuras são estabelecidas pelas comparações ὅμοιον λέοντι, μόσχῳ e ἀετῷ πετομένῳ; ἔχων em referência ao terceiro ζῷον é particípio presente ativo nominativo masculino apesar do antecedente neutro, sinal de concordância não regular na tradição textual.",
-    "O masculino nominativo ἔχων após o neutro ζῷον é uma irregularidade efetiva do texto SBLGNT e não deve ser corrigida silenciosamente para ἔχον."
+    "Os adjetivos ὅμοιον regem dativos de comparação: λέοντι, μόσχῳ e ἀετῷ.",
+    "ἔχων, masculino nominativo, não concorda regularmente com τὸ τρίτον ζῷον, neutro; é uma irregularidade descritiva preservada."
   ]
 } as const;

@@ -5,15 +5,16 @@ export const apocalipse8v5 = {
   "verse": 5,
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados",
-  "translation": "O anjo tomou o incensário, encheu-o com fogo do altar e lançou-o à terra; houve trovões, vozes, relâmpagos e terremoto.",
-  "translationNote": "Tradução editorial contextual.",
+  "translation": "E o anjo tomou o incensário, encheu-o do fogo do altar e o lançou à terra; e houve trovões, vozes, relâmpagos e terremoto.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «τὸν» → «τὸ»; «αὐτὸν» → «αὐτὸ»; acrescenta «φωναὶ καὶ» após «ἐγένοντο»; omite «καὶ φωναὶ».",
   "syntacticNotes": [
-    "εἴληφεν é perfeito; os aoristos seguintes narram a ação; ἐκ indica origem do fogo.",
-    "αὐτόν retoma λιβανωτόν; εἰς τὴν γῆν indica direção; a série nominativa final depende de ἐγένοντο."
+    "εἴληφεν é perfeito, seguido dos aoristos ἐγέμισεν e ἔβαλεν; αὐτόν retoma λιβανωτόν no enchimento.",
+    "ἐκ τοῦ πυρός indica o conteúdo retirado do altar; εἰς τὴν γῆν indica destino do lançamento."
   ],
   "exegeticalNotes": [
-    "O fogo lançado à terra introduz juízo; compare Ez 10:2. A identificação de uma etapa específica da mediação é interpretação teológica."
+    "A imagem de fogo lançado evoca Ez 10:2 e a manifestação judicial de Deus.",
+    "Trovões, vozes e relâmpagos retomam Ap 4:5; o terremoto acompanha a transição para os juízos."
   ],
   "words": [
     {

@@ -6,14 +6,16 @@ export const apocalipse6v17 = {
   "verse": 17,
   "source": "SBL Greek New Testament (SBLGNT) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "porque chegou o grande dia da ira deles, e quem pode subsistir?",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "\"pois chegou o grande dia da ira deles, e quem pode permanecer de pé?\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): αὐτῶν WH Treg NA28 ] αὐτοῦ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «αὐτῶν» → «αὐτοῦ».",
   "syntacticNotes": [
-    "ὅτι explica a fala anterior; τίς δύναται σταθῆναι encerra o capítulo com infinitivo dependente."
+    "ὅτι introduz a razão do pedido; ἦλθεν é aoristo de chegada.",
+    "τίς é sujeito interrogativo de δύναται, que rege o infinitivo aoristo passivo σταθῆναι."
   ],
   "exegeticalNotes": [
-    "O pronome αὐτῶν na edição-base é plural, ligando a ira ao entronizado e ao Cordeiro. A pergunta final prepara o selamento em Ap 7."
+    "O grande dia evoca a tradição profética do dia do Senhor, cf. Jl 2:11 e Sf 1:14–18.",
+    "A pergunta sobre quem pode permanecer em pé prepara a resposta narrativa de Ap 7."
   ],
   "words": [
     {

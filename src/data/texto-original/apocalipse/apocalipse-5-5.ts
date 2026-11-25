@@ -6,16 +6,16 @@ export const apocalipse5v5 = {
   "verse": 5,
   "source": "SBL Greek New Testament via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Então um dos anciãos me disse: \"Não chores. Eis que o Leão da tribo de Judá, a Raiz de Davi, venceu para abrir o rolo e os seus sete selos.\"",
-  "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
+  "translation": "E um dos anciãos me diz: \"Não chore. Eis que venceu o Leão da tribo de Judá, a Raiz de Davi, para abrir o rolo e seus sete selos.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἀνοῖξαι WH Treg NA28 ] ὁ ἀνοίγων RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «ὢν» após «ὁ»; «Δαυίδ» → «Δαβίδ»; acrescenta «λῦσαι» após «καὶ».",
   "syntacticNotes": [
-    "Μὴ κλαῖε é imperativo presente ativo com partícula negativa, dirigindo ordem a João.",
-    "ἐνίκησεν é aoristo indicativo ativo, terceira pessoa singular; ἀνοῖξαι introduz a ação decorrente da vitória.",
-    "ὁ λέων e ἡ ῥίζα são expressões nominais em aposição, ligadas ao vencedor."
+    "εἷς ἐκ τῶν πρεσβυτέρων é sujeito partitivo de λέγει; μή com imperativo presente κλαῖε constitui proibição.",
+    "ὁ λέων e ἡ ῥίζα são títulos apositivos; ἀνοῖξαι especifica a ação possibilitada pela vitória."
   ],
   "exegeticalNotes": [
-    "A referência ao leão evoca Gn 49:9–10; a Raiz de Davi evoca Is 11:1,10; ἐνίκησεν é aoristo indicativo ativo, retratando a vitória como acontecimento."
+    "Leão de Judá e Raiz de Davi evocam Gn 49:9–10 e Is 11:1,10.",
+    "O que João ouve como vitória leonina é apresentado visualmente como Cordeiro imolado em Ap 5:6."
   ],
   "words": [
     {

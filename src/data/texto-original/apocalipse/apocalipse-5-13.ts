@@ -6,16 +6,16 @@ export const apocalipse5v13 = {
   "verse": 13,
   "source": "SBL Greek New Testament via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "E ouvi toda criatura no céu, sobre a terra, debaixo da terra, sobre o mar e tudo o que neles há, dizendo: \"Àquele que está sentado no trono e ao Cordeiro sejam o louvor, a honra, a glória e o domínio pelos séculos dos séculos.\"",
-  "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
+  "translation": "E ouvi toda criatura que está no céu, sobre a terra, debaixo da terra e sobre o mar, e tudo o que neles há, dizendo: \"Àquele que está sentado no trono e ao Cordeiro sejam o louvor, a honra, a glória e o domínio pelos séculos dos séculos.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): θαλάσσης Treg NA28 ] + ἐστίν WH RP; πάντα WH Treg NA28 ] πάντας RP; τῷ θρόνῳ NA28 ] τοῦ θρόνου WH Treg RP; αἰώνων WH Treg NA28 ] + Ἀμήν RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «ἐστιν» após «ὃ»; «ἐπὶ τῆς γῆς» → «ἐν τῇ γῇ»; acrescenta «ἅ ἐστι» após «θαλάσσης»; «τῷ θρόνῳ» → «τοῦ θρόνου».",
   "syntacticNotes": [
-    "πᾶν κτίσμα apresenta o tema da abrangência universal, articulado por expressões espaciais.",
-    "ἤκουσα é aoristo indicativo ativo, primeira pessoa singular, seguido de λέγοντας, particípio acusativo plural na cena auditiva.",
-    "Os dativos Τῷ καθημένῳ e τῷ ἀρνίῳ identificam os destinatários da doxologia; εἰς τοὺς αἰῶνας marca a extensão temporal."
+    "πᾶν κτίσμα e τὰ ἐν αὐτοῖς πάντα são objetos antecipados de ἤκουσα; λέγοντας apresenta concordância semântica masculina plural.",
+    "Os dativos τῷ καθημένῳ e τῷ ἀρνίῳ designam os dois destinatários da doxologia nominal."
   ],
   "exegeticalNotes": [
-    "O louvor alcança as esferas da criação enumeradas no texto e une, como destinatários, aquele que está no trono e o Cordeiro."
+    "A adoração torna-se cósmica, retomando os domínios de Ap 5:3 e acrescentando o mar.",
+    "O ocupante do trono e o Cordeiro recebem conjuntamente louvor e domínio."
   ],
   "words": [
     {

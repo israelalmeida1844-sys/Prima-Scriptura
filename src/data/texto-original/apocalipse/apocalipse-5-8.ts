@@ -6,16 +6,16 @@ export const apocalipse5v8 = {
   "verse": 8,
   "source": "SBL Greek New Testament via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Quando tomou o rolo, os quatro seres viventes e os vinte e quatro anciãos prostraram-se diante do Cordeiro, tendo cada um uma harpa e taças de ouro cheias de incenso, que são as orações dos santos.",
-  "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
+  "translation": "E quando tomou o rolo, os quatro seres viventes e os vinte e quatro anciãos se prostraram diante do Cordeiro, tendo cada um uma harpa e taças de ouro cheias de incenso, que são as orações dos santos.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): αἱ WH Treg NA28 ] – RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἔλαβεν» → «ἔλαβε»; «εἴκοσι τέσσαρες» → «εἰκοσιτέσσαρες»; «ἔπεσαν» → «ἔπεσον»; «κιθάραν» → «κιθάρας».",
   "syntacticNotes": [
-    "ὅτε introduz oração temporal com o aoristo ἔλαβεν.",
-    "ἔχοντες é particípio presente ativo nominativo plural masculino, ligado à descrição dos anciãos e seres viventes.",
-    "αἵ εἰσιν αἱ προσευχαί identifica explicitamente as taças/incenso com as orações na linguagem da visão."
+    "ὅτε introduz oração temporal; os dois grupos coordenados constituem o sujeito de ἔπεσαν.",
+    "ἔχοντες é particípio circunstancial; αἵ concorda com φιάλας, e a predicação identifica as taças com as orações."
   ],
   "exegeticalNotes": [
-    "As taças de incenso são explicitamente interpretadas no texto como orações dos santos; a cena participa da imagética sacerdotal."
+    "A tomada do rolo suscita adoração do Cordeiro na corte celestial.",
+    "A identificação do incenso e das orações prepara a cena de Ap 8:3–4, evocando Sl 141:2."
   ],
   "words": [
     {

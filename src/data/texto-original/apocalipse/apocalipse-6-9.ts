@@ -6,14 +6,16 @@ export const apocalipse6v9 = {
   "verse": 9,
   "source": "SBL Greek New Testament (SBLGNT) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Quando abriu o quinto selo, vi debaixo do altar as vidas dos que foram mortos por causa da palavra de Deus e do testemunho que mantinham.",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "E quando abriu o quinto selo, vi debaixo do altar as vidas dos que haviam sido mortos por causa da palavra de Deus e do testemunho que tinham.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): μαρτυρίαν WH Treg NA28 ] + τοῦ ἀρνίου RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἤνοιξεν» → «ἤνοιξε».",
   "syntacticNotes": [
-    "τὰς ψυχάς é objeto de εἶδον; διὰ + acusativo introduz causa e motivo."
+    "τὰς ψυχάς é objeto de εἶδον, qualificado pelo genitivo participial τῶν ἐσφαγμένων.",
+    "As duas expressões com διά e acusativo indicam a causa da morte; ἣν retoma μαρτυρίαν."
   ],
   "exegeticalNotes": [
-    "As vidas dos mortos estão simbolicamente debaixo do altar, evocando o sangue sacrificial (Lv 4:7). A perspectiva adventista entende a cena de modo simbólico, não como prova independente de consciência desencarnada."
+    "A localização sob o altar evoca a linguagem sacrificial do sangue derramado, cf. Lv 4:7.",
+    "A imagem visionária dos mártires concentra-se em seu testemunho e na demanda por justiça, não resolve isoladamente a antropologia bíblica."
   ],
   "words": [
     {

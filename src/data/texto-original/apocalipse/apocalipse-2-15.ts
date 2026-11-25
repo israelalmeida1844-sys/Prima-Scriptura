@@ -6,12 +6,12 @@ export const apocalipse2v15 = {
   "verse": 15,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Assim também tens os que seguem o ensino dos nicolaítas, da mesma maneira.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Assim também você tem pessoas que sustentam, de modo semelhante, o ensino dos nicolaítas.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): διδαχὴν WH ] + τῶν Treg NA28 RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «τῶν» após «διδαχὴν»; «ὁμοίως» → «ὃ μισῶ».",
   "exegeticalNotes": [
-    "Os nicolaítas são apresentados por proximidade com o modelo de Balaão, sem identificação histórica indiscutível.",
-    "A leitura ὁμοίως deve ser mantida sem interpolação do TR."
+    "O paralelismo com Balaão esclarece a função polêmica do nome nicolaítas.",
+    "O texto não fornece biografia independente do grupo; a crítica concentra-se no ensino sustentado."
   ],
   "words": [
     {
@@ -233,6 +233,7 @@ export const apocalipse2v15 = {
     }
   ],
   "syntacticNotes": [
-    "A dupla sequência οὕτως ... ὁμοίως constrói comparação enfática. Não acrescentar as palavras de outras tradições ao corpo da leitura SBLGNT."
+    "οὕτως e ὁμοίως vinculam a situação à analogia anterior; καὶ σύ destaca o destinatário.",
+    "κρατοῦντας é complemento participial de ἔχεις e rege τὴν διδαχήν."
   ]
 } as const;

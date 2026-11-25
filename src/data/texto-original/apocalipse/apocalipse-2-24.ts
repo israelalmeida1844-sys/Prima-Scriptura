@@ -6,12 +6,12 @@ export const apocalipse2v24 = {
   "verse": 24,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "A vós, porém, digo, aos demais de Tiatira, a todos os que não seguem esse ensino e que não conheceram as chamadas profundezas de Satanás: não vos imponho outro fardo.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"A vocês, porém, os demais em Tiatira, todos os que não têm esse ensino e não conheceram as profundezas de Satanás, como dizem, declaro: não imponho sobre vocês outro peso.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «τοῖς» → «καὶ»; «ἔχουσιν» → «ἔχουσι»; acrescenta «καὶ» após «ταύτην»; «βαθέα» → «βάθη»; «βάλλω» → «βαλῶ».",
   "exegeticalNotes": [
-    "Os demais em Tiatira são distinguidos do grupo identificado com o ensino desviado.",
-    "A expressão profundezas de Satanás não demonstra por si um movimento gnóstico organizado."
+    "A declaração distingue os que resistem ao ensino censurado.",
+    "A expressão profundezas de Satanás inverte a pretensão de conhecimento elevado; o texto não descreve seu sistema em detalhe."
   ],
   "words": [
     {
@@ -717,7 +717,7 @@ export const apocalipse2v24 = {
     }
   ],
   "syntacticNotes": [
-    "τὰ βαθέα τοῦ Σατανᾶ, ὡς λέγουσιν: 'as profundezas de Satanás, como dizem'. Atribuir a frase a um sistema gnóstico historicamente constituído é anacrônico sem evidência específica. βάρος ('fardo') pode evocar At 15:28, mas o eco é intertextual possível, não citação formal.",
-    "τὰ βαθέα τοῦ Σατανᾶ não identifica automaticamente uma seita gnóstica posterior. οὐ βάλλω ... ἄλλο βάρος aproxima-se tematicamente de At 15:28, sem provar citação direta."
+    "ὑμῖν é dativo antecipado de λέγω, especificado pelas expressões apositivas e relativas.",
+    "ὡς λέγουσιν é comentário parentético; ἄλλο βάρος é objeto de βάλλω com ἐφ’ ὑμᾶς."
   ]
 } as const;

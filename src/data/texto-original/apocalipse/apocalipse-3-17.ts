@@ -6,11 +6,12 @@ export const apocalipse3v17 = {
   "verse": 17,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Porque dizes: Sou rico, enriqueci e não necessito de nada; e não sabes que és o infeliz, miserável, pobre, cego e nu,",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "\"Porque você diz: 'Sou rico, enriqueci e não preciso de nada', mas não sabe que você é o miserável, digno de compaixão, pobre, cego e nu,\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ὅτι WH Treg NA28 ] – RP; οὐδὲν WH Treg NA28 ] οὐδενὸς RP; καὶ WH Treg NA28 ] + ὁ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «οὐδὲν» → «οὐδενὸς».",
   "exegeticalNotes": [
-    "A autopercepção de prosperidade contrasta com pobreza, cegueira e nudez espirituais. A análise deve diferenciar prosperidade material de julgamento teológico sem generalização simplista."
+    "A autopercepção de riqueza é desmentida pelo diagnóstico de Cristo.",
+    "Pobreza, cegueira e nudez preparam os três remédios figurados de Ap 3:18."
   ],
   "words": [
     {
@@ -665,6 +666,7 @@ export const apocalipse3v17 = {
     }
   ],
   "syntacticNotes": [
-    "πεπλούτηκα é perfeito ativo com estado resultante: «enriqueci/estou enriquecido»; οὐδὲν χρείαν ἔχω é construção idiomática de falta de necessidade. σὺ εἶ ὁ ταλαίπωρος enfatiza contraste de perspectiva."
+    "O segundo ὅτι introduz discurso direto após λέγεις; πεπλούτηκα é perfeito que expressa estado resultante.",
+    "οὐκ οἶδας rege outra oração de ὅτι, cujo sujeito σὺ é enfático e recebe a série de predicativos."
   ]
 } as const;

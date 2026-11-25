@@ -5,15 +5,16 @@ export const apocalipse8v3 = {
   "verse": 3,
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados",
-  "translation": "Outro anjo veio e se colocou junto ao altar, tendo um incensário de ouro. Foram-lhe dados muitos incensos, para que os oferecesse com as orações de todos os santos sobre o altar de ouro diante do trono.",
-  "translationNote": "Tradução editorial contextual.",
+  "translation": "E veio outro anjo e ficou junto ao altar, tendo um incensário de ouro. Foi-lhe dado muito incenso para que o oferecesse com as orações de todos os santos sobre o altar de ouro que está diante do trono.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): δώσει WH Treg NA28 ] δώσῃ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἦλθεν» → «ἦλθε»; «τοῦ θυσιαστηρίου» → «τὸ θυσιαστήριον»; «δώσει» → «δώσῃ».",
   "syntacticNotes": [
-    "ἔχων modifica ἄγγελος; ἵνα δώσει apresenta futuro indicativo em oração de finalidade; os dativos das orações admitem associação.",
-    "θυμιάματα πολλά é sujeito neutro plural de ἐδόθη, singular; λιβανωτὸν χρυσοῦν é objeto de ἔχων; o segundo ἐπί rege acusativo e marca o alvo da oferta."
+    "ἔχων caracteriza o anjo; θυμιάματα πολλά é sujeito neutro plural de ἐδόθη no singular.",
+    "ἵνα δώσει contém futuro indicativo na oração de finalidade; ταῖς προσευχαῖς expressa associação com as orações."
   ],
   "exegeticalNotes": [
-    "O altar e o incenso evocam o culto do santuário (Êx 30:1–10); as orações retomam Ap 5:8."
+    "A cena retoma as taças de incenso de Ap 5:8 e a linguagem cultual de Êx 30:1–10.",
+    "O altar diante do trono vincula as orações dos santos ao cenário celestial; o texto não identifica explicitamente o anjo como Cristo."
   ],
   "words": [
     {

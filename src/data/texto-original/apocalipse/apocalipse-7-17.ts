@@ -5,14 +5,16 @@ export const apocalipse7v17 = {
   "verse": 17,
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
-  "translation": "porque o Cordeiro que está no meio do trono os pastoreará e os guiará às fontes de águas da vida; e Deus enxugará toda lágrima de seus olhos.",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "\"porque o Cordeiro que está no meio do trono os pastoreará e os conduzirá às fontes de águas da vida; e Deus enxugará toda lágrima de seus olhos.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ποιμανεῖ WH Treg NA28 ] ποιμαίνει RP; ὁδηγήσει WH Treg NA28 ] ὁδηγεῖ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ζωῆς» → «ζώσας»; «ἐκ» → «ἀπὸ».",
   "syntacticNotes": [
-    "ὅτι introduz causa; ποιμανεῖ, ὁδηγήσει e ἐξαλείψει são futuros. ζωῆς qualifica a expressão πηγὰς ὑδάτων."
+    "ὅτι fundamenta as promessas anteriores; ποιμανεῖ e ὁδηγήσει são futuros com αὐτούς como objeto.",
+    "ζωῆς qualifica as fontes de águas; ἐξαλείψει tem ὁ θεός como sujeito e πᾶν δάκρυον como objeto."
   ],
   "exegeticalNotes": [
-    "O Cordeiro exerce função pastoral; compare Sl 23 e Is 49:10. A remoção das lágrimas ecoa Is 25:8 e antecipa Ap 21:4."
+    "O Cordeiro torna-se pastor, evocando Sl 23 e Is 49:10.",
+    "A remoção das lágrimas ecoa Is 25:8 e antecipa a restauração de Ap 21:4."
   ],
   "words": [
     {

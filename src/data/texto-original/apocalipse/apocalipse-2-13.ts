@@ -6,12 +6,12 @@ export const apocalipse2v13 = {
   "verse": 13,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Sei onde habitas, onde está o trono de Satanás. Entretanto, conservas meu nome e não negaste minha fé, mesmo nos dias de Antipas, minha testemunha fiel, que foi morto entre vós, onde Satanás habita.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Sei onde você mora, onde está o trono de Satanás. Você mantém o meu nome e não negou a minha fé, nem mesmo nos dias de Antipas, minha testemunha, meu fiel, que foi morto entre vocês, onde Satanás habita.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): Οἶδα WH Treg NA28 ] + τὰ ἔργα σου καὶ RP; καὶ WH Treg NA28 ] – RP; ἡμέραις WH Treg NA28 ] + ἐν αἷς RP; μου WH Treg NA28 ] – RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «τὰ ἔργα σου καὶ» após «Οἶδα»; acrescenta «ἐν αἷς» após «ἡμέραις»; omite «μου»; acrescenta «κατοικεῖ» após «ὅπου»; omite «κατοικεῖ».",
   "exegeticalNotes": [
-    "Pérgamo: fidelidade comunitária em ambiente de conflito religioso; o trono de Satanás é linguagem simbólica cujo referente histórico permanece debatido.",
-    "Antipas recebe título de testemunha fiel; a construção gramatical é abrupta, e uma biografia histórica independente não deve ser inventada."
+    "O trono de Satanás representa a oposição vivida em Pérgamo; uma identificação histórica exclusiva requer evidência adicional.",
+    "Antipas é apresentado como exemplo concreto de testemunho fiel, evocando o título de Cristo em Ap 1:5."
   ],
   "words": [
     {
@@ -936,7 +936,7 @@ export const apocalipse2v13 = {
     }
   ],
   "syntacticNotes": [
-    "ὅπου ὁ θρόνος τοῦ Σατανᾶ descreve Pérgamo polemicamente; associações ao altar de Zeus ou ao culto imperial são hipóteses históricas concorrentes, não referências explicitadas no grego. Ἀντιπᾶς, ὁ μάρτυς μου, ὁ πιστός μου está no nominativo com aposições nominativas, embora o encadeamento após ἐν ταῖς ἡμέραις seja sintaticamente abrupto; não converter o nome para genitivo.",
-    "ὅπου ὁ θρόνος τοῦ Σατανᾶ contém elipse verbal compreensível no contexto. Ἀντιπᾶς permanece nominativo após expressão temporal, com aposição também nominativa; a irregularidade não deve ser normalizada."
+    "ποῦ κατοικεῖς é interrogativa indireta dependente de Οἶδα; ὅπου introduz uma oração locativa.",
+    "Ἀντιπᾶς e os títulos ὁ μάρτυς μου, ὁ πιστός μου aparecem em nominativo depois de ἐν ταῖς ἡμέραις; a irregularidade preserva a identificação solene da testemunha."
   ]
 } as const;

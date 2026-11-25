@@ -5,14 +5,16 @@ export const apocalipse7v12 = {
   "verse": 12,
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
-  "translation": "dizendo: \"Amém! O louvor, a glória, a sabedoria, a ação de graças, a honra, o poder e a força pertencem ao nosso Deus pelos séculos dos séculos. Amém!\"",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "dizendo: \"Amém! O louvor, a glória, a sabedoria, a gratidão, a honra, o poder e a força sejam ao nosso Deus pelos séculos dos séculos. Amém.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "syntacticNotes": [
-    "Sete substantivos nominativos coordenados formam doxologia nominal; τῷ θεῷ é dativo de atribuição; εἰς τοὺς αἰῶνας τῶν αἰώνων exprime duração."
+    "λέγοντες retoma os anjos; a doxologia contém sete núcleos nominativos articulados.",
+    "τῷ θεῷ ἡμῶν é dativo de atribuição em oração nominal; εἰς τοὺς αἰῶνας expressa duração."
   ],
   "exegeticalNotes": [
-    "A doxologia de sete elementos expressa plenitude de louvor e retoma Ap 5:12, com diferenças na enumeração."
+    "A doxologia de sete termos ecoa Ap 5:12.",
+    "O duplo amém emoldura a ratificação celestial da salvação atribuída a Deus."
   ],
   "words": [
     {

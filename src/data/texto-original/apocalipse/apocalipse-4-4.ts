@@ -6,12 +6,12 @@ export const apocalipse4v4 = {
   "verse": 4,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Ao redor do trono havia vinte e quatro tronos; e sobre eles vi vinte e quatro anciãos sentados, vestidos com vestes brancas e tendo coroas de ouro sobre a cabeça.",
-  "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
+  "translation": "E ao redor do trono havia vinte e quatro tronos, e sobre os tronos, vinte e quatro anciãos sentados, vestidos de roupas brancas, e sobre suas cabeças, coroas de ouro.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): θρόνοι WH Treg RP ] θρόνους NA28; θρόνους WH Treg NA28 ] + τοὺς RP; ἐν Treg NA28 RP ] – WH. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «καὶ» após «εἴκοσι»; acrescenta «εἶδον τοὺς» após «θρόνους»; acrescenta «καὶ» após «εἴκοσι»; acrescenta «ἔσχον» após «καὶ».",
   "exegeticalNotes": [
-    "A identidade dos vinte e quatro anciãos é tema interpretativo em disputa; sua função cultual e régia é mais evidente no texto que sua origem histórica. στέφανος é coroa de honra, não διάδημα.",
-    "A menção de στεφάνους (coroas de honra/vitória) não identifica por si a origem dos anciãos; as propostas de representantes redimidos ou corte celestial permanecem hipóteses interpretativas."
+    "Os tronos, vestes e coroas apresentam os anciãos em posição honorífica e litúrgica.",
+    "A identidade do grupo deve ser interpretada pelo desenvolvimento de Ap 4–5 e não apenas pelo número vinte e quatro."
   ],
   "words": [
     {
@@ -643,8 +643,7 @@ export const apocalipse4v4 = {
     }
   ],
   "syntacticNotes": [
-    "εἴκοσι τέσσαρες exprime vinte e quatro, número repetido para tronos e anciãos. πρεσβυτέρους καθημένους: acusativo masculino plural com particípio presente médio em aposição/descritivo; περιβεβλημένους é particípio perfeito médio/passivo. στεφάνους χρυσοῦς é acusativo plural masculino.",
-    "πρεσβυτέρους é analisado como adjetivo no MorphGNT, mas substantivado no contexto: «anciãos»; os particípios καθημένους e περιβεβλημένους qualificam o grupo.",
-    "O numeral εἴκοσι é indeclinável. No primeiro grupo («vinte e quatro tronos»), o MorphGNT registra o código acusativo plural masculino para εἴκοσι, embora θρόνοι e τέσσαρες estejam no nominativo; o código deve ser preservado como dado do corpus, mas não interpretado como flexão própria de εἴκοσι."
+    "θρόνοι aparece em nominativo, enquanto πρεσβυτέρους e os particípios concordantes estão no acusativo; a construção descritiva é elíptica e muda de caso.",
+    "περιβεβλημένους é particípio perfeito médio/passivo; ἐν ἱματίοις λευκοῖς especifica a vestimenta."
   ]
 } as const;

@@ -6,11 +6,12 @@ export const apocalipse3v4 = {
   "verse": 4,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Mas tens uns poucos em Sardes, pessoas que não contaminaram suas vestes; elas andarão comigo de branco, porque são dignas.",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "\"Você tem, contudo, alguns nomes em Sardes que não contaminaram suas vestes; eles andarão comigo vestidos de branco, porque são dignos.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἔχεις ὀλίγα WH Treg NA28 ] ὀλίγα ἔχεις RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «ἀλλὰ»; acrescenta «καὶ» após «ὀνόματα»; «περιπατήσουσιν» → «περιπατήσουσι».",
   "exegeticalNotes": [
-    "A imagem das vestes brancas deve ser comparada com 3:5; 6:11; 7:9,13–14; 19:8. Não inferir impecabilidade absoluta a partir da metáfora."
+    "As vestes distinguem os fiéis da condição geral da comunidade.",
+    "A cor branca retorna em Ap 7:9,14 e 19:8, associada à condição dos redimidos."
   ],
   "words": [
     {
@@ -522,6 +523,7 @@ export const apocalipse3v4 = {
     }
   ],
   "syntacticNotes": [
-    "ὀλίγα ὀνόματα designa pessoas por metonímia. ἃ é relativo neutro plural, combinando formalmente com «nomes», embora o referente seja humano; οὐκ ἐμόλυναν é aoristo."
+    "ὀλίγα ὀνόματα funciona metonimicamente como pessoas, retomadas por ἃ.",
+    "ἐν λευκοῖς é expressão elíptica de vestimenta; ὅτι ἄξιοί εἰσιν fundamenta a promessa."
   ]
 } as const;

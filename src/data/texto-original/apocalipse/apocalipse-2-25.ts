@@ -6,12 +6,12 @@ export const apocalipse2v25 = {
   "verse": 25,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Contudo, conservai o que tendes até que eu venha.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Apenas conservem o que vocês têm até que eu venha.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἄχρι» → «ἄχρις».",
   "exegeticalNotes": [
-    "A fidelidade exigida é manter o que já foi recebido.",
-    "A esperança da chegada de Cristo é fundamento da perseverança."
+    "A fidelidade presente é exigida em vista da vinda de Cristo.",
+    "A ordem prepara a promessa ao vencedor nos versículos seguintes."
   ],
   "words": [
     {
@@ -209,7 +209,7 @@ export const apocalipse2v25 = {
     }
   ],
   "syntacticNotes": [
-    "κρατήσατε é imperativo aoristo ativo, segunda pessoa plural. A expressão ἄχρι οὗ ἂν ἥξω relaciona a perseverança à chegada de Cristo.",
-    "κρατήσατε é imperativo aoristo plural, diferente dos imperativos singulares dirigidos ao anjo/comunidade; ἄχρι οὗ ἂν ἥξω funciona como delimitação temporal da perseverança."
+    "πλήν restringe a ordem ao essencial; ὃ ἔχετε é relativa livre, objeto de κρατήσατε.",
+    "ἄχρι οὗ ἂν ἥξω introduz o limite temporal da perseverança."
   ]
 } as const;

@@ -6,12 +6,12 @@ export const apocalipse2v4 = {
   "verse": 4,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Tenho, porém, contra ti que abandonaste o teu primeiro amor.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Tenho, porém, contra você o fato de ter abandonado o seu primeiro amor.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἀλλὰ» → «ἀλλ᾽»; «ἀφῆκες» → «ἀφῆκας».",
   "exegeticalNotes": [
-    "O primeiro amor é apresentado como algo abandonado, apesar de outros elogios.",
-    "A memória do passado conduz à convocação à mudança."
+    "A avaliação distingue fidelidade doutrinária e perseverança da qualidade do amor que as deve acompanhar.",
+    "O texto não especifica um único objeto do amor; o chamado subsequente envolve a prática comunitária."
   ],
   "words": [
     {
@@ -281,7 +281,7 @@ export const apocalipse2v4 = {
     }
   ],
   "syntacticNotes": [
-    "ἀφῆκες é aoristo ativo indicativo, 2ª pessoa singular de ἀφίημι; τὴν ἀγάπην σου τὴν πρώτην caracteriza o amor inicial abandonado, em construção atributiva repetida.",
-    "τὴν ἀγάπην ... τὴν πρώτην apresenta adjetivo em segunda posição atributiva. ἀφῆκες descreve abandono, não o sentido isolado 'perdoar' do lema ἀφίημι."
+    "ἔχω κατά σου introduz a acusação; ὅτι explicita seu conteúdo.",
+    "O artigo repetido τὴν πρώτην caracteriza ἀγάπην; ἀφῆκες é aoristo de abandono."
   ]
 } as const;

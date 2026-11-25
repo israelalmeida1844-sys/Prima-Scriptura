@@ -6,12 +6,12 @@ export const apocalipse2v16 = {
   "verse": 16,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Arrepende-te, portanto! Do contrário, venho a ti sem demora e lutarei contra eles com a espada da minha boca.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Arrependa-se, portanto. Caso contrário, virei a você em breve e combaterei contra eles com a espada da minha boca.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «οὖν».",
   "exegeticalNotes": [
-    "O chamado ao arrependimento antecede a ameaça de julgamento.",
-    "A espada da boca é linguagem de conflito e autoridade, não incentivo a violência humana."
+    "A ameaça distingue a comunidade destinatária dos que sustentam o ensino censurado.",
+    "A espada da boca retoma Ap 1:16 e 2:12, imagem de julgamento por Cristo."
   ],
   "words": [
     {
@@ -452,7 +452,7 @@ export const apocalipse2v16 = {
     }
   ],
   "syntacticNotes": [
-    "μετανόησον é imperativo aoristo ativo, segunda pessoa singular. πολεμήσω está no futuro ativo indicativo, primeira pessoa singular; a guerra é contra os grupos indicados no contexto, representada pela espada que procede da boca de Cristo (1:16; 2:12).",
-    "μετανόησον é dirigido à comunidade singular; πολεμήσω μετ’ αὐτῶν desloca o alvo do juízo ao grupo plural; esse contraste pronominal exige explicação."
+    "μετανόησον é imperativo aoristo; εἰ δὲ μή introduz a consequência da recusa.",
+    "μετ’ αὐτῶν tem valor de confronto com πολεμήσω; ἐν τῇ ῥομφαίᾳ indica meio."
   ]
 } as const;

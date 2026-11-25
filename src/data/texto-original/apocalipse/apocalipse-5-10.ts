@@ -6,16 +6,16 @@ export const apocalipse5v10 = {
   "verse": 10,
   "source": "SBL Greek New Testament via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "E fizeste deles, para o nosso Deus, um reino e sacerdotes; e eles reinam sobre a terra.",
-  "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
+  "translation": "\"e fizeste deles, para o nosso Deus, um reino e sacerdotes, e eles reinam sobre a terra.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): βασιλείαν WH Treg NA28 ] βασιλεῖς RP; βασιλεύουσιν WH Treg ] βασιλεύσουσιν NA28 RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «αὐτοὺς» → «ἡμᾶς»; «βασιλείαν» → «βασιλεῖς»; «βασιλεύουσιν» → «βασιλεύσομεν». O presente βασιλεύουσιν do SBLGNT contrasta com o futuro βασιλεύσουσιν do NA28/RP; Scrivener ainda muda a pessoa para a primeira do plural e o objeto αὐτούς para ἡμᾶς. As diferenças afetam o tempo e os participantes da ação de reinar.",
   "syntacticNotes": [
-    "ἐποίησας é aoristo indicativo ativo, segunda pessoa singular; αὐτούς é o objeto pronominal de terceira pessoa plural.",
-    "βασιλείαν e ἱερεῖς aparecem como predicativos do objeto na construção com ἐποίησας.",
-    "A forma textual βασιλεύουσιν é presente indicativo ativo, terceira pessoa plural; o arquivo MorphGNT consultado contém etiqueta futura divergente da forma gráfica, preservada para auditoria."
+    "ἐποίησας rege αὐτούς e os predicativos βασιλείαν e ἱερεῖς; τῷ θεῷ ἡμῶν indica destinatário.",
+    "βασιλεύουσιν é presente indicativo ativo de terceira pessoa plural; a etiqueta futura do MorphGNT 6.12 diverge da forma escrita e é corrigida editorialmente."
   ],
   "exegeticalNotes": [
-    "A designação reino e sacerdotes recupera Ex 19:6 e Ap 1:6; atenção às variantes pronominais e ao tempo verbal da declaração sobre reinar."
+    "A condição de reino e sacerdotes retoma Êx 19:6 e Ap 1:6.",
+    "O reinado dos redimidos é apresentado no cântico como consequência da ação do Cordeiro; a relação temporal com outras cenas deve ser examinada intratextualmente."
   ],
   "words": [
     {

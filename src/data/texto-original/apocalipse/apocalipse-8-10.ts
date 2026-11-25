@@ -5,15 +5,16 @@ export const apocalipse8v10 = {
   "verse": 10,
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados",
-  "translation": "O terceiro anjo tocou a trombeta, e caiu do céu uma grande estrela, ardendo como uma tocha, sobre um terço dos rios e sobre as fontes das águas.",
-  "translationNote": "Tradução editorial contextual.",
+  "translation": "E o terceiro anjo tocou a trombeta. Caiu do céu uma grande estrela, ardendo como tocha, e caiu sobre a terça parte dos rios e sobre as fontes das águas.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἐσάλπισεν» → «ἐσάλπισε»; omite «τῶν».",
   "syntacticNotes": [
-    "καιόμενος concorda com ἀστήρ; ὡς λαμπάς introduz comparação; ἐπί indica alvo.",
-    "ἀστὴρ μέγας é sujeito de ἔπεσεν; τῶν ποταμῶν é genitivo partitivo."
+    "ἀστὴρ μέγας é sujeito de ἔπεσεν, e καιόμενος é particípio circunstancial; ὡς λαμπάς introduz comparação.",
+    "As duas expressões com ἐπί delimitam os alvos da queda: rios e fontes."
   ],
   "exegeticalNotes": [
-    "A queda da estrela e a contaminação das águas formam uma imagem de juízo; compare Jr 9:15."
+    "A imagem da estrela caída liga o cenário celeste aos recursos terrestres.",
+    "O foco passa da água marítima às fontes de água doce, cujo efeito será esclarecido em Ap 8:11."
   ],
   "words": [
     {

@@ -6,12 +6,12 @@ export const apocalipse2v6 = {
   "verse": 6,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Tens, porém, isto a teu favor: odeias as obras dos nicolaítas, que eu também odeio.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Você tem, contudo, isto: odeia as obras dos nicolaítas, as quais eu também odeio.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "exegeticalNotes": [
-    "Os nicolaítas são mencionados sem descrição histórica completa.",
-    "A relação com Balaão requer interpretação a partir do restante da carta."
+    "O elogio se dirige à rejeição das obras, não autoriza hostilidade indiscriminada contra pessoas.",
+    "A identidade e as práticas dos nicolaítas são discutidas; Ap 2:14–15 oferece a conexão literária mais próxima."
   ],
   "words": [
     {
@@ -306,7 +306,7 @@ export const apocalipse2v6 = {
     }
   ],
   "syntacticNotes": [
-    "Νικολαϊτῶν é genitivo plural do nome grupal Νικολαΐτης. Identificar diretamente os nicolaítas com os seguidores de Balaão (2:14–15) é inferência interpretativa e não identificação histórica comprovada pela etimologia.",
-    "Νικολαϊτῶν é genitivo plural de grupo. O texto não fornece etimologia segura nem biografia de seus participantes; correlações com Balaão exigem discussão de 2:14–15."
+    "τοῦτο é antecipação do conteúdo introduzido por ὅτι; ἃ retoma τὰ ἔργα.",
+    "κἀγώ é crase de καὶ ἐγώ, enfatizando a concordância de Cristo com a rejeição dessas práticas."
   ]
 } as const;

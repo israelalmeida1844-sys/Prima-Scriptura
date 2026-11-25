@@ -5,14 +5,16 @@ export const apocalipse7v6 = {
   "verse": 6,
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
-  "translation": "da tribo de Aser, doze mil; da tribo de Naftali, doze mil; da tribo de Manassés, doze mil;",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "da tribo de Aser, doze mil; da tribo de Naftali, doze mil; da tribo de Manassés, doze mil,",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «δώδεκα» → «ιβ»; acrescenta «ἐσφραγισμένοι» após «χιλιάδες»; «Νεφθαλὶμ δώδεκα» → «Νεφθαλείμ ιβ»; acrescenta «ἐσφραγισμένοι» após «χιλιάδες»; «δώδεκα» → «ιβ»; acrescenta «ἐσφραγισμένοι» após «χιλιάδες».",
   "syntacticNotes": [
-    "Repetição elíptica de ἐκ φυλῆς e δώδεκα χιλιάδες; nomes tribais exercem função genitiva."
+    "As três expressões com ἐκ repetem a estrutura partitiva de Ap 7:5.",
+    "O particípio selados está elíptico na enumeração, recuperável a partir da abertura e do encerramento da lista."
   ],
   "exegeticalNotes": [
-    "Manassés integra a lista; compare Gn 48. A seleção não reproduz integralmente nenhuma lista tribal usual do AT."
+    "A lista inclui Manassés, descendente de José, cf. Gn 48:5.",
+    "A composição das tribos deve ser comparada com diferentes listas veterotestamentárias, sem harmonização automática."
   ],
   "words": [
     {

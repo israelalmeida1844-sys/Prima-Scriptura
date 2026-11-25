@@ -6,13 +6,12 @@ export const apocalipse4v6 = {
   "verse": 6,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Diante do trono havia algo como um mar de vidro, semelhante a cristal. No meio do trono e ao seu redor havia quatro seres viventes, cheios de olhos pela frente e por trás.",
-  "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
+  "translation": "E diante do trono havia algo como um mar de vidro, semelhante ao cristal. E no meio do trono e ao redor do trono havia quatro seres viventes, cheios de olhos à frente e atrás.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «ὡς».",
   "exegeticalNotes": [
-    "O mar de vidro e os quatro seres viventes integram a cena celestial; «olhos à frente e atrás» sugere percepção abrangente, uma interpretação simbólica, não uma descrição zoológica.",
-    "ὡς e ὁμοία marcam duas comparações: a visão descreve algo «como um mar vítreo, semelhante a cristal», sem determinar se se trata de água material.",
-    "A expressão ἐν μέσῳ ... καὶ κύκλῳ do trono é espacialmente complexa; a tradução conserva a dupla relação ao centro e ao redor, em vez de especificar uma planta arquitetônica."
+    "O mar cristalino evoca imagens do firmamento em Ez 1:22 e da presença divina em Êx 24:10.",
+    "Os seres viventes remetem à visão de Ezequiel, sem exigir correspondência literal de todos os pormenores."
   ],
   "words": [
     {
@@ -619,6 +618,7 @@ export const apocalipse4v6 = {
     }
   ],
   "syntacticNotes": [
-    "ὡς θάλασσα ὑαλίνη ὁμοία κρυστάλλῳ: duas comparações sucessivas descrevem algo semelhante a mar de vidro e cristal; não declaram a composição física de um oceano. τέσσαρα ζῷα é neutro plural, com particípio neutro plural γέμοντα; ὀφθαλμῶν é genitivo de conteúdo."
+    "ὡς e ὁμοία introduzem comparações; κρυστάλλῳ é dativo dependente de ὁμοία.",
+    "γέμοντα concorda com τέσσαρα ζῷα e rege o genitivo ὀφθαλμῶν."
   ]
 } as const;

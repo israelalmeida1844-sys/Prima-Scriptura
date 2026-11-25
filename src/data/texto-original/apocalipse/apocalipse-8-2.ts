@@ -5,15 +5,16 @@ export const apocalipse8v2 = {
   "verse": 2,
   "source": "SBLGNT via MorphGNT; blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados",
-  "translation": "E vi os sete anjos que estão diante de Deus, e lhes foram dadas sete trombetas.",
-  "translationNote": "Tradução editorial contextual.",
+  "translation": "E vi os sete anjos que estão em pé diante de Deus, e foram-lhes dadas sete trombetas.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἑστήκασιν» → «ἑστήκασι».",
   "syntacticNotes": [
-    "οἳ introduz oração relativa; ἑστήκασιν é perfeito estativo; αὐτοῖς é dativo de destinatário.",
-    "τοὺς ἑπτὰ ἀγγέλους é objeto de εἶδον; σάλπιγγες é sujeito de ἐδόθησαν."
+    "τοὺς ἑπτὰ ἀγγέλους é objeto de εἶδον; οἳ introduz relativa cujo verbo ἑστήκασιν é perfeito de estado.",
+    "ἐδόθησαν é passivo plural, tendo ἑπτὰ σάλπιγγες como sujeito; αὐτοῖς é dativo de destinatário."
   ],
   "exegeticalNotes": [
-    "As trombetas introduzem nova sequência visionária; compare Nm 10:9–10."
+    "Os sete anjos introduzem o novo ciclo de trombetas.",
+    "A associação de trombetas e intervenção divina evoca Nm 10:9 e Js 6, sem reduzir o ciclo a uma única alusão."
   ],
   "words": [
     {

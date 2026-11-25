@@ -6,13 +6,15 @@ export const apocalipse7v8 = {
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
   "translation": "da tribo de Zebulom, doze mil; da tribo de José, doze mil; da tribo de Benjamim, doze mil selados.",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἐσφραγισμένοι WH Treg NA28 ] ἐσφραγισμέναι RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «δώδεκα» → «ιβ»; acrescenta «ἐσφραγισμένοι» após «χιλιάδες»; «δώδεκα» → «ιβ»; acrescenta «ἐσφραγισμένοι» após «χιλιάδες»; «δώδεκα» → «ιβ».",
   "syntacticNotes": [
-    "O particípio ἐσφραγισμένοι encerra a lista e retoma os indivíduos enumerados."
+    "As expressões partitivas concluem a série de doze tribos.",
+    "ἐσφραγισμένοι no final retoma a caracterização inicial, enquadrando a lista."
   ],
   "exegeticalNotes": [
-    "José e Manassés aparecem, enquanto Dã não é mencionado e Efraim não aparece nominalmente. O texto não explica essas escolhas."
+    "José aparece juntamente com Manassés; Dã não é nomeado na enumeração.",
+    "A configuração teológica da lista é significativa, mas o texto não fornece uma explicação explícita para cada alteração."
   ],
   "words": [
     {

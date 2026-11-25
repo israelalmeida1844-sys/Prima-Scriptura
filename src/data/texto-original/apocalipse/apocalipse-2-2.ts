@@ -6,12 +6,12 @@ export const apocalipse2v2 = {
   "verse": 2,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Conheço as tuas obras, o teu trabalho e a tua perseverança; não podes suportar os maus e puseste à prova aqueles que se dizem apóstolos, mas não são, e os achaste falsos.",
-  "translationNote": "O presente δύνῃ rege o infinitivo aoristo βαστάσαι; a tradução distingue perseverança da recusa em suportar agentes maus.",
+  "translation": "\"Conheço as suas obras, o seu trabalho árduo e a sua perseverança, e sei que você não pode suportar os maus, que pôs à prova os que dizem ser apóstolos, mas não são, e os achou mentirosos.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): κόπον WH Treg NA28 ] + σου RP; ἀποστόλους WH Treg NA28 ] + εἶναι RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «σου» após «κόπον»; «ἐπείρασας» → «ἐπειράσω»; «λέγοντας ἑαυτοὺς» → «φάσκοντας εἶναι»; «εἰσίν» → «εἰσί».",
   "exegeticalNotes": [
-    "A comunidade é elogiada por obras, perseverança e exame crítico dos falsos apóstolos.",
-    "Discernimento e fidelidade são apresentados em conjunto."
+    "O discernimento da igreja é elogiado, não a aceitação irrestrita de reivindicações de autoridade.",
+    "A perseverança e o exame de pretensões apostólicas formam o contexto da censura de Ap 2:4."
   ],
   "words": [
     {
@@ -742,7 +742,7 @@ export const apocalipse2v2 = {
     }
   ],
   "syntacticNotes": [
-    "οὐ δύνῃ βαστάσαι κακούς combina verbo deponente δύναμαι (presente médio/passivo indicativo 2ª pessoa singular) e infinitivo aoristo ativo βαστάσαι. A perícope discute o exame de reivindicações de apostolado.",
-    "οὐ δύνῃ βαστάσαι une verbo de possibilidade e infinitivo complementar; πειράζω caracteriza submeter alegações à prova. ψευδεῖς é predicativo do objeto αὐτούς."
+    "Οἶδα rege objetos acusativos e a oração introduzida por ὅτι, que explicita o conhecimento de Cristo.",
+    "τοὺς λέγοντας é particípio substantivado; ἑαυτούς e ἀποστόλους compõem a afirmação atribuída aos pretensos apóstolos, enquanto ψευδεῖς é predicativo de αὐτούς após εὗρες."
   ]
 } as const;

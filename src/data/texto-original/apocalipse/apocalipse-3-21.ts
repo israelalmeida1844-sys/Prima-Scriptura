@@ -6,11 +6,12 @@ export const apocalipse3v21 = {
   "verse": 21,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Ao vencedor concederei sentar-se comigo em meu trono, assim como eu também venci e me sentei com meu Pai no trono dele.",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "\"Ao vencedor concederei sentar-se comigo no meu trono, assim como eu venci e me sentei com meu Pai no trono dele.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "exegeticalNotes": [
-    "A promessa de participação no trono utiliza linguagem régia e escatológica; comparar Ap 4–5 e 20–22. Não equivale, por si só, a uma declaração de igualdade ontológica com o Pai."
+    "A vitória dos fiéis deriva da vitória de Cristo, não de autoridade autônoma.",
+    "A promessa de compartilhar o trono prepara a visão do governo divino em Ap 4–5."
   ],
   "words": [
     {
@@ -593,7 +594,7 @@ export const apocalipse3v21 = {
     }
   ],
   "syntacticNotes": [
-    "ὁ νικῶν é particípio presente articular substantivado («aquele que vence»). δώσω rege o infinitivo aoristo καθίσαι; ὡς κἀγὼ estabelece a comparação entre a vitória de Cristo e a promessa ao vencedor.",
-    "μετ’ ἐμοῦ e μετὰ τοῦ πατρός μου contêm μετά com genitivo de companhia. ἐν τῷ θρόνῳ μου e ἐν τῷ θρόνῳ αὐτοῦ contêm ἐν + dativo locativo («no meu trono», «no trono dele»)."
+    "ὁ νικῶν é tópico nominativo retomado por αὐτῷ; καθίσαι complementa δώσω.",
+    "ὡς introduz comparação fundada nos aoristos ἐνίκησα e ἐκάθισα."
   ]
 } as const;

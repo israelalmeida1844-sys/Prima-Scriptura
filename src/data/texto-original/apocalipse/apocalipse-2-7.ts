@@ -6,12 +6,12 @@ export const apocalipse2v7 = {
   "verse": 7,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas. Ao vencedor darei de comer da árvore da vida que está no paraíso de Deus.",
-  "translationNote": "A construção de dativo τῷ νικῶντι ... αὐτῷ foi vertida com retomada do beneficiário; a árvore da vida remete à promessa escatológica.",
+  "translation": "\"Quem tem ouvidos ouça o que o Espírito diz às igrejas. Ao vencedor darei de comer da árvore da vida, que está no paraíso de Deus.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): θεοῦ WH Treg NA28 ] + μου RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «τῷ παραδείσῳ» → «μέσῳ τοῦ παραδείσου».",
   "exegeticalNotes": [
-    "O convite a ouvir dirige a mensagem à totalidade das igrejas.",
-    "A promessa da árvore da vida faz eco ao Éden."
+    "A fórmula estende a mensagem particular a todas as igrejas.",
+    "A árvore da vida evoca Gn 2:9; 3:22–24 e antecipa Ap 22:2,14, associando vitória e restauração."
   ],
   "words": [
     {
@@ -667,7 +667,7 @@ export const apocalipse2v7 = {
     }
   ],
   "syntacticNotes": [
-    "τῷ νικῶντι δώσω αὐτῷ apresenta dativo topicalizado retomado pelo pronome dativo. A árvore da vida estabelece alusão ao Éden (Gn 2–3 na Septuaginta), sem reivindicar citação verbal idêntica.",
-    "τῷ νικῶντι é particípio substantivado no dativo, retomado por αὐτῷ; φαγεῖν depende de δώσω. O ξύλον τῆς ζωῆς ecoa Gn 2–3 e Ap 22."
+    "ὁ ἔχων e τῷ νικῶντι são particípios substantivados; ἀκουσάτω é imperativo de terceira pessoa.",
+    "τί introduz pergunta indireta dependente de ἀκουσάτω; o dativo τῷ νικῶντι é retomado por αὐτῷ, e φαγεῖν complementa δώσω."
   ]
 } as const;

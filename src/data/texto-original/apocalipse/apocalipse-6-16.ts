@@ -6,14 +6,16 @@ export const apocalipse6v16 = {
   "verse": 16,
   "source": "SBL Greek New Testament (SBLGNT) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "E dizem aos montes e rochas: Caí sobre nós e escondei-nos da presença daquele que está sentado no trono e da ira do Cordeiro,",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "e dizem aos montes e às rochas: \"Caiam sobre nós e escondam-nos da face daquele que está sentado no trono e da ira do Cordeiro,\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «λέγουσιν» → «λέγουσι»; «ὄρεσιν» → «ὄρεσι».",
   "syntacticNotes": [
-    "Πέσετε e κρύψατε são imperativos aoristos de segunda pessoa plural."
+    "λέγουσιν é presente histórico; os dativos τοῖς ὄρεσιν e ταῖς πέτραις são destinatários.",
+    "Πέσετε e κρύψατε são imperativos aoristos; as expressões com ἀπό indicam aquilo de que se busca escapar."
   ],
   "exegeticalNotes": [
-    "Os pedidos às rochas ecoam Os 10:8 e Lc 23:30. A ira do Cordeiro une as imagens do sacrifício e do juízo."
+    "A súplica aos montes evoca Os 10:8 e Lc 23:30.",
+    "A ira do Cordeiro reúne a figura sacrificial e a função judicial de Cristo."
   ],
   "words": [
     {

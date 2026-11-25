@@ -6,16 +6,16 @@ export const apocalipse5v9 = {
   "verse": 9,
   "source": "SBL Greek New Testament via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "E cantam um cântico novo, dizendo: \"Digno és de tomar o rolo e abrir os seus selos, porque foste imolado e, com o teu sangue, compraste para Deus pessoas de toda tribo, língua, povo e nação.\"",
-  "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
+  "translation": "E cantam um novo cântico, dizendo: \"Digno és de tomar o rolo e abrir os seus selos, porque foste imolado e compraste para Deus, com teu sangue, pessoas de toda tribo, língua, povo e nação,\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): θεῷ WH NA28 ] + ἡμᾶς Treg RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «ἡμᾶς» após «θεῷ».",
   "syntacticNotes": [
-    "ᾄδουσιν é presente indicativo ativo, terceira pessoa plural; ᾠδὴν καινήν é objeto direto com adjetivo atributivo.",
-    "ἐσφάγης é aoristo indicativo passivo, segunda pessoa singular; ἠγόρασας é aoristo indicativo ativo, segunda pessoa singular.",
-    "A sequência ἐκ πάσης φυλῆς καὶ γλώσσης καὶ λαοῦ καὶ ἔθνους qualifica a origem dos resgatados; o objeto de ἠγόρασας não está expresso na edição-base."
+    "ᾄδουσιν é presente de vivacidade narrativa; Ἄξιος εἶ recebe os infinitivos λαβεῖν e ἀνοῖξαι.",
+    "ὅτι introduz a causa da dignidade; ἠγόρασας não tem objeto expresso no SBLGNT, e ἐκ πάσης… identifica a procedência daqueles adquiridos."
   ],
   "exegeticalNotes": [
-    "A forma ἠγόρασας é aoristo indicativo ativo; a compra para Deus é apresentada em conexão explícita com o sangue do Cordeiro e com povos de todas as procedências."
+    "O cântico fundamenta a dignidade do Cordeiro na sua morte e redenção, em contraste com a força isolada.",
+    "A enumeração universal antecipa a multidão de Ap 7:9; a aquisição para Deus prepara a identidade sacerdotal de Ap 5:10."
   ],
   "words": [
     {

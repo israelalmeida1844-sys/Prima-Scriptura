@@ -6,15 +6,16 @@ export const apocalipse5v14 = {
   "verse": 14,
   "source": "SBL Greek New Testament via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "E os quatro seres viventes diziam: Amém! E os anciãos se prostraram e adoraram.",
-  "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
+  "translation": "E os quatro seres viventes diziam: \"Amém.\" E os anciãos se prostraram e adoraram.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἔλεγον WH Treg NA28 ] λέγοντα τὸ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «εἰκοσιτέσσαρες» após «οἱ»; acrescenta «ζῶντι εἰς τοὺς αἰῶνας τῶν αἰώνων» após «προσεκύνησαν».",
   "syntacticNotes": [
-    "ἔλεγον é imperfeito indicativo ativo, terceira pessoa plural, apresentando a aclamação dos seres viventes.",
-    "ἔπεσαν e προσεκύνησαν são aoristos indicativos ativos, terceira pessoa plural, formando a conclusão narrativa."
+    "ἔλεγον é imperfeito de ação em curso; Ἀμήν é partícula de ratificação.",
+    "ἔπεσαν e προσεκύνησαν são aoristos coordenados que encerram a cena."
   ],
   "exegeticalNotes": [
-    "O Amém dos quatro seres viventes e a prostração dos anciãos concluem a cena litúrgica iniciada no capítulo 4."
+    "A resposta dos seres viventes ratifica a doxologia universal.",
+    "A prostração dos anciãos encerra a visão de entronização e prepara a abertura dos selos."
   ],
   "words": [
     {

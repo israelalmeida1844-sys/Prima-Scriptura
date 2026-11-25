@@ -7,18 +7,15 @@ export const apocalipse5v2 = {
   "source": "SBL Greek New Testament via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
   "translation": "E vi um anjo forte que proclamava em alta voz: \"Quem é digno de abrir o rolo e romper os seus selos?\"",
-  "translationNote": "Tradução editorial em português a partir do SBLGNT; rolo representa o suporte documental descrito em Ap 5:1.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ἄξιος WH Treg NA28 ] + ἐστιν RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): omite «ἐν»; acrescenta «ἐστιν» após «Τίς». A cópula explicitada e o dativo sem preposição mantêm o sentido da pergunta e da proclamação.",
   "syntacticNotes": [
-    "εἶδον é o verbo principal, com sujeito de primeira pessoa singular subentendido; ἄγγελον é o objeto direto, modificado por ἰσχυρόν e pelo particípio predicativo κηρύσσοντα.",
-    "ἐν φωνῇ μεγάλῃ expressa o modo da proclamação. O adjetivo μεγάλῃ concorda com φωνῇ no dativo singular feminino.",
-    "Τίς ἄξιος constitui pergunta nominal direta, com cópula subentendida. Os infinitivos aoristos ativos ἀνοῖξαι e λῦσαι são coordenados por καί e especificam a ação para a qual se exige dignidade.",
-    "τὸ βιβλίον e τὰς σφραγῖδας são os objetos diretos dos respectivos infinitivos. O genitivo αὐτοῦ indica que os selos pertencem ao rolo."
+    "κηρύσσοντα é particípio predicativo de ἄγγελον, dependente do verbo de percepção εἶδον; ἐν φωνῇ μεγάλῃ expressa modo.",
+    "Τίς ἄξιος é interrogativa nominal com cópula elíptica; ἀνοῖξαι e λῦσαι são infinitivos complementares coordenados, e αὐτοῦ retoma βιβλίον."
   ],
   "exegeticalNotes": [
-    "O rolo selado de Ap 5:1–2 evoca o documento escrito por dentro e por fora de Ez 2:9–10. O termo βιβλίον não identifica isoladamente um testamento; a imagem enfatiza a inacessibilidade do conteúdo sem autoridade para abri-lo.",
-    "O anjo forte (cf. Ap 10:1; 18:21) é um mensageiro de proclamação solene. Sua força não é apresentada como autorização para abrir o rolo.",
-    "A pergunta sobre dignidade prepara a resposta narrativa de Ap 5:3–10: a incapacidade das criaturas contrasta com a vitória e a morte sacrificial do Cordeiro."
+    "A pergunta introduz a questão da dignidade necessária para abrir o rolo de Ap 5:1, cuja imagem remete a Ez 2:9–10.",
+    "O anjo forte, também expressão de Ap 10:1 e 18:21, proclama a questão; sua força não lhe confere a autoridade buscada. A resposta é desenvolvida em Ap 5:3–10."
   ],
   "words": [
     {

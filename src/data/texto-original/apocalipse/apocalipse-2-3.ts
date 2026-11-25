@@ -6,12 +6,12 @@ export const apocalipse2v3 = {
   "verse": 3,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Tens perseverança, suportaste por causa do meu nome e não te cansaste.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Você tem perseverança, suportou dificuldades por causa do meu nome e não se cansou.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): οὐ κεκοπίακες WH Treg NA28 ] οὐκ ἐκοπίασας RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «καὶ ἐβάστασας» no início; omite «ἐβάστασας»; acrescenta «κεκοπίακας» após «μου»; «κεκοπίακες» → «κέκμηκας».",
   "exegeticalNotes": [
-    "O esforço perseverante é relacionado ao nome de Cristo.",
-    "O perfeito grego é preservado na análise de κεκοπίακες."
+    "O nome de Cristo designa sua autoridade e a lealdade a ele.",
+    "A perseverança demonstrada em sofrimento não elimina a necessidade do amor mencionado a seguir."
   ],
   "words": [
     {
@@ -307,7 +307,7 @@ export const apocalipse2v3 = {
     }
   ],
   "syntacticNotes": [
-    "κεκοπίακες é perfeito e não deve ser substituído por leitura aorista para harmonização. O contexto é perseverança por causa do nome de Cristo.",
-    "κεκοπίακες é perfeito ativo indicativo de κοπιάω, 2ª pessoa singular, com valor de estado resultante ou situação descrita pelo perfeito. A forma não deve ser reinterpretada como aoristo em razão de outra edição textual."
+    "ὑπομονήν é objeto antecipado de ἔχεις; διὰ τὸ ὄνομά μου indica a causa de ἐβάστασας.",
+    "οὐ κεκοπίακες é perfeito ativo, negando um estado de fadiga resultante; contrasta com o κόπος do versículo anterior."
   ]
 } as const;

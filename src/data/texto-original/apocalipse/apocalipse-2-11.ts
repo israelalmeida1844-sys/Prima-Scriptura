@@ -6,12 +6,12 @@ export const apocalipse2v11 = {
   "verse": 11,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas. O vencedor de modo algum sofrerá dano da segunda morte.",
-  "translationNote": "οὐ μή com aoristo passivo subjuntivo equivale a «de modo algum sofrerá dano», não a duas negações que se anulam.",
+  "translation": "\"Quem tem ouvidos ouça o que o Espírito diz às igrejas. O vencedor de modo algum será atingido pela segunda morte.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "exegeticalNotes": [
-    "A segunda morte é distinta do sofrimento da morte física.",
-    "A negação οὐ μή é intensiva."
+    "A promessa responde à ameaça de morte de Ap 2:10.",
+    "A segunda morte recebe explicitação em Ap 20:6,14 e 21:8."
   ],
   "words": [
     {
@@ -498,7 +498,7 @@ export const apocalipse2v11 = {
     }
   ],
   "syntacticNotes": [
-    "οὐ μή + ἀδικηθῇ, aoristo passivo subjuntivo 3ª pessoa singular, expressa negação enfática prospectiva. A segunda morte é retomada em Ap 20:6,14; 21:8.",
-    "οὐ μή seguido de subjuntivo aoristo passivo ἀδικηθῇ é negação enfática de dano futuro; segunda morte é expressão intratextual que deve ser analisada em Ap 20–21."
+    "ὁ νικῶν é sujeito substantivado; οὐ μή com ἀδικηθῇ intensifica a negação prospectiva.",
+    "ἐκ τοῦ θανάτου τοῦ δευτέρου indica a fonte do dano que se nega."
   ]
 } as const;

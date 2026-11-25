@@ -6,11 +6,12 @@ export const apocalipse3v19 = {
   "verse": 19,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Eu repreendo e disciplino a todos quantos amo. Portanto, sê zeloso e arrepende-te.",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "\"A todos os que amo, repreendo e disciplino. Seja, portanto, zeloso e arrependa-se.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): ζήλευε WH Treg NA28 ] ζήλωσον RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): «ζήλευε» → «ζήλωσον».",
   "exegeticalNotes": [
-    "A repreensão é contextualizada pelo amor declarado e não deve ser reduzida a condenação sem possibilidade de arrependimento. Comparar Pv 3:11–12 e Hb 12:5–6."
+    "A repreensão é apresentada como expressão de amor, em consonância com Pv 3:11–12.",
+    "O chamado ao zelo e ao arrependimento responde à mornidão diagnosticada."
   ],
   "words": [
     {
@@ -281,6 +282,7 @@ export const apocalipse3v19 = {
     }
   ],
   "syntacticNotes": [
-    "φιλῶ é presente ativo: «amo»; ἐλέγχω «repreendo/exponho» e παιδεύω «educo/disciplino» são ações distintas. ζήλευε presente imperativo e μετανόησον aoristo imperativo articulam continuidade e decisão."
+    "ὅσους ἐὰν φιλῶ é relativa indefinida, objeto dos verbos coordenados ἐλέγχω e παιδεύω.",
+    "ζήλευε é imperativo presente de ζηλεύω, e μετανόησον imperativo aoristo."
   ]
 } as const;

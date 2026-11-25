@@ -6,12 +6,12 @@ export const apocalipse4v2 = {
   "verse": 2,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Imediatamente fui tomado pelo Espírito, e eis que havia um trono posto no céu, e alguém estava sentado sobre o trono.",
-  "translationNote": "Tradução editorial própria a partir da construção grega completa; não é concatenação das glosas.",
+  "translation": "imediatamente estive no Espírito. E eis que havia um trono no céu, e sobre o trono, alguém sentado.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): εὐθέως WH Treg NA28 ] Καὶ εὐθέως RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «καὶ» no início; «τὸν θρόνον» → «τοῦ θρόνου».",
   "exegeticalNotes": [
-    "A descrição do trono deve ser relacionada à visão de Ap 1:10 e às cenas de trono de Ez 1 e Is 6, distinguindo observação textual de identificação dos participantes.",
-    "ἐγενόμην ἐν πνεύματι admite tradução mais literal «achei-me em espírito»; «fui tomado pelo Espírito» explicita uma interpretação do estado visionário, sem afirmar uma alteração física."
+    "O trono torna-se o centro organizador da visão de Ap 4–5.",
+    "A figura sentada não é descrita por anatomia humana, mas por imagens de esplendor no versículo seguinte."
   ],
   "words": [
     {
@@ -403,7 +403,7 @@ export const apocalipse4v2 = {
     }
   ],
   "syntacticNotes": [
-    "ἐγενόμην é aoristo médio indicativo 1ª pessoa singular de γίνομαι; ἐν πνεύματι permite compreender o estado visionário «em Espírito». ἔκειτο é imperfeito médio de κεῖμαι; καθήμενος, particípio presente médio nominativo masculino, introduz o ocupante.",
-    "O imperfeito ἔκειτο descreve um trono já colocado; o nominativo καθήμενος funciona na construção elíptica que introduz seu ocupante."
+    "ἐγενόμην ἐν πνεύματι expressa a condição visionária; εὐθέως liga a experiência à convocação anterior.",
+    "θρόνος é sujeito de ἔκειτο; καθήμενος é particípio substantivado em descrição elíptica após ἐπὶ τὸν θρόνον."
   ]
 } as const;

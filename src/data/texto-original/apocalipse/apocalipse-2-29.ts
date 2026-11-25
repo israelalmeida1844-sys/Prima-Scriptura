@@ -6,12 +6,12 @@ export const apocalipse2v29 = {
   "verse": 29,
   "source": "SBL Greek New Testament (Holmes 2010) via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12; commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Quem tem ouvidos, ouça o que o Espírito diz às igrejas.",
-  "translationNote": "Tradução editorial própria; distinguir glossas isoladas de construção sintática completa.",
+  "translation": "\"Quem tem ouvidos ouça o que o Espírito diz às igrejas.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "exegeticalNotes": [
-    "A conclusão universaliza a exortação: todas as igrejas devem ouvir a mensagem do Espírito.",
-    "O refrão encerra formalmente a comunicação a Tiatira."
+    "A fórmula universaliza a mensagem particular a Tiatira.",
+    "Nas últimas quatro cartas, o chamado à escuta segue a promessa ao vencedor."
   ],
   "words": [
     {
@@ -257,7 +257,7 @@ export const apocalipse2v29 = {
     }
   ],
   "syntacticNotes": [
-    "Refrão conclusivo do ciclo da carta a Tiatira: ὁ ἔχων οὖς ἀκουσάτω τί τὸ πνεῦμα λέγει ταῖς ἐκκλησίαις. ἀκουσάτω é imperativo aoristo ativo de terceira pessoa singular.",
-    "ὁ ἔχων é particípio substantivado, sujeito de ἀκουσάτω, imperativo aoristo terceira pessoa singular. τί introduz interrogativa indireta dependente de 'ouvir'; ταῖς ἐκκλησίαις é dativo destinatário de λέγει."
+    "ὁ ἔχων οὖς é particípio substantivado com objeto acusativo; ἀκουσάτω é imperativo de terceira pessoa.",
+    "τί introduz interrogativa indireta; ταῖς ἐκκλησίαις é dativo de destinatário de λέγει."
   ]
 } as const;

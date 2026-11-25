@@ -6,11 +6,12 @@ export const apocalipse3v13 = {
   "verse": 13,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Quem tem ouvido, ouça o que o Espírito diz às igrejas.",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "\"Quem tem ouvidos ouça o que o Espírito diz às igrejas.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "exegeticalNotes": [
-    "A ordem das mensagens não permite restringir o refrão somente à comunidade nomeada."
+    "A mensagem de Filadélfia é incorporada à instrução de todas as igrejas.",
+    "A escuta exigida inclui a confiança na autoridade e nas promessas de Cristo."
   ],
   "words": [
     {
@@ -256,6 +257,7 @@ export const apocalipse3v13 = {
     }
   ],
   "syntacticNotes": [
-    "O mesmo padrão ὁ ἔχων ... ἀκουσάτω ... τί ... λέγει ... ταῖς ἐκκλησίαις mantém a responsabilidade de ouvir."
+    "ὁ ἔχων é particípio substantivado; οὖς é seu objeto.",
+    "O imperativo ἀκουσάτω rege a interrogativa indireta τί τὸ πνεῦμα λέγει."
   ]
 } as const;

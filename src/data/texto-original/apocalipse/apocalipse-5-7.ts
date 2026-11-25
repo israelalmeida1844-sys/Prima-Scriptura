@@ -6,15 +6,16 @@ export const apocalipse5v7 = {
   "verse": 7,
   "source": "SBL Greek New Testament via MorphGNT 6.12",
   "morphologySource": "MorphGNT 6.12, commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Ele veio e tomou o livro da mão direita daquele que estava sentado no trono.",
-  "translationNote": "Tradução editorial preliminar, conferida em relação à edição grega fixada; requer revisão final antes de homologação.",
+  "translation": "E veio e tomou o rolo da mão direita daquele que estava sentado no trono.",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "O aparato do SBLGNT não registra divergência entre as edições comparadas neste versículo (não equivale à ausência de variantes manuscritas). Cotejo lexical com o Textus Receptus de Scrivener (1894): «ἦλθεν» → «ἦλθε»; «εἴληφεν» → «εἴληφε τὸ βιβλίον».",
   "syntacticNotes": [
-    "ἦλθεν é aoristo indicativo ativo e εἴληφεν é perfeito indicativo ativo; as duas formas expressam ações verbalmente distintas.",
-    "O objeto retomado de εἴληφεν é o livro já mencionado em 5:1."
+    "ἦλθεν é aoristo; εἴληφεν é perfeito ativo, salientando a ação de tomar e sua condição resultante.",
+    "ἐκ τῆς δεξιᾶς indica origem da transferência; o objeto do segundo verbo é recuperado pelo contexto."
   ],
   "exegeticalNotes": [
-    "O ato de receber o livro estrutura a transição da busca por alguém digno para a apresentação do Cordeiro como agente da ação."
+    "A tomada do rolo responde à questão de Ap 5:2.",
+    "O ato distingue o Cordeiro das criaturas incapazes de abrir o documento."
   ],
   "words": [
     {

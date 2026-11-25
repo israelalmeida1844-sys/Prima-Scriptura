@@ -6,11 +6,12 @@ export const apocalipse3v16 = {
   "verse": 16,
   "source": "SBLGNT/MorphGNT 6.12",
   "morphologySource": "MorphGNT commit aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
-  "translation": "Assim, porque és morno e não és quente nem frio, estou para vomitar-te da minha boca.",
-  "translationNote": "Tradução contextual distinta do interlinear.",
+  "translation": "\"Assim, porque você é morno e não é quente nem frio, estou para vomitá-lo da minha boca.\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): οὔτε WH Treg NA28 ] οὐ RP. Cotejo lexical com o Textus Receptus de Scrivener (1894): acrescenta «ψυχρὸς οὔτε» após «οὔτε»; omite «οὔτε ψυχρός».",
   "exegeticalNotes": [
-    "A imagem comunica rejeição da condição comunitária; não é descrição clínica de náusea. A série de temperaturas deve ser lida como metáfora contextual."
+    "A imagem forte exprime rejeição iminente da condição morna.",
+    "O conselho e o convite dos versículos seguintes mostram que a advertência visa mudança."
   ],
   "words": [
     {
@@ -402,6 +403,7 @@ export const apocalipse3v16 = {
     }
   ],
   "syntacticNotes": [
-    "χλιαρός é predicativo de εἶ; μέλλω + ἐμέσαι (infinitivo aoristo) exprime ação anunciada como iminente, «estou para vomitar». Evitar transformar automaticamente o aspecto verbal em calendário."
+    "ὅτι introduz a causa; χλιαρός, ζεστός e ψυχρός são predicativos com εἶ.",
+    "μέλλω rege o infinitivo aoristo ἐμέσαι; σε é seu objeto direto."
   ]
 } as const;

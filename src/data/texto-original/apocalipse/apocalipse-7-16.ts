@@ -5,14 +5,16 @@ export const apocalipse7v16 = {
   "verse": 16,
   "source": "SBLGNT via MorphGNT; arquivo 87-Re-morphgnt.txt, blob bf6fde5561b55eef837ae05067d270cdbc858c25",
   "morphologySource": "MorphGNT, códigos preservados da fonte",
-  "translation": "Nunca mais terão fome, nem sede; sobre eles não cairá o sol, nem calor algum,",
-  "translationNote": "Tradução editorial contextual, não concatenação das glosas.",
+  "translation": "\"Não terão mais fome nem sede, e de modo algum cairá sobre eles o sol ou qualquer calor abrasador,\"",
+  "translationNote": "Tradução editorial em português a partir do texto grego SBLGNT, distinta das glosas interlineares.",
   "textualNotes": "Aparato do SBLGNT (leituras das edições; antes de ] = leitura adotada): οὐδὲ WH Treg NA28 ] οὐδʼ οὐ RP. O cotejo lexical com Scrivener (1894) não identificou diferença, desconsiderando acentuação, espíritos, caixa e pontuação.",
   "syntacticNotes": [
-    "Os futuros πεινάσουσιν e διψήσουσιν são negados; οὐδὲ μή com πέσῃ, aoristo subjuntivo, reforça a negação."
+    "Os futuros πεινάσουσιν e διψήσουσιν são negados por οὐ e οὐδέ.",
+    "οὐδὲ μή com πέσῃ intensifica a promessa de ausência de exposição ao calor."
   ],
   "exegeticalNotes": [
-    "A promessa retoma Is 49:10, descrevendo a superação da privação e do sofrimento."
+    "A promessa retoma Is 49:10, onde os restaurados não padecem fome, sede ou calor.",
+    "A ausência das aflições contrasta com a grande tribulação de que procede a multidão."
   ],
   "words": [
     {
