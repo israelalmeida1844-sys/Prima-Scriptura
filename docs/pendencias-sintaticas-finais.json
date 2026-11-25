@@ -1,0 +1,378 @@
+{
+  "stage": "8.2-8.4",
+  "primary_tokens": 443061,
+  "primary_exact_links": 441775,
+  "qere_alternative_units": 1262,
+  "greek_accent_only_units": 17,
+  "unresolved_units": [
+    {
+      "book": "Jer",
+      "ref": "51:3",
+      "token": 2,
+      "original": {
+        "text": "ידרך",
+        "lemma": "1869",
+        "morph": "HVqi3ms",
+        "source_id": "24ooM",
+        "gloss_pt": null
+      },
+      "record": {
+        "reading": "unresolved",
+        "notes": [],
+        "reason": "sem_evidencia_suficiente",
+        "investigation": {
+          "token": 2,
+          "original": "ידרך",
+          "morph": "HVqi3ms",
+          "reason": "vocalizacao_ou_diacriticos_divergentes",
+          "source_candidate_refs": [],
+          "classification": "qere_documentado_sem_correspondencia_integral",
+          "qere_notes": [
+            []
+          ],
+          "qere_candidates": [],
+          "same_consonants_candidates": [
+            {
+              "ordinal": 2,
+              "form": "יִדְרֹךְ",
+              "source_ids": [
+                "o240510030021"
+              ],
+              "lemmas": [
+                "דָּרַךְ"
+              ]
+            }
+          ],
+          "source_verse_word_count": 14
+        }
+      }
+    },
+    {
+      "book": "Jer",
+      "ref": "39:12",
+      "token": 10,
+      "original": {
+        "text": "אם",
+        "lemma": "518 a",
+        "morph": "HC",
+        "source_id": "249iA",
+        "gloss_pt": null
+      },
+      "record": {
+        "reading": "unresolved",
+        "notes": [],
+        "reason": "sem_evidencia_suficiente",
+        "investigation": {
+          "token": 10,
+          "original": "אם",
+          "morph": "HC",
+          "reason": "forma_ausente_na_fonte",
+          "source_candidate_refs": [],
+          "classification": "qere_documentado_sem_correspondencia_integral",
+          "qere_notes": [
+            []
+          ],
+          "qere_candidates": [],
+          "same_consonants_candidates": [],
+          "source_verse_word_count": 16
+        }
+      }
+    },
+    {
+      "book": "Jer",
+      "ref": "38:16",
+      "token": 9,
+      "original": {
+        "text": "את",
+        "lemma": "853",
+        "morph": "HTo",
+        "source_id": "24Xr8",
+        "gloss_pt": null
+      },
+      "record": {
+        "reading": "unresolved",
+        "notes": [],
+        "reason": "sem_evidencia_suficiente",
+        "investigation": {
+          "token": 9,
+          "original": "את",
+          "morph": "HTo",
+          "reason": "vocalizacao_ou_diacriticos_divergentes",
+          "source_candidate_refs": [],
+          "classification": "qere_documentado_sem_correspondencia_integral",
+          "qere_notes": [
+            []
+          ],
+          "qere_candidates": [],
+          "same_consonants_candidates": [
+            {
+              "ordinal": 14,
+              "form": "אֶת",
+              "source_ids": [
+                "o240380160141"
+              ],
+              "lemmas": [
+                "אֵת"
+              ]
+            },
+            {
+              "ordinal": 26,
+              "form": "אֶת",
+              "source_ids": [
+                "o240380160261"
+              ],
+              "lemmas": [
+                "אֵת"
+              ]
+            }
+          ],
+          "source_verse_word_count": 26
+        }
+      }
+    },
+    {
+      "book": "Matt",
+      "ref": "15:14",
+      "token": 1,
+      "original": {
+        "text": "αὐτούς·",
+        "word": "αὐτούς",
+        "normalized": "αὐτούς",
+        "lemma": "αὐτός",
+        "pos": "RP",
+        "morph": "----APM-",
+        "gloss_pt": null
+      },
+      "record": {
+        "reading": "unresolved",
+        "notes": [],
+        "reason": "sem_evidencia_suficiente",
+        "investigation": {
+          "token": 1,
+          "original": "αὐτούς·",
+          "morph": "----APM-",
+          "reason": "lema_grego_divergente",
+          "source_candidate_refs": [
+            "MAT 15:14!2"
+          ],
+          "classification": "diacriticos_ou_lema_requerem_revisao",
+          "qere_notes": [],
+          "qere_candidates": [],
+          "same_consonants_candidates": [
+            {
+              "ordinal": 2,
+              "form": "αὐτούς",
+              "source_ids": [
+                "n40015014002"
+              ],
+              "lemmas": [
+                "ἑαυτοῦ"
+              ]
+            }
+          ],
+          "source_verse_word_count": 15
+        }
+      }
+    },
+    {
+      "book": "2Kgs",
+      "ref": "5:18",
+      "token": 22,
+      "original": {
+        "text": "נא",
+        "lemma": "4994",
+        "morph": "HTe",
+        "source_id": "12yBx",
+        "gloss_pt": null
+      },
+      "record": {
+        "reading": "unresolved",
+        "notes": [],
+        "reason": "sem_evidencia_suficiente",
+        "investigation": {
+          "token": 22,
+          "original": "נא",
+          "morph": "HTe",
+          "reason": "forma_ausente_na_fonte",
+          "source_candidate_refs": [],
+          "classification": "qere_documentado_sem_correspondencia_integral",
+          "qere_notes": [
+            []
+          ],
+          "qere_candidates": [],
+          "same_consonants_candidates": [],
+          "source_verse_word_count": 26
+        }
+      }
+    },
+    {
+      "book": "Ruth",
+      "ref": "3:12",
+      "token": 4,
+      "original": {
+        "text": "אם",
+        "lemma": "518 a",
+        "morph": "HC",
+        "source_id": "08tQE",
+        "gloss_pt": null
+      },
+      "record": {
+        "reading": "unresolved",
+        "notes": [],
+        "reason": "sem_evidencia_suficiente",
+        "investigation": {
+          "token": 4,
+          "original": "אם",
+          "morph": "HC",
+          "reason": "forma_ausente_na_fonte",
+          "source_candidate_refs": [],
+          "classification": "qere_documentado_sem_correspondencia_integral",
+          "qere_notes": [
+            []
+          ],
+          "qere_candidates": [],
+          "same_consonants_candidates": [],
+          "source_verse_word_count": 11
+        }
+      }
+    },
+    {
+      "book": "Ezek",
+      "ref": "48:16",
+      "token": 11,
+      "original": {
+        "text": "חמש",
+        "lemma": "2568",
+        "morph": "HAcfsa",
+        "source_id": "26kGq",
+        "gloss_pt": null
+      },
+      "record": {
+        "reading": "unresolved",
+        "notes": [],
+        "reason": "sem_evidencia_suficiente",
+        "investigation": {
+          "token": 11,
+          "original": "חמש",
+          "morph": "HAcfsa",
+          "reason": "vocalizacao_ou_diacriticos_divergentes",
+          "source_candidate_refs": [],
+          "classification": "qere_documentado_sem_correspondencia_integral",
+          "qere_notes": [
+            []
+          ],
+          "qere_candidates": [],
+          "same_consonants_candidates": [
+            {
+              "ordinal": 5,
+              "form": "חֲמֵשׁ",
+              "source_ids": [
+                "o260480160051"
+              ],
+              "lemmas": [
+                "חָמֵשׁ"
+              ]
+            },
+            {
+              "ordinal": 11,
+              "form": "חֲמֵשׁ",
+              "source_ids": [
+                "o260480160111"
+              ],
+              "lemmas": [
+                "חָמֵשׁ"
+              ]
+            },
+            {
+              "ordinal": 18,
+              "form": "חֲמֵשׁ",
+              "source_ids": [
+                "o260480160181"
+              ],
+              "lemmas": [
+                "חָמֵשׁ"
+              ]
+            },
+            {
+              "ordinal": 24,
+              "form": "חֲמֵשׁ",
+              "source_ids": [
+                "o260480160241"
+              ],
+              "lemmas": [
+                "חָמֵשׁ"
+              ]
+            }
+          ],
+          "source_verse_word_count": 26
+        }
+      }
+    }
+  ],
+  "source_diagnostics": [
+    {
+      "book": "Matt",
+      "ref": "25:6",
+      "node": 12,
+      "source_group": 26047,
+      "sentence": "01-matthew.xml:939",
+      "raw_role": "err__subordinated simple cl.,\n\t\t\t\t\t\t\t\t\tparent rule: ClCl\n\t\t\t\t\t\t\t\t\thead rule: ClCl2\n\t\t\t\t\t\t\t\t\tsubord. rule: V-ADV\n\t\t\t\t\t\t\t\t\tid: parent has projecting verb: false400250060060070",
+      "status": "diagnostico_da_fonte_nao_resolvido"
+    },
+    {
+      "book": "Luke",
+      "ref": "6:33",
+      "node": 16,
+      "source_group": 8275,
+      "sentence": "03-luke.xml:244",
+      "raw_role": "err__subordinated simple cl.,\n\t\t\t\t\t\t\t\t\tparent rule: ClCl\n\t\t\t\t\t\t\t\t\thead rule: ClCl2\n\t\t\t\t\t\t\t\t\tsubord. rule: S-O-V\n\t\t\t\t\t\t\t\t\tid: parent has projecting verb: false420060330020160",
+      "status": "diagnostico_da_fonte_nao_resolvido"
+    },
+    {
+      "book": "Luke",
+      "ref": "9:4",
+      "node": 7,
+      "source_group": 12394,
+      "sentence": "03-luke.xml:400",
+      "raw_role": "err_raised-child-is-group? raised child rule: CLaCL",
+      "status": "diagnostico_da_fonte_nao_resolvido"
+    },
+    {
+      "book": "2Cor",
+      "ref": "13:5",
+      "node": 12,
+      "source_group": 7492,
+      "sentence": "08-2corinthians.xml:241",
+      "raw_role": "err__subordinated simple cl.,\n\t\t\t\t\t\t\t\t\tparent rule: ClCl\n\t\t\t\t\t\t\t\t\thead rule: ClCl\n\t\t\t\t\t\t\t\t\tsubord. rule: O-V\n\t\t\t\t\t\t\t\t\tid: parent has projecting verb: false470130050010090",
+      "status": "diagnostico_da_fonte_nao_resolvido"
+    },
+    {
+      "book": "Gal",
+      "ref": "5:23",
+      "node": 5,
+      "source_group": 3288,
+      "sentence": "09-galatians.xml:128",
+      "raw_role": "err__subordinated simple cl.,\n\t\t\t\t\t\t\t\t\tparent rule: ClCl\n\t\t\t\t\t\t\t\t\thead rule: Conj-CL\n\t\t\t\t\t\t\t\t\tsubord. rule: P-ADV-VC-S\n\t\t\t\t\t\t\t\t\tid: parent has projecting verb: false480050220020210",
+      "status": "diagnostico_da_fonte_nao_resolvido"
+    },
+    {
+      "book": "Phil",
+      "ref": "3:13",
+      "node": 12,
+      "source_group": 1980,
+      "sentence": "11-philippians.xml:47",
+      "raw_role": "err__subordinated simple cl.,\n\t\t\t\t\t\t\t\t\tparent rule: ClCl\n\t\t\t\t\t\t\t\t\thead rule: O2CL\n\t\t\t\t\t\t\t\t\tsubord. rule: ADV-ADV-V-ADV\n\t\t\t\t\t\t\t\t\tid: parent has projecting verb: false500030130070230",
+      "status": "diagnostico_da_fonte_nao_resolvido"
+    },
+    {
+      "book": "Phil",
+      "ref": "3:14",
+      "node": 2,
+      "source_group": 1980,
+      "sentence": "11-philippians.xml:47",
+      "raw_role": "err__subordinated simple cl.,\n\t\t\t\t\t\t\t\t\tparent rule: ClCl\n\t\t\t\t\t\t\t\t\thead rule: O2CL\n\t\t\t\t\t\t\t\t\tsubord. rule: ADV-ADV-V-ADV\n\t\t\t\t\t\t\t\t\tid: parent has projecting verb: false500030130070230",
+      "status": "diagnostico_da_fonte_nao_resolvido"
+    }
+  ],
+  "scope": "Separate alternate readings, not Ketiv syntax. Diagnostic source roles preserved as unvalidated. No new philological judgment."
+}
