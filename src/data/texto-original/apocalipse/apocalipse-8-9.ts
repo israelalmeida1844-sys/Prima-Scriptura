@@ -7,9 +7,10 @@ export const apocalipse8v9 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "Morreu um terço das criaturas vivas do mar, e um terço dos navios foi destruído.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "Variantes manuscritas ainda não colacionadas; não implica ausência de variantes.",
+  "textualNotes": "SBLGNT, WH, Treg e NA28 incluem τῶν antes de ἐν τῇ θαλάσσῃ e leem διεφθάρησαν (plural); RP omite o artigo e lê διεφθάρη (singular). O plural acompanha semanticamente os navios; o singular concorda formalmente com τὸ τρίτον. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
   "syntacticNotes": [
-    "τὰ ἔχοντα ψυχάς caracteriza as criaturas; διεφθάρησαν é plural com referência aos navios."
+    "τὰ ἔχοντα ψυχάς caracteriza as criaturas; διεφθάρησαν é plural com referência aos navios.",
+    "O singular ἀπέθανε concorda com τὸ τρίτον; o nominativo neutro plural τὰ ἔχοντα retoma semanticamente κτισμάτων, apesar do genitivo anterior."
   ],
   "exegeticalNotes": [
     "O alcance parcial do juízo é enfatizado pela repetição da fração."
@@ -28,12 +29,12 @@ export const apocalipse8v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.9",
         "governedBy": null
       },
@@ -53,12 +54,12 @@ export const apocalipse8v9 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "morrer",
-      "explanation": "Sentido contextual: morreu.",
+      "explanation": "Glosa neste contexto: morreu.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo principal",
         "clauseId": "AP.8.9",
         "governedBy": null
       },
@@ -78,7 +79,7 @@ export const apocalipse8v9 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
@@ -103,12 +104,12 @@ export const apocalipse8v9 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
       "meanings": "terceiro",
-      "explanation": "Sentido contextual: terço.",
+      "explanation": "Glosa neste contexto: terço.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito",
         "clauseId": "AP.8.9",
         "governedBy": null
       },
@@ -128,7 +129,7 @@ export const apocalipse8v9 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: das.",
+      "explanation": "Glosa neste contexto: das.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
@@ -153,12 +154,12 @@ export const apocalipse8v9 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "Criatura, ser criado",
-      "explanation": "Sentido contextual: criaturas.",
+      "explanation": "Glosa neste contexto: criaturas.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Genitivo partitivo",
         "clauseId": "AP.8.9",
         "governedBy": null
       },
@@ -170,7 +171,7 @@ export const apocalipse8v9 = {
       "shortMorph": "RA GPN",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "as",
+      "gloss": "os (artigo genitivo)",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -178,7 +179,7 @@ export const apocalipse8v9 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: as.",
+      "explanation": "Glosa neste contexto: os (artigo genitivo).",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
@@ -203,7 +204,7 @@ export const apocalipse8v9 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "Em, dentro de, em meio a (uso adverbial ou temporal)",
-      "explanation": "Sentido contextual: em.",
+      "explanation": "Glosa neste contexto: em.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
@@ -228,7 +229,7 @@ export const apocalipse8v9 = {
       "morphologyCode": "----DSF-",
       "morphology": "Artigo definido · dativo · singular · feminino (MorphGNT: RA ----DSF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
@@ -253,12 +254,12 @@ export const apocalipse8v9 = {
       "morphologyCode": "----DSF-",
       "morphology": "Substantivo · dativo · singular · feminino (MorphGNT: N- ----DSF-)",
       "meanings": "mar",
-      "explanation": "Sentido contextual: mar.",
+      "explanation": "Glosa neste contexto: mar.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Função não individualizada; consultar análise do versículo",
         "clauseId": "AP.8.9",
         "governedBy": null
       },
@@ -270,7 +271,7 @@ export const apocalipse8v9 = {
       "shortMorph": "RA NPN",
       "greek": "τὰ",
       "transliteration": "ta",
-      "gloss": "as",
+      "gloss": "os (artigo retomador)",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -278,7 +279,7 @@ export const apocalipse8v9 = {
       "morphologyCode": "----NPN-",
       "morphology": "Artigo definido · nominativo · plural · neutro (MorphGNT: RA ----NPN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: as.",
+      "explanation": "Glosa neste contexto: os (artigo retomador).",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
@@ -295,7 +296,7 @@ export const apocalipse8v9 = {
       "shortMorph": "V-PAP-NPN",
       "greek": "ἔχοντα",
       "transliteration": "echonta",
-      "gloss": "que tinham",
+      "gloss": "que têm",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",
@@ -303,12 +304,12 @@ export const apocalipse8v9 = {
       "morphologyCode": "-PAPNPN-",
       "morphology": "Verbo · presente · voz ativa · particípio · nominativo · plural · neutro (MorphGNT: V- -PAPNPN-)",
       "meanings": "tinha",
-      "explanation": "Sentido contextual: que tinham.",
+      "explanation": "Glosa neste contexto: que têm.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Particípio substantivado",
         "clauseId": "AP.8.9",
         "governedBy": null
       },
@@ -328,12 +329,12 @@ export const apocalipse8v9 = {
       "morphologyCode": "----APF-",
       "morphology": "Substantivo · acusativo · plural · feminino (MorphGNT: N- ----APF-)",
       "meanings": "vida; alma",
-      "explanation": "Sentido contextual: vida.",
+      "explanation": "Glosa neste contexto: vida.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Objeto do particípio",
         "clauseId": "AP.8.9",
         "governedBy": null
       },
@@ -353,12 +354,12 @@ export const apocalipse8v9 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.9",
         "governedBy": null
       },
@@ -378,7 +379,7 @@ export const apocalipse8v9 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
@@ -403,12 +404,12 @@ export const apocalipse8v9 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
       "meanings": "terceiro",
-      "explanation": "Sentido contextual: terço.",
+      "explanation": "Glosa neste contexto: terço.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito",
         "clauseId": "AP.8.9",
         "governedBy": null
       },
@@ -428,7 +429,7 @@ export const apocalipse8v9 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: dos.",
+      "explanation": "Glosa neste contexto: dos.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
@@ -453,12 +454,12 @@ export const apocalipse8v9 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "navio; embarcação",
-      "explanation": "Sentido contextual: navios.",
+      "explanation": "Glosa neste contexto: navios.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Genitivo partitivo",
         "clauseId": "AP.8.9",
         "governedBy": null
       },
@@ -478,12 +479,12 @@ export const apocalipse8v9 = {
       "morphologyCode": "3API-P--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · plural (MorphGNT: V- 3API-P--)",
       "meanings": "destruir; arruinar",
-      "explanation": "Sentido contextual: foram destruídos.",
+      "explanation": "Glosa neste contexto: foram destruídos.",
       "occurrencesExamples": [
         "Ap 8:9"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo passivo",
         "clauseId": "AP.8.9",
         "governedBy": null
       },

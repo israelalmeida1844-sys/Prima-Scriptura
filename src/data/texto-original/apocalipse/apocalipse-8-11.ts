@@ -7,9 +7,10 @@ export const apocalipse8v11 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "O nome da estrela é Absinto. Um terço das águas tornou-se absinto, e muitos homens morreram por causa das águas, porque se tornaram amargas.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "Variantes manuscritas ainda não colacionadas; não implica ausência de variantes.",
+  "textualNotes": "SBLGNT, WH, NA28 e RP incluem ὁ antes do nome Ἄψινθος; Treg omite o artigo. O nome da estrela permanece o mesmo. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
   "syntacticNotes": [
-    "λέγεται é presente passivo; ὅτι introduz causa; ἐπικράνθησαν é aoristo passivo."
+    "λέγεται é presente passivo; ὅτι introduz causa; ἐπικράνθησαν é aoristo passivo.",
+    "εἰς ἄψινθον expressa o resultado da transformação; πολλοὶ τῶν ἀνθρώπων contém genitivo partitivo."
   ],
   "exegeticalNotes": [
     "Absinto simboliza amargura; compare Jr 23:15. O texto distingue nome próprio e substância."
@@ -28,12 +29,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -53,7 +54,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -78,12 +79,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo · nominativo · singular · neutro (MorphGNT: N- ----NSN-)",
       "meanings": "nome",
-      "explanation": "Sentido contextual: nome.",
+      "explanation": "Glosa neste contexto: nome.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -103,7 +104,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: da.",
+      "explanation": "Glosa neste contexto: da.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -128,12 +129,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "estrelas",
-      "explanation": "Sentido contextual: estrela.",
+      "explanation": "Glosa neste contexto: estrela.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Genitivo de especificação",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -153,12 +154,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "3PPI-S--",
       "morphology": "Verbo · presente · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3PPI-S--)",
       "meanings": "dizer",
-      "explanation": "Sentido contextual: é chamado.",
+      "explanation": "Glosa neste contexto: é chamado.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo passivo",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -178,7 +179,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido · nominativo · singular · masculino (MorphGNT: RA ----NSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -203,12 +204,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "absinto; planta amarga",
-      "explanation": "Sentido contextual: Absinto.",
+      "explanation": "Nome próprio atribuído à estrela.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Nome predicativo",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -228,12 +229,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -253,12 +254,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "3AMI-S--",
       "morphology": "Verbo · aoristo · voz média · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AMI-S--)",
       "meanings": "Vir a ser, acontecer, cumprir-se na história",
-      "explanation": "Sentido contextual: tornou-se.",
+      "explanation": "Glosa neste contexto: tornou-se.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo de transformação",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -278,7 +279,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -303,12 +304,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
       "meanings": "terceiro",
-      "explanation": "Sentido contextual: terço.",
+      "explanation": "Glosa neste contexto: terço.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -328,7 +329,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: das.",
+      "explanation": "Glosa neste contexto: das.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -353,12 +354,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "águas",
-      "explanation": "Sentido contextual: águas.",
+      "explanation": "Glosa neste contexto: águas.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Genitivo partitivo",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -378,7 +379,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "para",
-      "explanation": "Sentido contextual: em.",
+      "explanation": "Glosa neste contexto: em.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -403,12 +404,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
       "meanings": "absinto; planta amarga",
-      "explanation": "Sentido contextual: absinto.",
+      "explanation": "Substância amarga, distinguida do nome próprio na anotação MorphGNT.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Resultado",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -428,12 +429,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -453,12 +454,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo / numeral · nominativo · plural · masculino (MorphGNT: A- ----NPM-)",
       "meanings": "muitas",
-      "explanation": "Sentido contextual: muitos.",
+      "explanation": "Glosa neste contexto: muitos.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -478,7 +479,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido · genitivo · plural · masculino (MorphGNT: RA ----GPM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: dos.",
+      "explanation": "Glosa neste contexto: dos.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -503,12 +504,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo · genitivo · plural · masculino (MorphGNT: N- ----GPM-)",
       "meanings": "homem",
-      "explanation": "Sentido contextual: homens.",
+      "explanation": "Glosa neste contexto: homens.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Genitivo partitivo",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -528,12 +529,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "3AAI-P--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3AAI-P--)",
       "meanings": "morrer",
-      "explanation": "Sentido contextual: morreram.",
+      "explanation": "Glosa neste contexto: morreram.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo principal",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -553,7 +554,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "de",
-      "explanation": "Sentido contextual: por causa de.",
+      "explanation": "Glosa neste contexto: por causa de.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -570,7 +571,7 @@ export const apocalipse8v11 = {
       "shortMorph": "RA GPN",
       "greek": "τῶν",
       "transliteration": "tōn",
-      "gloss": "as",
+      "gloss": "as (genitivo)",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -578,7 +579,7 @@ export const apocalipse8v11 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: as.",
+      "explanation": "Glosa neste contexto: as (genitivo).",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
@@ -603,12 +604,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "águas",
-      "explanation": "Sentido contextual: águas.",
+      "explanation": "Glosa neste contexto: águas.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Causa",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -628,12 +629,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "que",
-      "explanation": "Sentido contextual: porque.",
+      "explanation": "Glosa neste contexto: porque.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.11",
         "governedBy": null
       },
@@ -645,7 +646,7 @@ export const apocalipse8v11 = {
       "shortMorph": "V-API-3-P",
       "greek": "ἐπικράνθησαν",
       "transliteration": "epikranthēsan",
-      "gloss": "foram amargadas",
+      "gloss": "tornaram-se amargas",
       "strong": "G4087",
       "lemma": "πικραίνω",
       "lemmaTransliteration": "pikrainō",
@@ -653,12 +654,12 @@ export const apocalipse8v11 = {
       "morphologyCode": "3API-P--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · plural (MorphGNT: V- 3API-P--)",
       "meanings": "tornar amargo",
-      "explanation": "Sentido contextual: foram amargadas.",
+      "explanation": "Glosa neste contexto: tornaram-se amargas.",
       "occurrencesExamples": [
         "Ap 8:11"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo causal",
         "clauseId": "AP.8.11",
         "governedBy": null
       },

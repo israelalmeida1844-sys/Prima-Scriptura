@@ -7,9 +7,10 @@ export const apocalipse8v12 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "O quarto anjo tocou a trombeta, e foi atingido um terço do sol, da lua e das estrelas, para que um terço deles escurecesse e o dia não brilhasse durante um terço dele, e igualmente a noite.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "Variantes manuscritas ainda não colacionadas; não implica ausência de variantes.",
+  "textualNotes": "SBLGNT, WH, Treg e NA28 leem ἡ ἡμέρα μὴ φάνῃ τὸ τρίτον αὐτῆς; RP antepõe τὸ τρίτον αὐτῆς. A diferença é de ordem das palavras. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
   "syntacticNotes": [
-    "ἐπλήγη é aoristo passivo; ἵνα σκοτισθῇ expressa finalidade ou resultado; φάνῃ é subjuntivo."
+    "ἐπλήγη é aoristo passivo; ἵνα σκοτισθῇ expressa finalidade ou resultado; φάνῃ é subjuntivo.",
+    "A repetição de τὸ τρίτον delimita a extensão do golpe; em μὴ φάνῃ τὸ τρίτον αὐτῆς, o acusativo indica extensão temporal."
   ],
   "exegeticalNotes": [
     "O escurecimento evoca imagens proféticas de juízo (Is 13:10); a fração limita a extensão narrada."
@@ -28,12 +29,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -53,7 +54,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido · nominativo · singular · masculino (MorphGNT: RA ----NSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -78,12 +79,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo / numeral · nominativo · singular · masculino (MorphGNT: A- ----NSM-)",
       "meanings": "quarto",
-      "explanation": "Sentido contextual: quarto.",
+      "explanation": "Glosa neste contexto: quarto.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Modificador nominal (conforme contexto)",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -103,12 +104,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "Anjo, mensageiro celestial de Deus",
-      "explanation": "Sentido contextual: anjo.",
+      "explanation": "Glosa neste contexto: anjo.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -120,7 +121,7 @@ export const apocalipse8v12 = {
       "shortMorph": "V-AAI-3-S",
       "greek": "ἐσάλπισεν",
       "transliteration": "esalpisen",
-      "gloss": "tocou",
+      "gloss": "tocou a trombeta",
       "strong": "G4537",
       "lemma": "σαλπίζω",
       "lemmaTransliteration": "salpizō",
@@ -128,12 +129,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "tocar trombeta",
-      "explanation": "Sentido contextual: tocou.",
+      "explanation": "Glosa neste contexto: tocou a trombeta.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo principal",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -153,12 +154,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -178,12 +179,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
       "meanings": "ferir; atingir",
-      "explanation": "Sentido contextual: foi atingido.",
+      "explanation": "Glosa neste contexto: foi atingido.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo passivo",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -203,7 +204,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -228,12 +229,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
       "meanings": "terceiro",
-      "explanation": "Sentido contextual: terço.",
+      "explanation": "Glosa neste contexto: terço.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -253,7 +254,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: do.",
+      "explanation": "Glosa neste contexto: do.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -278,12 +279,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "sol",
-      "explanation": "Sentido contextual: sol.",
+      "explanation": "Glosa neste contexto: sol.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Genitivo partitivo",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -303,12 +304,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -328,7 +329,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -353,12 +354,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
       "meanings": "terceiro",
-      "explanation": "Sentido contextual: terço.",
+      "explanation": "Glosa neste contexto: terço.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito coordenado",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -378,7 +379,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido · genitivo · singular · feminino (MorphGNT: RA ----GSF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: da.",
+      "explanation": "Glosa neste contexto: da.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -403,12 +404,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "lua",
-      "explanation": "Sentido contextual: lua.",
+      "explanation": "Glosa neste contexto: lua.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Genitivo partitivo",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -428,12 +429,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -453,7 +454,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -478,12 +479,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
       "meanings": "terceiro",
-      "explanation": "Sentido contextual: terço.",
+      "explanation": "Glosa neste contexto: terço.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito coordenado",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -503,7 +504,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido · genitivo · plural · masculino (MorphGNT: RA ----GPM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: das.",
+      "explanation": "Glosa neste contexto: das.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -528,12 +529,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo · genitivo · plural · masculino (MorphGNT: N- ----GPM-)",
       "meanings": "estrelas",
-      "explanation": "Sentido contextual: estrelas.",
+      "explanation": "Glosa neste contexto: estrelas.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Genitivo partitivo",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -553,12 +554,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "para que",
-      "explanation": "Sentido contextual: para que.",
+      "explanation": "Glosa neste contexto: para que.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -578,12 +579,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "3APS-S--",
       "morphology": "Verbo · aoristo · voz passiva · subjuntivo · 3ª pessoa · singular (MorphGNT: V- 3APS-S--)",
       "meanings": "escurecer; ficar escuro",
-      "explanation": "Sentido contextual: escurecesse.",
+      "explanation": "Glosa neste contexto: escurecesse.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo da oração final",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -603,7 +604,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -628,12 +629,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
       "meanings": "terceiro",
-      "explanation": "Sentido contextual: terço.",
+      "explanation": "Glosa neste contexto: terço.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -653,12 +654,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----GPM-",
       "morphology": "Pronome pessoal · genitivo · plural · masculino (MorphGNT: RP ----GPM-)",
       "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Sentido contextual: deles.",
+      "explanation": "Glosa neste contexto: deles.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Pronome; função contextual na oração",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -678,12 +679,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -703,7 +704,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSF-",
       "morphology": "Artigo definido · nominativo · singular · feminino (MorphGNT: RA ----NSF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -728,12 +729,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
       "meanings": "dia",
-      "explanation": "Sentido contextual: dia.",
+      "explanation": "Glosa neste contexto: dia.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -753,12 +754,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio (MorphGNT: D- --------)",
       "meanings": "não",
-      "explanation": "Sentido contextual: não.",
+      "explanation": "Glosa neste contexto: não.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Advérbio",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -778,12 +779,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "3AAS-S--",
       "morphology": "Verbo · aoristo · voz ativa · subjuntivo · 3ª pessoa · singular (MorphGNT: V- 3AAS-S--)",
       "meanings": "brilha",
-      "explanation": "Sentido contextual: brilhasse.",
+      "explanation": "Glosa neste contexto: brilhasse.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo coordenado na oração final",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -803,7 +804,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -828,12 +829,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
       "meanings": "terceiro",
-      "explanation": "Sentido contextual: terço.",
+      "explanation": "Glosa neste contexto: terço.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Extensão temporal",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -845,7 +846,7 @@ export const apocalipse8v12 = {
       "shortMorph": "RP GSF",
       "greek": "αὐτῆς",
       "transliteration": "aytēs",
-      "gloss": "dele",
+      "gloss": "dele (do dia)",
       "strong": "G846",
       "lemma": "αὐτός",
       "lemmaTransliteration": "aytos",
@@ -853,12 +854,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----GSF-",
       "morphology": "Pronome pessoal · genitivo · singular · feminino (MorphGNT: RP ----GSF-)",
       "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Sentido contextual: dele.",
+      "explanation": "Glosa neste contexto: dele (do dia).",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Pronome; função contextual na oração",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -878,12 +879,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -903,7 +904,7 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSF-",
       "morphology": "Artigo definido · nominativo · singular · feminino (MorphGNT: RA ----NSF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: a.",
+      "explanation": "Glosa neste contexto: a.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
@@ -928,12 +929,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
       "meanings": "noite",
-      "explanation": "Sentido contextual: noite.",
+      "explanation": "Glosa neste contexto: noite.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito elíptico",
         "clauseId": "AP.8.12",
         "governedBy": null
       },
@@ -953,12 +954,12 @@ export const apocalipse8v12 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio (MorphGNT: D- --------)",
       "meanings": "igualmente",
-      "explanation": "Sentido contextual: igualmente.",
+      "explanation": "Glosa neste contexto: igualmente.",
       "occurrencesExamples": [
         "Ap 8:12"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Advérbio",
         "clauseId": "AP.8.12",
         "governedBy": null
       },

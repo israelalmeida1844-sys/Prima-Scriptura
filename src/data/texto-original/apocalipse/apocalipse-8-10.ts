@@ -7,9 +7,10 @@ export const apocalipse8v10 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "O terceiro anjo tocou a trombeta, e caiu do céu uma grande estrela, ardendo como uma tocha, sobre um terço dos rios e sobre as fontes das águas.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "Variantes manuscritas ainda não colacionadas; não implica ausência de variantes.",
+  "textualNotes": "Não há entrada de variante para este versículo no aparato comparativo SBLGNT consultado. Isso não implica ausência de variantes em todos os manuscritos. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
   "syntacticNotes": [
-    "καιόμενος concorda com ἀστήρ; ὡς λαμπάς introduz comparação; ἐπί indica alvo."
+    "καιόμενος concorda com ἀστήρ; ὡς λαμπάς introduz comparação; ἐπί indica alvo.",
+    "ἀστὴρ μέγας é sujeito de ἔπεσεν; τῶν ποταμῶν é genitivo partitivo."
   ],
   "exegeticalNotes": [
     "A queda da estrela e a contaminação das águas formam uma imagem de juízo; compare Jr 9:15."
@@ -28,12 +29,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -53,7 +54,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido · nominativo · singular · masculino (MorphGNT: RA ----NSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -78,12 +79,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo / numeral · nominativo · singular · masculino (MorphGNT: A- ----NSM-)",
       "meanings": "terceiro",
-      "explanation": "Sentido contextual: terceiro.",
+      "explanation": "Glosa neste contexto: terceiro.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Modificador nominal (conforme contexto)",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -103,12 +104,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "Anjo, mensageiro celestial de Deus",
-      "explanation": "Sentido contextual: anjo.",
+      "explanation": "Glosa neste contexto: anjo.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -120,7 +121,7 @@ export const apocalipse8v10 = {
       "shortMorph": "V-AAI-3-S",
       "greek": "ἐσάλπισεν",
       "transliteration": "esalpisen",
-      "gloss": "tocou",
+      "gloss": "tocou a trombeta",
       "strong": "G4537",
       "lemma": "σαλπίζω",
       "lemmaTransliteration": "salpizō",
@@ -128,12 +129,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "tocar trombeta",
-      "explanation": "Sentido contextual: tocou.",
+      "explanation": "Glosa neste contexto: tocou a trombeta.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo principal",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -153,12 +154,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -178,12 +179,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "caí",
-      "explanation": "Sentido contextual: caiu.",
+      "explanation": "Glosa neste contexto: caiu.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo coordenado",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -203,7 +204,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "de",
-      "explanation": "Sentido contextual: de.",
+      "explanation": "Glosa neste contexto: de.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -220,7 +221,7 @@ export const apocalipse8v10 = {
       "shortMorph": "RA GSM",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "o",
+      "gloss": "o (genitivo)",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -228,7 +229,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o (genitivo).",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -253,12 +254,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "céu",
-      "explanation": "Sentido contextual: céu.",
+      "explanation": "Glosa neste contexto: céu.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Função não individualizada; consultar análise do versículo",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -278,12 +279,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "estrelas",
-      "explanation": "Sentido contextual: estrela.",
+      "explanation": "Glosa neste contexto: estrela.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -303,12 +304,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo / numeral · nominativo · singular · masculino (MorphGNT: A- ----NSM-)",
       "meanings": "grande",
-      "explanation": "Sentido contextual: grande.",
+      "explanation": "Glosa neste contexto: grande.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Adjetivo atributivo",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -328,12 +329,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "-PPPNSM-",
       "morphology": "Verbo · presente · voz passiva · particípio · nominativo · singular · masculino (MorphGNT: V- -PPPNSM-)",
       "meanings": "arder; queimar",
-      "explanation": "Sentido contextual: ardendo.",
+      "explanation": "Glosa neste contexto: ardendo.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Particípio circunstancial",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -353,12 +354,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "como",
-      "explanation": "Sentido contextual: como.",
+      "explanation": "Glosa neste contexto: como.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -378,12 +379,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
       "meanings": "lâmpada; tocha",
-      "explanation": "Sentido contextual: tocha.",
+      "explanation": "Glosa neste contexto: tocha.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Termo da comparação",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -403,12 +404,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -428,12 +429,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "caí",
-      "explanation": "Sentido contextual: caiu.",
+      "explanation": "Glosa neste contexto: caiu.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo coordenado",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -453,7 +454,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "sobre",
-      "explanation": "Sentido contextual: sobre.",
+      "explanation": "Glosa neste contexto: sobre.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -478,7 +479,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido · acusativo · singular · neutro (MorphGNT: RA ----ASN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -503,12 +504,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "----ASN-",
       "morphology": "Adjetivo / numeral · acusativo · singular · neutro (MorphGNT: A- ----ASN-)",
       "meanings": "terceiro",
-      "explanation": "Sentido contextual: terço.",
+      "explanation": "Glosa neste contexto: terço.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Alvo",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -528,7 +529,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido · genitivo · plural · masculino (MorphGNT: RA ----GPM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: dos.",
+      "explanation": "Glosa neste contexto: dos.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -553,12 +554,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "----GPM-",
       "morphology": "Substantivo · genitivo · plural · masculino (MorphGNT: N- ----GPM-)",
       "meanings": "rio",
-      "explanation": "Sentido contextual: rios.",
+      "explanation": "Glosa neste contexto: rios.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Genitivo partitivo",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -578,12 +579,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -603,7 +604,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "sobre",
-      "explanation": "Sentido contextual: sobre.",
+      "explanation": "Glosa neste contexto: sobre.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -628,7 +629,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "----APF-",
       "morphology": "Artigo definido · acusativo · plural · feminino (MorphGNT: RA ----APF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: as.",
+      "explanation": "Glosa neste contexto: as.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -653,12 +654,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "----APF-",
       "morphology": "Substantivo · acusativo · plural · feminino (MorphGNT: N- ----APF-)",
       "meanings": "fonte; nascente",
-      "explanation": "Sentido contextual: fontes.",
+      "explanation": "Glosa neste contexto: fontes.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Alvo",
         "clauseId": "AP.8.10",
         "governedBy": null
       },
@@ -678,7 +679,7 @@ export const apocalipse8v10 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: das.",
+      "explanation": "Glosa neste contexto: das.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
@@ -703,12 +704,12 @@ export const apocalipse8v10 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "águas",
-      "explanation": "Sentido contextual: águas.",
+      "explanation": "Glosa neste contexto: águas.",
       "occurrencesExamples": [
         "Ap 8:10"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Função não individualizada; consultar análise do versículo",
         "clauseId": "AP.8.10",
         "governedBy": null
       },

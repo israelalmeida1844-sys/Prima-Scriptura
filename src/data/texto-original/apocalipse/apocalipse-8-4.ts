@@ -7,9 +7,10 @@ export const apocalipse8v4 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "E a fumaça dos incensos subiu, com as orações dos santos, da mão do anjo diante de Deus.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "Variantes manuscritas ainda não colacionadas; não implica ausência de variantes.",
+  "textualNotes": "Não há entrada de variante para este versículo no aparato comparativo SBLGNT consultado. Isso não implica ausência de variantes em todos os manuscritos. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
   "syntacticNotes": [
-    "ταῖς προσευχαῖς é dativo de associação no contexto; ἐκ indica origem."
+    "ταῖς προσευχαῖς é dativo de associação no contexto; ἐκ indica origem.",
+    "ὁ καπνός é sujeito; τῶν θυμιαμάτων é genitivo de origem; ἐνώπιον τοῦ θεοῦ indica presença."
   ],
   "exegeticalNotes": [
     "A subida da fumaça associa a cena às orações dos santos; compare Sl 141:2."
@@ -28,12 +29,12 @@ export const apocalipse8v4 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.4",
         "governedBy": null
       },
@@ -53,12 +54,12 @@ export const apocalipse8v4 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "subir",
-      "explanation": "Sentido contextual: subiu.",
+      "explanation": "Glosa neste contexto: subiu.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo principal",
         "clauseId": "AP.8.4",
         "governedBy": null
       },
@@ -78,7 +79,7 @@ export const apocalipse8v4 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido · nominativo · singular · masculino (MorphGNT: RA ----NSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: a.",
+      "explanation": "Glosa neste contexto: a.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
@@ -103,12 +104,12 @@ export const apocalipse8v4 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "fumaça",
-      "explanation": "Sentido contextual: fumaça.",
+      "explanation": "Glosa neste contexto: fumaça.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito",
         "clauseId": "AP.8.4",
         "governedBy": null
       },
@@ -128,7 +129,7 @@ export const apocalipse8v4 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: dos.",
+      "explanation": "Glosa neste contexto: dos.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
@@ -153,12 +154,12 @@ export const apocalipse8v4 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "Incenso, oferta aromática",
-      "explanation": "Sentido contextual: incensos.",
+      "explanation": "Glosa neste contexto: incensos.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Genitivo de origem",
         "clauseId": "AP.8.4",
         "governedBy": null
       },
@@ -170,7 +171,7 @@ export const apocalipse8v4 = {
       "shortMorph": "RA DPF",
       "greek": "ταῖς",
       "transliteration": "tais",
-      "gloss": "às",
+      "gloss": "com as",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -178,7 +179,7 @@ export const apocalipse8v4 = {
       "morphologyCode": "----DPF-",
       "morphology": "Artigo definido · dativo · plural · feminino (MorphGNT: RA ----DPF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: às.",
+      "explanation": "Glosa neste contexto: com as.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
@@ -203,12 +204,12 @@ export const apocalipse8v4 = {
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo · dativo · plural · feminino (MorphGNT: N- ----DPF-)",
       "meanings": "Oração",
-      "explanation": "Sentido contextual: orações.",
+      "explanation": "Glosa neste contexto: orações.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Dativo de associação",
         "clauseId": "AP.8.4",
         "governedBy": null
       },
@@ -228,7 +229,7 @@ export const apocalipse8v4 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido · genitivo · plural · masculino (MorphGNT: RA ----GPM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: dos.",
+      "explanation": "Glosa neste contexto: dos.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
@@ -253,12 +254,12 @@ export const apocalipse8v4 = {
       "morphologyCode": "----GPM-",
       "morphology": "Adjetivo / numeral · genitivo · plural · masculino (MorphGNT: A- ----GPM-)",
       "meanings": "santo",
-      "explanation": "Sentido contextual: santos.",
+      "explanation": "Glosa neste contexto: santos.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Modificador nominal (conforme contexto)",
         "clauseId": "AP.8.4",
         "governedBy": null
       },
@@ -278,7 +279,7 @@ export const apocalipse8v4 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "de",
-      "explanation": "Sentido contextual: de.",
+      "explanation": "Glosa neste contexto: de.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
@@ -303,12 +304,12 @@ export const apocalipse8v4 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "mão",
-      "explanation": "Sentido contextual: mão.",
+      "explanation": "Glosa neste contexto: mão.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Origem",
         "clauseId": "AP.8.4",
         "governedBy": null
       },
@@ -328,7 +329,7 @@ export const apocalipse8v4 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: do.",
+      "explanation": "Glosa neste contexto: do.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
@@ -353,12 +354,12 @@ export const apocalipse8v4 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "Anjo, mensageiro celestial de Deus",
-      "explanation": "Sentido contextual: anjo.",
+      "explanation": "Glosa neste contexto: anjo.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Função não individualizada; consultar análise do versículo",
         "clauseId": "AP.8.4",
         "governedBy": null
       },
@@ -378,7 +379,7 @@ export const apocalipse8v4 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "diante de",
-      "explanation": "Sentido contextual: diante de.",
+      "explanation": "Glosa neste contexto: diante de.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
@@ -395,7 +396,7 @@ export const apocalipse8v4 = {
       "shortMorph": "RA GSM",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "o",
+      "gloss": "o (genitivo)",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -403,7 +404,7 @@ export const apocalipse8v4 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o (genitivo).",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
@@ -428,12 +429,12 @@ export const apocalipse8v4 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "O Deus Supremo, o Criador e Pai de nosso Senhor",
-      "explanation": "Sentido contextual: Deus.",
+      "explanation": "Glosa neste contexto: Deus.",
       "occurrencesExamples": [
         "Ap 8:4"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Complemento de ἐνώπιον",
         "clauseId": "AP.8.4",
         "governedBy": null
       },

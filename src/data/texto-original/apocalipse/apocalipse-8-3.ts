@@ -7,9 +7,10 @@ export const apocalipse8v3 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "Outro anjo veio e se colocou junto ao altar, tendo um incensário de ouro. Foram-lhe dados muitos incensos, para que os oferecesse com as orações de todos os santos sobre o altar de ouro diante do trono.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "Variantes manuscritas ainda não colacionadas; não implica ausência de variantes.",
+  "textualNotes": "SBLGNT, WH, Treg e NA28 leem δώσει (futuro indicativo); RP lê δώσῃ (aoristo subjuntivo), construção mais usual após ἵνα. A finalidade permanece. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
   "syntacticNotes": [
-    "ἔχων modifica ἄγγελος; ἵνα δώσει apresenta futuro indicativo em oração de finalidade; os dativos das orações admitem associação."
+    "ἔχων modifica ἄγγελος; ἵνα δώσει apresenta futuro indicativo em oração de finalidade; os dativos das orações admitem associação.",
+    "θυμιάματα πολλά é sujeito neutro plural de ἐδόθη, singular; λιβανωτὸν χρυσοῦν é objeto de ἔχων; o segundo ἐπί rege acusativo e marca o alvo da oferta."
   ],
   "exegeticalNotes": [
     "O altar e o incenso evocam o culto do santuário (Êx 30:1–10); as orações retomam Ap 5:8."
@@ -28,12 +29,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -53,12 +54,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo / numeral · nominativo · singular · masculino (MorphGNT: A- ----NSM-)",
       "meanings": "outro",
-      "explanation": "Sentido contextual: outro.",
+      "explanation": "Glosa neste contexto: outro.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Modificador nominal (conforme contexto)",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -78,12 +79,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "Anjo, mensageiro celestial de Deus",
-      "explanation": "Sentido contextual: anjo.",
+      "explanation": "Glosa neste contexto: anjo.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -103,12 +104,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "vir",
-      "explanation": "Sentido contextual: veio.",
+      "explanation": "Glosa neste contexto: veio.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo principal",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -128,12 +129,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -153,12 +154,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
       "meanings": "estar de pé",
-      "explanation": "Sentido contextual: pôs-se.",
+      "explanation": "Glosa neste contexto: pôs-se.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo coordenado",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -170,7 +171,7 @@ export const apocalipse8v3 = {
       "shortMorph": "P- ",
       "greek": "ἐπὶ",
       "transliteration": "epi",
-      "gloss": "sobre",
+      "gloss": "junto a",
       "strong": "G1909",
       "lemma": "ἐπί",
       "lemmaTransliteration": "epi",
@@ -178,7 +179,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "sobre",
-      "explanation": "Sentido contextual: sobre.",
+      "explanation": "Glosa neste contexto: junto a.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -195,7 +196,7 @@ export const apocalipse8v3 = {
       "shortMorph": "RA GSN",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "o",
+      "gloss": "o (genitivo)",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -203,7 +204,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----GSN-",
       "morphology": "Artigo definido · genitivo · singular · neutro (MorphGNT: RA ----GSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o (genitivo).",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -228,12 +229,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----GSN-",
       "morphology": "Substantivo · genitivo · singular · neutro (MorphGNT: N- ----GSN-)",
       "meanings": "altar",
-      "explanation": "Sentido contextual: altar.",
+      "explanation": "Glosa neste contexto: altar.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Função não individualizada; consultar análise do versículo",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -253,12 +254,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "-PAPNSM-",
       "morphology": "Verbo · presente · voz ativa · particípio · nominativo · singular · masculino (MorphGNT: V- -PAPNSM-)",
       "meanings": "tinha",
-      "explanation": "Sentido contextual: tendo.",
+      "explanation": "Glosa neste contexto: tendo.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Particípio circunstancial",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -278,12 +279,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----ASM-",
       "morphology": "Substantivo · acusativo · singular · masculino (MorphGNT: N- ----ASM-)",
       "meanings": "incensário; recipiente de incenso",
-      "explanation": "Sentido contextual: incensário.",
+      "explanation": "Glosa neste contexto: incensário.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Objeto do particípio",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -303,12 +304,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----ASM-",
       "morphology": "Adjetivo / numeral · acusativo · singular · masculino (MorphGNT: A- ----ASM-)",
       "meanings": "de ouro",
-      "explanation": "Sentido contextual: de ouro.",
+      "explanation": "Glosa neste contexto: de ouro.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Modificador nominal (conforme contexto)",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -328,12 +329,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -353,12 +354,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
       "meanings": "Dar, conceder por graça ou outorgar autoridade",
-      "explanation": "Sentido contextual: foram dados.",
+      "explanation": "Glosa neste contexto: foram dados.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo passivo",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -378,12 +379,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----DSM-",
       "morphology": "Pronome pessoal · dativo · singular · masculino (MorphGNT: RP ----DSM-)",
       "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Sentido contextual: a ele.",
+      "explanation": "Glosa neste contexto: a ele.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Dativo de destinatário",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -403,12 +404,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----NPN-",
       "morphology": "Substantivo · nominativo · plural · neutro (MorphGNT: N- ----NPN-)",
       "meanings": "Incenso, oferta aromática",
-      "explanation": "Sentido contextual: incensos.",
+      "explanation": "Glosa neste contexto: incensos.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito neutro plural",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -428,12 +429,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----NPN-",
       "morphology": "Adjetivo / numeral · nominativo · plural · neutro (MorphGNT: A- ----NPN-)",
       "meanings": "muitas",
-      "explanation": "Sentido contextual: muitos.",
+      "explanation": "Glosa neste contexto: muitos.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Modificador nominal (conforme contexto)",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -453,12 +454,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "para que",
-      "explanation": "Sentido contextual: para que.",
+      "explanation": "Glosa neste contexto: para que.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -470,7 +471,7 @@ export const apocalipse8v3 = {
       "shortMorph": "V-FAI-3-S",
       "greek": "δώσει",
       "transliteration": "dōsei",
-      "gloss": "oferecesse",
+      "gloss": "dará (oferecer)",
       "strong": "G1325",
       "lemma": "δίδωμι",
       "lemmaTransliteration": "didōmi",
@@ -478,12 +479,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "3FAI-S--",
       "morphology": "Verbo · futuro · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3FAI-S--)",
       "meanings": "Dar, conceder por graça ou outorgar autoridade",
-      "explanation": "Sentido contextual: oferecesse.",
+      "explanation": "Glosa neste contexto: dará (oferecer).",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo da oração final",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -503,7 +504,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----DPF-",
       "morphology": "Artigo definido · dativo · plural · feminino (MorphGNT: RA ----DPF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: às.",
+      "explanation": "Glosa neste contexto: às.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -528,12 +529,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----DPF-",
       "morphology": "Substantivo · dativo · plural · feminino (MorphGNT: N- ----DPF-)",
       "meanings": "Oração",
-      "explanation": "Sentido contextual: orações.",
+      "explanation": "Glosa neste contexto: orações.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Dativo associado à oferta",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -553,7 +554,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----GPM-",
       "morphology": "Artigo definido · genitivo · plural · masculino (MorphGNT: RA ----GPM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: dos.",
+      "explanation": "Glosa neste contexto: dos.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -578,12 +579,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----GPM-",
       "morphology": "Adjetivo / numeral · genitivo · plural · masculino (MorphGNT: A- ----GPM-)",
       "meanings": "santo",
-      "explanation": "Sentido contextual: santos.",
+      "explanation": "Glosa neste contexto: santos.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Modificador nominal (conforme contexto)",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -603,12 +604,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----GPM-",
       "morphology": "Adjetivo / numeral · genitivo · plural · masculino (MorphGNT: A- ----GPM-)",
       "meanings": "todo",
-      "explanation": "Sentido contextual: todos.",
+      "explanation": "Glosa neste contexto: todos.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Modificador nominal (conforme contexto)",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -628,7 +629,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "sobre",
-      "explanation": "Sentido contextual: sobre.",
+      "explanation": "Glosa neste contexto: sobre.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -653,7 +654,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido · acusativo · singular · neutro (MorphGNT: RA ----ASN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -678,12 +679,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo · acusativo · singular · neutro (MorphGNT: N- ----ASN-)",
       "meanings": "altar",
-      "explanation": "Sentido contextual: altar.",
+      "explanation": "Glosa neste contexto: altar.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Alvo da oferta",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -703,7 +704,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido · acusativo · singular · neutro (MorphGNT: RA ----ASN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -728,12 +729,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----ASN-",
       "morphology": "Adjetivo / numeral · acusativo · singular · neutro (MorphGNT: A- ----ASN-)",
       "meanings": "de ouro",
-      "explanation": "Sentido contextual: de ouro.",
+      "explanation": "Glosa neste contexto: de ouro.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Modificador nominal (conforme contexto)",
         "clauseId": "AP.8.3",
         "governedBy": null
       },
@@ -753,7 +754,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----ASN-",
       "morphology": "Artigo definido · acusativo · singular · neutro (MorphGNT: RA ----ASN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -778,7 +779,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "diante de",
-      "explanation": "Sentido contextual: diante de.",
+      "explanation": "Glosa neste contexto: diante de.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -803,7 +804,7 @@ export const apocalipse8v3 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
@@ -828,12 +829,12 @@ export const apocalipse8v3 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "trono",
-      "explanation": "Sentido contextual: trono.",
+      "explanation": "Glosa neste contexto: trono.",
       "occurrencesExamples": [
         "Ap 8:3"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Função não individualizada; consultar análise do versículo",
         "clauseId": "AP.8.3",
         "governedBy": null
       },

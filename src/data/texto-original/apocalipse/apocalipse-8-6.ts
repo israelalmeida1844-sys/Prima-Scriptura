@@ -7,9 +7,10 @@ export const apocalipse8v6 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "Os sete anjos que tinham as sete trombetas prepararam-se para tocá-las.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "Variantes manuscritas ainda não colacionadas; não implica ausência de variantes.",
+  "textualNotes": "SBLGNT e WH leem αὑτούς; Treg e NA28, αὐτούς; RP, ἑαυτούς. As formas reflexivas explicitam que os anjos se prepararam; a distinção αὑτούς/αὐτούς envolve a aspiração editorial. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
   "syntacticNotes": [
-    "αὑτούς é pronome reflexivo; ἵνα com σαλπίσωσιν expressa finalidade."
+    "αὑτούς é pronome reflexivo; ἵνα com σαλπίσωσιν expressa finalidade.",
+    "οἱ ἔχοντες é particípio atributivo em aposição aos anjos; τὰς ἑπτὰ σάλπιγγας é seu objeto."
   ],
   "exegeticalNotes": [
     "A preparação liga a cena do altar à série das trombetas."
@@ -28,12 +29,12 @@ export const apocalipse8v6 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.6",
         "governedBy": null
       },
@@ -53,7 +54,7 @@ export const apocalipse8v6 = {
       "morphologyCode": "----NPM-",
       "morphology": "Artigo definido · nominativo · plural · masculino (MorphGNT: RA ----NPM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: os.",
+      "explanation": "Glosa neste contexto: os.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
@@ -78,12 +79,12 @@ export const apocalipse8v6 = {
       "morphologyCode": "----NPM-",
       "morphology": "Adjetivo / numeral · nominativo · plural · masculino (MorphGNT: A- ----NPM-)",
       "meanings": "sete",
-      "explanation": "Sentido contextual: sete.",
+      "explanation": "Glosa neste contexto: sete.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Modificador nominal (conforme contexto)",
         "clauseId": "AP.8.6",
         "governedBy": null
       },
@@ -103,12 +104,12 @@ export const apocalipse8v6 = {
       "morphologyCode": "----NPM-",
       "morphology": "Substantivo · nominativo · plural · masculino (MorphGNT: N- ----NPM-)",
       "meanings": "Anjo, mensageiro celestial de Deus",
-      "explanation": "Sentido contextual: anjos.",
+      "explanation": "Glosa neste contexto: anjos.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito",
         "clauseId": "AP.8.6",
         "governedBy": null
       },
@@ -120,7 +121,7 @@ export const apocalipse8v6 = {
       "shortMorph": "RA NPM",
       "greek": "οἱ",
       "transliteration": "hoi",
-      "gloss": "os",
+      "gloss": "os (artigo reiterado)",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -128,7 +129,7 @@ export const apocalipse8v6 = {
       "morphologyCode": "----NPM-",
       "morphology": "Artigo definido · nominativo · plural · masculino (MorphGNT: RA ----NPM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: os.",
+      "explanation": "Glosa neste contexto: os (artigo reiterado).",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
@@ -145,7 +146,7 @@ export const apocalipse8v6 = {
       "shortMorph": "V-PAP-NPM",
       "greek": "ἔχοντες",
       "transliteration": "echontes",
-      "gloss": "que tinham",
+      "gloss": "que têm",
       "strong": "G2192",
       "lemma": "ἔχω",
       "lemmaTransliteration": "echō",
@@ -153,12 +154,12 @@ export const apocalipse8v6 = {
       "morphologyCode": "-PAPNPM-",
       "morphology": "Verbo · presente · voz ativa · particípio · nominativo · plural · masculino (MorphGNT: V- -PAPNPM-)",
       "meanings": "tinha",
-      "explanation": "Sentido contextual: que tinham.",
+      "explanation": "Glosa neste contexto: que têm.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Particípio atributivo",
         "clauseId": "AP.8.6",
         "governedBy": null
       },
@@ -178,7 +179,7 @@ export const apocalipse8v6 = {
       "morphologyCode": "----APF-",
       "morphology": "Artigo definido · acusativo · plural · feminino (MorphGNT: RA ----APF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: as.",
+      "explanation": "Glosa neste contexto: as.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
@@ -203,12 +204,12 @@ export const apocalipse8v6 = {
       "morphologyCode": "----APF-",
       "morphology": "Adjetivo / numeral · acusativo · plural · feminino (MorphGNT: A- ----APF-)",
       "meanings": "sete",
-      "explanation": "Sentido contextual: sete.",
+      "explanation": "Glosa neste contexto: sete.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Modificador nominal (conforme contexto)",
         "clauseId": "AP.8.6",
         "governedBy": null
       },
@@ -228,12 +229,12 @@ export const apocalipse8v6 = {
       "morphologyCode": "----APF-",
       "morphology": "Substantivo · acusativo · plural · feminino (MorphGNT: N- ----APF-)",
       "meanings": "trombeta",
-      "explanation": "Sentido contextual: trombetas.",
+      "explanation": "Glosa neste contexto: trombetas.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Objeto do particípio",
         "clauseId": "AP.8.6",
         "governedBy": null
       },
@@ -253,12 +254,12 @@ export const apocalipse8v6 = {
       "morphologyCode": "3AAI-P--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3AAI-P--)",
       "meanings": "preparar",
-      "explanation": "Sentido contextual: prepararam.",
+      "explanation": "Glosa neste contexto: prepararam.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo principal",
         "clauseId": "AP.8.6",
         "governedBy": null
       },
@@ -278,12 +279,12 @@ export const apocalipse8v6 = {
       "morphologyCode": "----APM-",
       "morphology": "Pronome pessoal · acusativo · plural · masculino (MorphGNT: RP ----APM-)",
       "meanings": "si mesmo",
-      "explanation": "Sentido contextual: a si mesmos.",
+      "explanation": "Glosa neste contexto: a si mesmos.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Objeto reflexivo",
         "clauseId": "AP.8.6",
         "governedBy": null
       },
@@ -303,12 +304,12 @@ export const apocalipse8v6 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "para que",
-      "explanation": "Sentido contextual: para que.",
+      "explanation": "Glosa neste contexto: para que.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.6",
         "governedBy": null
       },
@@ -328,12 +329,12 @@ export const apocalipse8v6 = {
       "morphologyCode": "3AAS-P--",
       "morphology": "Verbo · aoristo · voz ativa · subjuntivo · 3ª pessoa · plural (MorphGNT: V- 3AAS-P--)",
       "meanings": "tocar trombeta",
-      "explanation": "Sentido contextual: tocassem.",
+      "explanation": "Glosa neste contexto: tocassem.",
       "occurrencesExamples": [
         "Ap 8:6"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo da oração final",
         "clauseId": "AP.8.6",
         "governedBy": null
       },

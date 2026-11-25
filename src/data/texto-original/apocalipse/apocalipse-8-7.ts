@@ -7,9 +7,10 @@ export const apocalipse8v7 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "O primeiro tocou a trombeta, e houve granizo e fogo misturados com sangue, lançados à terra. Um terço da terra foi queimado, um terço das árvores foi queimado e toda a erva verde foi queimada.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "Variantes manuscritas ainda não colacionadas; não implica ausência de variantes.",
+  "textualNotes": "Não há entrada de variante para este versículo no aparato comparativo SBLGNT consultado. Isso não implica ausência de variantes em todos os manuscritos. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
   "syntacticNotes": [
-    "μεμιγμένα é particípio perfeito médio-passivo neutro plural; κατεκάη é aoristo passivo; τὸ τρίτον indica fração."
+    "μεμιγμένα é particípio perfeito passivo neutro plural na classificação MorphGNT; κατεκάη é aoristo passivo; τὸ τρίτον indica fração.",
+    "πᾶς χόρτος χλωρός é sujeito da última oração. O perfeito passivo μεμιγμένα descreve o estado resultante da mistura."
   ],
   "exegeticalNotes": [
     "Granizo e fogo evocam Êx 9:23–25; a identificação historicista de eventos históricos exige argumentação independente."
@@ -28,12 +29,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -53,7 +54,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSM-",
       "morphology": "Artigo definido · nominativo · singular · masculino (MorphGNT: RA ----NSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -78,12 +79,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo / numeral · nominativo · singular · masculino (MorphGNT: A- ----NSM-)",
       "meanings": "primeiro",
-      "explanation": "Sentido contextual: primeiro.",
+      "explanation": "Glosa neste contexto: primeiro.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito substantivado",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -95,7 +96,7 @@ export const apocalipse8v7 = {
       "shortMorph": "V-AAI-3-S",
       "greek": "ἐσάλπισεν",
       "transliteration": "esalpisen",
-      "gloss": "tocou",
+      "gloss": "tocou a trombeta",
       "strong": "G4537",
       "lemma": "σαλπίζω",
       "lemmaTransliteration": "salpizō",
@@ -103,12 +104,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "tocar trombeta",
-      "explanation": "Sentido contextual: tocou.",
+      "explanation": "Glosa neste contexto: tocou a trombeta.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo principal",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -128,12 +129,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -153,7 +154,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "3AMI-S--",
       "morphology": "Verbo · aoristo · voz média · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AMI-S--)",
       "meanings": "Vir a ser, acontecer, cumprir-se na história",
-      "explanation": "Sentido contextual: houve.",
+      "explanation": "Glosa neste contexto: houve.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -178,12 +179,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
       "meanings": "granizo",
-      "explanation": "Sentido contextual: granizo.",
+      "explanation": "Glosa neste contexto: granizo.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito coordenado",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -203,12 +204,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -228,12 +229,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Substantivo · nominativo · singular · neutro (MorphGNT: N- ----NSN-)",
       "meanings": "fogo",
-      "explanation": "Sentido contextual: fogo.",
+      "explanation": "Glosa neste contexto: fogo.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito coordenado",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -253,12 +254,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "-XPPNPN-",
       "morphology": "Verbo · perfeito · voz passiva · particípio · nominativo · plural · neutro (MorphGNT: V- -XPPNPN-)",
       "meanings": "misturar",
-      "explanation": "Sentido contextual: misturados.",
+      "explanation": "Glosa neste contexto: misturados.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Particípio predicativo",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -270,7 +271,7 @@ export const apocalipse8v7 = {
       "shortMorph": "P- ",
       "greek": "ἐν",
       "transliteration": "en",
-      "gloss": "em",
+      "gloss": "com",
       "strong": "G1722",
       "lemma": "ἐν",
       "lemmaTransliteration": "en",
@@ -278,7 +279,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "Em, dentro de, em meio a (uso adverbial ou temporal)",
-      "explanation": "Sentido contextual: em.",
+      "explanation": "Glosa neste contexto: com.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -303,12 +304,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "----DSN-",
       "morphology": "Substantivo · dativo · singular · neutro (MorphGNT: N- ----DSN-)",
       "meanings": "sangue",
-      "explanation": "Sentido contextual: sangue.",
+      "explanation": "Glosa neste contexto: sangue.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Dativo de associação",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -328,12 +329,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -353,12 +354,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
       "meanings": "lançar",
-      "explanation": "Sentido contextual: foi lançado.",
+      "explanation": "Glosa neste contexto: foi lançado.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo passivo",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -378,7 +379,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "para",
-      "explanation": "Sentido contextual: para.",
+      "explanation": "Glosa neste contexto: para.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -403,7 +404,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido · acusativo · singular · feminino (MorphGNT: RA ----ASF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: a.",
+      "explanation": "Glosa neste contexto: a.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -428,12 +429,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
       "meanings": "terra",
-      "explanation": "Sentido contextual: terra.",
+      "explanation": "Glosa neste contexto: terra.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Função não individualizada; consultar análise do versículo",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -453,12 +454,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -478,7 +479,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -503,12 +504,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
       "meanings": "terceiro",
-      "explanation": "Sentido contextual: terço.",
+      "explanation": "Glosa neste contexto: terço.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -528,7 +529,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "----GSF-",
       "morphology": "Artigo definido · genitivo · singular · feminino (MorphGNT: RA ----GSF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: da.",
+      "explanation": "Glosa neste contexto: da.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -553,12 +554,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "----GSF-",
       "morphology": "Substantivo · genitivo · singular · feminino (MorphGNT: N- ----GSF-)",
       "meanings": "terra",
-      "explanation": "Sentido contextual: terra.",
+      "explanation": "Glosa neste contexto: terra.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Genitivo partitivo",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -578,12 +579,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
       "meanings": "queimar completamente",
-      "explanation": "Sentido contextual: foi queimado.",
+      "explanation": "Glosa neste contexto: foi queimado.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo passivo",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -603,12 +604,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -628,7 +629,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Artigo definido · nominativo · singular · neutro (MorphGNT: RA ----NSN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -653,12 +654,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSN-",
       "morphology": "Adjetivo / numeral · nominativo · singular · neutro (MorphGNT: A- ----NSN-)",
       "meanings": "terceiro",
-      "explanation": "Sentido contextual: terço.",
+      "explanation": "Glosa neste contexto: terço.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -678,7 +679,7 @@ export const apocalipse8v7 = {
       "morphologyCode": "----GPN-",
       "morphology": "Artigo definido · genitivo · plural · neutro (MorphGNT: RA ----GPN-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: das.",
+      "explanation": "Glosa neste contexto: das.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
@@ -703,12 +704,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "----GPN-",
       "morphology": "Substantivo · genitivo · plural · neutro (MorphGNT: N- ----GPN-)",
       "meanings": "árvore",
-      "explanation": "Sentido contextual: árvores.",
+      "explanation": "Glosa neste contexto: árvores.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Genitivo partitivo",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -728,12 +729,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
       "meanings": "queimar completamente",
-      "explanation": "Sentido contextual: foi queimado.",
+      "explanation": "Glosa neste contexto: foi queimado.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo passivo",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -753,12 +754,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -778,12 +779,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo / numeral · nominativo · singular · masculino (MorphGNT: A- ----NSM-)",
       "meanings": "todo",
-      "explanation": "Sentido contextual: toda.",
+      "explanation": "Glosa neste contexto: toda.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Modificador nominal (conforme contexto)",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -803,12 +804,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSM-",
       "morphology": "Substantivo · nominativo · singular · masculino (MorphGNT: N- ----NSM-)",
       "meanings": "erva; vegetação",
-      "explanation": "Sentido contextual: erva.",
+      "explanation": "Glosa neste contexto: erva.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -828,12 +829,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "----NSM-",
       "morphology": "Adjetivo / numeral · nominativo · singular · masculino (MorphGNT: A- ----NSM-)",
       "meanings": "verde-pálido",
-      "explanation": "Sentido contextual: verde.",
+      "explanation": "Glosa neste contexto: verde.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Adjetivo atributivo",
         "clauseId": "AP.8.7",
         "governedBy": null
       },
@@ -853,12 +854,12 @@ export const apocalipse8v7 = {
       "morphologyCode": "3API-S--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · singular (MorphGNT: V- 3API-S--)",
       "meanings": "queimar completamente",
-      "explanation": "Sentido contextual: foi queimada.",
+      "explanation": "Glosa neste contexto: foi queimada.",
       "occurrencesExamples": [
         "Ap 8:7"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo passivo",
         "clauseId": "AP.8.7",
         "governedBy": null
       },

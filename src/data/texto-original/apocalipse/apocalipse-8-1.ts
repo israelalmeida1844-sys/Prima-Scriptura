@@ -7,9 +7,10 @@ export const apocalipse8v1 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "Quando abriu o sétimo selo, houve silêncio no céu por cerca de meia hora.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "Variantes manuscritas ainda não colacionadas; não implica ausência de variantes.",
+  "textualNotes": "SBLGNT, WH, Treg e NA28 leem ὅταν; RP lê ὅτε. A segunda leitura regulariza a construção temporal com indicativo; ambas introduzem o momento da abertura. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
   "syntacticNotes": [
-    "ὅταν com ἤνοιξεν (aoristo indicativo) é construção temporal incomum; ὡς indica aproximação de duração."
+    "ὅταν com ἤνοιξεν (aoristo indicativo) é construção temporal incomum; ὡς indica aproximação de duração.",
+    "τὴν σφραγῖδα τὴν ἑβδόμην é objeto direto com adjetivo atributivo na segunda posição; σιγή é sujeito de ἐγένετο; ἡμιώριον é acusativo de duração."
   ],
   "exegeticalNotes": [
     "O silêncio sucede à abertura do selo; a duração aproximada não estabelece por si só uma cronologia profética."
@@ -28,12 +29,12 @@ export const apocalipse8v1 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.1",
         "governedBy": null
       },
@@ -53,12 +54,12 @@ export const apocalipse8v1 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "sempre que",
-      "explanation": "Sentido contextual: quando.",
+      "explanation": "Glosa neste contexto: quando.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção temporal",
         "clauseId": "AP.8.1",
         "governedBy": null
       },
@@ -78,12 +79,12 @@ export const apocalipse8v1 = {
       "morphologyCode": "3AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AAI-S--)",
       "meanings": "abrir",
-      "explanation": "Sentido contextual: abriu.",
+      "explanation": "Glosa neste contexto: abriu.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo da oração temporal",
         "clauseId": "AP.8.1",
         "governedBy": null
       },
@@ -103,7 +104,7 @@ export const apocalipse8v1 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido · acusativo · singular · feminino (MorphGNT: RA ----ASF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
@@ -128,12 +129,12 @@ export const apocalipse8v1 = {
       "morphologyCode": "----ASF-",
       "morphology": "Substantivo · acusativo · singular · feminino (MorphGNT: N- ----ASF-)",
       "meanings": "Selo, marca de fechamento",
-      "explanation": "Sentido contextual: selo.",
+      "explanation": "Glosa neste contexto: selo.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Objeto direto",
         "clauseId": "AP.8.1",
         "governedBy": null
       },
@@ -145,7 +146,7 @@ export const apocalipse8v1 = {
       "shortMorph": "RA ASF",
       "greek": "τὴν",
       "transliteration": "tēn",
-      "gloss": "o",
+      "gloss": "o (artigo reiterado)",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -153,7 +154,7 @@ export const apocalipse8v1 = {
       "morphologyCode": "----ASF-",
       "morphology": "Artigo definido · acusativo · singular · feminino (MorphGNT: RA ----ASF-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o (artigo reiterado).",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
@@ -178,12 +179,12 @@ export const apocalipse8v1 = {
       "morphologyCode": "----ASF-",
       "morphology": "Adjetivo / numeral · acusativo · singular · feminino (MorphGNT: A- ----ASF-)",
       "meanings": "sétimo",
-      "explanation": "Sentido contextual: sétimo.",
+      "explanation": "Glosa neste contexto: sétimo.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Adjetivo atributivo",
         "clauseId": "AP.8.1",
         "governedBy": null
       },
@@ -203,12 +204,12 @@ export const apocalipse8v1 = {
       "morphologyCode": "3AMI-S--",
       "morphology": "Verbo · aoristo · voz média · indicativo · 3ª pessoa · singular (MorphGNT: V- 3AMI-S--)",
       "meanings": "Vir a ser, acontecer, cumprir-se na história",
-      "explanation": "Sentido contextual: houve.",
+      "explanation": "Glosa neste contexto: houve.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo principal",
         "clauseId": "AP.8.1",
         "governedBy": null
       },
@@ -228,12 +229,12 @@ export const apocalipse8v1 = {
       "morphologyCode": "----NSF-",
       "morphology": "Substantivo · nominativo · singular · feminino (MorphGNT: N- ----NSF-)",
       "meanings": "silêncio",
-      "explanation": "Sentido contextual: silêncio.",
+      "explanation": "Glosa neste contexto: silêncio.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito",
         "clauseId": "AP.8.1",
         "governedBy": null
       },
@@ -253,7 +254,7 @@ export const apocalipse8v1 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "Em, dentro de, em meio a (uso adverbial ou temporal)",
-      "explanation": "Sentido contextual: em.",
+      "explanation": "Glosa neste contexto: em.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
@@ -278,7 +279,7 @@ export const apocalipse8v1 = {
       "morphologyCode": "----DSM-",
       "morphology": "Artigo definido · dativo · singular · masculino (MorphGNT: RA ----DSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
@@ -303,12 +304,12 @@ export const apocalipse8v1 = {
       "morphologyCode": "----DSM-",
       "morphology": "Substantivo · dativo · singular · masculino (MorphGNT: N- ----DSM-)",
       "meanings": "céu",
-      "explanation": "Sentido contextual: céu.",
+      "explanation": "Glosa neste contexto: céu.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Função não individualizada; consultar análise do versículo",
         "clauseId": "AP.8.1",
         "governedBy": null
       },
@@ -328,12 +329,12 @@ export const apocalipse8v1 = {
       "morphologyCode": "--------",
       "morphology": "Advérbio (MorphGNT: D- --------)",
       "meanings": "como",
-      "explanation": "Sentido contextual: cerca de.",
+      "explanation": "Glosa neste contexto: cerca de.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Advérbio",
         "clauseId": "AP.8.1",
         "governedBy": null
       },
@@ -353,12 +354,12 @@ export const apocalipse8v1 = {
       "morphologyCode": "----ASN-",
       "morphology": "Substantivo · acusativo · singular · neutro (MorphGNT: N- ----ASN-)",
       "meanings": "meia hora",
-      "explanation": "Sentido contextual: meia hora.",
+      "explanation": "Glosa neste contexto: meia hora.",
       "occurrencesExamples": [
         "Ap 8:1"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Acusativo de duração",
         "clauseId": "AP.8.1",
         "governedBy": null
       },

@@ -7,9 +7,10 @@ export const apocalipse8v2 = {
   "morphologySource": "MorphGNT, códigos preservados",
   "translation": "E vi os sete anjos que estão diante de Deus, e lhes foram dadas sete trombetas.",
   "translationNote": "Tradução editorial contextual.",
-  "textualNotes": "Variantes manuscritas ainda não colacionadas; não implica ausência de variantes.",
+  "textualNotes": "Não há entrada de variante para este versículo no aparato comparativo SBLGNT consultado. Isso não implica ausência de variantes em todos os manuscritos. Fonte: aparato SBLGNT, Rev.txt (Faithlife/SBLGNT); WH = Westcott-Hort, Treg = Tregelles, RP = Robinson-Pierpont, NA28 = Nestle-Aland 28.",
   "syntacticNotes": [
-    "οἳ introduz oração relativa; ἑστήκασιν é perfeito estativo; αὐτοῖς é dativo de destinatário."
+    "οἳ introduz oração relativa; ἑστήκασιν é perfeito estativo; αὐτοῖς é dativo de destinatário.",
+    "τοὺς ἑπτὰ ἀγγέλους é objeto de εἶδον; σάλπιγγες é sujeito de ἐδόθησαν."
   ],
   "exegeticalNotes": [
     "As trombetas introduzem nova sequência visionária; compare Nm 10:9–10."
@@ -28,12 +29,12 @@ export const apocalipse8v2 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.2",
         "governedBy": null
       },
@@ -53,12 +54,12 @@ export const apocalipse8v2 = {
       "morphologyCode": "1AAI-S--",
       "morphology": "Verbo · aoristo · voz ativa · indicativo · 1ª pessoa · singular (MorphGNT: V- 1AAI-S--)",
       "meanings": "Ver ou perceber visualmente; Contemplar realidades em uma visão revelatória",
-      "explanation": "Sentido contextual: vi.",
+      "explanation": "Glosa neste contexto: vi.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo principal",
         "clauseId": "AP.8.2",
         "governedBy": null
       },
@@ -78,7 +79,7 @@ export const apocalipse8v2 = {
       "morphologyCode": "----APM-",
       "morphology": "Artigo definido · acusativo · plural · masculino (MorphGNT: RA ----APM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: os.",
+      "explanation": "Glosa neste contexto: os.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
@@ -103,12 +104,12 @@ export const apocalipse8v2 = {
       "morphologyCode": "----APM-",
       "morphology": "Adjetivo / numeral · acusativo · plural · masculino (MorphGNT: A- ----APM-)",
       "meanings": "sete",
-      "explanation": "Sentido contextual: sete.",
+      "explanation": "Glosa neste contexto: sete.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Modificador nominal (conforme contexto)",
         "clauseId": "AP.8.2",
         "governedBy": null
       },
@@ -128,12 +129,12 @@ export const apocalipse8v2 = {
       "morphologyCode": "----APM-",
       "morphology": "Substantivo · acusativo · plural · masculino (MorphGNT: N- ----APM-)",
       "meanings": "Anjo, mensageiro celestial de Deus",
-      "explanation": "Sentido contextual: anjos.",
+      "explanation": "Glosa neste contexto: anjos.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Objeto direto",
         "clauseId": "AP.8.2",
         "governedBy": null
       },
@@ -153,12 +154,12 @@ export const apocalipse8v2 = {
       "morphologyCode": "----NPM-",
       "morphology": "Pronome relativo · nominativo · plural · masculino (MorphGNT: RR ----NPM-)",
       "meanings": "Pronome relativo anafórico (o qual, a qual, que)",
-      "explanation": "Sentido contextual: que.",
+      "explanation": "Glosa neste contexto: que.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito da relativa",
         "clauseId": "AP.8.2",
         "governedBy": null
       },
@@ -178,7 +179,7 @@ export const apocalipse8v2 = {
       "morphologyCode": "--------",
       "morphology": "Preposição (MorphGNT: P- --------)",
       "meanings": "diante de",
-      "explanation": "Sentido contextual: diante de.",
+      "explanation": "Glosa neste contexto: diante de.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
@@ -195,7 +196,7 @@ export const apocalipse8v2 = {
       "shortMorph": "RA GSM",
       "greek": "τοῦ",
       "transliteration": "tou",
-      "gloss": "o",
+      "gloss": "o (genitivo)",
       "strong": "G3588",
       "lemma": "ὁ",
       "lemmaTransliteration": "ho",
@@ -203,7 +204,7 @@ export const apocalipse8v2 = {
       "morphologyCode": "----GSM-",
       "morphology": "Artigo definido · genitivo · singular · masculino (MorphGNT: RA ----GSM-)",
       "meanings": "Artigo definido identificador e determinador",
-      "explanation": "Sentido contextual: o.",
+      "explanation": "Glosa neste contexto: o (genitivo).",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
@@ -228,12 +229,12 @@ export const apocalipse8v2 = {
       "morphologyCode": "----GSM-",
       "morphology": "Substantivo · genitivo · singular · masculino (MorphGNT: N- ----GSM-)",
       "meanings": "O Deus Supremo, o Criador e Pai de nosso Senhor",
-      "explanation": "Sentido contextual: Deus.",
+      "explanation": "Glosa neste contexto: Deus.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Função não individualizada; consultar análise do versículo",
         "clauseId": "AP.8.2",
         "governedBy": null
       },
@@ -253,12 +254,12 @@ export const apocalipse8v2 = {
       "morphologyCode": "3XAI-P--",
       "morphology": "Verbo · perfeito · voz ativa · indicativo · 3ª pessoa · plural (MorphGNT: V- 3XAI-P--)",
       "meanings": "estar de pé",
-      "explanation": "Sentido contextual: estão de pé.",
+      "explanation": "Glosa neste contexto: estão de pé.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo da relativa",
         "clauseId": "AP.8.2",
         "governedBy": null
       },
@@ -278,12 +279,12 @@ export const apocalipse8v2 = {
       "morphologyCode": "--------",
       "morphology": "Conjunção (MorphGNT: C- --------)",
       "meanings": "Conjunção aditiva e coordenativa",
-      "explanation": "Sentido contextual: e.",
+      "explanation": "Glosa neste contexto: e.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Conjunção",
         "clauseId": "AP.8.2",
         "governedBy": null
       },
@@ -303,12 +304,12 @@ export const apocalipse8v2 = {
       "morphologyCode": "3API-P--",
       "morphology": "Verbo · aoristo · voz passiva · indicativo · 3ª pessoa · plural (MorphGNT: V- 3API-P--)",
       "meanings": "Dar, conceder por graça ou outorgar autoridade",
-      "explanation": "Sentido contextual: foram dadas.",
+      "explanation": "Glosa neste contexto: foram dadas.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
       "syntax": {
-        "role": "Forma verbal",
+        "role": "Verbo passivo",
         "clauseId": "AP.8.2",
         "governedBy": null
       },
@@ -328,12 +329,12 @@ export const apocalipse8v2 = {
       "morphologyCode": "----DPM-",
       "morphology": "Pronome pessoal · dativo · plural · masculino (MorphGNT: RP ----DPM-)",
       "meanings": "Pronome pessoal de terceira pessoa (ele, ela, eles, seu)",
-      "explanation": "Sentido contextual: a eles.",
+      "explanation": "Glosa neste contexto: a eles.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Dativo de destinatário",
         "clauseId": "AP.8.2",
         "governedBy": null
       },
@@ -353,12 +354,12 @@ export const apocalipse8v2 = {
       "morphologyCode": "----NPF-",
       "morphology": "Adjetivo / numeral · nominativo · plural · feminino (MorphGNT: A- ----NPF-)",
       "meanings": "sete",
-      "explanation": "Sentido contextual: sete.",
+      "explanation": "Glosa neste contexto: sete.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Modificador nominal (conforme contexto)",
         "clauseId": "AP.8.2",
         "governedBy": null
       },
@@ -378,12 +379,12 @@ export const apocalipse8v2 = {
       "morphologyCode": "----NPF-",
       "morphology": "Substantivo · nominativo · plural · feminino (MorphGNT: N- ----NPF-)",
       "meanings": "trombeta",
-      "explanation": "Sentido contextual: trombetas.",
+      "explanation": "Glosa neste contexto: trombetas.",
       "occurrencesExamples": [
         "Ap 8:2"
       ],
       "syntax": {
-        "role": "Função específica em revisão",
+        "role": "Sujeito",
         "clauseId": "AP.8.2",
         "governedBy": null
       },
