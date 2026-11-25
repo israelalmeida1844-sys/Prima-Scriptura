@@ -24,6 +24,7 @@ try{
  await page.waitForFunction(()=>document.querySelectorAll("#comment-content .commentary-entry").length===7);
  checks.push("comparison");
  await page.locator("#comment-author").selectOption("Poole");await page.locator("#comment-open").click();await page.locator("#comment-content").getByText(/Comentário integral do capítulo/).waitFor();checks.push("poole_chapter");
+ await page.locator("#comment-verse").fill("2"); await page.locator("#comment-open").click(); await page.locator("#comment-content").getByText(/Texto e anotações do versículo/).waitFor(); checks.push("poole_verse");
  await page.locator("#comment-author").selectOption("");
  await page.locator("#comment-lang").selectOption("pt");
  await page.locator("#comment-open").click();
