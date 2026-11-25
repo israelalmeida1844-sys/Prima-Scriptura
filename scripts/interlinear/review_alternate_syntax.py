@@ -31,6 +31,8 @@ def main():
         base=read(root/"interlinear-corpus"/(b+".json"))
         structure=read(root/"interlinear-source-structure"/(b+".json")) if ot else {}
         counts=collections.Counter();chapters=collections.defaultdict(dict)
+        residual_file=P("docs/investigacao-sintaxe-8-1/by-book")/(b+".json")
+        residual=read(residual_file) if residual_file.exists() else {}
         for ref,items in pending.items():
             ch=ref.split(":")[0];prev=read(root/"interlinear-syntax"/b/(ch+".json"))[ref];ws=base[ref]
             src=[sorted(g,key=lambda n:nodes[n]["source_id"]) for _,g in sorted(groups.get(ref,{}).items())]
@@ -111,7 +113,8 @@ def main():
                 if len(examples[q["reading"]])<3:examples[q["reading"]].append({"book":b,"ref":ref,**q})
             for i in sorted(missing):
                 if str(i) in records:continue
-                records[str(i)]={"reading":"unresolved","notes":notes[i],"reason":"qere_sem_alinhamento_univoco" if notes[i] else "sem_evidencia_suficiente"}
+                detail=next((z for z in residual.get(ref,[]) if z["token"]==i),{})
+                records[str(i)]={"reading":"unresolved","notes":notes[i],"reason":"qere_sem_alinhamento_univoco" if notes[i] else "sem_evidencia_suficiente","investigation":detail}
                 counts["unresolved"]+=1
             counts["audited"]+=len(missing);chapters[ch][ref]=records
         for ch,data in chapters.items():write(a.out/b/(ch+".json"),data)
