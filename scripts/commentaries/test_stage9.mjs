@@ -21,8 +21,10 @@ try{
  checks.push("jfb_original");
  await page.locator("#comment-author").selectOption("");
  await page.locator("#comment-open").click();
- await page.waitForFunction(()=>document.querySelectorAll("#comment-content .commentary-entry").length===6);
+ await page.waitForFunction(()=>document.querySelectorAll("#comment-content .commentary-entry").length===7);
  checks.push("comparison");
+ await page.locator("#comment-author").selectOption("Poole");await page.locator("#comment-open").click();await page.locator("#comment-content").getByText(/Comentário integral do capítulo/).waitFor();checks.push("poole_chapter");
+ await page.locator("#comment-author").selectOption("");
  await page.locator("#comment-lang").selectOption("pt");
  await page.locator("#comment-open").click();
  await page.locator("#comment-content").getByText("Tradução revisada em português ainda não disponível. Selecione o original em inglês.").first().waitFor();
