@@ -64,7 +64,7 @@ import { books, names } from "../data/livros";
         <button id="tool-criticism" type="button">Crítica textual</button>
         <a id="tool-chronology" href="/cronologia/">Cronologia bíblica</a>
       </div></details>
-<dialog id="study-tool-dialog" aria-labelledby="study-tool-title"><form method="dialog"><button>Fechar</button></form><h2 id="study-tool-title"></h2><div id="study-tool-content"></div></dialog><details id="syntax-panel"><summary>Análise sintática</summary><h2 id="syntax-title">Análise sintática</h2><button id="syntax-open" type="button">Ver árvore sintática do versículo</button><div id="syntax-content" aria-live="polite"></div><p><a href="/interlinear-syntax/CREDITOS.md">Fontes e limites da análise sintática</a></p></details><details id="commentary-panel"><summary>Comentários bíblicos clássicos</summary><h2 id="commentary-title">Comentários bíblicos clássicos</h2><p>Leia os comentários em português sem sair do Prima Scriptura. Traduções revisadas têm prioridade; traduções automáticas são identificadas e podem conter imprecisões. A referência dos módulos é KJV; no Antigo Testamento a numeração pode divergir da do Texto Massorético. Confirme a referência antes de consultar.</p><label>Livro (KJV) <select id="comment-book">{books.map((b,i)=><option value={b}>{names[i]}</option>)}</select></label><label>Capítulo <input id="comment-chapter" type="number" min="1" value="1"/></label><label>Versículo <input id="comment-verse" type="number" min="0" value="1"/></label><button id="comment-copy" type="button">Copiar referência numérica do interlinear</button><label>Autor <select id="comment-author"><option value="">Comparar todos</option></select></label><label>Idioma <select id="comment-lang"><option value="pt" selected>Português</option><option value="en">Inglês original</option></select></label><button id="comment-open" type="button">Consultar comentários</button><div id="comment-content" aria-live="polite"></div><p><a href="/commentaries/CREDITOS.md">Créditos e licenças</a>. Consulte as edições nesta página.</p></details><details id="exegesis-panel"><summary>Notas exegéticas</summary><h2>Notas exegéticas — Prima Scriptura</h2><button id="exegesis-open" type="button">Consultar notas editoriais</button><div id="exegesis-content" aria-live="polite"></div></details><details id="criticism-panel"><summary>Crítica textual</summary><h2>Nota de crítica textual</h2><button id="criticism-open" type="button">Consultar aparato e notas da fonte</button><div id="criticism-content" aria-live="polite"></div><p><a href="/textual-criticism/CREDITOS.md">Fontes e escopo</a></p></details></aside></div>
+<dialog id="study-tool-dialog" aria-labelledby="study-tool-title"><form method="dialog"><button>Fechar</button></form><h2 id="study-tool-title"></h2><div id="study-tool-content"></div></dialog><details id="syntax-panel"><summary>Análise sintática</summary><h2 id="syntax-title">Análise sintática</h2><button id="syntax-open" type="button">Ver árvore sintática do versículo</button><div id="syntax-content" aria-live="polite"></div><p><a href="/interlinear-syntax/CREDITOS.md">Fontes e limites da análise sintática</a></p></details><details id="commentary-panel"><summary>Comentários bíblicos clássicos</summary><h2 id="commentary-title">Comentários bíblicos clássicos</h2><p>Comentários clássicos em português, disponibilizados progressivamente por lote. Traduções preliminares são identificadas e aguardam revisão editorial. A referência dos módulos é KJV; no Antigo Testamento a numeração pode divergir da do Texto Massorético. Confirme a referência antes de consultar.</p><label>Livro (KJV) <select id="comment-book">{books.map((b,i)=><option value={b}>{names[i]}</option>)}</select></label><label>Capítulo <input id="comment-chapter" type="number" min="1" value="1"/></label><label>Versículo <input id="comment-verse" type="number" min="0" value="1"/></label><button id="comment-copy" type="button">Copiar referência numérica do interlinear</button><label>Autor <select id="comment-author"><option value="">Comparar todos</option></select></label><label>Idioma <select id="comment-lang"><option value="pt" selected>Português</option><option value="en">Inglês original</option></select></label><button id="comment-open" type="button">Consultar comentários</button><div id="comment-content" aria-live="polite"></div><p><a href="/commentaries/CREDITOS.md">Créditos e licenças</a>. Leia as edições diretamente nesta página.</p></details><details id="exegesis-panel"><summary>Notas exegéticas</summary><h2>Notas exegéticas — Prima Scriptura</h2><button id="exegesis-open" type="button">Consultar notas editoriais</button><div id="exegesis-content" aria-live="polite"></div></details><details id="criticism-panel"><summary>Crítica textual</summary><h2>Nota de crítica textual</h2><button id="criticism-open" type="button">Consultar aparato e notas da fonte</button><div id="criticism-content" aria-live="polite"></div><p><a href="/textual-criticism/CREDITOS.md">Fontes e escopo</a></p></details></aside></div>
 <details id="busca" class="search-panel"><summary>Concordância e pesquisa no texto original</summary>
 <form id="lex-search"><h2>Concordância e pesquisa avançada</h2><label>Tipo de consulta <select id="search-mode"><option value="original">Palavra original</option><option value="lema">Lema / verbete lexical</option><option value="strong">Strong</option><option value="transliteracao">Transliteração</option><option value="glosa">Glosa contextual</option><option value="morfologia">Código morfológico</option></select></label><label>Termo <input id="query" /></label><label><input type="checkbox" id="search-loose" /> Ignorar diacríticos</label><label>Testamento <select id="search-testament"><option value="">Todos</option><option value="ot">Antigo</option><option value="nt">Novo</option></select></label><label>Livro <select id="search-book"><option value="">Todos</option>{books.map((b,i)=><option value={b}>{names[i]}</option>)}</select></label><label>Capítulo <input type="number" min="1" id="search-chapter" /></label><label>Idioma <select id="search-language"><option value="">Todos</option><option value="grc">Grego</option><option value="hbo">Hebraico</option><option value="arc">Aramaico</option></select></label><fieldset><legend>Características morfológicas (no mesmo componente)</legend><div id="search-features"></div></fieldset><button type="submit">Pesquisar</button><p>Busca por palavra ou glosa inteira. No hebraico e aramaico, o lema consulta os verbetes vinculados ao Strong, sem determinar a acepção contextual.</p></form><p id="search-status" role="status"></p><section id="hits" aria-label="Ocorrências"></section><div id="search-pagination" aria-label="Paginação"></div></details><details class="search-panel"><summary>Fontes e metodologia</summary><p>Glossas de fonte aberta: importadas e verificadas estruturalmente, alinhadas automaticamente ou pendentes. As verificações automáticas não equivalem à revisão semântica humana. <a href="/interlinear-enrichment/CREDITOS.md">Créditos e licenças</a>. <a href="/interlinear-strong-review/CREDITOS.md">Fontes dos índices Strong</a>. <a href="/interlinear-transliteration/CONVENCOES.md">Convenções e limites da transliteração</a>. <a href="/interlinear-morphology/METODOLOGIA.md">Metodologia morfológica</a>. <a href="/interlinear-lexicon/CREDITOS.md">Fontes lexicais</a>.</p></details><dialog id="lex-dialog" aria-labelledby="lex-title"><form method="dialog"><button>Fechar</button></form><h2 id="lex-title">Ficha lexical</h2><div id="lex-content"></div></dialog>
 <p>Fontes: <a href="https://github.com/morphgnt/sblgnt">MorphGNT / SBLGNT</a>; <a href="https://github.com/openscriptures/morphhb">Original work of the Open Scriptures Hebrew Bible</a>. Consulte as licenças originais.</p></div>
@@ -572,30 +572,6 @@ function openPanel(name:string){
 
 const commentBook=document.querySelector<HTMLSelectElement>("#comment-book")!,commentChapter=document.querySelector<HTMLInputElement>("#comment-chapter")!,commentVerse=document.querySelector<HTMLInputElement>("#comment-verse")!,commentAuthor=document.querySelector<HTMLSelectElement>("#comment-author")!,commentLang=document.querySelector<HTMLSelectElement>("#comment-lang")!,commentContent=document.querySelector<HTMLElement>("#comment-content")!;
 let commentSerial=0,critSerial=0,exegSerial=0;
-type CommentaryTranslator = { translate(text:string):Promise<string> };
-let translatorPromise:Promise<CommentaryTranslator|null>|null=null;
-function prepareCommentaryTranslator(){
-  const api=(globalThis as unknown as {Translator?:{create(options:{sourceLanguage:string;targetLanguage:string}):Promise<CommentaryTranslator>}}).Translator;
-  if(!api)return Promise.resolve(null);
-  if(!translatorPromise)translatorPromise=api.create({sourceLanguage:"en",targetLanguage:"pt"}).catch(()=>{translatorPromise=null;return null;});
-  return translatorPromise;
-}
-async function translateCommentary(text:string,translator:CommentaryTranslator,isCurrent:()=>boolean){
-  const result:string[]=[];
-  for(const paragraph of text.split(/\n+/).map(s=>s.trim()).filter(Boolean)){
-    let chunk="";const translated:string[]=[];
-    for(const word of paragraph.split(/\s+/)){
-      if(chunk && chunk.length+word.length+1>1400){
-        if(!isCurrent())return null;
-        translated.push(await translator.translate(chunk));chunk="";
-      }
-      chunk+=(chunk?" ":"")+word;
-    }
-    if(chunk){if(!isCurrent())return null;translated.push(await translator.translate(chunk));}
-    result.push(translated.join(" "));
-  }
-  return result.join("\n\n");
-}
 const commentManifest=optional("/commentaries/manifest.json");
 commentManifest.then(m=>{for(const a of m.authors||[])commentAuthor.add(new Option(a.author,a.id));});
 document.querySelector<HTMLButtonElement>("#comment-copy")!.onclick=()=>{commentBook.value=book.value;commentChapter.value=chapter.value;commentVerse.value=verse.value;commentSerial++;commentContent.replaceChildren();appendText(commentContent,"p","Referência copiada numericamente; confira a equivalência KJV.");};
@@ -611,7 +587,6 @@ function readableMarkup(raw:string){
 }
 document.querySelector<HTMLButtonElement>("#comment-open")!.onclick=async()=>{
   const id=++commentSerial,b=commentBook.value,c=Number(commentChapter.value),v=Number(commentVerse.value),lang=commentLang.value,a=commentAuthor.value;
-  const prepared=lang==="pt"?prepareCommentaryTranslator():Promise.resolve(null);
   commentContent.replaceChildren();
   if(!b||!Number.isInteger(c)||c<1||!Number.isInteger(v)||v<0){appendText(commentContent,"p","Referência inválida.");return;}
   appendText(commentContent,"p","Carregando comentários…");
@@ -623,7 +598,6 @@ document.querySelector<HTMLButtonElement>("#comment-open")!.onclick=async()=>{
     if(id!==commentSerial)return;
     commentContent.replaceChildren();
     appendText(commentContent,"h3",(commentBook.selectedOptions[0]?.text||b)+" "+c+":"+v+" — numeração KJV");
-    const jobs:(()=>Promise<void>)[]=[];
     for(const author of manifest.authors.filter((x:any)=>!a||x.id===a)){
       const section=document.createElement("article");section.className="commentary-entry";commentContent.append(section);
       appendText(section,"h4",author.author);appendText(section,"small",author.title+" · módulo "+author.id+" "+author.version+" · "+author.license);
@@ -631,38 +605,21 @@ document.querySelector<HTMLButtonElement>("#comment-open")!.onclick=async()=>{
       if(!hash){appendText(section,"p","Nenhuma entrada indexada nesta referência.");continue;}
       const raw=rec.entries[hash];if(rec.invalid_bytes?.[hash])appendText(section,"p","A fonte contém bytes incompatíveis com UTF-8. A visualização apresenta caracteres substitutos; os bytes originais estão preservados no arquivo de dados.");const keys=Object.keys(rec.keys).filter(k=>rec.keys[k]===hash);
       if(rec.granularity==="chapter")appendText(section,"p",(rec.verse_keys?.[String(v)]===hash?"Texto e anotações do versículo, identificado na transcrição":"Comentário integral do capítulo, não isolado por versículo")+" · transcrição histórica EEBO-TCP "+rec.year+" · "+rec.heading+". Pode conter erros de transcrição; confira a edição original.");else appendText(section,"p","Chaves do módulo com este mesmo conteúdo no capítulo: "+keys.join(", ")+".");
-      const original=rec.granularity==="chapter"?readableMarkup(raw.replace(/<(\/?)(?:ns\d+:)/g,"<$1")):readableMarkup(raw);
       if(lang==="pt"){
         const translated=translations?.[author.id]?.[hash];
-        if(translated?.source_sha256===hash&&translated?.status==="reviewed"&&typeof translated.text==="string"&&translated.text.trim()){
-          appendText(section,"small","Tradução editorial revisada");
-          const output=appendText(section,"div",translated.text);output.lang="pt";output.style.whiteSpace="pre-wrap";
-        }else if(original.trim()){
-          const status=appendText(section,"small","Preparando tradução automática…");
-          const output=appendText(section,"div","");output.lang="pt";output.style.whiteSpace="pre-wrap";
-          const button=document.createElement("button");button.type="button";button.textContent="Tentar tradução novamente";button.hidden=true;section.append(button);
-          async function run(promise:Promise<CommentaryTranslator|null>){
-            if(id!==commentSerial)return;
-            button.hidden=true;status.textContent="Traduzindo automaticamente no navegador…";output.textContent="";
-            try{
-              const translator=await promise;
-              if(id!==commentSerial)return;
-              if(!translator){status.textContent="Tradução automática indisponível neste navegador. Consulte o original abaixo ou use um navegador compatível com tradução integrada.";button.hidden=false;return;}
-              const text=await translateCommentary(original,translator,()=>id===commentSerial);
-              if(id!==commentSerial||text===null)return;
-              output.textContent=text;status.textContent="Tradução automática · não revisada academicamente";
-            }catch{if(id===commentSerial){status.textContent="Não foi possível traduzir este comentário. Consulte o original ou tente novamente.";button.hidden=false;}}
-          }
-          jobs.push(()=>run(prepared));
-          button.onclick=()=>{void run(prepareCommentaryTranslator());};
-        }else appendText(section,"p","Esta entrada contém apenas marcação, sem texto traduzível.");
-        const details=document.createElement("details");appendText(details,"summary","Ver original em inglês");const content=appendText(details,"div",original);content.lang="en";content.className="commentary-original";section.append(details);
+        if(translated?.source_sha256===hash&&["reviewed","draft"].includes(translated?.status)&&typeof translated.text==="string"&&translated.text.trim()){
+          appendText(section,"small",translated.status==="reviewed"?"Tradução editorial revisada":"Tradução preliminar em português · revisão acadêmica pendente");
+          if(translated.source_reference)appendText(section,"p",translated.source_reference);
+          const content=appendText(section,"div",translated.text);content.lang="pt";content.style.whiteSpace="pre-wrap";
+        }else appendText(section,"p","Tradução em português ainda não disponível para esta entrada.");
+        const details=document.createElement("details");appendText(details,"summary","Ver original em inglês");
+        const content=appendText(details,"div",rec.granularity==="chapter"?readableMarkup(raw.replace(/<(\/?)(?:ns\d+:)/g,"<$1")):readableMarkup(raw));content.lang="en";content.className="commentary-original";section.append(details);
       }else{
-        const content=appendText(section,"div",original);content.lang="en";content.className="commentary-original";
+        const content=appendText(section,"div",rec.granularity==="chapter"?readableMarkup(raw.replace(/<(\/?)(?:ns\d+:)/g,"<$1")):readableMarkup(raw));content.className="commentary-original";
         const details=document.createElement("details");appendText(details,"summary","Registro original do módulo (marcação incluída)");appendText(details,"pre",raw);section.append(details);
       }
+
     }
-    for(const job of jobs){if(id!==commentSerial)return;await job();}
   }catch{if(id===commentSerial){commentContent.replaceChildren();appendText(commentContent,"p","Não foi possível carregar os comentários.");}}
 };
 const criticismContent=document.querySelector<HTMLElement>("#criticism-content")!,exegesisContent=document.querySelector<HTMLElement>("#exegesis-content")!;
