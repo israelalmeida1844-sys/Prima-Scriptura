@@ -70,6 +70,7 @@ import { books, names } from "../data/livros";
 <p>Fontes: <a href="https://github.com/morphgnt/sblgnt">MorphGNT / SBLGNT</a>; <a href="https://github.com/openscriptures/morphhb">Original work of the Open Scriptures Hebrew Bible</a>. Consulte as licenças originais.</p></div>
 <script>
 import { marcos } from "../data/cronologia";
+import { renderConcordance, type Occurrence } from "../scripts/concordancia-lexical";
 import { addCitation, loadSermons, newSermon, saveSermon } from "../data/sermoes";
 import { books as canon, helloAoBooks } from "../data/livros";
 type Token={text:string;lemma?:string;morph?:string;gloss_pt?:string;pos?:string};
@@ -112,55 +113,129 @@ async function lexShard(folder:string,key:string){
   return await lexCache.get(url);
 }
 function appendText(parent:HTMLElement,tag:string,value:string){const node=document.createElement(tag);node.textContent=value;node.dir="auto";parent.append(node);return node;}
-function occurrenceButtons(parent:HTMLElement,refs:[string,string,number][]){
-  const list=document.createElement("div");parent.append(list);let page=0;
-  function show(){list.replaceChildren();appendText(list,"p","Ocorrências "+(page*25+1)+"–"+Math.min((page+1)*25,refs.length)+" de "+refs.length);
-    for(const [b,ref,i] of refs.slice(page*25,page*25+25)){const btn=document.createElement("button");btn.type="button";btn.textContent=b+" "+ref+" · palavra "+(i+1);btn.onclick=async()=>{lexDialog.close();await goToOccurrence(b,ref,i);};list.append(btn);}
-    for(const [label,delta] of [["Anterior",-1],["Próxima",1]] as const){const btn=document.createElement("button");btn.type="button";btn.textContent=label;btn.disabled=page+delta<0||(page+delta)*25>=refs.length;btn.onclick=()=>{page+=delta;show();};list.append(btn);}
-  }if(refs.length)show();
-}
+type EditorialLexicon=Record<string,{lemma:string;definitions:string[]}>;
+let editorialLexicon:Promise<EditorialLexicon>|undefined;
 async function openLex(token:Token,add:Extra|undefined,strong:StrongEntry|undefined, fields:HTMLElement[], index:number){
-  const serial=++lexSerial;lexContent.replaceChildren();if(!lexDialog.open)lexDialog.showModal();
-  appendText(lexContent,"h3",token.text);appendText(lexContent,"p","Lema / código da fonte: "+(token.lemma||"Não disponível"));
-  appendText(lexContent,"p","Glosa contextual em português: "+(add?.gloss_pt||"Não disponível"));
-  appendText(lexContent,"p","Estado da associação Strong: "+(strong?.status||"Pendente"));
-  if(strong?.components?.length)appendText(lexContent,"p","Componentes OSHB: "+strong.components.map(c=>c.raw).join(" / "));
-  const morphology = document.createElement("details");
-  appendText(morphology,"summary","Morfologia e origem dos dados");
-  for (const field of fields) morphology.append(field.cloneNode(true));
-  lexContent.append(morphology);
-  const syntax = document.createElement("button");
-  syntax.type = "button";
-  syntax.textContent = "Consultar sintaxe da palavra";
-  syntax.onclick=()=>{lexDialog.close();openPanel("syntax");showSyntax(index);};
-  lexContent.append(syntax);
-  const wait=appendText(lexContent,"p","Carregando léxico…");
-  try{
-    const ids=strong?.ids||[];const cards=await Promise.all(ids.map(async id=>(await lexShard("cards",id.toLowerCase()))[id] as LexCard|undefined));
-    const lemmaKey=token.pos&&token.lemma?"grc:"+token.lemma.trim().toLowerCase().normalize("NFC"):null;
-    const lemmaRefs=lemmaKey?(await lexShard("lemas",lemmaKey))[lemmaKey]:null;
-    if(serial!==lexSerial||!lexDialog.open)return;wait.remove();
-    if(!ids.length)appendText(lexContent,"p","Nenhum número clássico atribuído nesta auditoria. Não há definição inferida.");
-    if(lemmaKey&&Array.isArray(lemmaRefs)){const section=document.createElement("details");appendText(section,"summary","Concordância exata do lema grego: "+lemmaRefs.length+" unidades");occurrenceButtons(section,lemmaRefs);lexContent.append(section);}
-    for(const [i,card] of cards.entries()){
-      if(!card){appendText(lexContent,"p","Ficha indisponível para "+ids[i]);continue;}
-      appendText(lexContent,"h3",card.id+" · "+card.source+" — STEP Bible");
-      appendText(lexContent,"p","Ocorrências no corpus deste projeto por índice: "+card.occurrence_count);
-      appendText(lexContent,"p","Aceções registradas pela fonte (inglês original). Não indicam automaticamente o sentido deste versículo.");
-      for(const e of card.entries){const section=document.createElement("section");section.className="lex-entry";
-        appendText(section,"h4",e.headword+" · "+e.transliteration);
-        appendText(section,"p","Identificadores da fonte: "+[e.source_id,e.disambiguated_id,e.unique_id].filter(Boolean).join(" / "));
-        appendText(section,"p","Morfologia lexical da fonte: "+e.lexical_morphology);
-        appendText(section,"p","Glosa lexical (EN): "+e.gloss_en);
-        appendText(section,"p",e.definition_en);
-        appendText(section,"small","STEP Bible · "+card.source+" · linha "+e.source_line+" · CC BY 4.0");
-        lexContent.append(section);
+  const serial=++lexSerial;
+  const isCurrent=()=>serial===lexSerial && lexDialog.open;
+  lexContent.replaceChildren();
+  if(!lexDialog.open)lexDialog.showModal();
+  const heading=appendText(lexContent,"h3",token.text);
+  heading.className="lex-headword";
+  const definition=appendText(lexContent,"div","");
+  definition.className="lex-definition";
+  const definitionWait=appendText(definition,"p","Carregando definição…");
+  const gloss=add?.gloss_pt?.replaceAll("-"," ");
+  if(gloss)appendText(lexContent,"p","Neste versículo · "+gloss);
+  const syntax=appendText(lexContent,"button","Consultar sintaxe da palavra") as HTMLButtonElement;
+  syntax.type="button";
+  syntax.onclick=()=>{lexDialog.close();openPanel("syntax");void showSyntax(index);};
+  const concordance=appendText(lexContent,"section","");
+  concordance.className="lex-concordance";
+  appendText(concordance,"p","Carregando concordância…");
+  const technical=document.createElement("details");
+  appendText(technical,"summary","Morfologia, códigos e fontes");
+  if(strong?.status)appendText(technical,"p","Associação Strong · "+strong.status);
+  if(strong?.components?.length)appendText(technical,"p","Componentes OSHB · "+strong.components.map(component=>component.raw).join(" / "));
+  for(const field of fields)technical.append(field.cloneNode(true));
+  const credits=appendText(technical,"a","Créditos lexicais e metodologia") as HTMLAnchorElement;
+  credits.href="/interlinear-lexicon/CREDITOS.md";
+  lexContent.append(technical);
+  const ids=strong?.ids || [];
+  const lemmaKey=token.pos&&token.lemma?"grc:"+token.lemma.trim().toLowerCase().normalize("NFC"):null;
+  const scope=document.createElement("select");
+  for(const id of ids)scope.add(new Option(id,"strong:"+id));
+  if(lemmaKey)scope.add(new Option("Lema grego","lemma"));
+  if(!scope.length)scope.add(new Option("Forma exata","form"));
+  if(scope.length>1){
+    const label=appendText(lexContent,"label","Índice da concordância ");
+    label.append(scope);
+    lexContent.insertBefore(label,concordance);
+  }
+  const cardsPromise=Promise.all(ids.map(async id=>(await lexShard("cards",id.toLowerCase()))[id] as LexCard|undefined));
+  editorialLexicon ??=requiredJson("/lexico-pt.json").catch(()=>{editorialLexicon=undefined;return {};});
+  let chartLemma=token.lemma && token.pos?token.lemma:token.text;
+  async function showDefinition(){
+    const [editorial,cards]=await Promise.all([editorialLexicon!,cardsPromise]);
+    if(!isCurrent())return;
+    definitionWait.remove();
+    const primary=(lemmaKey && editorial[lemmaKey]) || ids.map(id=>editorial[id]).find(Boolean);
+    const entries=cards.flatMap(card=>card?.entries || []);
+    chartLemma=primary?.lemma || entries[0]?.headword || chartLemma;
+    heading.textContent=chartLemma;
+    if(primary){
+      appendText(definition,"h4","Definição");
+      for(const text of primary.definitions)appendText(definition,"p",text);
+    }else if(entries.length){
+      appendText(definition,"h4","Definição em inglês");
+      const summaries=[...new Set(entries.map(entry=>entry.gloss_en.trim()).filter(Boolean))];
+      if(summaries.length)appendText(definition,"p",summaries.join(" · "));
+      else appendText(definition,"p",entries[0].definition_en);
+    }else appendText(definition,"p","Definição lexical indisponível para esta palavra.");
+    for(const card of cards){
+      if(!card)continue;
+      appendText(technical,"h4",card.id+" · "+card.source+" — STEP Bible");
+      for(const entry of card.entries){
+        const section=document.createElement("section");
+        section.className="lex-entry";
+        appendText(section,"h5",entry.headword+" · "+entry.transliteration);
+        appendText(section,"p",[entry.source_id,entry.disambiguated_id,entry.unique_id,entry.lexical_morphology].filter(Boolean).join(" · "));
+        appendText(section,"p",entry.definition_en);
+        appendText(section,"small","STEP Bible · "+card.source+" · linha "+entry.source_line+" · CC BY 4.0");
+        technical.append(section);
       }
-      appendText(lexContent,"p","Glosas contextuais portuguesas observadas (até 30 mais frequentes; não são definições lexicais): "+card.observed_portuguese_glosses.map(g=>g.gloss+" ("+g.count+")").join("; "));
-      const btn=document.createElement("button");btn.type="button";btn.textContent="Pesquisar todas as ocorrências de "+card.id;
-      btn.onclick=()=>{lexDialog.close();searchPanel.open=true;searchPanel.scrollIntoView({block:"start"});document.querySelector<HTMLSelectElement>("#search-mode")!.value="strong";document.querySelector<HTMLInputElement>("#query")!.value=card.id;document.querySelector<HTMLFormElement>("#lex-search")!.requestSubmit();};lexContent.append(btn);
     }
-  }catch{if(serial===lexSerial)wait.textContent="Não foi possível recuperar a ficha lexical.";}
+  }
+  const definitionReady=showDefinition().catch(()=>{if(isCurrent())definitionWait.textContent="Não foi possível carregar a definição.";});
+  const nameMap=Object.fromEntries([...book.options].map(option=>[option.value,option.text]));
+  let concordanceSerial=0;
+  async function showConcordance(){
+    const run=++concordanceSerial;
+    const current=()=>isCurrent() && run===concordanceSerial;
+    const selected=scope.value;
+    concordance.replaceChildren();
+    const loading=appendText(concordance,"p","Carregando concordância…");
+    try{
+      const meta=await metaPromise;
+      const id=selected.startsWith("strong:")?selected.slice(7):"";
+      const label=id || (selected==="lemma"?"Lema grego":"Forma exata");
+      let locations:SearchLoc[];
+      if(selected==="lemma" && lemmaKey){
+        const refs=(await lexShard("lemas",lemmaKey))[lemmaKey] as [string,string,number][]|undefined;
+        locations=[];
+        const tables=new Map<string,Promise<SearchTable>>();
+        for(const [b] of refs || [])if(!tables.has(b))tables.set(b,tableFor(meta,meta.books.indexOf(b)));
+        const references=new Map<string,Map<string,number>>();
+        for(const [b,table] of tables)references.set(b,new Map((await table).refs.map((ref,i)=>[ref,i])));
+        for(const [b,ref,i] of refs || []){
+          const v=references.get(b)?.get(ref);
+          if(v!==undefined)locations.push([meta.books.indexOf(b),v,i]);
+        }
+      }else{
+        const mode=id?"strong":"original";
+        locations=await indexLocations(meta,mode,normalizeQuery(id || token.text,mode,false),false);
+      }
+      if(!current())return;
+      const booksWithHits=[...new Set(locations.map(([b])=>b))];
+      const tables=new Map<number,SearchTable>();
+      for(let i=0;i<booksWithHits.length;i+=6){
+        await Promise.all(booksWithHits.slice(i,i+6).map(async b=>{tables.set(b,await tableFor(meta,b));}));
+        if(!current())return;
+      }
+      const occurrences:Occurrence[]=locations.map(([b,v,i])=>{
+        const table=tables.get(b)!;
+        return {book:meta.books[b],reference:table.refs[v],index:i,word:table.rows[v][i][0],gloss:table.rows[v][i][3]};
+      });
+      await definitionReady;
+      if(!current())return;
+      renderConcordance(concordance,occurrences,chartLemma,label,nameMap,row=>{
+        lexDialog.close();
+        void goToOccurrence(row.book,row.reference,row.index);
+      });
+    }catch{if(current())loading.textContent="Não foi possível carregar a concordância.";}
+  }
+  scope.onchange=()=>void showConcordance();
+  void showConcordance();
 }
 type SynNode={kind:"wg"|"w";parent:number|null;attrs:Record<string,string>;sentence:string;source_group?:number;source_id?:string;source_ref?:string;token?:number;component?:number};
 type SynVerse={method:string;matched:number;source_word_count:number;words:{status:string;nodes:number[];component_match?:boolean;reason?:string}[];nodes:SynNode[];sentences:Record<string,string[]>};
@@ -387,6 +462,14 @@ function normalizeQuery(s:string,mode:string,loose:boolean){
   s=s.trim().toLowerCase();
   return loose?s.normalize("NFD").replace(/\p{M}/gu,"").replace(/\s+/gu," ").trim():s.normalize("NFC");
 }
+async function indexLocations(meta:SearchMeta,mode:string,query:string,loose:boolean):Promise<SearchLoc[]>{
+  const digest=await crypto.subtle.digest("SHA-256",new TextEncoder().encode(query));
+  const shard=new Uint8Array(digest)[0].toString(16).padStart(2,"0");
+  const file=mode+"/"+(loose?"flexivel":"exato")+"/"+shard;
+  if(!meta.shards.includes(file))return [];
+  const index=await requiredJson("/interlinear-search/index/"+file+".json");
+  return index[query] || [];
+}
 async function goToOccurrence(b:string,ref:string,i:number){
   if (reading) { location.href="/interlinear-experimental/?livro="+encodeURIComponent(b)+"&ref="+encodeURIComponent(ref)+"&palavra="+i; return; }
   book.value=b;const [c,v]=ref.split(":");await load(c,v);
@@ -408,10 +491,7 @@ searchForm.addEventListener("submit",async ev=>{
     const allowed=(b:number)=>(!bfilter||meta.books[b]===bfilter)&&(!test||(test==="ot"?b<39:b>=39))&&(!lang||(lang==="grc"?b>=39:b<39));
     let locs:SearchLoc[]=[];
     if(q){
-      const digest=await crypto.subtle.digest("SHA-256",new TextEncoder().encode(q));
-      const shard=new Uint8Array(digest)[0].toString(16).padStart(2,"0");const kind=ignore?"flexivel":"exato";
-      const file=mode+"/"+kind+"/"+shard;
-      if(meta.shards.includes(file)){const obj=await requiredJson("/interlinear-search/index/"+file+".json");locs=(obj[q]||[]).filter((x:SearchLoc)=>allowed(x[0]));}
+      locs=(await indexLocations(meta,mode,q,ignore)).filter(([b])=>allowed(b));
     }else{
       for(const b of meta.books.keys()){if(!allowed(b))continue;const t=await tableFor(meta,b);if(id!==searchSerial)return;for(const [v,rows] of t.rows.entries()){if(chap&&Number(t.refs[v].split(":")[0])!==Number(chap))continue;for(const i of rows.keys())locs.push([b,v,i]);}}
     }

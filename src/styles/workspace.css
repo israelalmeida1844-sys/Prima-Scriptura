@@ -77,3 +77,20 @@ body:has(.reading-focus) > :is(.site-header,footer) { display: none; }
 #verse-feedback:not(:empty) { margin-top: .45rem; color: var(--subtle); }
 #study-tool-content .context-current { padding-inline: .6rem; border-inline-start: 2px solid var(--accent); background: var(--panel); }
 .reading-focus #verse-actions { display: none; }
+#lex-content .lex-headword { font: 2.2rem/1.2 var(--serif); margin: .4rem 0; }
+.lex-definition { border-inline-start: 3px solid var(--gold); padding-inline-start: .85rem; }
+.lex-definition :is(h4,p) { margin: .3rem 0; }
+.lex-concordance { border-top: 1px solid var(--line); margin-top: 1rem; padding-top: .75rem; }
+.lex-chart-layout { display: grid; grid-template-columns: minmax(135px,230px) minmax(0,1fr); gap: .9rem; align-items: center; }
+.lex-chart { position: relative; width: 100%; max-width: 215px; margin-inline: auto; }
+.lex-chart svg { display: block; width: 100%; }
+.lex-chart circle { cursor: pointer; }
+.lex-chart-center { position: absolute; inset: 0; display: grid; place-content: center; text-align: center; pointer-events: none; }
+.lex-chart-center bdi { font-size: 1.5rem; }
+.lex-chart-legend { display: grid; }
+#lex-content .lex-chart-legend button { display: grid; grid-template-columns: .6rem minmax(0,1fr) auto; align-items: center; text-align: start; gap: .4rem; }
+.lex-chart-legend i { width: .55rem; height: .55rem; border-radius: 50%; }
+.lex-chart-legend [aria-pressed="true"] { border-color: var(--accent); background: var(--panel); }
+.lex-occurrences > div { display: flex; justify-content: space-between; flex-wrap: wrap; gap: .25rem .65rem; padding: .35rem 0; border-bottom: 1px solid var(--line); }
+#lex-content > details:last-child { margin-top: .8rem; border-top: 1px solid var(--line); }
+@media(max-width:520px) { .lex-chart-layout { grid-template-columns: minmax(0,1fr); } .lex-chart { max-width: 175px; } }
