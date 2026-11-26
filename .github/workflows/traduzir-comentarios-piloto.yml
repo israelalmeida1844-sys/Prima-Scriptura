@@ -1,0 +1,37 @@
+name: Traduzir comentários - lote piloto
+on:
+  push:
+    branches: [rascunho/comentarios-portugues]
+    paths: ['.github/workflows/traduzir-comentarios-piloto.yml']
+permissions:
+  contents: read
+jobs:
+  pilot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verificar tradutor
+        run: node scripts/commentaries/translate-all.mjs --self-test
+      - name: Traduzir até dez lotes
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-3.5-flash-lite
+        run: |
+          set -o pipefail
+          node scripts/commentaries/translate-all.mjs --execute --book Rev --max-requests 10 --concurrency 1 | tee relatorio-traducao.json
+      - name: Preservar resultados e retomada
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: comentarios-piloto
+          include-hidden-files: true
+          path: |
+            public/commentaries-pt/
+            .commentaries-translation-cache/
+            relatorio-traducao.json
