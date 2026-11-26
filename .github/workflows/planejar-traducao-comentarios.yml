@@ -1,0 +1,21 @@
+name: Dimensionar tradução dos comentários
+on:
+  push:
+    branches: [rascunho/comentarios-portugues]
+    paths: ['.github/workflows/planejar-traducao-comentarios.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Dimensionar acervo sem chamadas externas
+        run: node scripts/commentaries/translate-all.mjs
