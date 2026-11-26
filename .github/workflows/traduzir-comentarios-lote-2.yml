@@ -1,0 +1,63 @@
+name: Traduzir comentários - segundo lote
+on:
+  push:
+    branches: [rascunho/comentarios-portugues]
+    paths: ['.github/workflows/traduzir-comentarios-lote-2.yml']
+permissions:
+  contents: read
+  actions: read
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Restaurar progresso do piloto
+        uses: actions/download-artifact@v4
+        with:
+          name: comentarios-piloto
+          run-id: '45736768758'
+          github-token: ${{ github.token }}
+          path: previous
+      - name: Restaurar traduções e checkpoints sem sobrescrever revisões
+        run: |
+          node --input-type=module <<'JS'
+          import {readFile,writeFile,mkdir,cp} from 'node:fs/promises';
+          const path='public/commentaries-pt/Rev/1.json';
+          const existing=JSON.parse(await readFile(path,'utf8'));
+          const previous=JSON.parse(await readFile('previous/'+path,'utf8'));
+          for(const [author,records] of Object.entries(previous)){
+            existing[author]??={};
+            for(const [hash,record] of Object.entries(records)){
+              if(record.source_sha256!==hash || typeof record.text!=='string' || !record.text.trim())throw Error('Registro inválido');
+              existing[author][hash]??=record;
+            }
+          }
+          await writeFile(path,JSON.stringify(existing,null,2)+'\n');
+          await cp('previous/.commentaries-translation-cache','.commentaries-translation-cache',{recursive:true});
+          JS
+      - name: Traduzir mais vinte lotes
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-3.5-flash-lite
+        run: |
+          set +e
+          node scripts/commentaries/translate-all.mjs --execute --book Rev --max-requests 20 --concurrency 1 > relatorio-traducao.json
+          code=$?
+          cat relatorio-traducao.json
+          node -e 'const r=require("./relatorio-traducao.json"); if(r.failures!==0 || r.requestsAttempted>20) process.exit(1); if(r.recordsCompleted===0) process.exit(1);'
+      - name: Preservar resultados e retomada
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: comentarios-lote-2
+          include-hidden-files: true
+          path: |
+            public/commentaries-pt/
+            .commentaries-translation-cache/
+            relatorio-traducao.json
