@@ -393,7 +393,7 @@ function render(){
   document.querySelector<HTMLButtonElement>("#next-verse")!.disabled=!verse.length||atEnd;
   if (!reading && verse.value) appendText(ptText, "p", translated && pt[translated] ? translated + " · " + pt[translated] : "Tradução alinhada indisponível nesta referência.");
   if (verse.value && !data[key]?.length) appendText(words, "p", "Texto original alinhado indisponível nesta referência.");
-  for(const [i,token] of (data[key]||[]).entries()){const add=match?.words[i];const card=document.createElement("article");card.dataset.tokenIndex=String(i);for(const [label,value] of [["",token.text],["Transliteração",translitData[key]?.[i]?.value||"Não disponível"],["Método de transliteração",({grego_ortografico:"Grego · convenção ortográfica",sbl_automatico:"SBL · automática",sbl_modo_permissivo:"SBL · revisão necessária",pendente:"Pendente"} as Record<string,string>)[translitData[key]?.[i]?.status||""]],["Glosa",add?.gloss_pt],["Estado da glosa",({importada_verificada:"Importada · conferência estrutural",alinhada_automaticamente:"Alinhamento automático · revisão humana pendente",corrigida_pontualmente:"Corrigida pontualmente",pendente:"Pendente de revisão"} as Record<string,string>)[add?.gloss_status||""]],["Strong",strongData[key]?.[i]?.ids?.join(", ")||"Não atribuído"],["Origem do índice",({oshb_direto:"OSHB",dupla_fonte:"Alinhamento e léxico STEP",fonte_direta:"Fonte alinhada; sem confirmação do lema no STEP",lema_univoco:"Lema unívoco no STEP",afixo_sem_numero:"Afixo sem número OSHB",identificador_ampliado:"Identificador ampliado (não clássico)",conflito_lexical:"Conflito entre fontes",lema_ambiguo:"Lema ambíguo"} as Record<string,string>)[strongData[key]?.[i]?.status||""]||"Pendente"],["Identificador ampliado",strongData[key]?.[i]?.extended_ids?.join(", ")],["Lema / ID lexical",token.lemma],["Morfologia em português",morphCatalog[token.pos?token.pos+" "+token.morph:token.morph||""]?.descricao||"Decodificação pendente"],["Código morfológico original",token.pos?token.pos+" "+token.morph:token.morph]]){const p=document.createElement("p");p.dir=label?"auto":words.dir;p.textContent=label?label+": "+(value||"Não disponível"):value||"";if(!label)p.className="original";card.append(p);}const fields = [...card.querySelectorAll("p")];
+  for(const [i,token] of (data[key]||[]).entries()){const add=match?.words[i];const card=document.createElement("article");card.dataset.tokenIndex=String(i);for(const [label,value] of [["",token.text],["Transliteração",translitData[key]?.[i]?.value||"Não disponível"],["Método de transliteração",({grego_ortografico:"Grego · convenção ortográfica",sbl_automatico:"SBL · automática",sbl_modo_permissivo:"SBL · revisão necessária",pendente:"Pendente"} as Record<string,string>)[translitData[key]?.[i]?.status||""]],["Glosa",add?.gloss_pt?.replaceAll("-"," ")],["Estado da glosa",({importada_verificada:"Importada · conferência estrutural",alinhada_automaticamente:"Alinhamento automático · revisão humana pendente",corrigida_pontualmente:"Corrigida pontualmente",pendente:"Pendente de revisão"} as Record<string,string>)[add?.gloss_status||""]],["Strong",strongData[key]?.[i]?.ids?.join(", ")||"Não atribuído"],["Origem do índice",({oshb_direto:"OSHB",dupla_fonte:"Alinhamento e léxico STEP",fonte_direta:"Fonte alinhada; sem confirmação do lema no STEP",lema_univoco:"Lema unívoco no STEP",afixo_sem_numero:"Afixo sem número OSHB",identificador_ampliado:"Identificador ampliado (não clássico)",conflito_lexical:"Conflito entre fontes",lema_ambiguo:"Lema ambíguo"} as Record<string,string>)[strongData[key]?.[i]?.status||""]||"Pendente"],["Identificador ampliado",strongData[key]?.[i]?.extended_ids?.join(", ")],["Lema / ID lexical",token.lemma],["Morfologia em português",morphCatalog[token.pos?token.pos+" "+token.morph:token.morph||""]?.descricao||"Decodificação pendente"],["Código morfológico original",token.pos?token.pos+" "+token.morph:token.morph]]){const p=document.createElement("p");p.dir=label?"auto":words.dir;p.textContent=label?label+": "+(value||"Não disponível"):value||"";if(!label)p.className="original";card.append(p);}const fields = [...card.querySelectorAll("p")];
       card.replaceChildren();
       const button = document.createElement("button");
       button.className = "word-button";
@@ -463,12 +463,18 @@ function normalizeQuery(s:string,mode:string,loose:boolean){
   return loose?s.normalize("NFD").replace(/\p{M}/gu,"").replace(/\s+/gu," ").trim():s.normalize("NFC");
 }
 async function indexLocations(meta:SearchMeta,mode:string,query:string,loose:boolean):Promise<SearchLoc[]>{
-  const digest=await crypto.subtle.digest("SHA-256",new TextEncoder().encode(query));
-  const shard=new Uint8Array(digest)[0].toString(16).padStart(2,"0");
-  const file=mode+"/"+(loose?"flexivel":"exato")+"/"+shard;
-  if(!meta.shards.includes(file))return [];
-  const index=await requiredJson("/interlinear-search/index/"+file+".json");
-  return index[query] || [];
+  const kind=loose?"flexivel":"exato";
+  const variants=mode==="glosa"?[...new Set([query,query.replaceAll("-"," "),query.replace(/\s+/gu,"-")])]:[query];
+  const groups=await Promise.all(variants.map(async variant=>{
+    const digest=await crypto.subtle.digest("SHA-256",new TextEncoder().encode(variant));
+    const shard=new Uint8Array(digest)[0].toString(16).padStart(2,"0");
+    const file=mode+"/"+kind+"/"+shard;
+    if(!meta.shards.includes(file))return [];
+    const index=await requiredJson("/interlinear-search/index/"+file+".json");
+    return (Object.hasOwn(index,variant)?index[variant]:[]) as SearchLoc[];
+  }));
+  const unique=new Map(groups.flat().map(location=>[location.join(":"),location]));
+  return [...unique.values()].sort((a,b)=>a[0]-b[0] || a[1]-b[1] || a[2]-b[2]);
 }
 async function goToOccurrence(b:string,ref:string,i:number){
   if (reading) { location.href="/interlinear-experimental/?livro="+encodeURIComponent(b)+"&ref="+encodeURIComponent(ref)+"&palavra="+i; return; }
@@ -508,7 +514,7 @@ searchForm.addEventListener("submit",async ev=>{
     searchStatus.textContent=locs.length+" ocorrências em "+distinctVerses+" versículos";
     let page=0, pageSerial=0;const pageSize=25;
     async function showPage(){const ps=++pageSerial;hits.replaceChildren();pagination.replaceChildren();const slice=locs.slice(page*pageSize,(page+1)*pageSize);const rows:HTMLElement[]=[];
-      for(const [b,v,i] of slice){const t=await tableFor(meta,b);if(id!==searchSerial||ps!==pageSerial)return;const row=t.rows[v][i];const btn=document.createElement("button");btn.type="button";btn.className="search-hit";btn.dataset.ref=meta.books[b]+" "+t.refs[v];btn.textContent=book.options[b].text+" "+t.refs[v]+" · "+row[0]+" · "+(row[3]||"sem glosa")+" · palavra "+(i+1);btn.onclick=()=>goToOccurrence(meta.books[b],t.refs[v],i);rows.push(btn);}
+      for(const [b,v,i] of slice){const t=await tableFor(meta,b);if(id!==searchSerial||ps!==pageSerial)return;const row=t.rows[v][i];const btn=document.createElement("button");btn.type="button";btn.className="search-hit";btn.dataset.ref=meta.books[b]+" "+t.refs[v];btn.textContent=book.options[b].text+" "+t.refs[v]+" · "+row[0]+" · "+(row[3]?.replaceAll("-"," ")||"sem glosa")+" · palavra "+(i+1);btn.onclick=()=>goToOccurrence(meta.books[b],t.refs[v],i);rows.push(btn);}
       if(id!==searchSerial||ps!==pageSerial)return;hits.replaceChildren(...rows);
       if(!locs.length)return;appendText(pagination,"span","Página "+(page+1)+" de "+Math.ceil(locs.length/pageSize));
       for(const [label,delta] of [["Anterior",-1],["Próxima",1]] as const){const btn=document.createElement("button");btn.type="button";btn.textContent=label;btn.disabled=page+delta<0||(page+delta)*pageSize>=locs.length;btn.onclick=()=>{page+=delta;showPage().catch(()=>{if(id===searchSerial)searchStatus.textContent="Falha ao carregar página.";});};pagination.append(btn);}
